@@ -183,7 +183,7 @@ export default function Home() {
             </button>
           </div>
         </div>
-        <nav id="mobile-navigation" className={`mobile-nav${menuOpen ? " is-open" : ""}`} aria-label="မိုဘိုင်း လမ်းညွှန်" aria-hidden={!menuOpen}>
+        <nav id="mobile-navigation" className={`mobile-nav${menuOpen ? " is-open" : ""}`} aria-label="မိုဘိုင်း လမ်းညွှန်" aria-hidden={!menuOpen} inert={!menuOpen}>
           <a href="#education" onClick={closeMenu}>ပညာရေးစာကြည့်တိုက် <ArrowUpRight size={16} /></a>
           <a href="#general" onClick={closeMenu}>အထွေထွေစာကြည့်တိုက် <ArrowUpRight size={16} /></a>
           <a href="#featured" onClick={closeMenu}>အထူးရွေးချယ်မှု <ArrowUpRight size={16} /></a>
