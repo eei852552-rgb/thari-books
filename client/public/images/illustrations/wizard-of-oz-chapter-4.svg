@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The road through the forest</title><desc id="desc">Dorothy and the Scarecrow walk along the yellow brick road beneath the tall trees of a deep forest.</desc>
+<defs><linearGradient id="forestSky" x2="0" y2="1"><stop stop-color="#294d48"/><stop offset="1" stop-color="#9bb58a"/></linearGradient><linearGradient id="forestRoad" x2="0" y2="1"><stop stop-color="#f5dc87"/><stop offset="1" stop-color="#bd9345"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#forestSky)"/>
+<path d="M0 0h1200v240Q900 180 600 235T0 220Z" fill="#203e3b"/>
+<g fill="#31584a"><path d="M0 0h170l-35 720H0Z"/><path d="M230 0h105l-10 720H200Z"/><path d="M970 0h120l80 720h-180Z"/><path d="M1110 0h90v720h-30Z"/></g>
+<g fill="#426b50" opacity=".9"><circle cx="80" cy="130" r="150"/><circle cx="250" cy="75" r="130"/><circle cx="460" cy="50" r="120"/><circle cx="760" cy="55" r="130"/><circle cx="990" cy="80" r="150"/><circle cx="1160" cy="120" r="145"/></g>
+<path d="M0 430Q300 350 600 430T1200 420V720H0Z" fill="#526f4e"/>
+<path d="M455 720Q540 560 600 470Q660 560 745 720Z" fill="url(#forestRoad)"/>
+<path d="M530 650h140M555 590h90M575 540h50M590 500h20" stroke="#fff0b4" stroke-width="12" opacity=".8"/>
+<g stroke="#4a382d" stroke-width="14" stroke-linecap="round" fill="none"><path d="M370 250v310M830 235v325M150 260v300M1050 260v300"/></g>
+<g fill="#d5c58c"><path d="M360 320q-50-35-85 0q42 28 85 0M380 360q45-42 78-12q-32 35-78 12M820 310q-48-32-80 0q38 30 80 0M850 355q45-40 78-10q-34 34-78 10"/></g>
+<!-- Dorothy -->
+<circle cx="515" cy="430" r="27" fill="#f0c99d"/><path d="M487 420q10-45 37-36q28 4 31 36q-32-18-68 0" fill="#d9a5a0"/>
+<path d="M492 460h48l18 110h-84Z" fill="#d9e5eb" stroke="#536b73" stroke-width="5"/><path d="M500 570l-7 62M535 570l8 62" stroke="#f0c99d" stroke-width="14" stroke-linecap="round"/><path d="M487 633h24M532 633h24" stroke="#73533f" stroke-width="12" stroke-linecap="round"/>
+<!-- Scarecrow -->
+<path d="M690 310v300" stroke="#5c4630" stroke-width="12"/><circle cx="690" cy="345" r="32" fill="#d5b77a" stroke="#5e4c36" stroke-width="5"/><path d="M657 335q33-35 66 0l-6 20h-54Z" fill="#4c6680"/><circle cx="679" cy="345" r="4" fill="#30485b"/><circle cx="701" cy="345" r="4" fill="#30485b"/><path d="M676 360q14 10 28 0" stroke="#8a6145" stroke-width="4" fill="none"/>
+<path d="M650 382h80l20 125H630Z" fill="#4f7190" stroke="#314d63" stroke-width="6"/><path d="M655 400l-60 65M725 400l58 65" stroke="#b49a64" stroke-width="17" stroke-linecap="round"/><path d="M665 505l-15 90M715 505l15 90" stroke="#4f7190" stroke-width="20"/><path d="M638 595h28M716 595h28" stroke="#453d35" stroke-width="16" stroke-linecap="round"/>
+<text x="70" y="105" fill="#f4e8c6" font-family="Georgia,serif" font-size="36">Into the quiet forest</text><text x="70" y="148" fill="#f4e8c6" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER IV · COMPLETE TRANSLATION</text>
+</svg>
