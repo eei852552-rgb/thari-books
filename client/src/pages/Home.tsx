@@ -6,10 +6,36 @@ import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejud
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
 
+function splitReaderPages(content: string, maxCharacters = 1900): string[] {
+  const paragraphs = content.split(/\\n\\s*\\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
+  const pages: string[] = [];
+  let currentPage: string[] = [];
+  let currentLength = 0;
+
+  for (const paragraph of paragraphs) {
+    const extraLength = paragraph.length + (currentPage.length ? 2 : 0);
+    if (currentPage.length && currentLength + extraLength > maxCharacters) {
+      pages.push(currentPage.join("\\n\\n"));
+      currentPage = [];
+      currentLength = 0;
+    }
+    currentPage.push(paragraph);
+    currentLength += paragraph.length + (currentPage.length > 1 ? 2 : 0);
+  }
+
+  if (currentPage.length) pages.push(currentPage.join("\\n\\n"));
+  return pages;
+}
+
 export default function Home() {
   const [query, setQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [selectedBook, setSelectedBook] = useState<(typeof openBooks)[number] | null>(null);
+  const [readerLanguage, setReaderLanguage] = useState<"my" | "en">("my");
+  const [readerPage, setReaderPage] = useState(0);
+  const activeChapter = prideAndPrejudiceChaptersMy[0];
+  const readerContent = readerLanguage === "my" ? activeChapter.content : activeChapter.contentEn;
+  const readerPages = useMemo(() => splitReaderPages(readerContent), [readerContent]);
   const normalizedQuery = query.normalize("NFC").trim().toLocaleLowerCase();
 
   const categories = openBookCategories.filter((category) =>
@@ -119,7 +145,7 @@ export default function Home() {
                 <div className="book-meta"><div><span className="book-category">{book.categoryMy} · အင်္ဂလိပ်ဘာသာ · {book.title}</span><h3>{book.titleMy}</h3></div><span className="book-demo-tag">FREE</span></div>
                 <p className="book-description">{book.descriptionMy}</p>
                 <div className="book-actions">
-                  <button className="read-button" type="button" onClick={() => setSelectedBook(book)}>{book.id === "pride-and-prejudice" ? "မြန်မာဘာသာပြန်အခန်းဖတ်ရန်" : "မြန်မာအကျဉ်းချုပ်ဖတ်ရန်"} <BookOpen size={16} /></button>
+                  <button className="read-button" type="button" onClick={() => { setSelectedBook(book); setReaderLanguage("my"); setReaderPage(0); }}>{book.id === "pride-and-prejudice" ? "မြန်မာဘာသာပြန်အခန်းဖတ်ရန်" : "မြန်မာအကျဉ်းချုပ်ဖတ်ရန်"} <BookOpen size={16} /></button>
                   <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">English မူရင်း <ArrowUpRight size={16} /></a>
                 </div>
               </article>
@@ -145,13 +171,23 @@ export default function Home() {
             <p className="dialog-subtitle">{selectedBook.title} · {selectedBook.author}</p>
             {selectedBook.id === "pride-and-prejudice" ? (
               <div className="reader-full-translation">
-                {prideAndPrejudiceChaptersMy.map((chapter) => (
-                  <section key={chapter.number}>
-                    <h3>{chapter.title} — အပြည့်အစုံဘာသာပြန်</h3>
-                    <p className="reader-chapter">{chapter.content}</p>
-                  </section>
-                ))}
-                <p className="reader-note">ဤစာအုပ်၏ အခန်း (၁) ကို အပြည့်အစုံ မြန်မာဘာသာပြန်ထားသည်။ ကျန်အခန်းများကိုလည်း အစဉ်လိုက် ထပ်မံဖြည့်သွင်းမည်။</p>
+                <div className="reader-language-switch" role="group" aria-label="စာဖတ်ဘာသာစကား ရွေးချယ်ရန်">
+                  <button type="button" className={readerLanguage === "my" ? "is-active" : ""} aria-pressed={readerLanguage === "my"} onClick={() => { setReaderLanguage("my"); setReaderPage(0); }}>မြန်မာ</button>
+                  <button type="button" className={readerLanguage === "en" ? "is-active" : ""} aria-pressed={readerLanguage === "en"} onClick={() => { setReaderLanguage("en"); setReaderPage(0); }}>English</button>
+                </div>
+                <section className="reader-page">
+                  <div className="reader-page-heading">
+                    <h3>{activeChapter.title}</h3>
+                    <span>Page {readerPage + 1} / {readerPages.length}</span>
+                  </div>
+                  <p className={"reader-chapter " + (readerLanguage === "en" ? "reader-chapter-en" : "")}>{readerPages[readerPage] ?? ""}</p>
+                </section>
+                <div className="reader-pagination">
+                  <button type="button" disabled={readerPage === 0} onClick={() => setReaderPage((page) => Math.max(0, page - 1))}>ယခင်စာမျက်နှာ</button>
+                  <span>{readerPage + 1} / {readerPages.length}</span>
+                  <button type="button" disabled={readerPage >= readerPages.length - 1} onClick={() => setReaderPage((page) => Math.min(readerPages.length - 1, page + 1))}>နောက်စာမျက်နှာ</button>
+                </div>
+                <p className="reader-note">{readerLanguage === "my" ? "မြန်မာဘာသာပြန် — အခန်း (၁)။ ကျန်အခန်းများကို ဆက်လက်ဖြည့်သွင်းနေဆဲဖြစ်သည်။" : "English original — Chapter I. Original text source: Project Gutenberg."}</p>
               </div>
             ) : (
               <>
