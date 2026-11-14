@@ -6,6 +6,7 @@
 export const wizardOfOzChapter2My = [
   {
     number: 2,
+    readingType: "summary",
     title: "အခန်း (၂) — မန်ချ်ကင်များနှင့် ဆွေးနွေးပွဲ",
     contentEn: `Dorothy was awakened by a sudden jolt. The house had stopped moving, and bright sunshine filled the room. She sprang from bed with Toto following and opened the door.
 
