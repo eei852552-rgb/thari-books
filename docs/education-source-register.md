@@ -27,15 +27,20 @@ Source: https://www.myanmarexam.org/news/23
 
 ### Grade 1
 
-The Department's KG+12 new-curriculum Grade 1 notice lists:
+The Department's Grade 1 new-curriculum notice surfaced in search results lists three core resources: Myanmar Reader, English and Mathematics. A separate official Department page specifically titled "KG+12 New Curriculum Textbooks (Grade 1)" lists six downloadable textbook subjects:
 
 - မြန်မာဖတ်စာ (Myanmar Reader)
 - အင်္ဂလိပ်စာ (English)
 - သင်္ချာ (Mathematics)
+- သိပ္ပံ (Science)
+- လူမှုရေး (Social Studies)
+- စာရိတ္တနှင့်ပြည်သူ့နီတိ (Moral and Civics)
 
-This is the currently confirmed subject/resource list from the official notice reviewed for this register. Other subject names found in older reposts or general school-supply lists are not added as confirmed on the basis of those sources alone.
+For the Grade 1 catalogue, use the six-item textbook page as the stronger resource-specific evidence, while preserving the discrepancy in the source notes. Confirm the current edition/year and reuse permissions before linking or publishing.
 
-Source: https://www.myanmarexam.org/news2679.html?page=1
+Sources:
+- Notice: https://www.myanmarexam.org/news2679.html?page=1
+- Resource-specific textbook page: https://myanmarexam.org/news/34
 
 ## Additional government-published primary-grade subject evidence
 
@@ -48,6 +53,19 @@ Important limitation: the page is a school-material support / provision list, no
 
 Source: https://presoffministry.gov.mm/my/news-social-education?page=6
 
+## Official Ministry of Education learning resources and recent curriculum signals
+
+The Ministry's official radio-lesson archive contains Grade 6 learning materials / introductions for Geography, Science, English and Mathematics, as well as other Grade 6 learning items. These pages show that subject-specific Grade 6 learning resources exist, but the archive is not a complete or necessarily current textbook syllabus. Treat it as resource discovery evidence, not a full subject list.
+
+Sources:
+- https://www.moe.gov.mm/my/radio-lessons
+- https://www.moe.gov.mm/en/content/%E1%80%95%E1%80%91%E1%80%9D%E1%80%AE%E1%80%9D%E1%80%84%E1%80%BA%E1%80%ဘာသာရပ်-%E1%80%9Eင်ရိုးမိတ်ဆက်-grade-6-0
+- https://moe.gov.mm/my/node/2465
+
+A Ministry of Education news item published in 2026 says curricula for industrial, agriculture and livestock subjects were being revised for teaching Grades 6–9 from the next June school-opening period. This is a policy-development signal, not proof that these subjects have already been implemented in every school or grade. Recheck the current implementation status and official syllabus before adding them to the catalogue.
+
+Source: https://moe.gov.mm/en/node/5400
+
 ## Discovery-only sources (not sufficient to confirm current subject lists)
 
 - Education for Myanmar's textbook and teacher-guide index lists grade pages from KG through Grade 12. Use it to discover possible resource files, then verify each item against an official source and rights conditions: https://edu4mm.com/text-books/
@@ -59,10 +77,12 @@ Source: https://presoffministry.gov.mm/my/news-social-education?page=6
 | Grade | Status | What is confirmed in this register |
 |---|---|---|
 | KG | source-found | KG-1 Language Guide, KG-2 Learning Guide, KG-3 Teacher Guide listed by the Department |
-| Grade 1 | source-found | Myanmar Reader, English, Mathematics listed by the Department |
+| Grade 1 | source-found | Official Grade 1 textbook page lists Myanmar Reader, English, Mathematics, Science, Social Studies, and Moral and Civics; another notice page surfaced only the first three, so edition/year should be checked |
 | Grades 2–3 | source-found (supporting evidence) | Government material-provision page lists Myanmar, English, Mathematics, Science, Social Studies, and Moral and Civics; verify against current syllabus |
 | Grades 4–5 | source-found (supporting evidence) | Same core subjects plus Life Skills, Physical Education, and Arts (Painting and Music) on the government material-provision page; verify against current syllabus |
-| Grades 6–12 | unverified | Do not publish subject lists as confirmed until current official grade-specific sources are checked |
+| Grade 6 | source-found (learning resources only) | Ministry radio archive has Grade 6 Geography, Science, English and Mathematics materials; not a complete current textbook list |
+| Grades 7–12 | unverified | Do not publish subject lists as confirmed until current official grade-specific sources are checked |
+| Grades 6–9 vocational subjects | policy signal only | 2026 Ministry report says industrial, agriculture and livestock curricula were being revised; implementation and grade-level details remain to be confirmed |
 
 "Source-found" means a source page was found; it does not by itself confirm the current academic-year syllabus or grant redistribution rights.
 
@@ -80,7 +100,7 @@ Before showing a resource as available:
 
 ## Next research sequence
 
-1. Locate official grade-specific source pages for Grades 2–5.
-2. Then verify Grades 6–9.
-3. Then verify Grades 10–12, including subject-stream distinctions where applicable.
+1. Locate official grade-specific textbook pages for Grades 2–5 and check publication / curriculum years.
+2. Locate complete current subject and textbook lists for Grades 6–9, including the status of vocational subjects.
+3. Verify Grades 10–12 and their subject-stream distinctions.
 4. Only after that, build the public subject catalog and attach permitted resources.
