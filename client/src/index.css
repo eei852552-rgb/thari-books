@@ -246,7 +246,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 .footer-dot { width: 5px; height: 5px; }
 
 .modal-backdrop { position: fixed; z-index: 60; inset: 0; display: grid; place-items: center; padding: 18px; background: rgba(9,19,33,.68); backdrop-filter: blur(4px); }
-.demo-dialog { position: relative; width: min(100%, 445px); padding: 30px; border-top: 3px solid var(--gold); color: var(--ink); background: var(--paper); box-shadow: 0 20px 60px rgba(0,0,0,.22); }
+.demo-dialog { position: relative; width: min(100%, 445px); max-height: calc(100dvh - 36px); overflow-y: auto; overscroll-behavior: contain; padding: 30px; border-top: 3px solid var(--gold); color: var(--ink); background: var(--paper); box-shadow: 0 20px 60px rgba(0,0,0,.22); }
 .dialog-close { position: absolute; top: 12px; right: 12px; display: grid; width: 34px; height: 34px; place-items: center; border: 1px solid var(--line); background: #fff; cursor: pointer; }
 .demo-dialog h2 { margin: 22px 0 4px; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 21px; line-height: 1.8; }
 .dialog-subtitle { margin: 0 0 16px !important; color: #8c7440 !important; font-family: 'Inter', sans-serif !important; font-size: 10px !important; }
