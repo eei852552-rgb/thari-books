@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The travelers cross the forest gap</title>
+<desc id="desc">Dorothy, Toto, the Scarecrow, the Tin Woodman and the Lion gather beside a broad forest gap crossed by a fallen tree.</desc>
+<defs><linearGradient id="s" x2="0" y2="1"><stop stop-color="#a9d2ca"/><stop offset="1" stop-color="#f2dfb6"/></linearGradient><linearGradient id="g" x2="0" y2="1"><stop stop-color="#78946c"/><stop offset="1" stop-color="#405d48"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#s)"/><circle cx="1000" cy="110" r="58" fill="#f8dc92"/>
+<path d="M0 390Q220 330 450 395T850 390T1200 405V720H0Z" fill="url(#g)"/>
+<path d="M0 560Q300 500 520 565T900 550T1200 560V720H0Z" fill="#4e684e"/>
+<!-- ravine -->
+<path d="M390 510L520 720H840L960 510Q700 560 390 510Z" fill="#5c5b52"/>
+<path d="M470 520L835 520" stroke="#866b4b" stroke-width="35" stroke-linecap="round"/>
+<path d="M470 505L835 505" stroke="#b58b58" stroke-width="13" stroke-linecap="round"/>
+<!-- distant forest -->
+<g fill="#426b50"><circle cx="75" cy="150" r="150"/><circle cx="245" cy="110" r="125"/><circle cx="1090" cy="150" r="170"/><circle cx="900" cy="90" r="115"/></g>
+<!-- Dorothy -->
+<circle cx="235" cy="420" r="27" fill="#f0c99d"/><path d="M208 410q8-40 33-35q27 4 31 35" fill="#d6a2a0"/><path d="M210 455h52l16 110h-84Z" fill="#dbe7ed" stroke="#596f7b" stroke-width="5"/><path d="M224 565l-7 54M248 565l8 54" stroke="#f0c99d" stroke-width="14"/><path d="M210 620h28M246 620h28" stroke="#76533e" stroke-width="12"/>
+<!-- Toto -->
+<ellipse cx="300" cy="585" rx="29" ry="17" fill="#282a2b"/><circle cx="321" cy="572" r="15" fill="#282a2b"/><path d="M325 558l9-14 7 19" fill="#282a2b"/>
+<!-- Scarecrow -->
+<circle cx="400" cy="425" r="27" fill="#d5bb84"/><path d="M374 416q26-30 52 0" fill="#526b83"/><path d="M370 460h60l14 100h-88Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- Tin Woodman -->
+<circle cx="535" cy="415" r="31" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M500 455h70l16 110h-102Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<!-- Lion -->
+<circle cx="720" cy="405" r="86" fill="#b97d42" stroke="#70452b" stroke-width="7"/><circle cx="720" cy="405" r="57" fill="#e7b66d" stroke="#9a683b" stroke-width="5"/><circle cx="700" cy="395" r="6" fill="#3b342e"/><circle cx="740" cy="395" r="6" fill="#3b342e"/><path d="M710 420q10 10 20 0" fill="none" stroke="#75503a" stroke-width="4"/>
+<text x="70" y="100" fill="#315b55" font-family="Georgia,serif" font-size="36">The road through the great forest</text><text x="70" y="145" fill="#315b55" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER VII · COMPLETE TRANSLATION</text>
+</svg>
