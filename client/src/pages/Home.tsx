@@ -296,7 +296,8 @@ export default function Home() {
                             : "ဒီအတန်းအတွက် ယုံကြည်စိတ်ချရသော လက်ရှိဘာသာရပ်စာရင်းကို မအတည်ပြုရသေးပါ။ အတည်ပြုမပြီးမချင်း စာအုပ်အကြောင်းအရာ သို့မဟုတ် ဒေါင်းလုဒ်လင့်ခ်ကို မဖော်ပြပါ။",
                           subjects,
                           resources: learningResources.filter((resource) =>
-                            subjects.some((subject) => subject.id === resource.subjectId) &&
+                            (resource.gradeId === gradeId ||
+                              (resource.subjectId && subjects.some((subject) => subject.id === resource.subjectId))) &&
                             resource.reviewStatus === "approved" &&
                             resource.visibility === "public"
                           ),
