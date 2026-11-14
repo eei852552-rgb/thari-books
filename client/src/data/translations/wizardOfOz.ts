@@ -8,6 +8,7 @@ export const wizardOfOzChaptersMy = [
   {
     number: 1,
     title: "အခန်း (၁) — ဆိုင်ကလုန်းမုန်တိုင်း",
+    titleEn: "Chapter I — The Cyclone",
     illustration: {
       src: "images/illustrations/wizard-of-oz-chapter-1.svg",
       altMy: "ဒေါ်ရသီ၏အိမ်ကို လေဝဲမုန်တိုင်းက လေထဲသို့ သယ်ဆောင်သွားသည့် သရုပ်ဖော်ပုံ",
