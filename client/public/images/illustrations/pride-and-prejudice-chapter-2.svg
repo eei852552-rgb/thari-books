@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Mr Bennet reveals his visit</title>
+<desc id="desc">The Bennet family gathers in their drawing room as Mr Bennet reveals that he has visited their new neighbour, Mr Bingley.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#e8d8bd"/><stop offset="1" stop-color="#c8b18f"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="70" y="90" width="230" height="290" fill="#a5b9b2" stroke="#806d55" stroke-width="12"/><path d="M185 90v290M70 235h230" stroke="#e8e0cf" stroke-width="9"/>
+<rect x="890" y="100" width="230" height="280" fill="#a5b9b2" stroke="#806d55" stroke-width="12"/><path d="M1005 100v280M890 240h230" stroke="#e8e0cf" stroke-width="9"/>
+<rect x="380" y="450" width="440" height="160" rx="20" fill="#8a6047"/><rect x="420" y="410" width="360" height="80" rx="18" fill="#a97d5c"/>
+<!-- Mr Bennet -->
+<circle cx="475" cy="275" r="42" fill="#e4c2a1"/><path d="M435 260q12-55 48-50q37 5 42 50" fill="#665849"/><path d="M420 330h110l35 150H385Z" fill="#38495a" stroke="#273544" stroke-width="7"/><path d="M440 350l35 60 35-60" fill="#e8dfd1"/>
+<!-- Mrs Bennet -->
+<circle cx="700" cy="280" r="39" fill="#e8c6a7"/><path d="M660 270q10-50 42-48q32 4 38 48" fill="#8c5d4d"/><path d="M650 330h100l30 140H620Z" fill="#9d5862" stroke="#6f3c49" stroke-width="7"/>
+<!-- Elizabeth -->
+<circle cx="900" cy="330" r="35" fill="#e8c6a7"/><path d="M865 320q8-48 38-45q29 4 34 45" fill="#6d4938"/><path d="M860 370h80l28 125h-136Z" fill="#7c9b8d" stroke="#4c6b60" stroke-width="7"/>
+<!-- hat in hands -->
+<path d="M830 455q70-55 130 0l-15 18h-100Z" fill="#c9a46c" stroke="#775d3c" stroke-width="6"/>
+<text x="70" y="60" fill="#65523e" font-family="Georgia,serif" font-size="34">A surprising visit to Netherfield</text><text x="70" y="690" fill="#65523e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER II</text>
+</svg>
