@@ -11,6 +11,13 @@ export const wizardOfOzChapter20My = [
     readingType: "translation",
     title: "အခန်း (၂၀) — နူးညံ့လှပသော ကြွေထည်နိုင်ငံ",
     titleEn: "Chapter XX — The Dainty China Country",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-20.svg",
+      altMy: "ဒေါ်ရသီနှင့် မိတ်ဆွေများက အဖြူရောင်ကြွေထည်တံတိုင်းအပေါ်မှ ရောင်စုံကြွေထည်အိမ်များရှိသော နိုင်ငံကို ကြည့်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and her companions looking over a white wall into the colorful Dainty China Country",
+      captionMy: "အခန်း (၂၀) — ကြွေထည်နိုင်ငံသို့ ဝင်ရောက်ခြင်း",
+      captionEn: "Chapter XX — Entering the China Country",
+    },
     contentEn: `While the Tin Woodman was preparing a ladder from wood he had found in the forest, Dorothy lay down and slept because she was tired from the long walk. The Lion also curled up to sleep, and Toto lay beside him.
 
 The Scarecrow watched the Woodman as he worked and said, “I cannot imagine why this wall is here or what it is made of.”
