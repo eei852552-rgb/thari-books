@@ -23,6 +23,7 @@ import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejud
 import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
 import { wizardOfOzChapter3My } from "../data/translations/wizardOfOzChapter3";
+import { wizardOfOzChapter4My } from "../data/translations/wizardOfOzChapter4";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
@@ -30,7 +31,7 @@ const readingProgressKey = "thari-books:last-reading";
 
 const readerChaptersByBookId = {
   "pride-and-prejudice": prideAndPrejudiceChaptersMy,
-  "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapter3My],
+  "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapter3My, ...wizardOfOzChapter4My],
 } as const;
 
 type ReaderChapter = {
