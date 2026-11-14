@@ -155,3 +155,23 @@ Before showing a resource as available:
 2. Locate current complete subject and textbook lists for Grades 6–9; historical Grade 6 textbook evidence and radio lessons are not enough.
 3. Verify Grades 10–12 and their subject-stream distinctions, especially Grade 11–12 streams.
 4. Only after that, build the public subject catalog and attach permitted resources.
+
+
+## Curriculum portal discovery — 2026-11-14
+
+The Ministry of Education's official curriculum index currently exposes new-curriculum Grade 10 subject pages. Search-indexed entries include Economics, Biology, History, Geography, Physics, Chemistry, Mathematics, English, Myanmar and optional Myanmar. Each individual page and its current version must still be opened and checked before marking a subject verified-current. The same index contains Grade 11 entries explicitly labelled old curriculum; keep those separate from the KG+12 new-curriculum catalogue.
+
+Sources:
+- https://moe.gov.mm/curriculum
+- https://www.moe.gov.mm/my/curriculum
+- https://www.moe.gov.mm/?page=1&q=curriculum
+
+The Ministry radio archive includes individual Grade 3 Science and Mathematics, Grade 4 Social Studies, and Grade 6 Geography, Science and Mathematics lessons. These are lesson-level resources, not full subject lists: https://www.moe.gov.mm/my/radio-lessons
+
+A Ministry item about Grade 11 new-curriculum teacher training describes historical rollout milestones for Grades 8, 11, 9 and 12. Treat this as rollout history, not proof of the current Grade 11/12 textbook inventory: https://www.moe.gov.mm/my/node/4063
+
+### Catalog decision
+
+- Do not infer a complete subject list from search snippets or isolated lesson pages.
+- Keep Grade 10 new-curriculum pages distinct from Grade 11 entries labelled old curriculum.
+- Record the exact official page, publication/version date, resource type and rights status before public display.
