@@ -43,6 +43,7 @@ import { wizardOfOzChapter20My } from "../data/translations/wizardOfOzChapter20"
 import { wizardOfOzChapter21My } from "../data/translations/wizardOfOzChapter21";
 import { wizardOfOzChapter22My } from "../data/translations/wizardOfOzChapter22";
 import { wizardOfOzChapter23My } from "../data/translations/wizardOfOzChapter23";
+import { wizardOfOzChapter24My } from "../data/translations/wizardOfOzChapter24";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
@@ -50,7 +51,7 @@ const readingProgressKey = "thari-books:last-reading";
 
 const readerChaptersByBookId = {
   "pride-and-prejudice": prideAndPrejudiceChaptersMy,
-  "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapter3My, ...wizardOfOzChapter4My, ...wizardOfOzChapter5My, ...wizardOfOzChapter6My, ...wizardOfOzChapter7My, ...wizardOfOzChapter8My, ...wizardOfOzChapter9My, ...wizardOfOzChapter10My, ...wizardOfOzChapter11My, ...wizardOfOzChapter12My, ...wizardOfOzChapter13My, ...wizardOfOzChapter14My, ...wizardOfOzChapter15My, ...wizardOfOzChapter16My, ...wizardOfOzChapter17My, ...wizardOfOzChapter18My, ...wizardOfOzChapter19My, ...wizardOfOzChapter20My, ...wizardOfOzChapter21My, ...wizardOfOzChapter22My, ...wizardOfOzChapter23My],
+  "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapter3My, ...wizardOfOzChapter4My, ...wizardOfOzChapter5My, ...wizardOfOzChapter6My, ...wizardOfOzChapter7My, ...wizardOfOzChapter8My, ...wizardOfOzChapter9My, ...wizardOfOzChapter10My, ...wizardOfOzChapter11My, ...wizardOfOzChapter12My, ...wizardOfOzChapter13My, ...wizardOfOzChapter14My, ...wizardOfOzChapter15My, ...wizardOfOzChapter16My, ...wizardOfOzChapter17My, ...wizardOfOzChapter18My, ...wizardOfOzChapter19My, ...wizardOfOzChapter20My, ...wizardOfOzChapter21My, ...wizardOfOzChapter22My, ...wizardOfOzChapter23My, ...wizardOfOzChapter24My],
 } as const;
 
 type ReaderChapter = {
