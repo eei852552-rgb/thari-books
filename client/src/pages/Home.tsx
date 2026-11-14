@@ -114,7 +114,7 @@ export default function Home() {
                   <div className="cover-title">{book.titleMy}</div>
                   <div className="cover-bottomline"><span>{book.author}</span><span className="cover-seal">T</span></div>
                 </div>
-                <div className="book-meta"><div><span className="book-category">{book.categoryMy} · {book.title}</span><h3>{book.titleMy}</h3></div><span className="book-demo-tag">FREE</span></div>
+                <div className="book-meta"><div><span className="book-category">{book.categoryMy} · အင်္ဂလိပ်ဘာသာ · {book.title}</span><h3>{book.titleMy}</h3></div><span className="book-demo-tag">FREE</span></div>
                 <p className="book-description">{book.descriptionMy}</p>
                 <a className="read-button" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">မူရင်းမှာ အခမဲ့ဖတ်ရန် <ArrowUpRight size={16} /></a>
               </article>
