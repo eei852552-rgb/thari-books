@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Country of the Quadlings</title>
+<desc id="desc">Dorothy and her friends arrive in the friendly red country of the Quadlings, with a red-stone palace visible beyond flower gardens.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8d9d9"/><stop offset="1" stop-color="#f1dfb7"/></linearGradient><linearGradient id="red" x2="0" y2="1"><stop stop-color="#d66f62"/><stop offset="1" stop-color="#9c443e"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 440Q240 360 500 440T950 420T1200 440V720H0Z" fill="#82a36b"/>
+<!-- red palace -->
+<path d="M780 430V235H1110V430Z" fill="url(#red)" stroke="#8a3f3a" stroke-width="10"/><path d="M750 235l80-95 80 95M940 235l80-95 80 95" fill="#b85b50" stroke="#8a3f3a" stroke-width="9"/><path d="M890 430V320q45-65 90 0v110Z" fill="#5a3534" stroke="#efb4a2" stroke-width="8"/>
+<!-- gardens -->
+<g fill="#e9a1a0"><circle cx="150" cy="520" r="22"/><circle cx="210" cy="580" r="20"/><circle cx="300" cy="510" r="24"/><circle cx="420" cy="585" r="20"/><circle cx="580" cy="525" r="22"/><circle cx="680" cy="590" r="20"/></g><g fill="#f4d28c"><circle cx="150" cy="520" r="7"/><circle cx="210" cy="580" r="7"/><circle cx="300" cy="510" r="7"/><circle cx="420" cy="585" r="7"/><circle cx="580" cy="525" r="7"/><circle cx="680" cy="590" r="7"/></g>
+<!-- Dorothy -->
+<circle cx="300" cy="410" r="27" fill="#f0c99d"/><path d="M273 400q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M275 455h55l18 120h-91Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/>
+<!-- Scarecrow -->
+<circle cx="430" cy="405" r="25" fill="#d5bb84"/><path d="M405 396q25-29 50 0" fill="#526b83"/><path d="M400 445h60l16 110h-92Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- Tin Woodman -->
+<circle cx="560" cy="405" r="28" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M528 445h64l18 110h-100Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<!-- Lion -->
+<circle cx="700" cy="430" r="60" fill="#b97d42" stroke="#70452b" stroke-width="6"/><circle cx="700" cy="430" r="40" fill="#e7b66d" stroke="#9a683b" stroke-width="4"/>
+<text x="70" y="90" fill="#7b4540" font-family="Georgia,serif" font-size="36">Welcome to the red country</text><text x="70" y="135" fill="#7b4540" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XXII · COMPLETE TRANSLATION</text>
+</svg>
