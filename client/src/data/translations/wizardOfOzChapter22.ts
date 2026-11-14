@@ -11,6 +11,13 @@ export const wizardOfOzChapter22My = [
     readingType: "translation",
     title: "အခန်း (၂၂) — ကွဒ်လင်တို့၏ နယ်မြေ",
     titleEn: "Chapter XXII — The Country of the Quadlings",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-22.svg",
+      altMy: "ဒေါ်ရသီနှင့် မိတ်ဆွေများက အနီရောင်အိမ်များနှင့် ဂလင်ဒါ၏ နန်းတော်ရှိသော ကွဒ်လင်နယ်မြေသို့ ရောက်လာသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and her companions arriving in the red country of the Quadlings",
+      captionMy: "အခန်း (၂၂) — ကွဒ်လင်တို့၏ နယ်မြေသို့ ရောက်ရှိခြင်း",
+      captionEn: "Chapter XXII — Arriving in the Quadlings' country",
+    },
     contentEn: `The next morning they said good-bye to the forest and continued south. The journey was pleasant at first, for the land was beautiful and the weather was fine. But as they went farther, the country became rougher and more difficult to cross.
 
 The travelers came to a deep valley surrounded by high hills. They followed the road down into the valley and then began climbing the hill on the other side. The path was narrow and winding.
