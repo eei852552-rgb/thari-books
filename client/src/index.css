@@ -158,7 +158,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 .grade-count { margin-left: auto; color: #aaa394; font-family: 'Inter', sans-serif; font-size: 9px; }
 .grade-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
 .grade-list.single-grade { grid-template-columns: 1fr; }
-.grade-card { display: flex; min-height: 34px; align-items: center; justify-content: space-between; gap: 3px; padding: 0 8px; border: 1px solid #eeeae2; color: #536071; background: #fdfcf9; font-family: 'Inter', sans-serif; font-size: 9px; transition: border-color .15s, color .15s, background .15s; }
+.grade-card { width: 100%; cursor: pointer; text-align: left; font: inherit; display: flex; min-height: 34px; align-items: center; justify-content: space-between; gap: 3px; padding: 0 8px; border: 1px solid #eeeae2; color: #536071; background: #fdfcf9; font-family: 'Inter', sans-serif; font-size: 9px; transition: border-color .15s, color .15s, background .15s; }
 .grade-card:hover { border-color: var(--gold); color: var(--navy); background: #fbf7ec; }
 .grade-card svg { flex: 0 0 auto; color: #c09e55; }
 .grade-group-foot { margin: 15px 0 0; padding-top: 8px; border-top: 1px solid #f0ede7; color: #96999c; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 8px; }
