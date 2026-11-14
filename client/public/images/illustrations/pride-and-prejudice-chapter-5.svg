@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Lucas family visits Longbourn</title>
+<desc id="desc">The Bennet and Lucas families sit together in a drawing room, discussing the recent assembly and their new neighbours.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eadcc6"/><stop offset="1" stop-color="#c7b18e"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="90" y="90" width="220" height="280" fill="#a6bdb6" stroke="#806d55" stroke-width="11"/><path d="M200 90v280M90 230h220" stroke="#f0e7d6" stroke-width="8"/>
+<rect x="390" y="450" width="500" height="130" rx="18" fill="#8a6047"/><rect x="430" y="410" width="420" height="80" rx="18" fill="#a97d5c"/>
+<!-- Sir William -->
+<circle cx="470" cy="300" r="34" fill="#e4c2a1"/><path d="M437 290q10-48 40-44q30 5 34 44" fill="#71604d"/><path d="M430 350h80l25 140H405Z" fill="#405a68" stroke="#293d4a" stroke-width="6"/>
+<!-- Mrs Bennet -->
+<circle cx="650" cy="300" r="34" fill="#e8c6a7"/><path d="M617 290q8-48 37-44q30 4 33 44" fill="#8c5d4d"/><path d="M610 350h80l25 140H585Z" fill="#9d5862" stroke="#6f3c49" stroke-width="6"/>
+<!-- Charlotte -->
+<circle cx="830" cy="300" r="34" fill="#e8c6a7"/><path d="M797 290q8-48 37-44q30 4 33 44" fill="#74523f"/><path d="M790 350h80l25 140H765Z" fill="#7d9b89" stroke="#4e6c5f" stroke-width="6"/>
+<text x="70" y="60" fill="#65513e" font-family="Georgia,serif" font-size="34">A visit from the Lucas family</text><text x="70" y="690" fill="#65513e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER V</text>
+</svg>
