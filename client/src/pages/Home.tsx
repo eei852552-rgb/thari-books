@@ -253,10 +253,19 @@ export default function Home() {
                 </div>
                 <div className={`grade-list${group.grades.length === 1 ? " single-grade" : ""}`}>
                   {group.grades.map((grade) => (
-                    <a className="grade-card" href="#featured" key={grade} aria-label={`${grade} နမူနာအကြောင်းအရာများကို ကြည့်ရန်`}>
+                    <button
+                      className="grade-card"
+                      type="button"
+                      key={grade}
+                      aria-label={`${grade} စာကြည့်တိုက်အခြေအနေကို ကြည့်ရန်`}
+                      onClick={() => setSiteNotice({
+                        title: `${grade} — ပညာရေးစာကြည့်တိုက်`,
+                        description: "ဒီအတန်းအတွက် စိစစ်အတည်ပြုပြီးသော ဘာသာရပ်နှင့် စာအုပ်စာရင်းကို ပြင်ဆင်နေဆဲဖြစ်ပါတယ်။ စာအုပ်အကြောင်းအရာ မရှိသေးဘဲ Demo စာအုပ်များကို အမှန်တကယ်စာအုပ်အဖြစ် မပြသပါ။",
+                      })}
+                    >
                       <span>{grade === "KG" ? "KG" : grade.replace("Grade ", "G")}</span>
                       <ArrowUpRight size={14} aria-hidden="true" />
-                    </a>
+                    </button>
                   ))}
                 </div>
                 <p className="grade-group-foot">{group.grades.length === 1 ? "စတင်လေ့လာရန်" : `${group.grades[0]} — ${group.grades[group.grades.length - 1]}`}</p>
