@@ -37,6 +37,17 @@ This is the currently confirmed subject/resource list from the official notice r
 
 Source: https://www.myanmarexam.org/news2679.html?page=1
 
+## Additional government-published primary-grade subject evidence
+
+A government social-education information page published by the President's Office site lists school materials provided for Grades 1–5. Its listed learning subjects include:
+
+- Grades 1–3: Myanmar, English, Mathematics, Science, Social Studies, and Moral and Civics.
+- Grades 4–5: the above subjects plus Life Skills, Physical Education, and Arts (Painting and Music).
+
+Important limitation: the page is a school-material support / provision list, not a grade-by-grade current curriculum syllabus or a complete official textbook catalogue. It is useful corroborating evidence for subject families in primary grades, but THARi BOOKS must still verify exact subject titles, grade applicability, textbook availability, and academic-year version against current Ministry of Education publications before marking individual subject records as verified-current.
+
+Source: https://presoffministry.gov.mm/my/news-social-education?page=6
+
 ## Discovery-only sources (not sufficient to confirm current subject lists)
 
 - Education for Myanmar's textbook and teacher-guide index lists grade pages from KG through Grade 12. Use it to discover possible resource files, then verify each item against an official source and rights conditions: https://edu4mm.com/text-books/
@@ -49,7 +60,9 @@ Source: https://www.myanmarexam.org/news2679.html?page=1
 |---|---|---|
 | KG | source-found | KG-1 Language Guide, KG-2 Learning Guide, KG-3 Teacher Guide listed by the Department |
 | Grade 1 | source-found | Myanmar Reader, English, Mathematics listed by the Department |
-| Grades 2–12 | unverified | Do not publish subject lists as confirmed until current official grade-specific sources are checked |
+| Grades 2–3 | source-found (supporting evidence) | Government material-provision page lists Myanmar, English, Mathematics, Science, Social Studies, and Moral and Civics; verify against current syllabus |
+| Grades 4–5 | source-found (supporting evidence) | Same core subjects plus Life Skills, Physical Education, and Arts (Painting and Music) on the government material-provision page; verify against current syllabus |
+| Grades 6–12 | unverified | Do not publish subject lists as confirmed until current official grade-specific sources are checked |
 
 "Source-found" means a source page was found; it does not by itself confirm the current academic-year syllabus or grant redistribution rights.
 
