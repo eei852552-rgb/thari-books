@@ -205,6 +205,7 @@ export default function Home() {
                 <p className="reader-note">{selectedBook.readingNoteMy}</p>
               </>
             )}
+            <p className="reader-note">{selectedBook.rightsNote}</p>
             <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">English မူရင်းစာအုပ် ဖတ်ရန် <ArrowUpRight size={16} /></a>
           </section>
         </div>
