@@ -56,7 +56,8 @@ export interface SubjectRecord {
 
 export interface ResourceRecord {
   id: string;
-  subjectId: string;
+  gradeId?: string;
+  subjectId?: string;
   titleMy: string;
   titleEn?: string;
   resourceType: ResourceType;
@@ -316,6 +317,51 @@ export const educationSubjects: readonly SubjectRecord[] = [
 
 
 export const learningResources: readonly ResourceRecord[] = [
+  {
+    id: "kg1-language-guide",
+    gradeId: "kg",
+    titleMy: "KG-1 ဘာသာစကားလမ်းညွှန်",
+    titleEn: "KG-1 Language Guide",
+    resourceType: "teacher_guide_link",
+    authorOrPublisher: "Department of Myanmar Examinations, Ministry of Education",
+    sourceUrl: "https://www.myanmarexam.org/news/23",
+    editionOrDate: null,
+    rightsStatus: "link_only",
+    licenseNote: "Official DME index page only. The direct PDF endpoint returned a gateway error during checking; do not mirror or redistribute the PDF.",
+    reviewStatus: "approved",
+    reviewedAt: "2026-11-14",
+    visibility: "public",
+  },
+  {
+    id: "kg2-learning-guide",
+    gradeId: "kg",
+    titleMy: "KG-2 သင်ယူမှုလမ်းညွှန်",
+    titleEn: "KG-2 Learning Guide",
+    resourceType: "teacher_guide_link",
+    authorOrPublisher: "Department of Myanmar Examinations, Ministry of Education",
+    sourceUrl: "https://www.myanmarexam.org/news/23",
+    editionOrDate: null,
+    rightsStatus: "link_only",
+    licenseNote: "Official DME index page only. The direct PDF endpoint returned a gateway error during checking; do not mirror or redistribute the PDF.",
+    reviewStatus: "approved",
+    reviewedAt: "2026-11-14",
+    visibility: "public",
+  },
+  {
+    id: "kg3-teacher-guide",
+    gradeId: "kg",
+    titleMy: "KG-3 ဆရာလမ်းညွှန်",
+    titleEn: "KG-3 Teacher Guide",
+    resourceType: "teacher_guide_link",
+    authorOrPublisher: "Department of Myanmar Examinations, Ministry of Education",
+    sourceUrl: "https://www.myanmarexam.org/news/23",
+    editionOrDate: null,
+    rightsStatus: "link_only",
+    licenseNote: "Official DME index page only. The direct PDF endpoint returned a gateway error during checking; do not mirror or redistribute the PDF.",
+    reviewStatus: "approved",
+    reviewedAt: "2026-11-14",
+    visibility: "public",
+  },
   {
     id: "g3-science-radio-floating-sinking",
     subjectId: "g3-science",
