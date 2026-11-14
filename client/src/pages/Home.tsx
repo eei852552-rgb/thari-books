@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState, type KeyboardEvent as ReactKeyboardEvent } from "react";
+import { educationGrades, educationSubjects } from "../data/catalog";
 import {
   ArrowDown,
   ArrowRight,
@@ -40,6 +41,7 @@ type DemoBook = {
 type SiteNotice = {
   title: string;
   description: string;
+  subjects?: typeof educationSubjects;
 };
 
 function keepDialogFocus(event: ReactKeyboardEvent<HTMLElement>) {
@@ -282,10 +284,18 @@ export default function Home() {
                       type="button"
                       key={grade}
                       aria-label={`${grade} စာကြည့်တိုက်အခြေအနေကို ကြည့်ရန်`}
-                      onClick={() => setSiteNotice({
-                        title: `${grade} — ပညာရေးစာကြည့်တိုက်`,
-                        description: "ဒီအတန်းအတွက် စိစစ်အတည်ပြုပြီးသော ဘာသာရပ်နှင့် စာအုပ်စာရင်းကို ပြင်ဆင်နေဆဲဖြစ်ပါတယ်။ စာအုပ်အကြောင်းအရာ မရှိသေးဘဲ Demo စာအုပ်များကို အမှန်တကယ်စာအုပ်အဖြစ် မပြသပါ။",
-                      })}
+                      onClick={() => {
+                        const gradeId = grade === "KG" ? "kg" : grade.toLowerCase().replace("grade ", "g");
+                        const gradeRecord = educationGrades.find((item) => item.id === gradeId);
+                        const subjects = educationSubjects.filter((item) => item.gradeId === gradeId);
+                        setSiteNotice({
+                          title: `${grade} — ပညာရေးစာကြည့်တိုက်`,
+                          description: subjects.length
+                            ? "အောက်ပါဘာသာရပ်အမည်များကို ရင်းမြစ်တွင် တွေ့ရှိထားသော်လည်း လက်ရှိသင်ရိုးနှင့် ထုတ်ဝေခွင့်ကို အပြည့်အဝ အတည်မပြုရသေးပါ။"
+                            : "ဒီအတန်းအတွက် ယုံကြည်စိတ်ချရသော လက်ရှိဘာသာရပ်စာရင်းကို မအတည်ပြုရသေးပါ။ အတည်ပြုမပြီးမချင်း စာအုပ်အကြောင်းအရာ သို့မဟုတ် ဒေါင်းလုဒ်လင့်ခ်ကို မဖော်ပြပါ။",
+                          subjects,
+                        });
+                      }}
                     >
                       <span>{grade === "KG" ? "KG" : grade.replace("Grade ", "G")}</span>
                       <ArrowUpRight size={14} aria-hidden="true" />
@@ -397,6 +407,17 @@ export default function Home() {
             <span className="eyebrow eyebrow-dark">THARi BOOKS · အချက်အလက်</span>
             <h2 id="site-notice-title">{siteNotice.title}</h2>
             <p id="site-notice-description">{siteNotice.description}</p>
+            {siteNotice.subjects && siteNotice.subjects.length > 0 && (
+              <div className="subject-list" aria-label="ရင်းမြစ်တွင် တွေ့ရှိထားသော ဘာသာရပ်များ">
+                {siteNotice.subjects.map((subject) => (
+                  <div className="subject-row" key={subject.id}>
+                    <span><strong>{subject.nameMy}</strong>{subject.nameEn && <small>{subject.nameEn}</small>}</span>
+                    <span className="subject-status">ရင်းမြစ်တွေ့ရှိ</span>
+                  </div>
+                ))}
+                <p className="subject-caution">ဤစာရင်းသည် စာအုပ်ဖတ်ရန် သို့မဟုတ် ဒေါင်းလုဒ်ရယူရန် လင့်ခ်မဟုတ်ပါ။ Grade 1 ရင်းမြစ်လင့်ခ်မှာ လက်ရှိဖွင့်မရသေးပြီး Grade 10 ရင်းမြစ်များမှာ 2020–2021 မှတ်တမ်းများဖြစ်သည်။</p>
+              </div>
+            )}
             <button className="button-primary dialog-done" type="button" onClick={() => setSiteNotice(null)}>နားလည်ပါပြီ <Check size={16} /></button>
           </section>
         </div>
