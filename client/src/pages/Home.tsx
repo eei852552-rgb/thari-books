@@ -79,6 +79,7 @@ const copy = {
     filteredBooks: "ရွေးချယ်ထားသော အမျိုးအစားမှ စာအုပ်များ",
     allBooksIntro: "မူရင်းစာကြည့်တိုက်များတွင် အခမဲ့ဖတ်ရှုနိုင်သော ဂန္ထဝင်စာအုပ်များ။",
     readInThari: "THARi reader ဖြင့် ဖတ်ရန်",
+    readOverview: "စာအုပ်အကျဉ်းချုပ် ဖတ်ရန်",
     originalEnglish: "English မူရင်း",
     freeLabel: "FREE",
     noResults: "ရှာဖွေမှုနှင့် ကိုက်ညီသော စာအုပ်မတွေ့ပါ။",
@@ -131,6 +132,7 @@ const copy = {
     filteredBooks: "Books in the selected category",
     allBooksIntro: "Classic books available through free original-library links.",
     readInThari: "Read in THARi",
+    readOverview: "Read book overview",
     originalEnglish: "English source",
     freeLabel: "FREE",
     noResults: "No books match your search.",
@@ -242,6 +244,20 @@ export default function Home() {
   useEffect(() => {
     if (readerPage >= readerPages.length && readerPages.length > 0) setReaderPage(readerPages.length - 1);
   }, [readerPage, readerPages.length]);
+
+  useEffect(() => {
+    if (!selectedBook) return;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setSelectedBook(null);
+    };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      window.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [selectedBook]);
 
   useEffect(() => {
     if (!selectedBook) return;
@@ -395,7 +411,7 @@ export default function Home() {
                   <div className="book-meta"><div><span className="book-category">{siteLanguage === "my" ? category?.titleMy : category?.titleEn} · {book.language}</span><h3>{siteLanguage === "my" ? book.titleMy : book.title}</h3></div><span className="book-demo-tag">{ui.freeLabel}</span></div>
                   <p className={`book-description ${siteLanguage === "en" ? "book-description-en" : ""}`}>{siteLanguage === "my" ? book.descriptionMy : book.descriptionEn}</p>
                   <div className="book-actions">
-                    <button className="read-button" type="button" onClick={() => openReader(book)}>{ui.readInThari} <BookOpen size={16} /></button>
+                    <button className="read-button" type="button" onClick={() => openReader(book)}>{(readerChaptersByBookId[book.id as keyof typeof readerChaptersByBookId]?.length ?? 0) > 0 ? ui.readInThari : ui.readOverview} <BookOpen size={16} /></button>
                     <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.originalEnglish} <ArrowUpRight size={16} /></a>
                   </div>
                 </article>
@@ -452,13 +468,15 @@ export default function Home() {
               ) : (
                 <>
                   <h3>{ui.aboutBook}</h3>
-                  <p>{selectedBook.synopsisMy}</p>
-                  <h3>{ui.keyIdeas}</h3>
-                  <ul className="reader-ideas">{selectedBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul>
-                  <p className="reader-note">{selectedBook.readingNoteMy}</p>
+                  <p>{siteLanguage === "my" ? selectedBook.synopsisMy : selectedBook.descriptionEn}</p>
+                  {siteLanguage === "my" && <>
+                    <h3>{ui.keyIdeas}</h3>
+                    <ul className="reader-ideas">{selectedBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul>
+                    <p className="reader-note">{selectedBook.readingNoteMy}</p>
+                  </>}
                 </>
               )}
-              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {selectedBook.rightsNote}</p>
+              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {siteLanguage === "my" ? selectedBook.rightsNote : "This link opens the original source. Copyright status and reuse rights can differ by country; check local law before reusing any text."}</p>
               <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.sourceBook} <ArrowUpRight size={16} /></a>
             </section>
           </div>
