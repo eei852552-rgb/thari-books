@@ -392,3 +392,9 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 .subject-row small { color: #858990; font-family: 'Inter', sans-serif; font-size: 9px; }
 .subject-status { flex: 0 0 auto; padding: 4px 7px; border: 1px solid #e6d8b5; color: #806a38; background: #faf6eb; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 8px; }
 .subject-caution { margin: 0 !important; padding: 10px 12px; border-top: 1px solid #e8e2d5; color: #6d6870 !important; background: #f8f6f0; font-size: 9px !important; line-height: 1.9 !important; }
+
+
+/* Official external learning-resource links */
+a.subject-row { color: inherit; text-decoration: none; }
+a.subject-row:hover { background: #f8f6f0; }
+a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-offset: -2px; }
