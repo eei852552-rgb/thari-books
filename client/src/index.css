@@ -481,3 +481,88 @@ a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-o
 @media (max-width: 600px) {
   .reader-chapter { font-size: 11px; line-height: 2.1; }
 }
+
+
+/* Page-based bilingual reading controls */
+.reader-language-switch {
+  display: flex;
+  gap: 7px;
+  margin: 12px 0 14px;
+  padding: 4px;
+  border: 1px solid #e7dfcf;
+  background: #f8f5ed;
+}
+.reader-language-switch button {
+  flex: 1;
+  min-height: 38px;
+  border: 1px solid transparent;
+  color: #536071;
+  background: transparent;
+  font-family: 'Noto Sans Myanmar', sans-serif;
+  font-size: 11px;
+  cursor: pointer;
+}
+.reader-language-switch button.is-active {
+  border-color: #d5c08d;
+  color: var(--navy);
+  background: #fff;
+  box-shadow: 0 2px 7px rgba(16,31,53,.06);
+}
+.reader-page {
+  min-height: 280px;
+  padding: 12px 15px 16px;
+  border: 1px solid #e9e2d6;
+  background: #fffefa;
+}
+.reader-page-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #eee8dc;
+}
+.reader-page-heading h3 { margin: 0; }
+.reader-page-heading span {
+  flex: 0 0 auto;
+  color: #8b7545;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+}
+.reader-chapter-en {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 15px;
+  line-height: 1.85;
+}
+.reader-pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  margin: 12px 0;
+}
+.reader-pagination button {
+  min-height: 38px;
+  padding: 0 10px;
+  border: 1px solid #d9cfbb;
+  color: var(--navy);
+  background: #fff;
+  font-family: 'Noto Sans Myanmar', sans-serif;
+  font-size: 9px;
+  cursor: pointer;
+}
+.reader-pagination button:disabled {
+  opacity: .4;
+  cursor: not-allowed;
+}
+.reader-pagination span {
+  color: #8b7545;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  white-space: nowrap;
+}
+@media (max-width: 420px) {
+  .reader-page { padding: 10px; }
+  .reader-chapter-en { font-size: 14px; }
+  .reader-pagination button { padding: 0 7px; font-size: 8px; }
+}
