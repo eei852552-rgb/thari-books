@@ -11,6 +11,13 @@ export const wizardOfOzChapter11My = [
     readingType: "translation",
     title: "အခန်း (၁၁) — အော့ဇ်၏ အံ့ဖွယ်မြို့တော်",
     titleEn: "Chapter XI — The Wonderful City of Oz",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-11.svg",
+      altMy: "ဒေါ်ရသီက မြစိမ်းရောင်ပလ္လင်ပေါ်ရှိ မဟာအော့ဇ်၏ ကြီးမားသော ဦးခေါင်းနှင့် တွေ့ဆုံနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy meeting the enormous mysterious Head of Oz in the emerald throne room",
+      captionMy: "အခန်း (၁၁) — မဟာအော့ဇ်နှင့် တွေ့ဆုံခြင်း",
+      captionEn: "Chapter XI — Meeting the Great Oz",
+    },
     contentEn: `Even with their eyes protected by the green spectacles, Dorothy and her friends were at first dazzled by the splendor of the wonderful City. Beautiful houses made of green marble lined the streets, and sparkling emeralds decorated their walls. The pavement was made of the same green marble, with rows of emeralds set closely together where the blocks joined. They glittered brightly in the sunlight.
 
 The windowpanes were green glass. Even the sky above the City had a green tint, and the sunlight seemed green.
