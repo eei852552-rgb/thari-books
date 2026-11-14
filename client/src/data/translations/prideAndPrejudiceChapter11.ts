@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter11My = [
     number: 11,
     title: "အခန်း (၁၁)",
     titleEn: "Chapter XI",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-11.svg",
+      altMy: "အဲလိဇဘက်နှင့် ဂျိန်းတို့ စကားပြောနေစဉ် ဒါစီနှင့် ဘင်ဂလီညီအစ်မများက နက်သာဖီးလ်ဒ်ဧည့်ခန်းတွင် ရှိနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Jane and Elizabeth together while Darcy and the Bingley sisters talk in the Netherfield drawing room",
+      captionMy: "အခန်း (၁၁) — အမြင်များ တဖြည်းဖြည်း ပြောင်းလဲလာခြင်း",
+      captionEn: "Chapter XI — Impressions begin to change",
+    },
     contentEn: `Jane's health gradually improved, and Elizabeth was relieved to see her sister looking stronger. The two sisters spent much of their time together, talking quietly and enjoying the comfort of one another's company.
 
 The Bingley sisters continued to visit Jane and were pleased that she was recovering. They were always polite, though Elizabeth sometimes felt that their kindness was mixed with a sense of superiority.
