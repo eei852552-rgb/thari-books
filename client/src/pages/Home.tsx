@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState, type KeyboardEvent as ReactKeyboardEvent } from "react";
 import { educationGrades, educationSubjects, learningResources } from "../data/catalog";
+import KgStarterLessons from "../components/KgStarterLessons";
 import {
   ArrowDown,
   ArrowRight,
@@ -43,6 +44,7 @@ type SiteNotice = {
   description: string;
   subjects?: typeof educationSubjects;
   resources?: typeof learningResources;
+  isKg?: boolean;
 };
 
 function keepDialogFocus(event: ReactKeyboardEvent<HTMLElement>) {
@@ -291,6 +293,7 @@ export default function Home() {
                         const subjects = educationSubjects.filter((item) => item.gradeId === gradeId);
                         setSiteNotice({
                           title: `${grade} — ပညာရေးစာကြည့်တိုက်`,
+                          isKg: gradeId === "kg",
                           description: subjects.length
                             ? "အောက်ပါဘာသာရပ်နှင့် သင်ခန်းစာအမည်များကို တရားဝင်ရင်းမြစ်တွင် တွေ့ရှိထားသည်။ ၎င်းတို့သည် အတန်းအလိုက် ဘာသာရပ်စာရင်းအပြည့်အစုံ သို့မဟုတ် လက်ရှိသင်ရိုးအတည်ပြုချက် မဟုတ်ပါ။"
                             : "ဒီအတန်းအတွက် ယုံကြည်စိတ်ချရသော လက်ရှိဘာသာရပ်စာရင်းကို မအတည်ပြုရသေးပါ။ အတည်ပြုမပြီးမချင်း စာအုပ်အကြောင်းအရာ သို့မဟုတ် ဒေါင်းလုဒ်လင့်ခ်ကို မဖော်ပြပါ။",
@@ -414,6 +417,7 @@ export default function Home() {
             <span className="eyebrow eyebrow-dark">THARi BOOKS · အချက်အလက်</span>
             <h2 id="site-notice-title">{siteNotice.title}</h2>
             <p id="site-notice-description">{siteNotice.description}</p>
+            {siteNotice.isKg && <KgStarterLessons />}
             {siteNotice.subjects && siteNotice.subjects.length > 0 && (
               <div className="subject-list" aria-label="ရင်းမြစ်တွင် တွေ့ရှိထားသော ဘာသာရပ်များ">
                 {siteNotice.subjects.map((subject) => (
