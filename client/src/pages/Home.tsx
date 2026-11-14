@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { ArrowRight, ArrowUpRight, BookOpen, BriefcaseBusiness, FlaskConical, Globe2, History, Lightbulb, Search, Sparkles } from "lucide-react";
+import { ArrowRight, ArrowUpRight, BookOpen, BriefcaseBusiness, FlaskConical, Globe2, History, Lightbulb, Search, Sparkles, X } from "lucide-react";
 import { openBooks, openBookCategories } from "../data/openBooks";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
@@ -8,6 +8,7 @@ const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
 export default function Home() {
   const [query, setQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [selectedBook, setSelectedBook] = useState<(typeof openBooks)[number] | null>(null);
   const normalizedQuery = query.normalize("NFC").trim().toLocaleLowerCase();
 
   const categories = openBookCategories.filter((category) =>
@@ -116,7 +117,10 @@ export default function Home() {
                 </div>
                 <div className="book-meta"><div><span className="book-category">{book.categoryMy} · အင်္ဂလိပ်ဘာသာ · {book.title}</span><h3>{book.titleMy}</h3></div><span className="book-demo-tag">FREE</span></div>
                 <p className="book-description">{book.descriptionMy}</p>
-                <a className="read-button" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">မူရင်းမှာ အခမဲ့ဖတ်ရန် <ArrowUpRight size={16} /></a>
+                <div className="book-actions">
+                  <button className="read-button" type="button" onClick={() => setSelectedBook(book)}>မြန်မာလိုဖတ်ရန် <BookOpen size={16} /></button>
+                  <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">English မူရင်း <ArrowUpRight size={16} /></a>
+                </div>
               </article>
             ))}
           </div>
@@ -131,6 +135,22 @@ export default function Home() {
           <div><span className="eyebrow eyebrow-dark">A LIBRARY FOR EVERYONE</span><h2>စာဖတ်ခြင်းက <em>ဒီနေရာက</em> စတင်ပါတယ်။</h2><p>THARi BOOKS — မြန်မာစာဖတ်သူတိုင်းအတွက် အခမဲ့စာဖတ်နိုင်သော ရင်းမြစ်များကို စုစည်းပေးသော ဒစ်ဂျစ်တယ်စာကြည့်တိုက်။</p></div>
           <a className="closing-link" href="#top" aria-label="စာမျက်နှာအပေါ်သို့ ပြန်သွားရန်"><ArrowUpRight size={20} /></a>
         </section>
+      {selectedBook && (
+        <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSelectedBook(null); }}>
+          <section className="demo-dialog burmese-reader" role="dialog" aria-modal="true" aria-labelledby="reader-title">
+            <button className="dialog-close" type="button" onClick={() => setSelectedBook(null)} aria-label="ပိတ်ရန်"><X size={19} /></button>
+            <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · မြန်မာဘာသာ</span>
+            <h2 id="reader-title">{selectedBook.titleMy}</h2>
+            <p className="dialog-subtitle">{selectedBook.title} · {selectedBook.author}</p>
+            <h3>စာအုပ်အကြောင်း မြန်မာလို</h3>
+            <p>{selectedBook.synopsisMy}</p>
+            <h3>အဓိက မှတ်သားစရာများ</h3>
+            <ul className="reader-ideas">{selectedBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul>
+            <p className="reader-note">{selectedBook.readingNoteMy}</p>
+            <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">English မူရင်းစာအုပ် ဖတ်ရန် <ArrowUpRight size={16} /></a>
+          </section>
+        </div>
+      )}
       </main>
 
       <footer className="site-footer">
