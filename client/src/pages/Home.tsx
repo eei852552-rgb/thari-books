@@ -15,7 +15,7 @@ function splitReaderPages(content: string, maxCharacters = 1900): string[] {
   for (const paragraph of paragraphs) {
     const extraLength = paragraph.length + (currentPage.length ? 2 : 0);
     if (currentPage.length && currentLength + extraLength > maxCharacters) {
-      pages.push(currentPage.join("\\n\\n"));
+      pages.push(currentPage.join("\n\n"));
       currentPage = [];
       currentLength = 0;
     }
@@ -23,7 +23,7 @@ function splitReaderPages(content: string, maxCharacters = 1900): string[] {
     currentLength += paragraph.length + (currentPage.length > 1 ? 2 : 0);
   }
 
-  if (currentPage.length) pages.push(currentPage.join("\\n\\n"));
+  if (currentPage.length) pages.push(currentPage.join("\n\n"));
   return pages;
 }
 
