@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState, type KeyboardEvent as ReactKeyboardEvent } from "react";
-import { educationGrades, educationSubjects } from "../data/catalog";
+import { educationGrades, educationSubjects, learningResources } from "../data/catalog";
 import {
   ArrowDown,
   ArrowRight,
@@ -42,6 +42,7 @@ type SiteNotice = {
   title: string;
   description: string;
   subjects?: typeof educationSubjects;
+  resources?: typeof learningResources;
 };
 
 function keepDialogFocus(event: ReactKeyboardEvent<HTMLElement>) {
