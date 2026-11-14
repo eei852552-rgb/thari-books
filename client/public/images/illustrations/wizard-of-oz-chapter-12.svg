@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The search for the Wicked Witch</title>
+<desc id="desc">Dorothy stands in the courtyard of a western castle, holding Toto, while the Golden Cap rests nearby and the Winged Monkeys fly in the distant sky.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b7cbd4"/><stop offset="1" stop-color="#ead6b1"/></linearGradient><linearGradient id="castle" x2="0" y2="1"><stop stop-color="#8c795e"/><stop offset="1" stop-color="#4c4b43"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 430Q250 350 500 430T1000 415T1200 435V720H0Z" fill="#73845b"/>
+<!-- castle -->
+<path d="M650 420V180H1120V420Z" fill="url(#castle)" stroke="#514b40" stroke-width="12"/>
+<path d="M620 185l75-90 75 90M870 185l75-90 75 90M1050 185l55-75 55 75" fill="#6c5c49" stroke="#514b40" stroke-width="10"/>
+<path d="M820 420V295Q900 205 980 295V420Z" fill="#282d2a" stroke="#b99a62" stroke-width="9"/>
+<g fill="#bca56b"><rect x="720" y="230" width="40" height="65"/><rect x="1020" y="230" width="40" height="65"/></g>
+<!-- winged monkeys silhouette -->
+<g fill="#4e5550"><ellipse cx="240" cy="150" rx="24" ry="18"/><path d="M220 150q-65-65-95-15q45-5 90 38M260 150q65-65 95-15q-45-5-90 38"/><ellipse cx="390" cy="215" rx="18" ry="14"/><path d="M375 215q-45-45-70-10q35-3 66 28M405 215q45-45 70-10q-35-3-66 28"/></g>
+<!-- Dorothy -->
+<circle cx="390" cy="430" r="31" fill="#f0c99d"/><path d="M359 420q8-43 37-38q29 4 33 38" fill="#d6a2a0"/><path d="M360 470h62l22 135h-106Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/><path d="M380 605l-8 65M408 605l8 65" stroke="#f0c99d" stroke-width="15"/><path d="M365 670h30M405 670h30" stroke="#76533e" stroke-width="12"/>
+<!-- Toto -->
+<ellipse cx="455" cy="600" rx="32" ry="18" fill="#292b2b"/><circle cx="478" cy="585" r="16" fill="#292b2b"/><path d="M480 570l10-15 7 20" fill="#292b2b"/>
+<!-- golden cap -->
+<path d="M500 555q45-85 90 0Z" fill="#d6b75e" stroke="#795f32" stroke-width="6"/><path d="M500 555h90" stroke="#f3e4a2" stroke-width="8"/><g fill="#e6d4a2"><circle cx="515" cy="535" r="6"/><circle cx="545" cy="510" r="6"/><circle cx="575" cy="535" r="6"/></g>
+<text x="70" y="90" fill="#374d4a" font-family="Georgia,serif" font-size="36">The Witch's western castle</text><text x="70" y="135" fill="#374d4a" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XII · COMPLETE TRANSLATION</text>
+</svg>
