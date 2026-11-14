@@ -566,3 +566,65 @@ a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-o
   .reader-chapter-en { font-size: 14px; }
   .reader-pagination button { padding: 0 7px; font-size: 8px; }
 }
+
+
+/* THARi BOOKS continuation features: data-driven covers, bilingual shell and resume reading. */
+.header-actions { display: flex; align-items: center; gap: 9px; }
+.language-toggle { display: inline-flex; min-height: 40px; align-items: center; justify-content: center; gap: 6px; padding: 0 10px; border: 1px solid var(--line); border-radius: 5px; color: var(--navy); background: #fff; font-family: 'Inter', 'Noto Sans Myanmar', sans-serif; font-size: 10px; font-weight: 600; cursor: pointer; transition: border-color .18s, background .18s, transform .18s; }
+.language-toggle:hover { border-color: var(--gold); background: #fbf7ed; transform: translateY(-1px); }
+.language-toggle svg { color: #a9843d; }
+.category-card.is-selected { border-color: #c6a355; background: #fbf7ec; box-shadow: 0 9px 21px rgba(36,48,62,.07); }
+.category-card.is-selected .category-arrow { color: #8b6b33; opacity: 1; transform: translate(0, 0); }
+.category-arrow.is-visible { opacity: 1; transform: translate(0, 0); }
+.library-promise { display: grid; width: min(1180px, calc(100% - 42px)); grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; margin: 0 auto; padding: 18px 0; border-bottom: 1px solid var(--line); }
+.library-promise > div { display: flex; align-items: center; gap: 10px; padding: 3px 10px; border-right: 1px solid var(--line); }
+.library-promise > div:last-child { border-right: 0; }
+.library-promise svg { flex: 0 0 auto; color: #a98542; }
+.library-promise span { display: flex; flex-direction: column; gap: 4px; }
+.library-promise strong { color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 10px; font-weight: 600; }
+.library-promise small { color: #8a8c8b; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 8px; line-height: 1.6; }
+.resume-card { display: flex; width: 100%; align-items: center; gap: 12px; margin: 0 0 22px; padding: 12px 15px; border: 1px solid rgba(221,194,118,.45); color: #fff; background: rgba(255,255,255,.08); text-align: left; cursor: pointer; transition: border-color .18s, background .18s, transform .18s; }
+.resume-card:hover { border-color: var(--gold-bright); background: rgba(255,255,255,.13); transform: translateY(-2px); }
+.resume-card-icon { display: grid; width: 34px; height: 34px; flex: 0 0 auto; place-items: center; border: 1px solid rgba(221,194,118,.55); color: var(--gold-bright); }
+.resume-card > span:nth-child(2) { display: flex; min-width: 0; flex: 1; flex-direction: column; gap: 3px; }
+.resume-card small { color: #e0c986; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 8px; }
+.resume-card strong { overflow: hidden; color: #fff; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 11px; font-weight: 500; text-overflow: ellipsis; white-space: nowrap; }
+.resume-card em { color: rgba(255,255,255,.6); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 8px; font-style: normal; }
+.resume-card > svg { flex: 0 0 auto; color: var(--gold-bright); }
+.book-cover { isolation: isolate; }
+.book-cover-image { position: absolute; z-index: -3; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; }
+.book-cover-overlay { position: absolute; z-index: -2; inset: 0; background: linear-gradient(180deg, rgba(8,22,40,.13), rgba(8,22,40,.24) 40%, rgba(8,22,40,.7)); }
+.cover-gold .book-cover-overlay { background: linear-gradient(180deg, rgba(255,247,221,.05), rgba(36,42,53,.42) 72%, rgba(36,42,53,.7)); }
+.book-cover > *:not(.book-cover-image):not(.book-cover-overlay) { position: relative; z-index: 1; }
+.book-cover .cover-topline { color: rgba(255,255,255,.92); }
+.book-cover .cover-bottomline { color: rgba(255,255,255,.92); }
+.cover-gold .cover-topline, .cover-gold .cover-bottomline { color: #fff7e8; }
+.book-description-en { font-family: Inter, sans-serif; font-size: 10px; line-height: 1.72; }
+.reader-illustration { margin: 12px 0 16px; border: 1px solid #e7dfcf; background: #f8f4e9; }
+.reader-illustration img { display: block; width: 100%; max-height: 250px; object-fit: cover; }
+.reader-illustration figcaption { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; padding: 8px 11px; border-top: 1px solid #e7dfcf; color: #7f704f; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px; line-height: 1.8; }
+.reader-illustration figcaption span { flex: 0 0 auto; color: #a9843d; font-family: Inter, sans-serif; font-size: 7px; letter-spacing: .08em; text-transform: uppercase; }
+.reader-illustration figcaption strong { color: var(--navy); font-weight: 500; }
+.burmese-reader .reader-note { display: flex; align-items: flex-start; gap: 7px; }
+.burmese-reader .reader-note svg { flex: 0 0 auto; margin-top: 3px; color: #a9843d; }
+@media (max-width: 900px) {
+  .library-promise { width: min(100% - 32px, 1180px); }
+}
+@media (max-width: 640px) {
+  .header-actions { gap: 5px; }
+  .language-toggle { min-height: 40px; padding: 0 8px; font-size: 9px; }
+  .language-toggle svg { width: 14px; }
+  .library-promise { width: calc(100% - 30px); grid-template-columns: 1fr; gap: 0; padding: 10px 0; }
+  .library-promise > div { min-height: 43px; padding: 6px 0; border-right: 0; border-bottom: 1px solid #f0ede7; }
+  .library-promise > div:last-child { border-bottom: 0; }
+  .library-promise strong { font-size: 9px; }
+  .library-promise small { font-size: 7px; }
+  .resume-card { gap: 9px; margin-bottom: 14px; padding: 10px; }
+  .resume-card-icon { width: 30px; height: 30px; }
+  .resume-card strong { font-size: 9px; }
+  .resume-card em { font-size: 7px; }
+  .reader-illustration { margin-top: 9px; }
+  .reader-illustration img { max-height: 180px; }
+  .reader-illustration figcaption { flex-direction: column; gap: 2px; font-size: 8px; }
+  .reader-illustration figcaption span { font-size: 6px; }
+}

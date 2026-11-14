@@ -6,6 +6,13 @@ export const prideAndPrejudiceChaptersMy = [
   {
     number: 1,
     title: "အခန်း (၁)",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-1.svg",
+      altMy: "နက်သာဖီးလ်ဒ်အိမ်နှင့် ဘင်နက်မိသားစုအကြောင်း ဆွေးနွေးနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "An editorial illustration of a country house conversation",
+      captionMy: "အခန်း (၁) — အိမ်နီးချင်းအသစ်အကြောင်း ဆွေးနွေးခြင်း",
+      captionEn: "Chapter I — A conversation about a new neighbour",
+    },
     contentEn: `Chapter I.
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.

@@ -8,6 +8,13 @@ export const wizardOfOzChapter2My = [
     number: 2,
     readingType: "summary",
     title: "အခန်း (၂) — မန်ချ်ကင်များနှင့် ဆွေးနွေးပွဲ",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-2.svg",
+      altMy: "မြစိမ်းရောင်မြို့တော်သို့ သွားသော အဝါရောင်အုတ်ခင်းလမ်း သရုပ်ဖော်ပုံ",
+      altEn: "An editorial illustration of the yellow brick road",
+      captionMy: "အခန်း (၂) — အဝါရောင်အုတ်ခင်းလမ်း",
+      captionEn: "Chapter II — The yellow brick road",
+    },
     contentEn: `Dorothy was awakened by a sudden jolt. The house had stopped moving, and bright sunshine filled the room. She sprang from bed with Toto following and opened the door.
 
 She cried out in amazement. The cyclone had set the house down gently in a beautiful country. Green grass covered the ground; tall trees carried rich fruit; colorful flowers grew everywhere; and bright birds sang among the trees. Nearby, a clear brook ran between green banks. To Dorothy, who had lived so long on the dry gray prairies, the place seemed wonderful.

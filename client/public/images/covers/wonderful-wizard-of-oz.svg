@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960" role="img" aria-labelledby="title desc">
+  <title id="title">The Wonderful Wizard of Oz cover</title><desc id="desc">An original green and gold editorial cover.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78a37d"/><stop offset="1" stop-color="#143e3a"/></linearGradient><linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8df86"/><stop offset="1" stop-color="#ce9f40"/></linearGradient></defs>
+  <rect width="720" height="960" fill="url(#bg)"/><circle cx="525" cy="250" r="150" fill="url(#sun)" opacity=".9"/><path d="M85 730C170 625 285 610 370 705s200 100 265-12" fill="none" stroke="#f7e5a3" stroke-opacity=".5" stroke-width="5"/><path d="M85 770C185 660 290 665 380 755s170 90 255 3" fill="none" stroke="#f7e5a3" stroke-opacity=".25" stroke-width="2"/>
+  <rect x="38" y="38" width="644" height="884" fill="none" stroke="#f8e9b0" stroke-opacity=".75" stroke-width="2"/>
+  <text x="95" y="130" fill="#f8e9b0" font-family="Arial,sans-serif" font-size="20" letter-spacing="5">THARi BOOKS · CLASSICS</text>
+  <text x="95" y="470" fill="#fffbe8" font-family="Georgia,serif" font-size="52">The Wonderful</text><text x="95" y="530" fill="#fffbe8" font-family="Georgia,serif" font-size="52">Wizard of Oz</text>
+  <text x="95" y="610" fill="#f8e9b0" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">L. FRANK BAUM</text><text x="95" y="860" fill="#f8e9b0" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">FREE READING LINK</text>
+</svg>

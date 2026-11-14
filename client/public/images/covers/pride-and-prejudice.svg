@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960" role="img" aria-labelledby="title desc">
+  <title id="title">Pride and Prejudice cover</title><desc id="desc">An original editorial cover with a navy and rose palette.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#293e67"/><stop offset="1" stop-color="#12233f"/></linearGradient><radialGradient id="rose"><stop stop-color="#e7b4ac" stop-opacity=".8"/><stop offset="1" stop-color="#e7b4ac" stop-opacity="0"/></radialGradient></defs>
+  <rect width="720" height="960" fill="url(#bg)"/><circle cx="540" cy="235" r="250" fill="url(#rose)"/><circle cx="540" cy="235" r="150" fill="none" stroke="#e7b4ac" stroke-opacity=".35" stroke-width="2"/><circle cx="540" cy="235" r="205" fill="none" stroke="#e7b4ac" stroke-opacity=".2"/>
+  <rect x="38" y="38" width="644" height="884" fill="none" stroke="#ead9b7" stroke-opacity=".7" stroke-width="2"/><path d="M110 170h500M110 790h500" stroke="#ead9b7" stroke-opacity=".7"/>
+  <text x="110" y="125" fill="#ead9b7" font-family="Georgia,serif" font-size="20" letter-spacing="5">THARi BOOKS · CLASSICS</text>
+  <text x="110" y="530" fill="#fff9eb" font-family="Georgia,serif" font-size="58">Pride</text><text x="110" y="595" fill="#fff9eb" font-family="Georgia,serif" font-size="58">and</text><text x="110" y="660" fill="#fff9eb" font-family="Georgia,serif" font-size="58">Prejudice</text>
+  <text x="110" y="744" fill="#e7b4ac" font-family="Inter,Arial,sans-serif" font-size="22" letter-spacing="3">JANE AUSTEN</text><text x="110" y="858" fill="#ead9b7" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">FREE READING LINK</text>
+</svg>
