@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Wickham tells Elizabeth his story</title>
+<desc id="desc">Elizabeth and Mr Wickham speak in a quiet Meryton garden while a town street is visible behind them.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8d2d5"/><stop offset="1" stop-color="#f0dfbd"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 460Q300 370 600 455T1200 440V720H0Z" fill="#8ba174"/>
+<g fill="#496b4f"><circle cx="100" cy="180" r="120"/><circle cx="260" cy="140" r="95"/><circle cx="1030" cy="160" r="140"/></g>
+<g stroke="#6b523d" stroke-width="16"><path d="M100 220v280M260 200v300M1030 220v300"/></g>
+<!-- Elizabeth -->
+<circle cx="430" cy="330" r="34" fill="#e8c6a7"/><path d="M396 320q8-48 38-44q30 4 34 44" fill="#654634"/><path d="M390 380h80l25 170H365Z" fill="#7f9b8c" stroke="#4e6c5f" stroke-width="7"/>
+<!-- Wickham -->
+<circle cx="690" cy="320" r="35" fill="#e4c2a1"/><path d="M655 310q8-48 40-44q31 4 35 44" fill="#70543e"/><path d="M650 370h80l25 180H625Z" fill="#526b82" stroke="#344d63" stroke-width="7"/>
+<!-- bench -->
+<path d="M330 570h500v28H330Z" fill="#8a6047"/><path d="M365 598v70M795 598v70" stroke="#6b4a35" stroke-width="14"/>
+<text x="70" y="80" fill="#425b66" font-family="Georgia,serif" font-size="36">A private conversation in Meryton</text><text x="70" y="125" fill="#425b66" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER XVI</text>
+</svg>
