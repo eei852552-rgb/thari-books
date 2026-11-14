@@ -445,3 +445,22 @@ a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-o
     font-size: 8px;
   }
 }
+
+
+/* Bilingual book reader */
+.book-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.book-actions .read-button { flex: 1 1 120px; }
+.read-original { background: transparent; color: var(--navy); border: 1px solid var(--line); }
+.burmese-reader { width: min(100%, 620px); }
+.burmese-reader h3 { margin: 18px 0 6px; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 13px; line-height: 1.8; }
+.burmese-reader > p { color: #525d69; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 12px; line-height: 2.05; }
+.reader-ideas { margin: 4px 0 16px; padding-left: 22px; color: #525d69; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 12px; line-height: 2; }
+.reader-ideas li { margin: 5px 0; }
+.burmese-reader .reader-note { padding: 11px 13px; background: #f4f0e7; border-left: 3px solid var(--gold); font-size: 10px; }
+.reader-source { display: inline-flex; margin-top: 8px; }
+@media (max-width: 600px) {
+  .book-actions { gap: 6px; }
+  .book-actions .read-button { flex-basis: 100%; }
+  .burmese-reader { padding: 25px 18px 20px; }
+  .burmese-reader > p, .reader-ideas { font-size: 11px; }
+}
