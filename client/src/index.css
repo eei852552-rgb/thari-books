@@ -170,7 +170,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 .general-section { padding-top: 68px; padding-bottom: 75px; background: #f7f6f2; }
 .category-count { padding-bottom: 3px; color: #8e7642; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 10px; white-space: nowrap; }
 .category-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 11px; }
-.category-card { position: relative; display: flex; min-height: 84px; align-items: center; gap: 12px; padding: 13px 15px; border: 1px solid #e8e5dd; background: #fffefa; transition: transform .18s, border-color .18s, box-shadow .18s; }
+.category-card { position: relative; display: flex; width: 100%; min-height: 84px; align-items: center; gap: 12px; padding: 13px 15px; border: 1px solid #e8e5dd; color: inherit; background: #fffefa; font: inherit; text-align: left; cursor: pointer; appearance: none; transition: transform .18s, border-color .18s, box-shadow .18s; }
 .category-card:hover { transform: translateY(-2px); border-color: #cfbb87; box-shadow: 0 9px 21px rgba(36,48,62,.055); }
 .category-icon { display: grid; width: 39px; height: 39px; flex: 0 0 auto; place-items: center; border-radius: 50%; }
 .tone-blue { color: #294d72; background: #eaf0f5; }
