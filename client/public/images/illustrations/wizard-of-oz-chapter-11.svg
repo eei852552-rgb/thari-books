@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Wonderful City of Oz</title>
+<desc id="desc">Dorothy stands before the great emerald throne and the mysterious floating head of the Wizard of Oz.</desc>
+<defs><linearGradient id="emerald" x2="0" y2="1"><stop stop-color="#76c88d"/><stop offset="1" stop-color="#145b42"/></linearGradient><radialGradient id="glow"><stop stop-color="#f7efb8"/><stop offset="1" stop-color="#b7e4b4"/></radialGradient></defs>
+<rect width="1200" height="720" fill="#173e35"/><path d="M0 0h1200v720H0Z" fill="url(#emerald)" opacity=".45"/>
+<path d="M120 720V170Q600-90 1080 170V720Z" fill="#1d6a4b" stroke="#8ad7a0" stroke-width="18"/>
+<path d="M180 720V220Q600-20 1020 220V720Z" fill="#205e45" stroke="#b3e6ad" stroke-width="8"/>
+<circle cx="600" cy="135" r="105" fill="url(#glow)" opacity=".95"/>
+<!-- great head -->
+<ellipse cx="600" cy="300" rx="170" ry="128" fill="#e6c39d" stroke="#8b765c" stroke-width="10"/>
+<path d="M475 260q45-48 92 0M635 260q45-48 92 0" fill="none" stroke="#7b624a" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="535" cy="300" rx="20" ry="27" fill="#4b493c"/><ellipse cx="665" cy="300" rx="20" ry="27" fill="#4b493c"/>
+<path d="M590 320l-20 35h45" fill="none" stroke="#9a6b50" stroke-width="9" stroke-linecap="round"/>
+<path d="M535 390q65 40 130 0" fill="none" stroke="#8e5846" stroke-width="12" stroke-linecap="round"/>
+<!-- throne -->
+<path d="M420 540h360v180H420Z" fill="#237b55" stroke="#b2e6a9" stroke-width="12"/><path d="M470 510h260v55H470Z" fill="#58b779" stroke="#b2e6a9" stroke-width="8"/>
+<g fill="#83e0a7" stroke="#e0f5d5" stroke-width="3"><path d="M455 585l18-18 18 18-18 18Z"/><path d="M710 585l18-18 18 18-18 18Z"/><path d="M585 620l18-18 18 18-18 18Z"/></g>
+<!-- Dorothy -->
+<circle cx="260" cy="500" r="28" fill="#f0c99d"/><path d="M232 490q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M235 535h55l18 120h-90Z" fill="#dbe7ed" stroke="#596f7b" stroke-width="5"/><path d="M250 655l-8 35M275 655l8 35" stroke="#f0c99d" stroke-width="14"/><path d="M238 690h28M270 690h28" stroke="#76533e" stroke-width="12"/>
+<text x="70" y="75" fill="#e4f3d9" font-family="Georgia,serif" font-size="36">The throne room of the Great Oz</text><text x="70" y="115" fill="#e4f3d9" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XI · COMPLETE TRANSLATION</text>
+</svg>
