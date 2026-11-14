@@ -10,6 +10,13 @@ export const wizardOfOzChapter10My = [
     readingType: "translation",
     title: "အခန်း (၁၀) — မြို့တံခါးစောင့်",
     titleEn: "Chapter X — The Guardian of the Gate",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-10.svg",
+      altMy: "ဒေါ်ရသီနှင့် မိတ်ဆွေများက မြစိမ်းရောင်မြို့တော်၏ ကျောက်မျက်တံခါးရှေ့တွင် အစိမ်းရောင်ဝတ် တံခါးစောင့်နှင့် တွေ့ဆုံနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and her companions meeting the green-clad Guardian at the Emerald City gate",
+      captionMy: "အခန်း (၁၀) — မြစိမ်းရောင်မြို့တော်သို့ ဝင်ပေါက်",
+      captionEn: "Chapter X — The entrance to the Emerald City",
+    },
     contentEn: `It was some time before the Cowardly Lion awoke. He had been asleep among the poppies for a long while. When he finally opened his eyes and climbed down from the cart, he was very glad to discover that he was safe.
 
 “I ran as fast as I could,” he said, sitting down and yawning, “but the flowers were too powerful for me. How did you get me out?”
