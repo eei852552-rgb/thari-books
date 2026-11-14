@@ -14,7 +14,7 @@
 
 ## GitHub နှင့် အဆင့် ၁ ပေးပို့မှု
 - [x] GitHub Account နှင့် ချိတ်ဆက်ပြီး `thari-books` အမည်ရှိ Repository အသစ်ကို `Public` visibility၊ `main` default branch ဖြင့်ဖန်တီးပါ။ ခွင့်ပြုချက်မရှိပါက အသုံးပြုသူထံ ခွင့်ပြုချက်တောင်းပြီး၊ မအောင်မြင်ဘဲ အောင်မြင်သည်ဟု မပြောရ။
-- [x] Website source code ဖိုင်အားလုံးကို Repository ထဲသို့ ထည့်ပြီး စနစ်တကျဖွဲ့စည်းပါ။ Project၊ အသုံးပြုထားသော နည်းပညာများနှင့် Run လုပ်နည်းကို ရှင်းပြသည့် `README.md` ထည့်ပါ။ အလုပ်ပြီးတိုင်း Commit လုပ်ကာ Source Code ကို GitHub သို့ Push လုပ်ပြီး ဖိုင်များ ရောက်ရှိမှုကို အတည်ပြုပါ။ Latest verified main commit: `ecf3fa794ad0f782d9d595471a04041a7ed18eb6`.
+- [x] Website source code ဖိုင်အားလုံးကို Repository ထဲသို့ ထည့်ပြီး စနစ်တကျဖွဲ့စည်းပါ။ Project၊ အသုံးပြုထားသော နည်းပညာများနှင့် Run လုပ်နည်းကို ရှင်းပြသည့် `README.md` ထည့်ပါ။ အလုပ်ပြီးတိုင်း Commit လုပ်ကာ Source Code ကို GitHub သို့ Push လုပ်ပြီး ဖိုင်များ ရောက်ရှိမှုကို အတည်ပြုပါ။ Final delivery commit ID ကို အပြီးသတ်ပေးပို့မှုအကျဉ်းတွင် သီးခြားဖော်ပြပါ။
 - [x] ပြီးဆုံးသည့်အခါ Home Page Preview၊ Mobile Screenshot၊ Desktop Screenshot၊ GitHub Repository URL၊ Latest Commit ID၊ Source Code ဖိုင်စာရင်း၊ Technologies၊ အမှန်တကယ် စမ်းသပ်ပြီးသောအချက်များ၊ မပြီးသေးသောအချက်များနှင့် နောက်တစ်ဆင့်အတွက် အကြံပြုချက်ကို တင်ပြပါ။
 - [x] Android Mobile View၊ Desktop View၊ Navigation၊ Search UI၊ Responsive Layout၊ မြန်မာစာ Font၊ Broken Links၊ Console Errors နှင့် Build Errors ကို စစ်ဆေးရမည်။ မစမ်းသပ်ရသေးသည့်အရာကို စမ်းသပ်ပြီးဟု မဖော်ပြရ။
 - [x] Home Page အဆင့်ပြီးသည့်အခါ အသုံးပြုသူ၏ အတည်ပြုချက်မရမချင်း နောက်အဆင့်သို့ မဆက်ရ။
