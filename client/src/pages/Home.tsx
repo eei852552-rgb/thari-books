@@ -292,9 +292,14 @@ export default function Home() {
                         setSiteNotice({
                           title: `${grade} — ပညာရေးစာကြည့်တိုက်`,
                           description: subjects.length
-                            ? "အောက်ပါဘာသာရပ်အမည်များကို ရင်းမြစ်တွင် တွေ့ရှိထားသော်လည်း လက်ရှိသင်ရိုးနှင့် ထုတ်ဝေခွင့်ကို အပြည့်အဝ အတည်မပြုရသေးပါ။"
+                            ? "အောက်ပါဘာသာရပ်နှင့် သင်ခန်းစာအမည်များကို တရားဝင်ရင်းမြစ်တွင် တွေ့ရှိထားသည်။ ၎င်းတို့သည် အတန်းအလိုက် ဘာသာရပ်စာရင်းအပြည့်အစုံ သို့မဟုတ် လက်ရှိသင်ရိုးအတည်ပြုချက် မဟုတ်ပါ။"
                             : "ဒီအတန်းအတွက် ယုံကြည်စိတ်ချရသော လက်ရှိဘာသာရပ်စာရင်းကို မအတည်ပြုရသေးပါ။ အတည်ပြုမပြီးမချင်း စာအုပ်အကြောင်းအရာ သို့မဟုတ် ဒေါင်းလုဒ်လင့်ခ်ကို မဖော်ပြပါ။",
                           subjects,
+                          resources: learningResources.filter((resource) =>
+                            subjects.some((subject) => subject.id === resource.subjectId) &&
+                            resource.reviewStatus === "approved" &&
+                            resource.visibility === "public"
+                          ),
                         });
                       }}
                     >
@@ -416,7 +421,25 @@ export default function Home() {
                     <span className="subject-status">ရင်းမြစ်တွေ့ရှိ</span>
                   </div>
                 ))}
-                <p className="subject-caution">ဤစာရင်းသည် စာအုပ်ဖတ်ရန် သို့မဟုတ် ဒေါင်းလုဒ်ရယူရန် လင့်ခ်မဟုတ်ပါ။ Grade 1 ရင်းမြစ်လင့်ခ်မှာ လက်ရှိဖွင့်မရသေးပြီး Grade 10 ရင်းမြစ်များမှာ 2020–2021 မှတ်တမ်းများဖြစ်သည်။</p>
+                <p className="subject-caution">ဤဘာသာရပ်များသည် ရင်းမြစ်တစ်ခုချင်းစီတွင် တွေ့ရှိထားသော မှတ်တမ်းများသာဖြစ်ပြီး အတန်း၏ သင်ရိုးစာရင်းအပြည့်အစုံ မဟုတ်ပါ။</p>
+              </div>
+            )}
+            {siteNotice.resources && siteNotice.resources.length > 0 && (
+              <div className="subject-list" aria-label="တရားဝင် လေ့လာရေးရင်းမြစ်များ">
+                <h3>တရားဝင် လေ့လာရေးရင်းမြစ်များ</h3>
+                {siteNotice.resources.map((resource) => (
+                  <a
+                    className="subject-row"
+                    key={resource.id}
+                    href={resource.sourceUrl ?? undefined}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span><strong>{resource.titleMy}</strong>{resource.titleEn && <small>{resource.titleEn}</small>}</span>
+                    <span className="subject-status">MOE · ဖွင့်ရန် ↗</span>
+                  </a>
+                ))}
+                <p className="subject-caution">လင့်ခ်များသည် ပညာရေးဝန်ကြီးဌာန၏ မူရင်းစာမျက်နှာသို့သာ ချိတ်ဆက်ထားသည်။ THARi BOOKS က အသံဖိုင်များကို ကူးယူတင်ထားခြင်း မဟုတ်ပါ။</p>
               </div>
             )}
             <button className="button-primary dialog-done" type="button" onClick={() => setSiteNotice(null)}>နားလည်ပါပြီ <Check size={16} /></button>
