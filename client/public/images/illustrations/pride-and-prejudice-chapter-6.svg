@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">A conversation about first impressions</title>
+<desc id="desc">Elizabeth and Charlotte discuss their impressions while the Bingley sisters and Mr Darcy are shown in the background at Netherfield.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eee0c8"/><stop offset="1" stop-color="#c9b494"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="80" y="90" width="250" height="280" fill="#a6bdb6" stroke="#806d55" stroke-width="11"/><path d="M205 90v280M80 230h250" stroke="#f0e7d6" stroke-width="8"/>
+<rect x="390" y="470" width="420" height="110" rx="18" fill="#8a6047"/><rect x="430" y="430" width="340" height="70" rx="18" fill="#a97d5c"/>
+<!-- Elizabeth -->
+<circle cx="500" cy="310" r="38" fill="#e8c6a7"/><path d="M462 300q10-52 43-47q33 5 37 47" fill="#654634"/><path d="M455 360h90l28 150H427Z" fill="#7f9b8c" stroke="#4e6c5f" stroke-width="7"/>
+<!-- Charlotte -->
+<circle cx="700" cy="310" r="38" fill="#e8c6a7"/><path d="M662 300q10-52 43-47q33 5 37 47" fill="#74523f"/><path d="M655 360h90l28 150H627Z" fill="#b78b75" stroke="#805d50" stroke-width="7"/>
+<!-- Darcy in background -->
+<circle cx="970" cy="260" r="32" fill="#e4c2a1"/><path d="M938 250q8-46 37-42q30 4 33 42" fill="#4b3b33"/><path d="M930 300h80l24 140h-128Z" fill="#293f52" stroke="#1d2e3d" stroke-width="6"/>
+<!-- Bingley sisters -->
+<circle cx="850" cy="440" r="25" fill="#e8c6a7"/><path d="M825 430q7-35 28-32q22 4 25 32" fill="#8c5d4d"/><path d="M820 470h60l15 100h-90Z" fill="#e2d2b8"/>
+<circle cx="1090" cy="440" r="25" fill="#e8c6a7"/><path d="M1065 430q7-35 28-32q22 4 25 32" fill="#9b7257"/><path d="M1060 470h60l15 100h-90Z" fill="#d6c1a2"/>
+<text x="70" y="60" fill="#65513e" font-family="Georgia,serif" font-size="34">Different views of the same people</text><text x="70" y="690" fill="#65513e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER VI</text>
+</svg>
