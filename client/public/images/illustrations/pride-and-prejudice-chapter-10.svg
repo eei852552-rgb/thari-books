@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">An evening at Netherfield</title>
+<desc id="desc">Elizabeth sits in the Netherfield drawing room while Darcy writes a letter and the Bingley sisters talk nearby.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eee0c8"/><stop offset="1" stop-color="#c9b494"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="80" y="90" width="220" height="260" fill="#a6bdb6" stroke="#806d55" stroke-width="11"/><path d="M190 90v260M80 220h220" stroke="#f0e7d6" stroke-width="8"/>
+<rect x="370" y="460" width="500" height="110" rx="18" fill="#8a6047"/><rect x="410" y="420" width="420" height="70" rx="18" fill="#a97d5c"/>
+<!-- Darcy writing -->
+<circle cx="520" cy="290" r="36" fill="#e4c2a1"/><path d="M484 280q8-48 42-44q32 4 36 44" fill="#4b3b33"/><path d="M480 340h80l24 140H456Z" fill="#293f52" stroke="#1d2e3d" stroke-width="7"/>
+<path d="M530 430l85 35" stroke="#604735" stroke-width="7"/><path d="M590 445h100v70H590Z" fill="#f5ebd8" stroke="#9b7b58" stroke-width="5"/>
+<!-- Elizabeth -->
+<circle cx="820" cy="340" r="34" fill="#e8c6a7"/><path d="M786 330q8-48 38-44q30 4 34 44" fill="#654634"/><path d="M780 390h80l24 150h-128Z" fill="#7f9b8c" stroke="#4e6c5f" stroke-width="7"/>
+<!-- Caroline -->
+<circle cx="1000" cy="300" r="32" fill="#e8c6a7"/><path d="M968 290q8-45 36-41q28 4 32 41" fill="#8c5d4d"/><path d="M960 350h80l20 140h-120Z" fill="#d5c0a4" stroke="#9b8064" stroke-width="6"/>
+<text x="70" y="60" fill="#65513e" font-family="Georgia,serif" font-size="34">An evening of conversation at Netherfield</text><text x="70" y="690" fill="#65513e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER X</text>
+</svg>
