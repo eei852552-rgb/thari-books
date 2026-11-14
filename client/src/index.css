@@ -464,3 +464,20 @@ a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-o
   .burmese-reader { padding: 25px 18px 20px; }
   .burmese-reader > p, .reader-ideas { font-size: 11px; }
 }
+
+
+/* Full Burmese chapter translation reader */
+.reader-full-translation { margin-top: 8px; }
+.reader-chapter {
+  margin: 8px 0 16px;
+  color: #424f5d;
+  font-family: 'Noto Sans Myanmar', sans-serif;
+  font-size: 12px;
+  line-height: 2.15;
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+.reader-full-translation .reader-note { margin-top: 18px; }
+@media (max-width: 600px) {
+  .reader-chapter { font-size: 11px; line-height: 2.1; }
+}
