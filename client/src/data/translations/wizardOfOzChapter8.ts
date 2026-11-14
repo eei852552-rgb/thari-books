@@ -10,6 +10,13 @@ export const wizardOfOzChapter8My = [
     readingType: "translation",
     title: "အခန်း (၈) — အန္တရာယ်များသော ဘိန်းပန်းခင်း",
     titleEn: "Chapter VIII — The Deadly Poppy Field",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-8.svg",
+      altMy: "နီရဲသော ဘိန်းပန်းခင်းအတွင်း ဒေါ်ရသီ အိပ်ပျော်နေပြီး ကောက်ရိုးလူနှင့် သံဖြူလူသားတို့ ကူညီသယ်ဆောင်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy resting among scarlet poppies as her companions help her toward safety",
+      captionMy: "အခန်း (၈) — ဘိန်းပန်းခင်းကို ဖြတ်သန်းခြင်း",
+      captionEn: "Chapter VIII — Through the poppy field",
+    },
     contentEn: `Our little party of travelers awoke the next morning refreshed and full of hope. Dorothy had a breakfast of peaches and plums from the trees beside the river. Behind them lay the dark forest they had safely crossed, despite its many difficulties. Before them stretched a lovely, sunny country that seemed to invite them toward the Emerald City.
 
 The broad river still separated them from this beautiful land. Fortunately, the raft was nearly finished. After the Tin Woodman cut a few more logs and fastened them together with wooden pegs, they were ready to set out. Dorothy sat in the middle of the raft, holding Toto in her arms.
