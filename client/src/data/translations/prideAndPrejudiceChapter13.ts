@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter13My = [
     number: 13,
     title: "အခန်း (၁၃)",
     titleEn: "Chapter XIII",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-13.svg",
+      altMy: "မစ္စတာ ကောလင်းစ်က လောင်ဘွန်းဧည့်ခန်းတွင် မစ္စတာနှင့် မစ္စစ် ဘင်နက်တို့ကို ယဉ်ကျေးစွာ နှုတ်ဆက်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Mr Collins formally greeting Mr and Mrs Bennet in the Longbourn drawing room",
+      captionMy: "အခန်း (၁၃) — ဆွေမျိုးအသစ်၏ ရောက်ရှိလာမှု",
+      captionEn: "Chapter XIII — A new relative arrives",
+    },
     contentEn: `The family at Longbourn was still discussing Mr. Bingley and the recent events when Mr. Bennet received a letter from a distant relative, Mr. Collins.
 
 Mr. Collins was the person who would inherit the Longbourn estate after Mr. Bennet's death, because the property could not pass to his daughters. His letter was written in a very formal style. He explained that he wished to make peace with the family and hoped to visit them soon.
