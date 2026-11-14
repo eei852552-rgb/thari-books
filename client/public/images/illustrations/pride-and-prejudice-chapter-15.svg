@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">A meeting in Meryton</title>
+<desc id="desc">Elizabeth and her sisters meet Mr Wickham in Meryton while Mr Bingley and Mr Darcy approach nearby.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8d2d5"/><stop offset="1" stop-color="#f0dfbd"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 460Q300 380 600 455T1200 440V720H0Z" fill="#8ba174"/>
+<!-- town houses -->
+<g fill="#d9c5a7" stroke="#806f55" stroke-width="7"><path d="M60 450V260h180v190Z"/><path d="M40 260l110-90 110 90Z"/><path d="M950 450V280h190v170Z"/><path d="M930 280l115-90 115 90Z"/></g>
+<g fill="#a8c4c6" stroke="#806f55" stroke-width="5"><rect x="95" y="310" width="45" height="55"/><rect x="165" y="310" width="45" height="55"/><rect x="990" y="325" width="45" height="50"/><rect x="1060" y="325" width="45" height="50"/></g>
+<!-- Elizabeth -->
+<circle cx="340" cy="370" r="31" fill="#e8c6a7"/><path d="M309 360q8-44 36-40q28 4 32 40" fill="#654634"/><path d="M305 420h70l24 150h-118Z" fill="#7f9b8c" stroke="#4e6c5f" stroke-width="6"/>
+<!-- Jane -->
+<circle cx="455" cy="370" r="31" fill="#e8c6a7"/><path d="M424 360q8-44 36-40q28 4 32 40" fill="#9b7257"/><path d="M420 420h70l24 150h-118Z" fill="#e8d8b5" stroke="#a48b6c" stroke-width="6"/>
+<!-- Wickham -->
+<circle cx="625" cy="340" r="34" fill="#e4c2a1"/><path d="M591 330q8-48 39-44q30 5 34 44" fill="#70543e"/><path d="M585 390h80l25 165H560Z" fill="#526b82" stroke="#344d63" stroke-width="7"/>
+<!-- Darcy -->
+<circle cx="850" cy="330" r="32" fill="#e4c2a1"/><path d="M818 320q8-45 36-41q28 4 32 41" fill="#4b3b33"/><path d="M810 370h80l24 150h-128Z" fill="#293f52" stroke="#1d2e3d" stroke-width="6"/>
+<text x="70" y="80" fill="#425b66" font-family="Georgia,serif" font-size="36">An unexpected meeting in Meryton</text><text x="70" y="125" fill="#425b66" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER XV</text>
+</svg>
