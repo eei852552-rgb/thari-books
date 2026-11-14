@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { ArrowRight, ArrowUpRight, BookOpen, BriefcaseBusiness, FlaskConical, Globe2, History, Lightbulb, Search, Sparkles, X } from "lucide-react";
 import { openBooks, openBookCategories } from "../data/openBooks";
+import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejudice";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
@@ -118,7 +119,7 @@ export default function Home() {
                 <div className="book-meta"><div><span className="book-category">{book.categoryMy} · အင်္ဂလိပ်ဘာသာ · {book.title}</span><h3>{book.titleMy}</h3></div><span className="book-demo-tag">FREE</span></div>
                 <p className="book-description">{book.descriptionMy}</p>
                 <div className="book-actions">
-                  <button className="read-button" type="button" onClick={() => setSelectedBook(book)}>မြန်မာအကျဉ်းချုပ်ဖတ်ရန် <BookOpen size={16} /></button>
+                  <button className="read-button" type="button" onClick={() => setSelectedBook(book)}>{book.id === "pride-and-prejudice" ? "မြန်မာဘာသာပြန်အခန်းဖတ်ရန်" : "မြန်မာအကျဉ်းချုပ်ဖတ်ရန်"} <BookOpen size={16} /></button>
                   <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">English မူရင်း <ArrowUpRight size={16} /></a>
                 </div>
               </article>
@@ -142,11 +143,25 @@ export default function Home() {
             <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · မြန်မာဘာသာ</span>
             <h2 id="reader-title">{selectedBook.titleMy}</h2>
             <p className="dialog-subtitle">{selectedBook.title} · {selectedBook.author}</p>
-            <h3>စာအုပ်အကြောင်း မြန်မာလို</h3>
-            <p>{selectedBook.synopsisMy}</p>
-            <h3>အဓိက မှတ်သားစရာများ</h3>
-            <ul className="reader-ideas">{selectedBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul>
-            <p className="reader-note">{selectedBook.readingNoteMy}</p>
+            {selectedBook.id === "pride-and-prejudice" ? (
+              <div className="reader-full-translation">
+                {prideAndPrejudiceChaptersMy.map((chapter) => (
+                  <section key={chapter.number}>
+                    <h3>{chapter.title} — အပြည့်အစုံဘာသာပြန်</h3>
+                    <p className="reader-chapter">{chapter.content}</p>
+                  </section>
+                ))}
+                <p className="reader-note">ဤစာအုပ်၏ အခန်း (၁) ကို အပြည့်အစုံ မြန်မာဘာသာပြန်ထားသည်။ ကျန်အခန်းများကိုလည်း အစဉ်လိုက် ထပ်မံဖြည့်သွင်းမည်။</p>
+              </div>
+            ) : (
+              <>
+                <h3>စာအုပ်အကြောင်း မြန်မာလို</h3>
+                <p>{selectedBook.synopsisMy}</p>
+                <h3>အဓိက မှတ်သားစရာများ</h3>
+                <ul className="reader-ideas">{selectedBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul>
+                <p className="reader-note">{selectedBook.readingNoteMy}</p>
+              </>
+            )}
             <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">English မူရင်းစာအုပ် ဖတ်ရန် <ArrowUpRight size={16} /></a>
           </section>
         </div>
