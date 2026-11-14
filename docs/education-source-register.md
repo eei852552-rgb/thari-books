@@ -227,3 +227,50 @@ Source: https://www.moe.gov.mm/en/node/4063
 | Grade 10 | source-found | Eight individual new-curriculum subject pages on official MOE index, tagged 2020-2021; completeness/current edition not established |
 
 No subject in this update is marked verified-current. No official textbook file is copied, rehosted, or offered for sale by this research update.
+
+
+## Official learning-resource links added — 2026-11-14
+
+### Ministry of Education radio-lesson archive
+
+The official Ministry radio archive was opened and its first page visibly lists these individual lessons:
+
+| Grade | Lesson title | Catalog treatment |
+|---|---|---|
+| Grade 3 | ရေတွင် မြှုပ်နိုင်ပေါနိုင်သော အရာများ (၁) မြှုပ်ခြင်း၊ပေါ်ခြင်း | Link to Ministry archive only |
+| Grade 3 | အချိန်နှင့်ကြာသောအချိန် | Link to Ministry archive only |
+| Grade 3 | သင်ရိုးသစ်မြန်မာစာမိတ်ဆက်ဆွေးနွေးခြင်း | Link to Ministry archive only |
+| Grade 4 | လူမှုရေးဘာသာမိတ်ဆက်ဆွေးနွေးခြင်း | Link to Ministry archive only |
+| Grade 6 | ပထဝီဝင်ဘာသာရပ် သင်ရိုးမိတ်ဆက် | Link to Ministry archive only |
+| Grade 6 | အလယ်တန်းသင်ရိုးသစ် သိပ္ပံဘာသာရပ်မိတ်ဆက် | Link to Ministry archive only |
+| Grade 6 | အက္ခရာကိန်းတန်းများ | Link to Ministry archive only |
+
+Official archive: https://www.moe.gov.mm/my/radio-lessons
+
+The lesson names and grade labels were checked on the Ministry page. The archive is paginated and this first-page sample is not a complete catalogue or current textbook subject inventory. Audio files are not copied or hosted by THARi BOOKS; each item links back to the Ministry archive. The browser could not preview the MP3 file payloads directly, so audio playback on all devices has not been independently tested.
+
+### KG guide page
+
+The Department of Myanmar Examinations page is currently accessible and lists KG-1 Language Guide, KG-2 Learning Guide and KG-3 Teacher Guide with PDF links:
+https://www.myanmarexam.org/news/23
+
+The individual PDF links timed out or returned gateway errors during automated checks. The catalogue therefore links to the official guide index only if/when a dedicated KG resource card is added; no PDF is mirrored or claimed as THARi content.
+
+### 2026–2027 school-year context
+
+A 2026 Ministry of Information report says that textbooks and learning materials are being supplied across KG–Grade 12 for the 2026–2027 academic year. It gives broad examples for primary grades but does not provide a complete grade-by-grade subject inventory:
+https://www.moi.gov.mm/mal/sites/default/files/newspaper-pdf/2026-05/mal%2024.5.26.pdf
+
+A separate official report says the 2026–2027 school year began on 1 June 2026 and textbooks were being provided to primary, middle and high-school students:
+https://presoffministry.gov.mm/en/news/36410
+
+These reports are contextual evidence only. They do not upgrade any subject to `verified_current`, and do not establish permission to copy or redistribute textbooks.
+
+### Current catalogue effect
+
+- Added seven source-found lesson subjects across Grades 3, 4 and 6.
+- Added seven public external-link records for the Ministry radio archive, with `rightsStatus: "link_only"`.
+- The publication guard permits `link_only` only as an external link; THARi BOOKS does not host or resell those materials.
+- Grade 1 remains source-found only; its old DME notice URL returned 404.
+- Grade 10 remains source-found only; the eight located MOE pages carry 2020–2021 tags.
+- No subject is marked verified-current.
