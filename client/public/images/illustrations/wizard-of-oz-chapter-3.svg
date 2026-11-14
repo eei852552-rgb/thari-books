@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Dorothy meets the Scarecrow</title><desc id="desc">An original storybook illustration of Dorothy meeting a friendly scarecrow beside a golden cornfield and the yellow brick road.</desc>
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#8fc9c3"/><stop offset="1" stop-color="#f3dfad"/></linearGradient>
+ <linearGradient id="field" x2="0" y2="1"><stop stop-color="#c7a65b"/><stop offset="1" stop-color="#71834c"/></linearGradient>
+ <linearGradient id="road" x2="0" y2="1"><stop stop-color="#f7df83"/><stop offset="1" stop-color="#c99e42"/></linearGradient>
+</defs>
+<rect width="1200" height="720" fill="url(#sky)"/>
+<circle cx="1000" cy="130" r="66" fill="#f6d889" opacity=".9"/>
+<path d="M0 390Q220 330 430 395T850 380T1200 395V720H0Z" fill="#789263"/>
+<path d="M0 470Q190 390 410 470T850 450T1200 465V720H0Z" fill="url(#field)"/>
+<g stroke="#4f6946" stroke-width="9" fill="none" stroke-linecap="round">
+ <path d="M70 720Q95 570 75 450M135 720Q120 565 170 430M220 720Q190 565 250 455M1020 720Q990 560 1040 430M1100 720Q1080 560 1140 445"/>
+</g>
+<g fill="#d5b65e" opacity=".95">
+ <path d="M75 500q-50-35-65-5q38 35 65 5M75 535q55-38 80-10q-35 38-80 10M170 480q-45-32-65-5q35 34 65 5M170 520q50-35 70-8q-33 35-70 8M1040 480q-45-32-65-5q35 34 65 5M1040 520q50-35 70-8q-33 35-70 8"/>
+</g>
+<path d="M455 720Q540 590 610 485Q660 430 715 420Q760 445 790 485Q850 585 930 720Z" fill="url(#road)"/>
+<path d="M565 650h260M600 590h190M630 540h130M658 500h82" stroke="#fff0b5" stroke-width="13" opacity=".8"/>
+<!-- scarecrow pole -->
+<path d="M790 270V635" stroke="#604b35" stroke-width="17" stroke-linecap="round"/>
+<!-- scarecrow body -->
+<path d="M710 315L870 315L890 495L690 495Z" fill="#4f7190" stroke="#314d63" stroke-width="8"/>
+<path d="M720 340L655 455M860 340L930 455" stroke="#9b8054" stroke-width="22" stroke-linecap="round"/>
+<path d="M725 495L710 600M855 495L870 600" stroke="#4f7190" stroke-width="27" stroke-linecap="round"/>
+<path d="M705 600h40M855 600h45" stroke="#463d35" stroke-width="22" stroke-linecap="round"/>
+<path d="M690 310Q790 255 890 310L875 335H705Z" fill="#d0b26b" stroke="#604b35" stroke-width="7"/>
+<path d="M720 245Q790 210 860 245L845 300H735Z" fill="#49647c" stroke="#314d63" stroke-width="7"/>
+<circle cx="755" cy="275" r="8" fill="#314d63"/><circle cx="825" cy="275" r="8" fill="#314d63"/>
+<path d="M760 295q30 22 60 0" fill="none" stroke="#8b6047" stroke-width="6" stroke-linecap="round"/>
+<!-- Dorothy -->
+<circle cx="475" cy="420" r="35" fill="#f0c99d" stroke="#6c5543" stroke-width="5"/>
+<path d="M438 410q8-52 45-48q38 4 45 48q-40-22-90 0" fill="#d7a3a0" stroke="#6c5543" stroke-width="5"/>
+<path d="M450 455Q475 440 500 455L525 585Q475 615 425 585Z" fill="#d9e5eb" stroke="#5b6f7c" stroke-width="7"/>
+<path d="M450 455L410 535M500 455L535 520" stroke="#f0c99d" stroke-width="18" stroke-linecap="round"/>
+<path d="M450 585L440 650M500 585L510 650" stroke="#f0c99d" stroke-width="18" stroke-linecap="round"/>
+<path d="M425 650h30M500 650h30" stroke="#8b6650" stroke-width="15" stroke-linecap="round"/>
+<path d="M420 465l-30 90M525 465l30 90" stroke="#6c5543" stroke-width="7" stroke-linecap="round"/>
+<path d="M535 560q30-25 50 0q-15 30-40 20" fill="#242a2b"/>
+<path d="M535 580q20 15 38 0" fill="none" stroke="#242a2b" stroke-width="6"/>
+<text x="72" y="105" fill="#315e55" font-family="Georgia,serif" font-size="36">A new friend on the yellow road</text>
+<text x="72" y="148" fill="#315e55" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER III · COMPLETE TRANSLATION</text>
+</svg>
