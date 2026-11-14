@@ -398,3 +398,32 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 a.subject-row { color: inherit; text-decoration: none; }
 a.subject-row:hover { background: #f8f6f0; }
 a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-offset: -2px; }
+
+
+/* Original interactive KG starter lessons */
+.kg-starter { margin-top: 22px; padding-top: 18px; border-top: 1px solid #e8e2d5; }
+.kg-starter-heading { display: flex; align-items: center; gap: 10px; }
+.kg-starter-icon { display: grid; width: 34px; height: 34px; flex: 0 0 auto; place-items: center; border: 1px solid #e4d6b5; color: #92733c; background: #faf6eb; }
+.kg-starter-heading h3 { margin: 0; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 12px; font-weight: 600; line-height: 1.8; }
+.kg-starter-heading p { margin: 2px 0 0; color: #8b7954; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px; line-height: 1.8; }
+.kg-starter-note, .kg-starter-footer { margin: 12px 0 !important; padding: 9px 11px; color: #6c7077 !important; background: #f7f5ef; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px !important; line-height: 1.9 !important; }
+.kg-lesson-list { display: grid; gap: 10px; }
+.kg-lesson-card { padding: 13px; border: 1px solid #e9e3d8; background: #fffefa; }
+.kg-lesson-topline { display: flex; justify-content: space-between; gap: 8px; color: #947a43; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 8px; }
+.kg-lesson-card h4 { margin: 7px 0 5px; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 12px; font-weight: 600; }
+.kg-lesson-prompt { margin: 0 !important; color: #596371 !important; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 10px !important; line-height: 1.9 !important; }
+.kg-lesson-visual { margin: 10px 0; color: #b28a42; font-size: 22px; letter-spacing: 3px; text-align: center; }
+.kg-choice-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; margin-top: 11px; }
+.kg-choice { display: flex; min-height: 38px; justify-content: center; align-items: center; gap: 5px; padding: 6px; border: 1px solid #e6e1d7; color: #34445a; background: #fff; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px; cursor: pointer; }
+.kg-choice:hover, .kg-choice:focus-visible { border-color: #c6a355; outline: none; background: #faf7ef; }
+.kg-choice.is-correct { border-color: #8aaf91; color: #315e3c; background: #f0f7f0; }
+.kg-choice.is-wrong { border-color: #d9b18d; color: #80512e; background: #fbf4ed; }
+.kg-feedback { margin: 9px 0 0 !important; padding: 7px 9px; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px !important; line-height: 1.9 !important; }
+.kg-feedback.feedback-correct { color: #315e3c !important; background: #f0f7f0; }
+.kg-feedback.feedback-try-again { color: #80512e !important; background: #fbf4ed; }
+.kg-starter-footer { margin-bottom: 0 !important; }
+@media (max-width: 420px) {
+  .kg-choice-list { grid-template-columns: 1fr; }
+  .kg-choice { justify-content: space-between; min-height: 40px; padding: 8px 10px; }
+  .kg-lesson-topline { flex-wrap: wrap; }
+}
