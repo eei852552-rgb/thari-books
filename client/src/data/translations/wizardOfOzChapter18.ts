@@ -11,6 +11,13 @@ export const wizardOfOzChapter18My = [
     readingType: "translation",
     title: "အခန်း (၁၈) — တောင်ဘက်သို့ ခရီး",
     titleEn: "Chapter XVIII — Away to the South",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-18.svg",
+      altMy: "ဒေါ်ရသီနှင့် မိတ်ဆွေများက တောင်ပိုင်းရှိ ဂလင်ဒါ၏ နယ်မြေသို့ ခရီးစတင်ရန် ပြင်ဆင်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and her companions preparing to travel south toward Glinda's country",
+      captionMy: "အခန်း (၁၈) — တောင်ဘက်ခရီး စတင်ခြင်း",
+      captionEn: "Chapter XVIII — Beginning the journey south",
+    },
     contentEn: `Dorothy was very sad when her hope of returning to Kansas with Oz disappeared. But after thinking it over, she was glad she had not gone up in the balloon. She also felt sorry that Oz had gone away, and her companions felt the same.
 
 The Tin Woodman came to her and said:
