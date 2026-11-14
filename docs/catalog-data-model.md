@@ -103,7 +103,7 @@ Implemented:
 - The eight general-library category records.
 - A publication guard that only allows public resources with approved review status and an explicit permitted rights state.
 
-The subject array now contains 14 source-found records: six Grade 1 textbook subjects listed in an official Department of Myanmar Examinations notice, and eight Grade 10 new-curriculum subjects with individual Ministry of Education pages tagged 2020-2021. None is marked verified-current; the Grade 1 source URL currently returns 404 when opened, and the Grade 10 pages' historical tag does not prove a complete 2026-2027 inventory. The learning-resource array remains empty. This file is not yet connected to the homepage UI and does not create a database or backend.
+The subject array now contains 21 source-found records: six Grade 1 textbook subjects, eight Grade 10 subjects with 2020-2021 Ministry page tags, and seven individual lesson subjects identified in the Ministry radio archive across Grades 3, 4 and 6. None is marked verified-current. Seven external-link resource records point to the official Ministry radio archive; they are link-only and are not copied or hosted by THARi BOOKS. The homepage grade details display these source-found subjects and available official archive links. This remains a static catalogue with no database or backend.
 
 
 ## Evidence added — 2026-11-14
@@ -113,3 +113,12 @@ The subject array now contains 14 source-found records: six Grade 1 textbook sub
 - The Ministry index also labels some Grade 11 entries as old curriculum. Do not mix them into new-curriculum Grade 10 records or assume they represent the current Grade 11 catalogue.
 
 See `docs/education-source-register.md` for source URLs and caveats.
+
+
+## Stage-two static catalogue update — 2026-11-14
+
+- The static catalogue contains 21 source-found subject records and seven official Ministry radio-lesson archive links.
+- Grade 3, Grade 4 and Grade 6 grade-detail dialogs show the discovered lesson subjects and link to the Ministry archive.
+- `link_only` is an allowed publication state only for external linking; it does not permit copying, downloading for redistribution, rehosting, or sale.
+- The official 2026–2027 school-year reports provide broad textbook-distribution context but do not prove complete subject lists or current editions.
+- No login, payment, membership, upload, database, or backend has been added.
