@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter17My = [
     number: 17,
     title: "အခန်း (၁၇)",
     titleEn: "Chapter XVII",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-17.svg",
+      altMy: "ဂျိန်းနှင့် အဲလိဇဘက်တို့ လောင်ဘွန်းဧည့်ခန်းတွင် နက်သာဖီးလ်ဒ်အကပွဲ ဖိတ်စာကို ဖတ်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Jane and Elizabeth reading the invitation to the Netherfield ball at Longbourn",
+      captionMy: "အခန်း (၁၇) — နက်သာဖီးလ်ဒ်အကပွဲ ဖိတ်စာ",
+      captionEn: "Chapter XVII — The invitation to the Netherfield ball",
+    },
     contentEn: `The next day Elizabeth told Jane everything she had heard from Mr. Wickham. Jane listened with surprise and concern. She found it difficult to believe that Mr. Darcy could have behaved so unfairly toward someone who had been treated kindly by his father.
 
 Jane did not wish to accuse either man without knowing all the facts. She suggested that there might have been a misunderstanding, or that Wickham's account might not include every part of the story.
