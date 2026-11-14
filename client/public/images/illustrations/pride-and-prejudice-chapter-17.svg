@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The invitation to the Netherfield ball</title>
+<desc id="desc">Jane and Elizabeth read an invitation at Longbourn while the family begins preparing for the upcoming ball.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eadcc6"/><stop offset="1" stop-color="#c7b18e"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="90" y="90" width="220" height="270" fill="#a6bdb6" stroke="#806d55" stroke-width="11"/><path d="M200 90v270M90 225h220" stroke="#f0e7d6" stroke-width="8"/>
+<rect x="390" y="465" width="450" height="110" rx="18" fill="#8a6047"/><rect x="430" y="425" width="370" height="70" rx="18" fill="#a97d5c"/>
+<!-- Jane -->
+<circle cx="500" cy="300" r="36" fill="#e8c6a7"/><path d="M464 290q10-48 40-44q31 5 35 44" fill="#9b7257"/><path d="M455 350h90l28 145H427Z" fill="#e8d8b5" stroke="#a48b6c" stroke-width="7"/>
+<!-- Elizabeth -->
+<circle cx="700" cy="300" r="36" fill="#e8c6a7"/><path d="M664 290q10-48 40-44q31 5 35 44" fill="#654634"/><path d="M655 350h90l28 145H627Z" fill="#7f9b8c" stroke="#4e6c5f" stroke-width="7"/>
+<!-- letter -->
+<path d="M590 455h110v65H590Z" fill="#f5ebd8" stroke="#9b7b58" stroke-width="5"/><path d="M590 455l55 38 55-38" fill="none" stroke="#9b7b58" stroke-width="4"/>
+<text x="70" y="60" fill="#65513e" font-family="Georgia,serif" font-size="34">A letter brings news of a ball</text><text x="70" y="690" fill="#65513e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER XVII</text>
+</svg>
