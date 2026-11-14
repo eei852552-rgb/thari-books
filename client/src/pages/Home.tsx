@@ -2,9 +2,15 @@ import { useMemo, useState } from "react";
 import { ArrowRight, ArrowUpRight, BookOpen, BriefcaseBusiness, FlaskConical, Globe2, History, Lightbulb, Search, Sparkles, X } from "lucide-react";
 import { openBooks, openBookCategories } from "../data/openBooks";
 import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejudice";
+import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
+
+const readerChaptersByBookId = {
+  "pride-and-prejudice": prideAndPrejudiceChaptersMy,
+  "wonderful-wizard-of-oz": wizardOfOzChaptersMy,
+};
 
 function splitReaderPages(content: string, maxCharacters = 1900): string[] {
   const paragraphs = content.split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
@@ -33,8 +39,9 @@ export default function Home() {
   const [selectedBook, setSelectedBook] = useState<(typeof openBooks)[number] | null>(null);
   const [readerLanguage, setReaderLanguage] = useState<"my" | "en">("my");
   const [readerPage, setReaderPage] = useState(0);
-  const activeChapter = prideAndPrejudiceChaptersMy[0];
-  const readerContent = readerLanguage === "my" ? activeChapter.content : activeChapter.contentEn;
+  const readerChapters = selectedBook ? readerChaptersByBookId[selectedBook.id as keyof typeof readerChaptersByBookId] ?? [] : [];
+  const activeChapter = readerChapters[0] ?? null;
+  const readerContent = activeChapter ? (readerLanguage === "my" ? activeChapter.content : activeChapter.contentEn) : "";
   const readerPages = useMemo(() => splitReaderPages(readerContent), [readerContent]);
   const normalizedQuery = query.normalize("NFC").trim().toLocaleLowerCase();
 
@@ -145,7 +152,7 @@ export default function Home() {
                 <div className="book-meta"><div><span className="book-category">{book.categoryMy} · အင်္ဂလိပ်ဘာသာ · {book.title}</span><h3>{book.titleMy}</h3></div><span className="book-demo-tag">FREE</span></div>
                 <p className="book-description">{book.descriptionMy}</p>
                 <div className="book-actions">
-                  <button className="read-button" type="button" onClick={() => { setSelectedBook(book); setReaderLanguage("my"); setReaderPage(0); }}>{book.id === "pride-and-prejudice" ? "မြန်မာဘာသာပြန်အခန်းဖတ်ရန်" : "မြန်မာအကျဉ်းချုပ်ဖတ်ရန်"} <BookOpen size={16} /></button>
+                  <button className="read-button" type="button" onClick={() => { setSelectedBook(book); setReaderLanguage("my"); setReaderPage(0); }}>{book.id === "pride-and-prejudice" || book.id === "wonderful-wizard-of-oz" ? "မြန်မာဘာသာပြန်အခန်းဖတ်ရန်" : "မြန်မာအကျဉ်းချုပ်ဖတ်ရန်"} <BookOpen size={16} /></button>
                   <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">English မူရင်း <ArrowUpRight size={16} /></a>
                 </div>
               </article>
@@ -169,7 +176,7 @@ export default function Home() {
             <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · မြန်မာ / English</span>
             <h2 id="reader-title">{selectedBook.titleMy}</h2>
             <p className="dialog-subtitle">{selectedBook.title} · {selectedBook.author}</p>
-            {selectedBook.id === "pride-and-prejudice" ? (
+            {readerChapters.length > 0 && activeChapter ? (
               <div className="reader-full-translation">
                 <div className="reader-language-switch" role="group" aria-label="စာဖတ်ဘာသာစကား ရွေးချယ်ရန်">
                   <button type="button" className={readerLanguage === "my" ? "is-active" : ""} aria-pressed={readerLanguage === "my"} onClick={() => { setReaderLanguage("my"); setReaderPage(0); }}>မြန်မာ</button>
@@ -187,7 +194,7 @@ export default function Home() {
                   <span>{readerPage + 1} / {readerPages.length}</span>
                   <button type="button" disabled={readerPage >= readerPages.length - 1} onClick={() => setReaderPage((page) => Math.min(readerPages.length - 1, page + 1))}>နောက်စာမျက်နှာ</button>
                 </div>
-                <p className="reader-note">{readerLanguage === "my" ? "မြန်မာဘာသာပြန် — အခန်း (၁)။ ကျန်အခန်းများကို ဆက်လက်ဖြည့်သွင်းနေဆဲဖြစ်သည်။" : "English original — Chapter I. Original text source: Project Gutenberg."}</p>
+                <p className="reader-note">{readerLanguage === "my" ? "မြန်မာဘာသာပြန် — {activeChapter.title}။ ကျန်အခန်းများကို ဆက်လက်ဖြည့်သွင်းနေဆဲဖြစ်သည်။" : "English original — {activeChapter.title}. Source: {selectedBook.source}."}</p>
               </div>
             ) : (
               <>
