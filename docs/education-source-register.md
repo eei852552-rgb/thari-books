@@ -274,3 +274,25 @@ These reports are contextual evidence only. They do not upgrade any subject to `
 - Grade 1 remains source-found only; its old DME notice URL returned 404.
 - Grade 10 remains source-found only; the eight located MOE pages carry 2020–2021 tags.
 - No subject is marked verified-current.
+
+
+## KG official guide index — rechecked 2026-11-14
+
+The Department of Myanmar Examinations' current public page titled "New Curriculum KG Text Book and Teacher Guide" is accessible and lists three items:
+- KG-1 Language Guide (PDF, 3.64 MB)
+- KG-2 Learning Guide (PDF, 4.31 MB)
+- KG-3 Teacher Guide (PDF, 17.56 MB)
+
+Official index page: https://www.myanmarexam.org/news/23
+
+The page is labelled © 2026 by Myanmar Examinations Department. The three direct PDF targets resolve to:
+- https://resources.mmoe.myanmarexam.org/docs/guide/kg1-language-guide.pdf
+- https://resources.mmoe.myanmarexam.org/docs/guide/kg2-learning-guide.pdf
+- https://resources.mmoe.myanmarexam.org/docs/guide/kg3-teacher-guide.pdf
+
+The official index page is accessible, but all three direct PDF requests returned HTTP 502 Bad Gateway during this check. Therefore THARi BOOKS links to the official index page, not to the unverified PDF endpoints. These are official guide references, not a complete KG subject list and not evidence of current edition year. No guide files are copied, hosted, or sold by THARi BOOKS.
+
+Catalogue status:
+- KG grade: remains `unverified` for full curriculum inventory.
+- Three KG guide references: `source_found` at the official DME index, `link_only` rights status.
+- No direct PDF download is advertised as working.
