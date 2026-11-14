@@ -9,7 +9,7 @@ import Home from "./pages/Home";
 function Router() {
   // GitHub Pages serves this app from /thari-books/, not the domain root.
   // Wouter must strip Vite's deployment base before matching application routes.
-  const base = import.meta.env.BASE_URL.replace(/\\/$/, "") || "/";
+  const base = import.meta.env.BASE_URL === "/" ? "/" : import.meta.env.BASE_URL.slice(0, -1);
   return (
     <WouterRouter base={base}>
       <Switch>
