@@ -10,6 +10,13 @@ export const wizardOfOzChapter24My = [
     readingType: "translation",
     title: "အခန်း (၂၄) — အိမ်ပြန်ရောက်ခြင်း",
     titleEn: "Chapter XXIV — Home Again",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-24.svg",
+      altMy: "ဒေါ်ရသီသည် အန်တီအမ်ကို ပြန်လည်တွေ့ဆုံပြီး တိုတိုနှင့်အတူ ကန်ဆတ်လယ်အိမ်ရှေ့တွင် ပျော်ရွှင်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy reuniting with Aunt Em beside their Kansas farmhouse, with Toto nearby",
+      captionMy: "အခန်း (၂၄) — အိမ်ပြန်ရောက်ခြင်း",
+      captionEn: "Chapter XXIV — Home again",
+    },
     contentEn: `Dorothy held Toto in her arms and brought the heels of her Silver Shoes together three times.
 
 “Take me home to Aunt Em!” she cried.
