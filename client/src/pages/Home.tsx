@@ -146,8 +146,8 @@ function SearchBox({
         type="search"
         value={value}
         onChange={(event) => onChange(event.target.value)}
-        placeholder="စာအုပ်၊ အတန်း၊ အမျိုးအစား ရှာရန်…"
-        aria-label="စာအုပ်၊ အတန်း၊ အမျိုးအစား ရှာဖွေရန်"
+        placeholder="အတန်း၊ အမျိုးအစား၊ နမူနာစာအုပ် ရှာရန်…"
+        aria-label="အတန်း၊ အမျိုးအစား၊ နမူနာစာအုပ် ရှာဖွေရန်"
       />
       <kbd aria-hidden="true">⌕</kbd>
     </label>
