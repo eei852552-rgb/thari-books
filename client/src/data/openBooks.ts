@@ -13,6 +13,7 @@ export type OpenBook = {
   categoryMy: string;
   descriptionMy: string;
   source: "Project Gutenberg";
+  language: "English";
   sourceUrl: string;
   access: "free_external_read";
   rightsNote: string;
@@ -28,6 +29,7 @@ export const openBooks: readonly OpenBook[] = [
     categoryMy: "ဝတ္ထုနှင့် စိတ်ကူးယဉ်",
     descriptionMy: "မိသားစု၊ လူမှုဆက်ဆံရေးနှင့် လူ့သဘာဝကို ဟာသနှော၍ ရေးသားထားသော ဂန္ထဝင်ဝတ္ထု။",
     source: "Project Gutenberg",
+    language: "English",
     sourceUrl: "https://www.gutenberg.org/ebooks/1342",
     access: "free_external_read",
     rightsNote: "မူရင်းဝက်ဘ်ဆိုက်တွင် အခမဲ့ဖတ်ရှုရန် လင့်ခ်သာဖြစ်သည်။ ပြန်လည်ကူးယူတင်ရန် နိုင်ငံအလိုက် မူပိုင်ခွင့်ကို သီးခြားစစ်ဆေးပါ။",
