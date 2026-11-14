@@ -166,7 +166,7 @@ export default function Home() {
         <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSelectedBook(null); }}>
           <section className="demo-dialog burmese-reader" role="dialog" aria-modal="true" aria-labelledby="reader-title">
             <button className="dialog-close" type="button" onClick={() => setSelectedBook(null)} aria-label="ပိတ်ရန်"><X size={19} /></button>
-            <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · မြန်မာဘာသာ</span>
+            <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · မြန်မာ / English</span>
             <h2 id="reader-title">{selectedBook.titleMy}</h2>
             <p className="dialog-subtitle">{selectedBook.title} · {selectedBook.author}</p>
             {selectedBook.id === "pride-and-prejudice" ? (
@@ -178,7 +178,7 @@ export default function Home() {
                 <section className="reader-page">
                   <div className="reader-page-heading">
                     <h3>{activeChapter.title}</h3>
-                    <span>Page {readerPage + 1} / {readerPages.length}</span>
+                    <span>{readerLanguage === "my" ? "စာမျက်နှာ" : "Page"} {readerPage + 1} / {readerPages.length}</span>
                   </div>
                   <p className={"reader-chapter " + (readerLanguage === "en" ? "reader-chapter-en" : "")}>{readerPages[readerPage] ?? ""}</p>
                 </section>
