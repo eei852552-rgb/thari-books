@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Netherfield ball</title>
+<desc id="desc">Guests dance beneath chandeliers at the Netherfield ball, with Jane and Bingley together and Elizabeth speaking with Darcy.</desc>
+<defs><linearGradient id="room" x2="0" y2="1"><stop stop-color="#ead9bd"/><stop offset="1" stop-color="#b89b7b"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#room)"/><path d="M0 590h1200v130H0Z" fill="#694a38"/>
+<path d="M600 0v100M500 100h200" stroke="#7a6045" stroke-width="8"/><g fill="#ffe5a4"><circle cx="500" cy="145" r="14"/><circle cx="600" cy="135" r="16"/><circle cx="700" cy="145" r="14"/></g>
+<g fill="#f1e5cf" stroke="#967858" stroke-width="7"><rect x="75" y="100" width="170" height="250"/><rect x="955" y="100" width="170" height="250"/></g>
+<!-- Jane and Bingley dancing -->
+<circle cx="330" cy="350" r="30" fill="#e8c6a7"/><path d="M300 340q8-42 34-38q27 4 30 38" fill="#9b7257"/><path d="M295 395h70l25 150h-120Z" fill="#e8d8b5"/>
+<circle cx="440" cy="340" r="30" fill="#e4c2a1"/><path d="M410 330q8-42 34-38q27 4 30 38" fill="#624b3c"/><path d="M405 385h70l25 150h-120Z" fill="#344d5c"/>
+<!-- Elizabeth and Darcy -->
+<circle cx="700" cy="350" r="30" fill="#e8c6a7"/><path d="M670 340q8-42 34-38q27 4 30 38" fill="#654634"/><path d="M665 395h70l25 150h-120Z" fill="#7f9b8c"/>
+<circle cx="810" cy="340" r="30" fill="#e4c2a1"/><path d="M780 330q8-42 34-38q27 4 30 38" fill="#4b3b33"/><path d="M775 385h70l25 150h-120Z" fill="#293f52"/>
+<text x="70" y="65" fill="#65513e" font-family="Georgia,serif" font-size="36">An evening of dancing at Netherfield</text><text x="70" y="690" fill="#f5e8ce" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER XVIII</text>
+</svg>
