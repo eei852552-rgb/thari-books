@@ -334,23 +334,23 @@ export default function Home() {
 
       {selectedBook && (
         <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSelectedBook(null); }}>
-          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
-            <button className="dialog-close" type="button" onClick={() => setSelectedBook(null)} aria-label="ပိတ်ရန်"><X size={19} /></button>
+          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="dialog-title" aria-describedby="dialog-description">
+            <button className="dialog-close" type="button" autoFocus onClick={() => setSelectedBook(null)} aria-label="ပိတ်ရန်"><X size={19} /></button>
             <span className="demo-label"><Sparkles size={13} /> DEMO · အမှန်တကယ်စာအုပ် မဟုတ်ပါ</span>
             <h2 id="dialog-title">{selectedBook.title}</h2>
             <p className="dialog-subtitle">{selectedBook.subtitle}</p>
-            <p>{selectedBook.description}</p>
+            <p id="dialog-description">{selectedBook.description}</p>
             <button className="button-primary dialog-done" type="button" onClick={() => setSelectedBook(null)}>နားလည်ပါပြီ <Check size={16} /></button>
           </section>
         </div>
       )}
       {siteNotice && (
         <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSiteNotice(null); }}>
-          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="site-notice-title">
-            <button className="dialog-close" type="button" onClick={() => setSiteNotice(null)} aria-label="ပိတ်ရန်"><X size={19} /></button>
+          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="site-notice-title" aria-describedby="site-notice-description">
+            <button className="dialog-close" type="button" autoFocus onClick={() => setSiteNotice(null)} aria-label="ပိတ်ရန်"><X size={19} /></button>
             <span className="eyebrow eyebrow-dark">THARi BOOKS · အချက်အလက်</span>
             <h2 id="site-notice-title">{siteNotice.title}</h2>
-            <p>{siteNotice.description}</p>
+            <p id="site-notice-description">{siteNotice.description}</p>
             <button className="button-primary dialog-done" type="button" onClick={() => setSiteNotice(null)}>နားလည်ပါပြီ <Check size={16} /></button>
           </section>
         </div>
