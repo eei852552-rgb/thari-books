@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   ArrowDown,
   ArrowRight,
@@ -136,6 +136,19 @@ export default function Home() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [selectedBook, setSelectedBook] = useState<DemoBook | null>(null);
   const [siteNotice, setSiteNotice] = useState<SiteNotice | null>(null);
+
+  useEffect(() => {
+    function handleEscape(event: KeyboardEvent) {
+      if (event.key !== "Escape") return;
+      setMenuOpen(false);
+      setSelectedBook(null);
+      setSiteNotice(null);
+    }
+
+    window.addEventListener("keydown", handleEscape);
+    return () => window.removeEventListener("keydown", handleEscape);
+  }, []);
+
   const normalizedQuery = query.trim().toLocaleLowerCase();
 
   const visibleCategories = useMemo(
