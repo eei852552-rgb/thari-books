@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter8My = [
     number: 8,
     title: "အခန်း (၈)",
     titleEn: "Chapter VIII",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-8.svg",
+      altMy: "အဲလိဇဘက်သည် နက်သာဖီးလ်ဒ်အိမ်ရှိ အိပ်ရာပေါ်တွင် အနားယူနေသော ဂျိန်းဘေးတွင် ထိုင်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Elizabeth sitting beside Jane as she rests in bed at Netherfield",
+      captionMy: "အခန်း (၈) — ညီမအနားတွင် အဲလိဇဘက်",
+      captionEn: "Chapter VIII — Elizabeth stays beside Jane",
+    },
     contentEn: `After Elizabeth had been with Jane for some time, the Bingley sisters came into the room to ask how she was feeling. They spoke kindly about Jane and said they hoped she would soon recover.
 
 Elizabeth thanked them and returned to Jane's bedside. She was determined to stay until her sister felt better.
