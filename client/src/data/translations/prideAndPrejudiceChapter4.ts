@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter4My = [
     number: 4,
     title: "အခန်း (၄)",
     titleEn: "Chapter IV",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-4.svg",
+      altMy: "ဂျိန်းနှင့် အဲလိဇဘက်တို့ အကပွဲတွင် တွေ့ခဲ့ရသူများအကြောင်း အခန်းငယ်တစ်ခုတွင် ဆွေးနွေးနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Jane and Elizabeth discussing the people they met at the assembly",
+      captionMy: "အခန်း (၄) — ညီအစ်မနှစ်ယောက်၏ အမြင်များ",
+      captionEn: "Chapter IV — Two sisters' impressions",
+    },
     contentEn: `When Jane and Elizabeth were alone together, they spoke about the people they had met at the assembly. Jane was delighted with Mr. Bingley.
 
 “He is exactly what a young man ought to be,” she said. “He is cheerful, kind, and easy to please. He has such a pleasant manner, and he dances beautifully.”
