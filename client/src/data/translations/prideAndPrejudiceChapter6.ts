@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter6My = [
     number: 6,
     title: "အခန်း (၆)",
     titleEn: "Chapter VI",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-6.svg",
+      altMy: "အဲလိဇဘက်နှင့် ချာလော့တ်တို့ မိမိတို့၏ အမြင်များကို ဆွေးနွေးနေပြီး နောက်ခံတွင် ဒါစီနှင့် ဘင်ဂလီညီအစ်မများ ရှိနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Elizabeth and Charlotte discussing their impressions while Darcy and the Bingley sisters are nearby",
+      captionMy: "အခန်း (၆) — လူတစ်ဦးအပေါ် မတူညီသော အမြင်များ",
+      captionEn: "Chapter VI — Different impressions",
+    },
     contentEn: `The ladies of Longbourn soon visited the ladies of Netherfield, and the visit was returned in the usual polite manner. Jane's gentle behaviour made a good impression on Mrs. Hurst and Miss Bingley. They were less pleased with Mrs. Bennet and the younger daughters, whose manners they considered too lively and unrefined.
 
 Jane, however, was welcomed warmly. Miss Bingley and Mrs. Hurst admired her beauty and pleasant manner, and they were glad to see her again.
