@@ -7,7 +7,7 @@ const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Light
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
 
 function splitReaderPages(content: string, maxCharacters = 1900): string[] {
-  const paragraphs = content.split(/\\n\\s*\\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
+  const paragraphs = content.split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
   const pages: string[] = [];
   let currentPage: string[] = [];
   let currentLength = 0;
