@@ -11,6 +11,13 @@ export const wizardOfOzChapter15My = [
     readingType: "translation",
     title: "အခန်း (၁၅) — ကြောက်မက်ဖွယ် အော့ဇ်၏ အမှန်တရား",
     titleEn: "Chapter XV — The Discovery of Oz, the Terrible",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-15.svg",
+      altMy: "ဒေါ်ရသီနှင့် မိတ်ဆွေများက ပလ္လင်ခန်းမအတွင်း အကာအရံနောက်မှ ထွက်လာသော အော့ဇ်ကို တွေ့ရှိနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and her companions discovering the little man behind the screen in the throne room",
+      captionMy: "အခန်း (၁၅) — အော့ဇ်၏ လျှို့ဝှက်ချက် ပေါ်ပေါက်ခြင်း",
+      captionEn: "Chapter XV — The secret behind Oz",
+    },
     contentEn: `The four travelers walked up to the great gate of the Emerald City and rang the bell. After they had rung it several times, the gate was opened by the same Guardian of the Gates they had met before.
 
 “What! Have you come back again?” he asked in surprise.
