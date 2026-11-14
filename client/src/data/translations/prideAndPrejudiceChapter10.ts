@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter10My = [
     number: 10,
     title: "အခန်း (၁၀)",
     titleEn: "Chapter X",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-10.svg",
+      altMy: "အဲလိဇဘက်က နက်သာဖီးလ်ဒ်ဧည့်ခန်းတွင် ထိုင်နေပြီး ဒါစီက စာရေးနေကာ မစ္စ ဘင်ဂလီက အနီးတွင် စကားပြောနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Elizabeth in the Netherfield drawing room while Darcy writes and Miss Bingley talks nearby",
+      captionMy: "အခန်း (၁၀) — နက်သာဖီးလ်ဒ်ညနေခင်း",
+      captionEn: "Chapter X — An evening at Netherfield",
+    },
     contentEn: `The next day passed much like the one before. Jane was still unwell, though she was slowly improving. Mrs. Hurst and Miss Bingley spent part of the morning with her, and Elizabeth was grateful for their attention.
 
 In the evening Elizabeth joined the others in the drawing room. Darcy was writing a letter, while Miss Bingley sat near him and tried to keep his attention. Mrs. Hurst was occupied with a game, and Mr. Bingley moved between the different groups, cheerful as always.
