@@ -11,6 +11,13 @@ export const wizardOfOzChapter12My = [
     readingType: "translation",
     title: "အခန်း (၁၂) — ဆိုးယုတ်သော စုန်းမကို ရှာဖွေခြင်း",
     titleEn: "Chapter XII — The Search for the Wicked Witch",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-12.svg",
+      altMy: "ဒေါ်ရသီနှင့် တိုတိုတို့ အနောက်ပိုင်းစုန်းမ၏ ရဲတိုက်ရှေ့တွင် ရှိနေပြီး ကောင်းကင်တွင် တောင်ပံပါသော မျောက်များ ပျံသန်းနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and Toto at the western castle as Winged Monkeys fly in the distance",
+      captionMy: "အခန်း (၁၂) — အနောက်ပိုင်းစုန်းမ၏ ရဲတိုက်",
+      captionEn: "Chapter XII — The Witch's western castle",
+    },
     contentEn: `The soldier with the green beard led Dorothy and her friends through the streets of the Emerald City to the room where the Guardian of the Gates lived. The Guardian unlocked their spectacles and put them safely back into his large box. Then he politely opened the gate for them.
 
 “Which road leads to the Wicked Witch of the West?” Dorothy asked.
