@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter5My = [
     number: 5,
     title: "အခန်း (၅)",
     titleEn: "Chapter V",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-5.svg",
+      altMy: "ဘင်နက်နှင့် လူးကပ်စ်မိသားစုတို့ ဧည့်ခန်းတွင် ဘင်ဂလီနှင့် ဒါစီအကြောင်း ဆွေးနွေးနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "The Bennet and Lucas families discussing Bingley and Darcy in the drawing room",
+      captionMy: "အခန်း (၅) — လူးကပ်စ်မိသားစု၏ လည်ပတ်မှု",
+      captionEn: "Chapter V — A visit from the Lucas family",
+    },
     contentEn: `Within a short walk of Longbourn lived a family with whom the Bennets were especially friendly. Sir William Lucas had once been a tradesman in Meryton. He had later been honoured with a knighthood and had moved with his family to a house near Longbourn.
 
 Sir William was a good-natured man. He was not especially clever, but he was polite and friendly, and he enjoyed being treated with respect. His wife was a sensible woman, and their eldest daughter, Charlotte, was a close friend of Elizabeth. Charlotte was intelligent and practical, though she was already twenty-seven and had begun to think seriously about her future.
