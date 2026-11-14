@@ -35,6 +35,7 @@ const readerChaptersByBookId = {
 type ReaderChapter = {
   readonly number: number;
   readonly title: string;
+  readonly titleEn?: string;
   readonly content: string;
   readonly contentEn: string;
   readonly readingType?: string;
@@ -237,8 +238,18 @@ export default function Home() {
   const categories = openBookCategories.filter((category) => openBooks.some((book) => book.categoryId === category.id));
   const visibleBooks = useMemo(() => openBooks.filter((book) => {
     const matchesCategory = !selectedCategory || book.categoryId === selectedCategory;
-    const searchable = [book.title, book.titleMy, book.author, book.categoryMy, book.categoryId, book.descriptionMy, book.descriptionEn]
-      .join(" ").normalize("NFC").toLocaleLowerCase();
+    const searchable = [
+      book.title,
+      book.titleMy,
+      book.author,
+      book.categoryMy,
+      openBookCategories.find((category) => category.id === book.categoryId)?.titleEn,
+      book.categoryId,
+      book.descriptionMy,
+      book.descriptionEn,
+      book.synopsisMy,
+      ...book.keyIdeasMy,
+    ].filter(Boolean).join(" ").normalize("NFC").toLocaleLowerCase();
     return matchesCategory && searchable.includes(normalizedQuery);
   }), [normalizedQuery, selectedCategory]);
   const lastReadBook = resumeProgress ? openBooks.find((book) => book.id === resumeProgress.bookId) ?? null : null;
@@ -480,7 +491,7 @@ export default function Home() {
                     <button type="button" className={readerLanguage === "en" ? "is-active" : ""} aria-pressed={readerLanguage === "en"} onClick={() => { setReaderLanguage("en"); setReaderPage(0); }}>{ui.english}</button>
                   </div>
                   <section className="reader-page">
-                    <div className="reader-page-heading"><h3>{activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {readerPage + 1} / {readerPages.length}</span></div>
+                    <div className="reader-page-heading"><h3>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {readerPage + 1} / {readerPages.length}</span></div>
                     <p className={`reader-chapter ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[readerPage] ?? ""}</p>
                   </section>
                   <div className="reader-pagination">
