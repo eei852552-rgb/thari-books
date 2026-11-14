@@ -47,7 +47,8 @@ Library
 | Field | Type | Required | Meaning |
 |---|---|---:|---|
 | id | string | yes | Stable resource slug |
-| subject_id | string | yes | Parent subject |
+| grade_id | string | no | Parent grade for grade-wide resources such as KG guides |
+| subject_id | string | no | Parent subject when the resource belongs to a specific subject |
 | title_my | string | yes | Display title |
 | title_en | string | no | Optional English title |
 | resource_type | enum | yes | `official_textbook_link`, `official_audio_lesson`, `teacher_guide_link`, `original_lesson`, `original_exercise`, `original_diagram`, `reading_link` |
@@ -122,3 +123,11 @@ See `docs/education-source-register.md` for source URLs and caveats.
 - `link_only` is an allowed publication state only for external linking; it does not permit copying, downloading for redistribution, rehosting, or sale.
 - The official 2026–2027 school-year reports provide broad textbook-distribution context but do not prove complete subject lists or current editions.
 - No login, payment, membership, upload, database, or backend has been added.
+
+
+## KG guide link implementation — 2026-11-14
+
+- Resource records can now attach directly to a grade using optional `gradeId`, while subject-specific resources continue to use `subjectId`.
+- Added three KG guide records (KG-1 Language Guide, KG-2 Learning Guide, KG-3 Teacher Guide), each linked to the accessible official DME index page.
+- Direct PDF endpoints returned 502 during verification, so the public UI does not claim direct PDF downloads are working.
+- The KG grade dialog shows these three official guide references while leaving the full KG subject inventory unverified.
