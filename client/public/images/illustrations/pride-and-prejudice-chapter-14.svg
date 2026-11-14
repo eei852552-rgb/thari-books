@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Mr Collins praises Lady Catherine</title>
+<desc id="desc">Mr Collins speaks at length in the Longbourn drawing room while the Bennet family listens.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eadcc6"/><stop offset="1" stop-color="#c7b18e"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="90" y="90" width="220" height="270" fill="#a6bdb6" stroke="#806d55" stroke-width="11"/><path d="M200 90v270M90 225h220" stroke="#f0e7d6" stroke-width="8"/>
+<rect x="390" y="455" width="480" height="120" rx="18" fill="#8a6047"/><rect x="430" y="415" width="400" height="75" rx="18" fill="#a97d5c"/>
+<!-- Collins -->
+<circle cx="480" cy="270" r="36" fill="#e4c2a1"/><path d="M444 260q10-48 40-44q31 5 35 44" fill="#71604d"/><path d="M440 320h80l25 155H415Z" fill="#4a5968" stroke="#293d4a" stroke-width="7"/><path d="M465 330l15 45 15-45" fill="#e8dfd1"/>
+<!-- Mr Bennet -->
+<circle cx="700" cy="290" r="34" fill="#e4c2a1"/><path d="M666 280q10-45 38-41q29 4 32 41" fill="#665849"/><path d="M660 340h80l24 135H636Z" fill="#38495a" stroke="#273544" stroke-width="7"/>
+<!-- Mrs Bennet -->
+<circle cx="880" cy="290" r="34" fill="#e8c6a7"/><path d="M847 280q8-45 37-41q28 4 32 41" fill="#8c5d4d"/><path d="M840 340h80l25 135H815Z" fill="#9d5862" stroke="#6f3c49" stroke-width="7"/>
+<text x="70" y="60" fill="#65513e" font-family="Georgia,serif" font-size="34">A long account of Lady Catherine</text><text x="70" y="690" fill="#65513e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER XIV</text>
+</svg>
