@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter7My = [
     number: 7,
     title: "အခန်း (၇)",
     titleEn: "Chapter VII",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-7.svg",
+      altMy: "အဲလိဇဘက်သည် ဂျိန်းနေမကောင်းကြောင်း ကြားသိပြီး နက်သာဖီးလ်ဒ်သို့ ကျေးလက်လမ်းအတိုင်း လမ်းလျှောက်သွားနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Elizabeth walking along a country lane to Netherfield after hearing Jane is unwell",
+      captionMy: "အခန်း (၇) — ဂျိန်းထံသို့ အဲလိဇဘက် သွားရောက်ခြင်း",
+      captionEn: "Chapter VII — Elizabeth visits Jane",
+    },
     contentEn: `Mr. Bennet's property was not to pass to his daughters after his death. Because he had no son, the estate would go to a distant male relative named Mr. Collins. This arrangement worried Mrs. Bennet, who often thought about what would happen to her five daughters if they did not marry well.
 
 The Bennet daughters had different interests. Jane was admired for her beauty and gentle manner. Elizabeth was lively and thoughtful. Mary spent much of her time reading. Kitty and Lydia were younger and enjoyed talking about officers and social events.
