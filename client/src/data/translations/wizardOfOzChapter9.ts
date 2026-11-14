@@ -11,6 +11,13 @@ export const wizardOfOzChapter9My = [
     readingType: "translation",
     title: "အခန်း (၉) — ကြွက်ကွင်းဘုရင်မ",
     titleEn: "Chapter IX — The Queen of the Field Mice",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-9.svg",
+      altMy: "ကြွက်ကွင်းဘုရင်မနှင့် ကြွက်ငယ်များက ဒေါ်ရသီနှင့် မိတ်ဆွေများကို ကူညီနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "The Queen of the Field Mice and her people helping Dorothy and her companions",
+      captionMy: "အခန်း (၉) — ကြွက်ဘုရင်မ၏ အကူအညီ",
+      captionEn: "Chapter IX — Help from the Mouse Queen",
+    },
     contentEn: `“We cannot be far from the yellow brick road now,” remarked the Scarecrow as he stood beside Dorothy. “We have come almost as far as the river carried us away.”
 
 The Tin Woodman was about to answer when he heard a low growl. Turning his head, which now moved smoothly on its hinges, he saw a strange animal bounding over the grass toward them. It was a large yellow Wildcat. The Woodman thought it must be chasing something, because its ears were pressed close to its head and its mouth was open.
