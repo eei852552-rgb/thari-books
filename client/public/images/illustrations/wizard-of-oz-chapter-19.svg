@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Fighting Trees</title>
+<desc id="desc">Dorothy and her friends approach a mysterious forest where the first row of trees bends its branches across their path.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#a9d0c5"/><stop offset="1" stop-color="#e7d7b0"/></linearGradient><linearGradient id="forest" x2="0" y2="1"><stop stop-color="#41684c"/><stop offset="1" stop-color="#213f34"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/>
+<path d="M0 430Q240 350 500 425T950 410T1200 435V720H0Z" fill="#7d9a68"/>
+<path d="M0 0h1200v450H0Z" fill="url(#forest)" opacity=".9"/>
+<g fill="#365f46"><circle cx="90" cy="130" r="160"/><circle cx="270" cy="90" r="145"/><circle cx="480" cy="120" r="160"/><circle cx="760" cy="95" r="150"/><circle cx="1030" cy="125" r="170"/></g>
+<!-- trunks and bending branches -->
+<g stroke="#604a34" stroke-width="28" fill="none" stroke-linecap="round"><path d="M140 200v390M390 180v410M870 170v420M1080 190v400"/></g>
+<g stroke="#77573a" stroke-width="24" fill="none" stroke-linecap="round"><path d="M140 300q150-80 260 30q40 40 100 15M390 280q-80-95-160-80M870 290q-150-100-240-30M1080 300q-130-110-210-70"/></g>
+<g fill="#6c8b59"><ellipse cx="300" cy="270" rx="115" ry="55"/><ellipse cx="650" cy="250" rx="130" ry="60"/><ellipse cx="960" cy="260" rx="120" ry="55"/></g>
+<!-- travelers -->
+<circle cx="260" cy="480" r="26" fill="#f0c99d"/><path d="M234 470q8-38 32-34q25 4 28 34" fill="#d6a2a0"/><path d="M235 520h52l18 110h-88Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/>
+<ellipse cx="335" cy="635" rx="28" ry="16" fill="#292b2b"/><circle cx="355" cy="622" r="13" fill="#292b2b"/>
+<circle cx="430" cy="470" r="26" fill="#d5bb84"/><path d="M404 461q26-29 52 0" fill="#526b83"/><path d="M400 510h60l16 105h-92Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<circle cx="575" cy="465" r="29" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M540 505h70l18 110h-106Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<circle cx="760" cy="495" r="65" fill="#b97d42" stroke="#70452b" stroke-width="6"/><circle cx="760" cy="495" r="42" fill="#e7b66d" stroke="#9a683b" stroke-width="4"/>
+<text x="70" y="90" fill="#e5efd8" font-family="Georgia,serif" font-size="36">The forest that guards its path</text><text x="70" y="135" fill="#e5efd8" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XIX · COMPLETE TRANSLATION</text>
+</svg>
