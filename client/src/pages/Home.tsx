@@ -162,7 +162,11 @@ export default function Home() {
   const visibleGrades = useMemo(
     () => gradeGroups.map((group) => ({
       ...group,
-      grades: group.grades.filter((grade) => `${grade} ${group.name} ${group.label}`.toLocaleLowerCase().includes(normalizedQuery)),
+      grades: group.grades.filter((grade) => {
+        const shortGrade = grade.replace("Grade ", "G");
+        const searchableText = `${grade} ${shortGrade} ${group.name} ${group.label}`.toLocaleLowerCase();
+        return searchableText.includes(normalizedQuery);
+      }),
     })).filter((group) => group.grades.length > 0),
     [normalizedQuery],
   );
