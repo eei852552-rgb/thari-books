@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Glinda grants Dorothy's wish</title>
+<desc id="desc">Glinda, the Good Witch of the South, speaks kindly with Dorothy in a bright red palace garden.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f1d9d0"/><stop offset="1" stop-color="#f5e6c5"/></linearGradient><linearGradient id="palace" x2="0" y2="1"><stop stop-color="#d77970"/><stop offset="1" stop-color="#9e4743"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 460Q260 380 520 455T980 445T1200 465V720H0Z" fill="#86a66f"/>
+<path d="M620 430V180H1110V430Z" fill="url(#palace)" stroke="#8b3e3b" stroke-width="10"/><path d="M590 180l80-90 80 90M830 180l80-90 80 90M1040 180l60-75 60 75" fill="#c76b61" stroke="#8b3e3b" stroke-width="8"/>
+<path d="M810 430V300q55-75 110 0v130Z" fill="#5a3534" stroke="#f1b8a7" stroke-width="8"/>
+<!-- Glinda -->
+<circle cx="760" cy="355" r="35" fill="#f0d0b4"/><path d="M725 345q10-50 40-44q32 5 35 44" fill="#b94d55"/><path d="M720 395h80l25 160H695Z" fill="#fffaf2" stroke="#c8a7a0" stroke-width="6"/><path d="M720 555l-10 85M790 555l10 85" stroke="#f0d0b4" stroke-width="18"/>
+<!-- Dorothy -->
+<circle cx="430" cy="405" r="28" fill="#f0c99d"/><path d="M402 395q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M405 450h55l18 125h-91Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/><path d="M420 575l-8 65M445 575l8 65" stroke="#f0c99d" stroke-width="14"/>
+<!-- Toto -->
+<ellipse cx="490" cy="585" rx="28" ry="16" fill="#292b2b"/><circle cx="510" cy="572" r="13" fill="#292b2b"/>
+<!-- ruby throne -->
+<path d="M650 560h220v55H650Z" fill="#9d4140" stroke="#e9b0a0" stroke-width="7"/><path d="M680 505h160v70H680Z" fill="#b94e4c" stroke="#e9b0a0" stroke-width="7"/>
+<g fill="#e8b0a2"><circle cx="705" cy="530" r="8"/><circle cx="815" cy="530" r="8"/><circle cx="760" cy="585" r="8"/></g>
+<text x="70" y="85" fill="#804746" font-family="Georgia,serif" font-size="36">A kind farewell from Glinda</text><text x="70" y="130" fill="#804746" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XXIII · COMPLETE TRANSLATION</text>
+</svg>
