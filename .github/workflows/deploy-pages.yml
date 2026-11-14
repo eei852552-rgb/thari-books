@@ -1,8 +1,8 @@
 name: Deploy THARi BOOKS to GitHub Pages
 
+# Keep publishing manual until the repository owner enables GitHub Pages.
+# This prevents every code/documentation commit from creating a failed deployment.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
