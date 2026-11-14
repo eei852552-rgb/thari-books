@@ -10,6 +10,13 @@ export const wizardOfOzChapter4My = [
     readingType: "translation",
     title: "အခန်း (၄) — တောအုပ်ကို ဖြတ်သန်းသောလမ်း",
     titleEn: "Chapter IV — The Road Through the Forest",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-4.svg",
+      altMy: "ဒေါ်ရသီနှင့် ကောက်ရိုးလူတို့ တောအုပ်အတွင်း အဝါရောင်အုတ်လမ်းအတိုင်း လျှောက်သွားသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and the Scarecrow walking along the yellow brick road through the forest",
+      captionMy: "အခန်း (၄) — တောအုပ်အတွင်း ခရီးဆက်ခြင်း",
+      captionEn: "Chapter IV — The journey through the forest",
+    },
     contentEn: `After a few hours the road began to be rough, and the walking grew so difficult that the Scarecrow often stumbled over the yellow bricks, which were here very uneven. Sometimes, indeed, they were broken or missing altogether, leaving holes that Toto jumped across and Dorothy walked around. As for the Scarecrow, having no brains, he walked straight ahead, and so stepped into the holes and fell at full length on the hard bricks.
 
 It never hurt him, however, and Dorothy would pick him up and set him upon his feet again, while he joined her in laughing merrily at his own mishap.
