@@ -286,8 +286,8 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
   .search-box:focus-within input { position: static; width: 100%; height: auto; overflow: visible; clip: auto; white-space: normal; }
   .search-box kbd { display: none; }
   .mobile-menu-toggle { display: grid; }
-  .mobile-nav { position: absolute; top: 68px; right: 0; left: 0; display: flex; flex-direction: column; gap: 0; padding: 4px 16px 10px; border-bottom: 1px solid var(--line); background: #fffefa; box-shadow: 0 10px 18px rgba(16,31,53,.08); opacity: 0; pointer-events: none; transform: translateY(-6px); transition: opacity .18s, transform .18s; }
-  .mobile-nav.is-open { opacity: 1; pointer-events: auto; transform: translateY(0); }
+  .mobile-nav { position: absolute; top: 68px; right: 0; left: 0; display: flex; flex-direction: column; gap: 0; padding: 4px 16px 10px; border-bottom: 1px solid var(--line); background: #fffefa; box-shadow: 0 10px 18px rgba(16,31,53,.08); opacity: 0; visibility: hidden; pointer-events: none; transform: translateY(-6px); transition: opacity .18s, transform .18s, visibility .18s; }
+  .mobile-nav.is-open { opacity: 1; visibility: visible; pointer-events: auto; transform: translateY(0); }
   .mobile-nav a { display: flex; min-height: 43px; justify-content: space-between; align-items: center; border-bottom: 1px solid #f0ede7; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 11px; }
   .mobile-nav a:last-child { border-bottom: 0; }
   .mobile-nav svg { color: #ae8b48; }
