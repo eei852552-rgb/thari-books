@@ -10,6 +10,13 @@ export const wizardOfOzChapter6My = [
     readingType: "translation",
     title: "အခန်း (၆) — ကြောက်တတ်သော ခြင်္သေ့",
     titleEn: "Chapter VI — The Cowardly Lion",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-6.svg",
+      altMy: "ဒေါ်ရသီ၊ တိုတို၊ ကောက်ရိုးလူနှင့် သံဖြူလူသားတို့က သစ်တောလမ်းပေါ်ရှိ ခြင်္သေ့ကြီးနှင့် တွေ့ဆုံနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy, Toto, the Scarecrow and the Tin Woodman meeting the Lion on a forest road",
+      captionMy: "အခန်း (၆) — ခြင်္သေ့မိတ်ဆွေသစ်",
+      captionEn: "Chapter VI — A new lion companion",
+    },
     contentEn: `All this time Dorothy and her companions had been walking through the thick woods. The road was still paved with yellow brick, but it was covered in many places by dry branches and dead leaves, so walking was difficult.
 
 There were few birds in this part of the forest, because birds prefer open places with plenty of sunshine. Now and then a deep growl came from some wild animal hidden among the trees. These sounds made Dorothy's heart beat quickly, because she did not know what made them. Toto knew, however, and walked close beside her without even barking.
