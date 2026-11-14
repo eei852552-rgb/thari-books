@@ -118,7 +118,7 @@ export default function Home() {
                 <div className="book-meta"><div><span className="book-category">{book.categoryMy} · အင်္ဂလိပ်ဘာသာ · {book.title}</span><h3>{book.titleMy}</h3></div><span className="book-demo-tag">FREE</span></div>
                 <p className="book-description">{book.descriptionMy}</p>
                 <div className="book-actions">
-                  <button className="read-button" type="button" onClick={() => setSelectedBook(book)}>မြန်မာလိုဖတ်ရန် <BookOpen size={16} /></button>
+                  <button className="read-button" type="button" onClick={() => setSelectedBook(book)}>မြန်မာအကျဉ်းချုပ်ဖတ်ရန် <BookOpen size={16} /></button>
                   <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">English မူရင်း <ArrowUpRight size={16} /></a>
                 </div>
               </article>
