@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Away to the South</title>
+<desc id="desc">Dorothy and her friends prepare to travel south from the Emerald City toward Glinda's distant country.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#9bc9d8"/><stop offset="1" stop-color="#f3e2bb"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><circle cx="1000" cy="115" r="60" fill="#f8dc91"/>
+<path d="M0 430Q250 350 520 430T1000 415T1200 430V720H0Z" fill="#80a36d"/>
+<path d="M0 560Q300 490 600 570T1200 550V720H0Z" fill="#54764e"/>
+<!-- south road -->
+<path d="M480 720Q540 590 600 500Q660 590 730 720Z" fill="#e7c875"/><path d="M560 650h95M580 600h55M590 555h35" stroke="#fff0bd" stroke-width="10"/>
+<!-- distant castle -->
+<g fill="#c6b4a0" stroke="#857663" stroke-width="5"><path d="M900 390V270h180v120Z"/><path d="M880 270l45-65 45 65M1010 270l45-65 45 65"/><path d="M970 390V315q20-30 40 0v75Z"/></g>
+<!-- Dorothy -->
+<circle cx="300" cy="430" r="28" fill="#f0c99d"/><path d="M272 420q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M275 475h55l18 120h-91Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/><path d="M290 595l-8 60M315 595l8 60" stroke="#f0c99d" stroke-width="14"/><path d="M278 655h27M310 655h27" stroke="#76533e" stroke-width="12"/>
+<!-- Toto -->
+<ellipse cx="370" cy="620" rx="28" ry="16" fill="#292b2b"/><circle cx="390" cy="607" r="14" fill="#292b2b"/>
+<!-- Scarecrow -->
+<circle cx="465" cy="430" r="27" fill="#d5bb84"/><path d="M439 421q26-30 52 0" fill="#526b83"/><path d="M435 470h60l18 115h-96Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- Tin Woodman -->
+<circle cx="610" cy="420" r="30" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M575 460h70l18 120h-106Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<!-- Lion -->
+<circle cx="780" cy="445" r="65" fill="#b97d42" stroke="#70452b" stroke-width="6"/><circle cx="780" cy="445" r="42" fill="#e7b66d" stroke="#9a683b" stroke-width="4"/>
+<text x="70" y="90" fill="#315b68" font-family="Georgia,serif" font-size="36">The road toward Glinda's country</text><text x="70" y="135" fill="#315b68" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XVIII · COMPLETE TRANSLATION</text>
+</svg>
