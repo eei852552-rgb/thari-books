@@ -206,7 +206,7 @@ export default function Home() {
             </div>
             <div className="hero-visual">
               <div className="hero-image-frame">
-                <img src="/manus-storage/async-images/kt9Iye9PKJBGtvuo1L0EWU/image-1.webp" alt="စာအုပ်စင်များနှင့် သဘာဝအလင်းရောင်ရှိသော စာဖတ်ခန်း" />
+                <img src="/images/library-hero.svg" alt="စာအုပ်စင်များနှင့် သဘာဝအလင်းရောင်ရှိသော စာဖတ်ခန်း" />
                 <div className="hero-image-caption"><BookOpen size={17} /><span>စာမျက်နှာတိုင်းတွင်<br /><strong>အခွင့်အလမ်းသစ်</strong></span></div>
               </div>
               <div className="hero-stamp" aria-hidden="true"><span>READ</span><BookMarked size={23} /><span>GROW</span></div>
