@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The discovery of Oz</title>
+<desc id="desc">Dorothy and her companions discover the ordinary little man behind the screen in the emerald throne room.</desc>
+<defs><linearGradient id="room" x2="0" y2="1"><stop stop-color="#2d8b63"/><stop offset="1" stop-color="#164a39"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#room)"/><path d="M80 720V160Q600-30 1120 160V720Z" fill="#246d4d" stroke="#a6d9a4" stroke-width="14"/>
+<g fill="#7ed09a" stroke="#d8f2cf" stroke-width="3"><path d="M130 250l18-18 18 18-18 18Z"/><path d="M1030 250l18-18 18 18-18 18Z"/><path d="M130 480l18-18 18 18-18 18Z"/><path d="M1030 480l18-18 18 18-18 18Z"/></g>
+<!-- fallen screen -->
+<path d="M750 510L970 350L1040 420L820 580Z" fill="#b9a078" stroke="#6f5b3d" stroke-width="12"/><path d="M790 495l185-135M825 540l185-135" stroke="#e4d5ac" stroke-width="8"/>
+<!-- little Oz -->
+<circle cx="675" cy="360" r="40" fill="#d9b89a"/><path d="M635 350q10-45 42-42q35 5 43 42" fill="#a6a29a"/><path d="M630 410h90l25 150H605Z" fill="#8c775f" stroke="#514638" stroke-width="7"/><path d="M650 555l-10 75M700 555l10 75" stroke="#8c775f" stroke-width="18"/><path d="M635 635h30M695 635h30" stroke="#574b3d" stroke-width="12"/>
+<!-- Dorothy -->
+<circle cx="275" cy="410" r="28" fill="#f0c99d"/><path d="M247 400q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M248 455h55l18 120h-91Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/>
+<!-- scarecrow -->
+<circle cx="400" cy="405" r="27" fill="#d5bb84"/><path d="M374 396q26-30 52 0" fill="#526b83"/><path d="M370 445h60l18 115h-96Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- tin woodman -->
+<circle cx="520" cy="405" r="30" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M485 445h70l18 115h-106Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<!-- lion -->
+<circle cx="880" cy="450" r="68" fill="#b97d42" stroke="#70452b" stroke-width="6"/><circle cx="880" cy="450" r="42" fill="#e7b66d" stroke="#9a683b" stroke-width="4"/>
+<text x="70" y="85" fill="#e0f2d9" font-family="Georgia,serif" font-size="36">Behind the great Wizard's screen</text><text x="70" y="130" fill="#e0f2d9" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XV · COMPLETE TRANSLATION</text>
+</svg>
