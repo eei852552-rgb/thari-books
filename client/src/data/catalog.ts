@@ -78,7 +78,6 @@ export interface GeneralCategoryRecord {
 }
 
 export const educationGrades: readonly GradeRecord[] = [
-  { id: "kg", labelMy: "သူငယ်တန်း", labelEn: "Kindergarten", level: "kindergarten", curriculumStatus: "unverified" },
   { id: "g1", labelMy: "Grade 1", labelEn: "Grade 1", level: "primary", curriculumStatus: "source_found" },
   { id: "g2", labelMy: "Grade 2", labelEn: "Grade 2", level: "primary", curriculumStatus: "unverified" },
   { id: "g3", labelMy: "Grade 3", labelEn: "Grade 3", level: "primary", curriculumStatus: "unverified" },
@@ -317,51 +316,9 @@ export const educationSubjects: readonly SubjectRecord[] = [
 
 
 export const learningResources: readonly ResourceRecord[] = [
-  {
-    id: "kg1-language-guide",
-    gradeId: "kg",
-    titleMy: "KG-1 ဘာသာစကားလမ်းညွှန်",
-    titleEn: "KG-1 Language Guide",
-    resourceType: "teacher_guide_link",
-    authorOrPublisher: "Department of Myanmar Examinations, Ministry of Education",
-    sourceUrl: "https://www.myanmarexam.org/news/23",
-    editionOrDate: null,
-    rightsStatus: "link_only",
-    licenseNote: "Official DME index page only. The direct PDF endpoint returned a gateway error during checking; do not mirror or redistribute the PDF.",
-    reviewStatus: "approved",
-    reviewedAt: "2026-11-14",
-    visibility: "public",
-  },
-  {
-    id: "kg2-learning-guide",
-    gradeId: "kg",
-    titleMy: "KG-2 သင်ယူမှုလမ်းညွှန်",
-    titleEn: "KG-2 Learning Guide",
-    resourceType: "teacher_guide_link",
-    authorOrPublisher: "Department of Myanmar Examinations, Ministry of Education",
-    sourceUrl: "https://www.myanmarexam.org/news/23",
-    editionOrDate: null,
-    rightsStatus: "link_only",
-    licenseNote: "Official DME index page only. The direct PDF endpoint returned a gateway error during checking; do not mirror or redistribute the PDF.",
-    reviewStatus: "approved",
-    reviewedAt: "2026-11-14",
-    visibility: "public",
-  },
-  {
-    id: "kg3-teacher-guide",
-    gradeId: "kg",
-    titleMy: "KG-3 ဆရာလမ်းညွှန်",
-    titleEn: "KG-3 Teacher Guide",
-    resourceType: "teacher_guide_link",
-    authorOrPublisher: "Department of Myanmar Examinations, Ministry of Education",
-    sourceUrl: "https://www.myanmarexam.org/news/23",
-    editionOrDate: null,
-    rightsStatus: "link_only",
-    licenseNote: "Official DME index page only. The direct PDF endpoint returned a gateway error during checking; do not mirror or redistribute the PDF.",
-    reviewStatus: "approved",
-    reviewedAt: "2026-11-14",
-    visibility: "public",
-  },
+
+
+
   {
     id: "g3-science-radio-floating-sinking",
     subjectId: "g3-science",
