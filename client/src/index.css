@@ -381,3 +381,14 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 }
+
+
+/* Evidence-aware education catalogue dialog */
+.subject-list { display: grid; gap: 0; margin: 18px 0 8px; border: 1px solid #e8e2d5; background: #fffefa; }
+.subject-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 10px 12px; border-bottom: 1px solid #eeeae2; }
+.subject-row:last-of-type { border-bottom: 0; }
+.subject-row > span:first-child { display: flex; min-width: 0; flex-direction: column; gap: 3px; }
+.subject-row strong { color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 11px; font-weight: 500; }
+.subject-row small { color: #858990; font-family: 'Inter', sans-serif; font-size: 9px; }
+.subject-status { flex: 0 0 auto; padding: 4px 7px; border: 1px solid #e6d8b5; color: #806a38; background: #faf6eb; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 8px; }
+.subject-caution { margin: 0 !important; padding: 10px 12px; border-top: 1px solid #e8e2d5; color: #6d6870 !important; background: #f8f6f0; font-size: 9px !important; line-height: 1.9 !important; }
