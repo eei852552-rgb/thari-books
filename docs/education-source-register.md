@@ -175,3 +175,55 @@ A Ministry item about Grade 11 new-curriculum teacher training describes histori
 - Do not infer a complete subject list from search snippets or isolated lesson pages.
 - Keep Grade 10 new-curriculum pages distinct from Grade 11 entries labelled old curriculum.
 - Record the exact official page, publication/version date, resource type and rights status before public display.
+
+
+## Verified source-page inventory update — 2026-11-14
+
+### Grade 1: six named textbook subjects in an official DME notice
+
+The Department of Myanmar Examinations search-indexed notice titled "KG+12 New Curriculum Textbooks (Grade 1)" lists six downloadable textbook subjects:
+
+1. မြန်မာဖတ်စာ (Myanmar Reader)
+2. အင်္ဂလိပ်စာ (English)
+3. သင်္ချာ (Mathematics)
+4. သိပ္ပံ (Science)
+5. လူမှုရေး (Social Studies)
+6. စာရိတ္တနှင့် ပြည်သူ့နီတိ (Moral and Civics)
+
+The direct page returned 404 when opened during this check, so the notice is recorded as source-found only. Do not use this URL as a public download link until a working official page is located. Edition/year and reuse rights remain unconfirmed.
+
+Source: https://myanmarexam.org/news/34
+
+### Grade 10: eight official new-curriculum subject pages located
+
+The Ministry of Education curriculum index exposes these new-curriculum Grade 10 subject pages:
+
+| Subject | Official Ministry page | Page tag |
+|---|---|---|
+| Economics | https://moe.gov.mm/my/node/3196 | 2020-2021 |
+| Biology | https://moe.gov.mm/my/node/3195 | 2020-2021 |
+| History | https://moe.gov.mm/my/node/3198 | 2020-2021 |
+| Geography | https://moe.gov.mm/my/node/3197 | 2020-2021 |
+| Physics | https://moe.gov.mm/my/node/3194 | 2020-2021 |
+| Chemistry | https://moe.gov.mm/my/node/3193 | 2020-2021 |
+| Mathematics | https://moe.gov.mm/my/node/3192 | 2020-2021 |
+| English | https://moe.gov.mm/my/node/3191 | 2020-2021 |
+
+These pages establish that official Grade 10 new-curriculum subject resources exist. Their visible 2020-2021 tag is historical metadata; it does not prove that these are the complete or latest 2026-2027 subject list. The current index did not expose a Grade 10 Myanmar subject page in the checked results, so do not add one based only on older/third-party listings. Grade 10 remains source-found, not verified-current.
+
+Official index: https://moe.gov.mm/curriculum
+
+### Important separation: Grade 11 old vs new curriculum
+
+The same Ministry index labels some Grade 11 entries explicitly as old curriculum. Keep them separate from Grade 10 new-curriculum records. A 2022 Ministry news report describes Grade 11 new-curriculum teacher-training subjects as Myanmar, English, Mathematics, Chemistry, Physics, Economics, Geography, History, and Moral/Civics plus Physical Education. This is a historical teacher-training report, not a current textbook catalogue or proof of the 2026-2027 syllabus.
+
+Source: https://www.moe.gov.mm/en/node/4063
+
+## Updated source-found status
+
+| Grade | Status | Evidence added in this update |
+|---|---|---|
+| Grade 1 | source-found | Six textbook subjects listed in official DME notice; direct URL currently returns 404, so no public link should be shown yet |
+| Grade 10 | source-found | Eight individual new-curriculum subject pages on official MOE index, tagged 2020-2021; completeness/current edition not established |
+
+No subject in this update is marked verified-current. No official textbook file is copied, rehosted, or offered for sale by this research update.
