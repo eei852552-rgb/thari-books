@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter16My = [
     number: 16,
     title: "အခန်း (၁၆)",
     titleEn: "Chapter XVI",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-16.svg",
+      altMy: "မယ်ရီတန်ဥယျာဉ်တွင် အဲလိဇဘက်နှင့် ဝစ်ကဟမ်တို့ စကားပြောနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Elizabeth and Wickham speaking in a quiet Meryton garden",
+      captionMy: "အခန်း (၁၆) — ဝစ်ကဟမ်၏ ပြောပြချက်",
+      captionEn: "Chapter XVI — Wickham's account",
+    },
     contentEn: `The next day the Bennet family attended a gathering in Meryton. Elizabeth hoped to see Mr. Wickham again, because she wanted to understand why he and Darcy had reacted so strangely when they met.
 
 Mr. Wickham was present and soon joined the conversation. He spoke with Elizabeth in a friendly manner, and she found it easy to talk with him.
