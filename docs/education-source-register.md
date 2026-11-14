@@ -97,6 +97,20 @@ Source: https://www.moe.gov.mm/sites/default/files/2016-2017_APR_MM.pdf
 
 Source: https://www.moe.gov.mm/my/node/4471
 
+## Official textbook-development evidence for middle and upper grades
+
+The Ministry's education-reform presentation documents that new-curriculum Grade 6 printed textbooks were prepared for use in the 2019–2020 academic year. The presentation visibly identifies at least a Burmese textbook and an English textbook for Grade 6. This confirms a historical publication milestone and two named Grade 6 textbook examples, not the full Grade 6 subject list or the current edition.
+
+Source: https://www.moe.gov.mm/sites/default/files/Education_Reform_Four_Years.pdf
+
+The Ministry's FY 2018–2019 Annual Performance Review Report includes a programme action to develop and distribute textbooks and teacher-guide books for all grades and conduct new-curriculum training. This is broad historical programme evidence; it does not enumerate current grade-by-grade titles.
+
+Source: https://www.moe.gov.mm/sites/default/files/2018-2019_APR_ENG_0.pdf
+
+A 2026 Myanmar Digital News article says the 2026–2027 basic-education academic year began on 1 June 2026 and describes KG–Grade 12 as being in the fourth year of new-curriculum implementation. This is useful current-year context, not a subject catalogue.
+
+Source: https://mdn.gov.mm/en/importance-basic-education-and-school-enrolment-myanmar
+
 ## Discovery-only sources (not sufficient to confirm current subject lists)
 
 - Education for Myanmar's textbook and teacher-guide index lists grade pages from KG through Grade 12. Use it to discover possible resource files, then verify each item against an official source and rights conditions: https://edu4mm.com/text-books/
@@ -113,9 +127,12 @@ Source: https://www.moe.gov.mm/my/node/4471
 | Grade 3 | source-found (learning resources only) | Ministry radio archive has Science, Mathematics and Myanmar learning items; government material-provision page gives supporting subject-family evidence, not a current syllabus |
 | Grade 4 | source-found (learning resources + supporting evidence) | Ministry radio archive has a Social Studies introduction; government material-provision page lists primary subject families; verify current grade-specific syllabus |
 | Grade 5 | source-found (historical programme evidence only) | Ministry report says G2–G5 textbook revision/printing began in FY2019–2020; not a current Grade 5 textbook catalogue |
-| Grade 6 | source-found (learning resources only) | Ministry radio archive has Grade 6 Geography, Science, English and Mathematics materials; not a complete current textbook list |
+| Grade 6 | source-found (historical textbook + learning resources) | Ministry reform presentation shows Grade 6 Burmese and English textbook covers for 2019–2020; radio archive also has Geography, Science and Mathematics resources. Not a complete current list |
 | Grade 7 | source-found (learning resources only) | Ministry radio archive has a Grade 7 History item; not a complete current textbook list |
-| Grades 8, 10–12 | unverified | Do not publish subject lists as confirmed until current official grade-specific sources are checked |
+| Grade 8 | unverified | No complete current grade-specific subject / textbook list confirmed |
+| Grade 9 | source-found (learning resources only) | Ministry radio archive has a Grade 9 Life Skills item; not a complete current textbook list |
+| Grade 10 | source-found (learning resources only) | Ministry radio archive has Mathematics and Chemistry items; not a complete current textbook list |
+| Grades 11–12 | unverified | No complete current grade-specific subject / textbook lists confirmed |
 | Grades 6–9 vocational subjects | policy signal only | 2026 Ministry report says industrial, agriculture and livestock curricula were being revised; implementation and grade-level details remain to be confirmed |
 
 "Source-found" means a source page was found; it does not by itself confirm the current academic-year syllabus or grant redistribution rights.
@@ -135,6 +152,6 @@ Before showing a resource as available:
 ## Next research sequence
 
 1. Locate current grade-specific textbook pages for Grades 2–5; the Ministry radio archive and historical printing programme are supporting evidence only. Confirm a working official URL for the Grade 1 six-subject textbook page before publishing a link.
-2. Locate complete current subject and textbook lists for Grades 6–9, including the status of vocational subjects.
-3. Verify Grades 10–12 and their subject-stream distinctions.
+2. Locate current complete subject and textbook lists for Grades 6–9; historical Grade 6 textbook evidence and radio lessons are not enough.
+3. Verify Grades 10–12 and their subject-stream distinctions, especially Grade 11–12 streams.
 4. Only after that, build the public subject catalog and attach permitted resources.
