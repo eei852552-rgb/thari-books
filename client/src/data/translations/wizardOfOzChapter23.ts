@@ -10,6 +10,13 @@ export const wizardOfOzChapter23My = [
     readingType: "translation",
     title: "အခန်း (၂၃) — စုန်းမကောင်း ဂလင်ဒါက ဒေါ်ရသီ၏ ဆန္ဒကို ဖြည့်ဆည်းပေးခြင်း",
     titleEn: "Chapter XXIII — Glinda Grants Dorothy's Wish",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-23.svg",
+      altMy: "ဂလင်ဒါက ဒေါ်ရသီနှင့် ကြင်နာစွာ စကားပြောနေသည့် အနီရောင်နန်းတော်ဥယျာဉ် သရုပ်ဖော်ပုံ",
+      altEn: "Glinda speaking kindly with Dorothy in the garden of the red palace",
+      captionMy: "အခန်း (၂၃) — ဂလင်ဒါ၏ ကြင်နာသော အကူအညီ",
+      captionEn: "Chapter XXIII — Glinda's kind help",
+    },
     contentEn: `The travelers were led into a beautiful room in Glinda's Palace. There, on a throne of shining red jewels, sat the Good Witch of the South.
 
 She was very beautiful, with bright red hair and kind eyes. Her dress was white and pure, and she wore a crown of red jewels upon her head.
