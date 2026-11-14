@@ -194,7 +194,7 @@ function readProgress(): ReaderProgress | null {
     const raw = window.localStorage.getItem(readingProgressKey);
     if (!raw) return null;
     const value = JSON.parse(raw) as Partial<ReaderProgress>;
-    if (!value.bookId || !Number.isInteger(value.chapterIndex) || !Number.isFinite(value.chapterIndex) || !Number.isInteger(value.page) || !Number.isFinite(value.page)) return null;
+    if (!value.bookId || typeof value.chapterIndex !== "number" || !Number.isFinite(value.chapterIndex) || !Number.isInteger(value.chapterIndex) || typeof value.page !== "number" || !Number.isFinite(value.page) || !Number.isInteger(value.page)) return null;
     if (!openBooks.some((book) => book.id === value.bookId)) return null;
     return {
       bookId: value.bookId,
