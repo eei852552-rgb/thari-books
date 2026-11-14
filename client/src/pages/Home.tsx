@@ -23,6 +23,7 @@ import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejud
 import { prideAndPrejudiceChapter2My } from "../data/translations/prideAndPrejudiceChapter2";
 import { prideAndPrejudiceChapter3My } from "../data/translations/prideAndPrejudiceChapter3";
 import { prideAndPrejudiceChapter4My } from "../data/translations/prideAndPrejudiceChapter4";
+import { prideAndPrejudiceChapter5My } from "../data/translations/prideAndPrejudiceChapter5";
 import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
 import { wizardOfOzChapter3My } from "../data/translations/wizardOfOzChapter3";
@@ -53,7 +54,7 @@ const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
 const readingProgressKey = "thari-books:last-reading";
 
 const readerChaptersByBookId = {
-  "pride-and-prejudice": [...prideAndPrejudiceChaptersMy, ...prideAndPrejudiceChapter2My, ...prideAndPrejudiceChapter3My, ...prideAndPrejudiceChapter4My],
+  "pride-and-prejudice": [...prideAndPrejudiceChaptersMy, ...prideAndPrejudiceChapter2My, ...prideAndPrejudiceChapter3My, ...prideAndPrejudiceChapter4My, ...prideAndPrejudiceChapter5My],
   "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapter3My, ...wizardOfOzChapter4My, ...wizardOfOzChapter5My, ...wizardOfOzChapter6My, ...wizardOfOzChapter7My, ...wizardOfOzChapter8My, ...wizardOfOzChapter9My, ...wizardOfOzChapter10My, ...wizardOfOzChapter11My, ...wizardOfOzChapter12My, ...wizardOfOzChapter13My, ...wizardOfOzChapter14My, ...wizardOfOzChapter15My, ...wizardOfOzChapter16My, ...wizardOfOzChapter17My, ...wizardOfOzChapter18My, ...wizardOfOzChapter19My, ...wizardOfOzChapter20My, ...wizardOfOzChapter21My, ...wizardOfOzChapter22My, ...wizardOfOzChapter23My, ...wizardOfOzChapter24My],
 } as const;
 
