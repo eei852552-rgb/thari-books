@@ -11,6 +11,13 @@ export const wizardOfOzChapter13My = [
     readingType: "translation",
     title: "အခန်း (၁၃) — မိတ်ဆွေများကို ကယ်တင်ခြင်း",
     titleEn: "Chapter XIII — The Rescue",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-13.svg",
+      altMy: "ဒေါ်ရသီနှင့် ခြင်္သေ့တို့က ပြန်လည်ပြုပြင်ပြီးသော သံဖြူလူသားနှင့် ကောက်ရိုးလူကို အဝါရောင်ရဲတိုက်ဝင်းထဲတွင် ကြိုဆိုနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and the Lion welcoming the restored Tin Woodman and Scarecrow in the Yellow Castle courtyard",
+      captionMy: "အခန်း (၁၃) — မိတ်ဆွေများ ပြန်လည်ဆုံတွေ့ခြင်း",
+      captionEn: "Chapter XIII — Friends reunited",
+    },
     contentEn: `The Cowardly Lion was very pleased to hear that the Wicked Witch had disappeared after Dorothy splashed water over her. Dorothy quickly unlocked the gate of his enclosure and set him free.
 
 Together they went into the castle. Dorothy's first act was to call all the Winkies together and tell them that they were no longer servants of the Wicked Witch.
