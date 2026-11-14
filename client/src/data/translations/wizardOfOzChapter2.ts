@@ -8,6 +8,7 @@ export const wizardOfOzChapter2My = [
     number: 2,
     readingType: "summary",
     title: "အခန်း (၂) — မန်ချ်ကင်များနှင့် ဆွေးနွေးပွဲ",
+    titleEn: "Chapter II — The Munchkins and the Council",
     illustration: {
       src: "images/illustrations/wizard-of-oz-chapter-2.svg",
       altMy: "မြစိမ်းရောင်မြို့တော်သို့ သွားသော အဝါရောင်အုတ်ခင်းလမ်း သရုပ်ဖော်ပုံ",
