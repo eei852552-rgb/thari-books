@@ -310,7 +310,7 @@ export default function Home() {
             ))}
           </div>
           {normalizedQuery && visibleGrades.length === 0 && visibleCategories.length === 0 && visibleBooks.length === 0 && (
-            <div className="empty-search" role="status"><Search size={20} /><span>“{query}” အတွက် မတွေ့ပါ။ စကားလုံးတစ်ခု ပြောင်းပြီး ထပ်ရှာကြည့်ပါ။</span><button type="button" onClick={() => setQuery("")}>ရှာဖွေမှု ရှင်းရန်</button></div>
+            <div className="empty-search" role="status" aria-live="polite"><Search size={20} /><span>“{query}” အတွက် မတွေ့ပါ။ စကားလုံးတစ်ခု ပြောင်းပြီး ထပ်ရှာကြည့်ပါ။</span><button type="button" onClick={() => setQuery("")}>ရှာဖွေမှု ရှင်းရန်</button></div>
           )}
           {normalizedQuery && (visibleGrades.length > 0 || visibleCategories.length > 0 || visibleBooks.length > 0) && (
             <p className="search-hint" role="status">“{query}” နှင့် ကိုက်ညီသော ရလဒ်များကို အပေါ်က ကဏ္ဍများတွင် ပြထားပါသည်။ <button type="button" onClick={() => setQuery("")}>အားလုံးကြည့်ရန်</button></p>
