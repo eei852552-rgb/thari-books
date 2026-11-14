@@ -66,6 +66,22 @@ A Ministry of Education news item published in 2026 says curricula for industria
 
 Source: https://moe.gov.mm/en/node/5400
 
+## Ministry radio lessons: additional primary-grade learning evidence
+
+The Ministry of Education's official radio-lesson archive includes these primary-grade items:
+
+- Grade 3: Science lesson on floating and sinking; Mathematics lesson on time and duration; Myanmar curriculum introduction.
+- Grade 4: Social Studies introduction.
+- Grade 1: English introduction.
+
+These are individual teaching / audio resources, not a complete list of textbooks or subjects for each grade. They support the existence of learning materials for the named grade-subject combinations only.
+
+Source: https://www.moe.gov.mm/my/radio-lessons
+
+The Ministry also reported in October 2023 that the KG+12 curriculum had been implemented across all grades in the 2023–2024 academic year. This confirms the rollout milestone at that time, but does not establish that every textbook edition or subject list remains unchanged today.
+
+Source: https://www.moe.gov.mm/my/node/4471
+
 ## Discovery-only sources (not sufficient to confirm current subject lists)
 
 - Education for Myanmar's textbook and teacher-guide index lists grade pages from KG through Grade 12. Use it to discover possible resource files, then verify each item against an official source and rights conditions: https://edu4mm.com/text-books/
@@ -78,8 +94,10 @@ Source: https://moe.gov.mm/en/node/5400
 |---|---|---|
 | KG | source-found | KG-1 Language Guide, KG-2 Learning Guide, KG-3 Teacher Guide listed by the Department |
 | Grade 1 | source-found | Official Grade 1 textbook page lists Myanmar Reader, English, Mathematics, Science, Social Studies, and Moral and Civics; another notice page surfaced only the first three, so edition/year should be checked |
-| Grades 2–3 | source-found (supporting evidence) | Government material-provision page lists Myanmar, English, Mathematics, Science, Social Studies, and Moral and Civics; verify against current syllabus |
-| Grades 4–5 | source-found (supporting evidence) | Same core subjects plus Life Skills, Physical Education, and Arts (Painting and Music) on the government material-provision page; verify against current syllabus |
+| Grade 2 | unverified | No current grade-specific official textbook catalogue confirmed yet |
+| Grade 3 | source-found (learning resources only) | Ministry radio archive has Science, Mathematics and Myanmar learning items; government material-provision page gives supporting subject-family evidence, not a current syllabus |
+| Grade 4 | source-found (learning resources + supporting evidence) | Ministry radio archive has a Social Studies introduction; government material-provision page lists primary subject families; verify current grade-specific syllabus |
+| Grade 5 | source-found (supporting evidence) | Government material-provision page lists subject families for Grades 1–5, but a current Grade 5 textbook catalogue is not confirmed |
 | Grade 6 | source-found (learning resources only) | Ministry radio archive has Grade 6 Geography, Science, English and Mathematics materials; not a complete current textbook list |
 | Grades 7–12 | unverified | Do not publish subject lists as confirmed until current official grade-specific sources are checked |
 | Grades 6–9 vocational subjects | policy signal only | 2026 Ministry report says industrial, agriculture and livestock curricula were being revised; implementation and grade-level details remain to be confirmed |
@@ -100,7 +118,7 @@ Before showing a resource as available:
 
 ## Next research sequence
 
-1. Locate official grade-specific textbook pages for Grades 2–5 and check publication / curriculum years.
+1. Locate official grade-specific textbook pages for Grades 2, 3, 4 and 5 separately; radio lessons and material-provision lists are not textbook catalogues.
 2. Locate complete current subject and textbook lists for Grades 6–9, including the status of vocational subjects.
 3. Verify Grades 10–12 and their subject-stream distinctions.
 4. Only after that, build the public subject catalog and attach permitted resources.
