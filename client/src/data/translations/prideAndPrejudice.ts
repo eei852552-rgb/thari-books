@@ -6,6 +6,7 @@ export const prideAndPrejudiceChaptersMy = [
   {
     number: 1,
     title: "အခန်း (၁)",
+    titleEn: "Chapter I",
     illustration: {
       src: "images/illustrations/pride-and-prejudice-chapter-1.svg",
       altMy: "နက်သာဖီးလ်ဒ်အိမ်နှင့် ဘင်နက်မိသားစုအကြောင်း ဆွေးနွေးနေသည့် သရုပ်ဖော်ပုံ",

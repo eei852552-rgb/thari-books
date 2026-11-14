@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   ArrowRight,
   ArrowUpRight,
@@ -35,6 +35,7 @@ const readerChaptersByBookId = {
 type ReaderChapter = {
   readonly number: number;
   readonly title: string;
+  readonly titleEn?: string;
   readonly content: string;
   readonly contentEn: string;
   readonly readingType?: string;
@@ -79,6 +80,7 @@ const copy = {
     filteredBooks: "ရွေးချယ်ထားသော အမျိုးအစားမှ စာအုပ်များ",
     allBooksIntro: "မူရင်းစာကြည့်တိုက်များတွင် အခမဲ့ဖတ်ရှုနိုင်သော ဂန္ထဝင်စာအုပ်များ။",
     readInThari: "THARi reader ဖြင့် ဖတ်ရန်",
+    readOverview: "စာအုပ်အကျဉ်းချုပ် ဖတ်ရန်",
     originalEnglish: "English မူရင်း",
     freeLabel: "FREE",
     noResults: "ရှာဖွေမှုနှင့် ကိုက်ညီသော စာအုပ်မတွေ့ပါ။",
@@ -131,6 +133,7 @@ const copy = {
     filteredBooks: "Books in the selected category",
     allBooksIntro: "Classic books available through free original-library links.",
     readInThari: "Read in THARi",
+    readOverview: "Read book overview",
     originalEnglish: "English source",
     freeLabel: "FREE",
     noResults: "No books match your search.",
@@ -192,14 +195,14 @@ function readProgress(): ReaderProgress | null {
     const raw = window.localStorage.getItem(readingProgressKey);
     if (!raw) return null;
     const value = JSON.parse(raw) as Partial<ReaderProgress>;
-    if (!value.bookId || typeof value.chapterIndex !== "number" || typeof value.page !== "number") return null;
+    if (!value.bookId || typeof value.chapterIndex !== "number" || !Number.isFinite(value.chapterIndex) || !Number.isInteger(value.chapterIndex) || typeof value.page !== "number" || !Number.isFinite(value.page) || !Number.isInteger(value.page)) return null;
     if (!openBooks.some((book) => book.id === value.bookId)) return null;
     return {
       bookId: value.bookId,
       chapterIndex: Math.max(0, value.chapterIndex),
       page: Math.max(0, value.page),
       language: value.language === "en" ? "en" : "my",
-      updatedAt: typeof value.updatedAt === "number" ? value.updatedAt : Date.now(),
+      updatedAt: typeof value.updatedAt === "number" && Number.isFinite(value.updatedAt) ? value.updatedAt : Date.now(),
     };
   } catch {
     return null;
@@ -224,6 +227,8 @@ export default function Home() {
   const [readerChapterIndex, setReaderChapterIndex] = useState(0);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [resumeProgress, setResumeProgress] = useState<ReaderProgress | null>(() => readProgress());
+  const readerDialogRef = useRef<HTMLElement | null>(null);
+  const previouslyFocusedRef = useRef<HTMLElement | null>(null);
   const ui = copy[siteLanguage];
   const readerChapters = selectedBook ? (readerChaptersByBookId[selectedBook.id as keyof typeof readerChaptersByBookId] ?? []) as readonly ReaderChapter[] : [];
   const activeChapter = readerChapters[readerChapterIndex] ?? null;
@@ -233,8 +238,18 @@ export default function Home() {
   const categories = openBookCategories.filter((category) => openBooks.some((book) => book.categoryId === category.id));
   const visibleBooks = useMemo(() => openBooks.filter((book) => {
     const matchesCategory = !selectedCategory || book.categoryId === selectedCategory;
-    const searchable = [book.title, book.titleMy, book.author, book.categoryMy, book.categoryId, book.descriptionMy, book.descriptionEn]
-      .join(" ").normalize("NFC").toLocaleLowerCase();
+    const searchable = [
+      book.title,
+      book.titleMy,
+      book.author,
+      book.categoryMy,
+      openBookCategories.find((category) => category.id === book.categoryId)?.titleEn,
+      book.categoryId,
+      book.descriptionMy,
+      book.descriptionEn,
+      book.synopsisMy,
+      ...book.keyIdeasMy,
+    ].filter(Boolean).join(" ").normalize("NFC").toLocaleLowerCase();
     return matchesCategory && searchable.includes(normalizedQuery);
   }), [normalizedQuery, selectedCategory]);
   const lastReadBook = resumeProgress ? openBooks.find((book) => book.id === resumeProgress.bookId) ?? null : null;
@@ -242,6 +257,43 @@ export default function Home() {
   useEffect(() => {
     if (readerPage >= readerPages.length && readerPages.length > 0) setReaderPage(readerPages.length - 1);
   }, [readerPage, readerPages.length]);
+
+  useEffect(() => {
+    if (!selectedBook) return;
+    const previousOverflow = document.body.style.overflow;
+    previouslyFocusedRef.current = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+    document.body.style.overflow = "hidden";
+    const dialog = readerDialogRef.current;
+    const focusableSelector = 'a[href], button:not([disabled]), input:not([disabled]), [tabindex]:not([tabindex="-1"])';
+    const getFocusableElements = () => Array.from(dialog?.querySelectorAll<HTMLElement>(focusableSelector) ?? []);
+    getFocusableElements()[0]?.focus();
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        setSelectedBook(null);
+        return;
+      }
+      if (event.key !== "Tab") return;
+      const focusableElements = getFocusableElements();
+      const first = focusableElements[0];
+      const last = focusableElements[focusableElements.length - 1];
+      if (!first || !last) {
+        event.preventDefault();
+        dialog?.focus();
+      } else if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      window.removeEventListener("keydown", handleKeyDown);
+      previouslyFocusedRef.current?.focus();
+    };
+  }, [selectedBook]);
 
   useEffect(() => {
     if (!selectedBook) return;
@@ -395,7 +447,7 @@ export default function Home() {
                   <div className="book-meta"><div><span className="book-category">{siteLanguage === "my" ? category?.titleMy : category?.titleEn} · {book.language}</span><h3>{siteLanguage === "my" ? book.titleMy : book.title}</h3></div><span className="book-demo-tag">{ui.freeLabel}</span></div>
                   <p className={`book-description ${siteLanguage === "en" ? "book-description-en" : ""}`}>{siteLanguage === "my" ? book.descriptionMy : book.descriptionEn}</p>
                   <div className="book-actions">
-                    <button className="read-button" type="button" onClick={() => openReader(book)}>{ui.readInThari} <BookOpen size={16} /></button>
+                    <button className="read-button" type="button" onClick={() => openReader(book)}>{(readerChaptersByBookId[book.id as keyof typeof readerChaptersByBookId]?.length ?? 0) > 0 ? ui.readInThari : ui.readOverview} <BookOpen size={16} /></button>
                     <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.originalEnglish} <ArrowUpRight size={16} /></a>
                   </div>
                 </article>
@@ -416,7 +468,7 @@ export default function Home() {
 
         {selectedBook && (
           <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSelectedBook(null); }}>
-            <section className="demo-dialog burmese-reader" role="dialog" aria-modal="true" aria-labelledby="reader-title">
+            <section ref={readerDialogRef} className="demo-dialog burmese-reader" role="dialog" aria-modal="true" aria-labelledby="reader-title" tabIndex={-1}>
               <button className="dialog-close" type="button" onClick={() => setSelectedBook(null)} aria-label={ui.close}><X size={19} /></button>
               <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · {ui.myanmar} / {ui.english}</span>
               <h2 id="reader-title">{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h2>
@@ -439,7 +491,7 @@ export default function Home() {
                     <button type="button" className={readerLanguage === "en" ? "is-active" : ""} aria-pressed={readerLanguage === "en"} onClick={() => { setReaderLanguage("en"); setReaderPage(0); }}>{ui.english}</button>
                   </div>
                   <section className="reader-page">
-                    <div className="reader-page-heading"><h3>{activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {readerPage + 1} / {readerPages.length}</span></div>
+                    <div className="reader-page-heading"><h3>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {readerPage + 1} / {readerPages.length}</span></div>
                     <p className={`reader-chapter ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[readerPage] ?? ""}</p>
                   </section>
                   <div className="reader-pagination">
@@ -452,13 +504,15 @@ export default function Home() {
               ) : (
                 <>
                   <h3>{ui.aboutBook}</h3>
-                  <p>{selectedBook.synopsisMy}</p>
-                  <h3>{ui.keyIdeas}</h3>
-                  <ul className="reader-ideas">{selectedBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul>
-                  <p className="reader-note">{selectedBook.readingNoteMy}</p>
+                  <p>{siteLanguage === "my" ? selectedBook.synopsisMy : selectedBook.descriptionEn}</p>
+                  {siteLanguage === "my" && <>
+                    <h3>{ui.keyIdeas}</h3>
+                    <ul className="reader-ideas">{selectedBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul>
+                    <p className="reader-note">{selectedBook.readingNoteMy}</p>
+                  </>}
                 </>
               )}
-              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {selectedBook.rightsNote}</p>
+              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {siteLanguage === "my" ? selectedBook.rightsNote : "This link opens the original source. Copyright status and reuse rights can differ by country; check local law before reusing any text."}</p>
               <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.sourceBook} <ArrowUpRight size={16} /></a>
             </section>
           </div>
