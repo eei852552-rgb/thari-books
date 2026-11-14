@@ -11,6 +11,13 @@ export const wizardOfOzChapter14My = [
     readingType: "translation",
     title: "အခန်း (၁၄) — တောင်ပံပါသော မျောက်များ",
     titleEn: "Chapter XIV — The Winged Monkeys",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-14.svg",
+      altMy: "တောင်ပံပါသော မျောက်များက ဒေါ်ရသီနှင့် မိတ်ဆွေများကို ကောင်းကင်မှတစ်ဆင့် မြစိမ်းရောင်မြို့တော်သို့ သယ်ဆောင်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "The Winged Monkeys carrying Dorothy and her companions through the sky toward the Emerald City",
+      captionMy: "အခန်း (၁၄) — တောင်ပံများဖြင့် ခရီးဆက်ခြင်း",
+      captionEn: "Chapter XIV — A journey with the Winged Monkeys",
+    },
     contentEn: `You may remember that there was no road or even a path between the Wicked Witch's castle and the Emerald City. When the four travelers had gone to find the Witch, she had seen them coming and sent the Winged Monkeys to bring them to her.
 
 Finding their way back through the great fields of buttercups and yellow daisies was much harder than being carried through the air. They knew they must travel east, toward the rising sun, and they started in what they believed was the right direction.
