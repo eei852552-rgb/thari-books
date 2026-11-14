@@ -10,6 +10,13 @@ export const wizardOfOzChapter7My = [
     readingType: "translation",
     title: "အခန်း (၇) — မဟာအော့ဇ်ထံသို့ ခရီး",
     titleEn: "Chapter VII — The Journey to the Great Oz",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-7.svg",
+      altMy: "ဒေါ်ရသီ၊ ကောက်ရိုးလူ၊ သံဖြူလူသားနှင့် ခြင်္သေ့တို့ သစ်တောအတွင်း ခရီးဆက်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and her companions traveling through the great forest",
+      captionMy: "အခန်း (၇) — သစ်တောအတွင်း စွန့်စားခရီး",
+      captionEn: "Chapter VII — An adventure through the forest",
+    },
     contentEn: `They had to spend that night beneath a large tree in the forest, because there were no houses nearby. The tree's thick branches sheltered them from the dew. The Tin Woodman chopped a large pile of firewood, and Dorothy built a bright fire that warmed her and made her feel less lonely. She and Toto ate the last of their bread, and now she did not know what they would have for breakfast.
 
 “If you wish,” said the Lion, “I can go into the forest and find a deer for you. You could cook it over the fire. Since you prefer cooked food, it would make a good breakfast.”
