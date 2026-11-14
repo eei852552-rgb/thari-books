@@ -103,4 +103,13 @@ Implemented:
 - The eight general-library category records.
 - A publication guard that only allows public resources with approved review status and an explicit permitted rights state.
 
-The subject and resource arrays are intentionally empty. This file is a typed foundation only; it is not yet connected to the homepage UI, does not contain a verified subject inventory, and does not create a database or backend.
+The subject array now contains 14 source-found records: six Grade 1 textbook subjects listed in an official Department of Myanmar Examinations notice, and eight Grade 10 new-curriculum subjects with individual Ministry of Education pages tagged 2020-2021. None is marked verified-current; the Grade 1 source URL currently returns 404 when opened, and the Grade 10 pages' historical tag does not prove a complete 2026-2027 inventory. The learning-resource array remains empty. This file is not yet connected to the homepage UI and does not create a database or backend.
+
+
+## Evidence added — 2026-11-14
+
+- Grade 1: six subject titles were listed by the Department of Myanmar Examinations. The official search result is evidence of the titles, but the direct page returned 404 during the latest check. Keep records at `source_found` and do not publish that URL as a working book link.
+- Grade 10: eight individual new-curriculum subject pages were located on the Ministry of Education curriculum index: Economics, Biology, History, Geography, Physics, Chemistry, Mathematics and English. Each page is tagged 2020-2021. Keep records at `source_found`; this is not confirmation of the full current 2026-2027 syllabus.
+- The Ministry index also labels some Grade 11 entries as old curriculum. Do not mix them into new-curriculum Grade 10 records or assume they represent the current Grade 11 catalogue.
+
+See `docs/education-source-register.md` for source URLs and caveats.
