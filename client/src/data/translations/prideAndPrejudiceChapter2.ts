@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter2My = [
     number: 2,
     title: "အခန်း (၂)",
     titleEn: "Chapter II",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-2.svg",
+      altMy: "မစ္စတာ ဘင်နက်က ဘင်ဂလီထံ သွားလည်ခဲ့ကြောင်း မိသားစုကို ပြောပြနေပြီး အဲလစ်ဇဘက်က ဦးထုပ်တစ်လုံး ပြင်ဆင်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Mr Bennet revealing his visit while Elizabeth trims a hat in the family drawing room",
+      captionMy: "အခန်း (၂) — မစ္စတာ ဘင်နက်၏ လျှို့ဝှက်လည်ပတ်မှု",
+      captionEn: "Chapter II — Mr Bennet's unexpected visit",
+    },
     contentEn: `Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He had always intended to visit him, though to the last always assuring his wife that he should not go; and until the evening after the visit was paid she had no knowledge of it.
 
 It was then disclosed in the following manner. Observing his second daughter employed in trimming a hat, he suddenly addressed her with:
