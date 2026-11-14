@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Dorothy helps the Tin Woodman</title>
+<desc id="desc">Dorothy and the Scarecrow help a friendly tin traveler beside a sunlit forest tree, with an oil can nearby.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8d7c9"/><stop offset="1" stop-color="#f5e3b5"/></linearGradient><linearGradient id="grass" x2="0" y2="1"><stop stop-color="#78946b"/><stop offset="1" stop-color="#405f49"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><circle cx="1000" cy="115" r="65" fill="#f7d98a"/>
+<path d="M0 390Q240 330 480 400T900 385T1200 410V720H0Z" fill="url(#grass)"/>
+<g fill="#456c53"><circle cx="80" cy="120" r="155"/><circle cx="250" cy="90" r="125"/><circle cx="1060" cy="120" r="170"/><circle cx="900" cy="60" r="120"/></g>
+<path d="M210 0q40 180 10 720h115q-20-330 20-720Z" fill="#725a40"/><path d="M220 170q-95-90-155-30M260 205q100-105 175-50" fill="none" stroke="#725a40" stroke-width="24" stroke-linecap="round"/>
+<g fill="#f2d78d"><circle cx="170" cy="470" r="9"/><circle cx="245" cy="520" r="8"/><circle cx="940" cy="490" r="9"/><circle cx="1050" cy="555" r="8"/></g>
+<!-- Dorothy -->
+<circle cx="405" cy="395" r="32" fill="#f0c99d"/><path d="M373 385q8-48 37-42q34 5 39 42q-34-19-76 0" fill="#d8a3a0"/>
+<path d="M375 430h62l24 145h-110Z" fill="#d9e6ed" stroke="#536c7a" stroke-width="6"/><path d="M390 570l-10 72M425 570l10 72" stroke="#f0c99d" stroke-width="17" stroke-linecap="round"/><path d="M370 642h34M420 642h34" stroke="#76553f" stroke-width="15" stroke-linecap="round"/>
+<!-- Tin Woodman -->
+<circle cx="690" cy="350" r="43" fill="#b8c8c8" stroke="#637b7e" stroke-width="7"/><path d="M654 338h72" stroke="#637b7e" stroke-width="6"/><circle cx="675" cy="348" r="5" fill="#405b60"/><circle cx="705" cy="348" r="5" fill="#405b60"/><path d="M675 370q15 12 30 0" fill="none" stroke="#647d80" stroke-width="5"/>
+<path d="M648 400h84l25 145H623Z" fill="#b8c8c8" stroke="#637b7e" stroke-width="7"/><path d="M648 420l-70 85M732 420l62 80" stroke="#9eafb0" stroke-width="24" stroke-linecap="round"/><path d="M655 545l-15 90M725 545l15 90" stroke="#9eafb0" stroke-width="24" stroke-linecap="round"/><circle cx="650" cy="420" r="12" fill="#e1ece8" stroke="#637b7e" stroke-width="5"/><circle cx="730" cy="420" r="12" fill="#e1ece8" stroke="#637b7e" stroke-width="5"/>
+<!-- Scarecrow -->
+<circle cx="865" cy="390" r="31" fill="#d6bc85" stroke="#6e593d" stroke-width="5"/><path d="M835 382q30-33 60 0" fill="#526b83"/><circle cx="854" cy="390" r="4" fill="#31485d"/><circle cx="876" cy="390" r="4" fill="#31485d"/><path d="M835 430h60l20 120h-100Z" fill="#55728a" stroke="#344f67" stroke-width="6"/><path d="M845 550l-10 70M885 550l10 70" stroke="#55728a" stroke-width="18"/>
+<!-- oil can -->
+<rect x="520" y="570" width="64" height="54" rx="8" fill="#d6b65e" stroke="#6b5637" stroke-width="5"/><path d="M580 582l38-25" stroke="#6b5637" stroke-width="8" stroke-linecap="round"/><path d="M535 565v-18h30v18" fill="none" stroke="#6b5637" stroke-width="6"/>
+<text x="70" y="100" fill="#315b55" font-family="Georgia,serif" font-size="36">A helping hand in the forest</text><text x="70" y="145" fill="#315b55" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER V · COMPLETE TRANSLATION</text>
+</svg>
