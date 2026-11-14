@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Bennet family visits Jane</title>
+<desc id="desc">Mrs Bennet, Kitty and Lydia visit Jane at Netherfield while Elizabeth remains beside her sister.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eee0c8"/><stop offset="1" stop-color="#c9b494"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="70" y="90" width="230" height="250" fill="#a6bdb6" stroke="#806d55" stroke-width="11"/><path d="M185 90v250M70 215h230" stroke="#f0e7d6" stroke-width="8"/>
+<!-- Jane's bed -->
+<rect x="310" y="410" width="470" height="150" rx="18" fill="#8b684e" stroke="#614832" stroke-width="8"/><rect x="340" y="425" width="420" height="100" rx="18" fill="#f0e8d9"/>
+<circle cx="520" cy="415" r="32" fill="#e8c6a7"/><path d="M488 405q8-46 37-42q29 4 33 42" fill="#9b7257"/><path d="M485 450h70l30 85h-130Z" fill="#e8d8b5"/>
+<!-- Elizabeth -->
+<circle cx="830" cy="360" r="34" fill="#e8c6a7"/><path d="M796 350q8-48 38-44q30 4 34 44" fill="#654634"/><path d="M790 410h80l25 145h-130Z" fill="#7f9b8c"/>
+<!-- Mrs Bennet -->
+<circle cx="990" cy="260" r="31" fill="#e8c6a7"/><path d="M959 250q8-44 34-40q26 4 29 40" fill="#8c5d4d"/><path d="M955 300h70l20 120h-110Z" fill="#9d5862"/>
+<!-- Kitty and Lydia -->
+<circle cx="1060" cy="470" r="24" fill="#e8c6a7"/><path d="M1036 462q6-34 28-30q22 3 24 30" fill="#9b7257"/><path d="M1030 500h60l15 90h-90Z" fill="#d5b3a0"/>
+<circle cx="900" cy="470" r="24" fill="#e8c6a7"/><path d="M876 462q6-34 28-30q22 3 24 30" fill="#74523f"/><path d="M870 500h60l15 90h-90Z" fill="#b1a1bf"/>
+<text x="70" y="60" fill="#65513e" font-family="Georgia,serif" font-size="34">A family visit at Netherfield</text><text x="70" y="690" fill="#65513e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER IX</text>
+</svg>
