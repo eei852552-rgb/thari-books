@@ -149,14 +149,15 @@ export default function Home() {
     return () => window.removeEventListener("keydown", handleEscape);
   }, []);
 
-  const normalizedQuery = query.trim().toLocaleLowerCase();
+  const normalizeSearchText = (value: string) => value.normalize("NFC").toLocaleLowerCase();
+  const normalizedQuery = normalizeSearchText(query.trim());
 
   const visibleCategories = useMemo(
-    () => categories.filter((category) => `${category.title} ${category.subtitle}`.toLocaleLowerCase().includes(normalizedQuery)),
+    () => categories.filter((category) => normalizeSearchText(`${category.title} ${category.subtitle}`).includes(normalizedQuery)),
     [normalizedQuery],
   );
   const visibleBooks = useMemo(
-    () => demoBooks.filter((book) => `${book.title} ${book.subtitle} ${book.description}`.toLocaleLowerCase().includes(normalizedQuery)),
+    () => demoBooks.filter((book) => normalizeSearchText(`${book.title} ${book.subtitle} ${book.description}`).includes(normalizedQuery)),
     [normalizedQuery],
   );
   const visibleGrades = useMemo(
@@ -164,7 +165,7 @@ export default function Home() {
       ...group,
       grades: group.grades.filter((grade) => {
         const shortGrade = grade.replace("Grade ", "G");
-        const searchableText = `${grade} ${shortGrade} ${group.name} ${group.label}`.toLocaleLowerCase();
+        const searchableText = normalizeSearchText(`${grade} ${shortGrade} ${group.name} ${group.label}`);
         return searchableText.includes(normalizedQuery);
       }),
     })).filter((group) => group.grades.length > 0),
@@ -288,12 +289,21 @@ export default function Home() {
             {visibleCategories.map((category, index) => {
               const Icon = category.icon;
               return (
-                <a className="category-card" href="#featured" key={category.title}>
+                <button
+                  className="category-card"
+                  type="button"
+                  key={category.title}
+                  aria-label={`${category.title} စာကြည့်တိုက်အခြေအနေကို ကြည့်ရန်`}
+                  onClick={() => setSiteNotice({
+                    title: `${category.subtitle} — အထွေထွေစာကြည့်တိုက်`,
+                    description: "ဒီအမျိုးအစားအတွက် စိစစ်အတည်ပြုပြီးသော စာအုပ်စာရင်းနှင့် ဖတ်ရှုနိုင်သော အကြောင်းအရာများကို ပြင်ဆင်နေဆဲဖြစ်ပါတယ်။ လက်ရှိပြသထားသော စာအုပ်ကတ်များသည် ဒီဇိုင်းနမူနာများသာ ဖြစ်ပါတယ်။",
+                  })}
+                >
                   <span className={`category-icon tone-${category.tone}`}><Icon size={21} strokeWidth={1.7} /></span>
                   <span className="category-text"><strong>{category.title}</strong><small>{category.subtitle}</small></span>
                   <span className="category-index">0{index + 1}</span>
                   <ArrowUpRight className="category-arrow" size={17} aria-hidden="true" />
-                </a>
+                </button>
               );
             })}
           </div>
