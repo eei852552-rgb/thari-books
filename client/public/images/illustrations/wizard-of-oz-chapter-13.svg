@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The friends are reunited</title>
+<desc id="desc">Dorothy and the Lion welcome the restored Tin Woodman and Scarecrow in the bright Yellow Castle courtyard.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#c6dcd2"/><stop offset="1" stop-color="#f3e1b6"/></linearGradient><linearGradient id="gold" x2="0" y2="1"><stop stop-color="#f2d47e"/><stop offset="1" stop-color="#bd873b"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 410Q250 350 500 415T950 400T1200 420V720H0Z" fill="#7d9a65"/>
+<!-- Yellow castle -->
+<path d="M650 430V210H1100V430Z" fill="url(#gold)" stroke="#8c672e" stroke-width="12"/><path d="M620 215l95-110 95 110M880 215l95-110 95 110" fill="#d7ad57" stroke="#8c672e" stroke-width="10"/><path d="M820 430V300Q875 230 930 300V430Z" fill="#684d32" stroke="#f2d47e" stroke-width="9"/>
+<g fill="#f7e6a9"><rect x="720" y="260" width="42" height="62"/><rect x="990" y="260" width="42" height="62"/></g>
+<!-- Dorothy -->
+<circle cx="260" cy="425" r="29" fill="#f0c99d"/><path d="M231 415q8-42 35-37q28 4 31 37" fill="#d6a2a0"/><path d="M232 470h58l20 130h-98Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/><path d="M250 600l-8 64M275 600l8 64" stroke="#f0c99d" stroke-width="14"/><path d="M238 664h28M270 664h28" stroke="#76533e" stroke-width="12"/>
+<!-- Toto -->
+<ellipse cx="330" cy="615" rx="30" ry="17" fill="#292b2b"/><circle cx="350" cy="600" r="15" fill="#292b2b"/>
+<!-- Lion -->
+<circle cx="460" cy="430" r="85" fill="#b97d42" stroke="#70452b" stroke-width="7"/><circle cx="460" cy="430" r="54" fill="#e7b66d" stroke="#9a683b" stroke-width="5"/><circle cx="442" cy="420" r="6" fill="#3b342e"/><circle cx="478" cy="420" r="6" fill="#3b342e"/><path d="M445 450q15 13 30 0" fill="none" stroke="#75503a" stroke-width="5"/>
+<!-- Tin Woodman -->
+<circle cx="690" cy="420" r="32" fill="#bac9c9" stroke="#637b7e" stroke-width="6"/><path d="M652 462h76l22 125H630Z" fill="#bac9c9" stroke="#637b7e" stroke-width="6"/><path d="M660 585l-10 65M720 585l10 65" stroke="#9eafb0" stroke-width="20" stroke-linecap="round"/>
+<!-- Scarecrow -->
+<circle cx="865" cy="420" r="30" fill="#d5bb84" stroke="#6e593d" stroke-width="5"/><path d="M835 412q30-35 60 0" fill="#526b83"/><path d="M830 460h70l20 125H810Z" fill="#55728a" stroke="#344f67" stroke-width="6"/>
+<text x="70" y="90" fill="#6b522d" font-family="Georgia,serif" font-size="36">Friends reunited at the Yellow Castle</text><text x="70" y="135" fill="#6b522d" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XIII · COMPLETE TRANSLATION</text>
+</svg>
