@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, type KeyboardEvent as ReactKeyboardEvent } from "react";
 import {
   ArrowDown,
   ArrowRight,
@@ -41,6 +41,29 @@ type SiteNotice = {
   title: string;
   description: string;
 };
+
+function keepDialogFocus(event: ReactKeyboardEvent<HTMLElement>) {
+  if (event.key !== "Tab") return;
+
+  const focusable = event.currentTarget.querySelectorAll<HTMLElement>(
+    'button:not([disabled]), a[href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])',
+  );
+  if (focusable.length === 0) {
+    event.preventDefault();
+    return;
+  }
+
+  const first = focusable[0];
+  const last = focusable[focusable.length - 1];
+
+  if (event.shiftKey && document.activeElement === first) {
+    event.preventDefault();
+    last.focus();
+  } else if (!event.shiftKey && document.activeElement === last) {
+    event.preventDefault();
+    first.focus();
+  }
+}
 
 const gradeGroups = [
   { name: "KG", label: "သူငယ်တန်း", grades: ["KG"] },
@@ -357,7 +380,7 @@ export default function Home() {
 
       {selectedBook && (
         <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSelectedBook(null); }}>
-          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="dialog-title" aria-describedby="dialog-description">
+          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="dialog-title" aria-describedby="dialog-description" onKeyDown={keepDialogFocus}>
             <button className="dialog-close" type="button" autoFocus onClick={() => setSelectedBook(null)} aria-label="ပိတ်ရန်"><X size={19} /></button>
             <span className="demo-label"><Sparkles size={13} /> DEMO · အမှန်တကယ်စာအုပ် မဟုတ်ပါ</span>
             <h2 id="dialog-title">{selectedBook.title}</h2>
@@ -369,7 +392,7 @@ export default function Home() {
       )}
       {siteNotice && (
         <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSiteNotice(null); }}>
-          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="site-notice-title" aria-describedby="site-notice-description">
+          <section className="demo-dialog" role="dialog" aria-modal="true" aria-labelledby="site-notice-title" aria-describedby="site-notice-description" onKeyDown={keepDialogFocus}>
             <button className="dialog-close" type="button" autoFocus onClick={() => setSiteNotice(null)} aria-label="ပိတ်ရန်"><X size={19} /></button>
             <span className="eyebrow eyebrow-dark">THARi BOOKS · အချက်အလက်</span>
             <h2 id="site-notice-title">{siteNotice.title}</h2>
