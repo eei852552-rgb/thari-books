@@ -11,6 +11,13 @@ export const wizardOfOzChapter16My = [
     readingType: "translation",
     title: "အခန်း (၁၆) — ဟန်ဆောင်မှော်ဆရာကြီး၏ မှော်ပညာ",
     titleEn: "Chapter XVI — The Magic Art of the Great Humbug",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-16.svg",
+      altMy: "အော့ဇ်က ကောက်ရိုးလူ၊ သံဖြူလူသားနှင့် ခြင်္သေ့တို့ကို သူတို့လိုချင်သော လက်ဆောင်များ ပေးအပ်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Oz presenting the Scarecrow, Tin Woodman and Lion with their symbolic gifts",
+      captionMy: "အခန်း (၁၆) — မိတ်ဆွေများ၏ ဆန္ဒများ ပြည့်ဝခြင်း",
+      captionEn: "Chapter XVI — The friends receive their gifts",
+    },
     contentEn: `The next morning the Scarecrow said to his friends:
 
 “Congratulate me! I am going to Oz to receive my brains at last. When I return, I shall be like other people.”
