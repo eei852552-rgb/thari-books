@@ -11,6 +11,13 @@ export const wizardOfOzChapter21My = [
     readingType: "translation",
     title: "အခန်း (၂၁) — ခြင်္သေ့သည် သားရဲတို့၏ ဘုရင် ဖြစ်လာခြင်း",
     titleEn: "Chapter XXI — The Lion Becomes the King of Beasts",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-21.svg",
+      altMy: "ခြင်္သေ့ကြီးကို သစ်တောတိရစ္ဆာန်များက သူတို့၏ ဘုရင်အဖြစ် ကြိုဆိုနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "The forest animals welcoming the Lion as their King",
+      captionMy: "အခန်း (၂၁) — သစ်တောဘုရင်",
+      captionEn: "Chapter XXI — The King of the Forest",
+    },
     contentEn: `After climbing down from the china wall, the travelers found themselves in an unpleasant country full of bogs and marshes. Tall, thick grass covered the ground, making it difficult to see where the muddy holes were. They walked carefully and eventually reached firm ground.
 
 The country now seemed wilder than ever. After a long and tiring walk through the undergrowth, they entered another forest. The trees were larger and older than any they had seen before.
