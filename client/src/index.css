@@ -427,3 +427,21 @@ a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-o
   .kg-choice { justify-content: space-between; min-height: 40px; padding: 8px 10px; }
   .kg-lesson-topline { flex-wrap: wrap; }
 }
+
+
+/* Descriptions for curated external free-reading entries. */
+.book-description {
+  min-height: 58px;
+  margin: 0 2px 13px;
+  color: rgba(255,255,255,.72);
+  font-family: 'Noto Sans Myanmar', sans-serif;
+  font-size: 10px;
+  line-height: 1.9;
+}
+@media (max-width: 600px) {
+  .book-description {
+    min-height: 0;
+    margin-bottom: 10px;
+    font-size: 8px;
+  }
+}
