@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter15My = [
     number: 15,
     title: "အခန်း (၁၅)",
     titleEn: "Chapter XV",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-15.svg",
+      altMy: "အဲလိဇဘက်နှင့် ညီအစ်မများက မယ်ရီတန်မြို့တွင် မစ္စတာ ဝစ်ကဟမ်နှင့် တွေ့ဆုံနေပြီး ဒါစီနှင့် ဘင်ဂလီတို့လည်း အနီးတွင် ရှိနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Elizabeth and her sisters meeting Mr Wickham in Meryton as Darcy and Bingley approach",
+      captionMy: "အခန်း (၁၅) — မယ်ရီတန်တွင် အသိမိတ်ဆွေအသစ်",
+      captionEn: "Chapter XV — A new acquaintance in Meryton",
+    },
     contentEn: `Mr. Collins was not a particularly sensible man. His education had done little to improve his judgement, and much of his early life had been spent under the influence of a strict and ungenerous father. He had learned to speak politely, but he often mistook formal manners for good sense.
 
 After becoming a clergyman, he had been fortunate enough to receive the support of Lady Catherine de Bourgh. Her kindness and influence had given him a comfortable position, and he admired her so greatly that he often repeated her opinions as if they were his own.
