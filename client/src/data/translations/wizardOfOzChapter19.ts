@@ -11,6 +11,13 @@ export const wizardOfOzChapter19My = [
     readingType: "translation",
     title: "အခန်း (၁၉) — လှုပ်ရှားတိုက်ခိုက်သော သစ်ပင်များ",
     titleEn: "Chapter XIX — Attacked by the Fighting Trees",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-19.svg",
+      altMy: "ဒေါ်ရသီနှင့် မိတ်ဆွေများက အကိုင်းများ လှုပ်ရှားတားဆီးနေသော ထူးဆန်းသည့် သစ်တောသို့ ချဉ်းကပ်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Dorothy and her companions approaching the mysterious forest of moving branches",
+      captionMy: "အခန်း (၁၉) — သစ်တော၏ ထူးဆန်းသော တားဆီးမှု",
+      captionEn: "Chapter XIX — The forest's strange barrier",
+    },
     contentEn: `The next morning Dorothy said good-bye to the pretty green girl. They all shook hands with the soldier with the green beard, who walked with them as far as the gate.
 
 When the Guardian of the Gate saw them again, he was surprised that they would leave the beautiful City and go looking for new difficulties. But he immediately unlocked their spectacles, put them back into the green box, and wished them a safe journey.
