@@ -8,6 +8,13 @@ export const prideAndPrejudiceChapter9My = [
     number: 9,
     title: "အခန်း (၉)",
     titleEn: "Chapter IX",
+    illustration: {
+      src: "images/illustrations/pride-and-prejudice-chapter-9.svg",
+      altMy: "မစ္စစ် ဘင်နက်၊ ကစ်တီနှင့် လီဒီယာတို့က နက်သာဖီးလ်ဒ်တွင် ဂျိန်းနှင့် အဲလိဇဘက်ကို လာရောက်တွေ့ဆုံနေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "Mrs Bennet, Kitty and Lydia visiting Jane and Elizabeth at Netherfield",
+      captionMy: "အခန်း (၉) — ဂျိန်းထံ မိသားစု လာရောက်လည်ပတ်ခြင်း",
+      captionEn: "Chapter IX — The Bennet family visits Jane",
+    },
     contentEn: `Elizabeth spent most of the morning with Jane, who was still unwell. She was glad to remain beside her sister, although she knew that the Bingley household had its own opinions about the Bennet family.
 
 Later that morning Mrs. Bennet arrived with Kitty and Lydia. She was pleased to see Jane at Netherfield and seemed more interested in the attention Jane was receiving than in how uncomfortable her daughter felt.
