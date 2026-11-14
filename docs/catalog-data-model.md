@@ -90,3 +90,17 @@ This example illustrates the data shape; it is not a claim that the individual a
 
 ## Stage-one boundary
 Do not add a database, backend API, login, membership, payment, upload endpoint, or public download based on this schema alone. Finish and review the static homepage first; add a real catalog only after each record has evidence and the owner approves that stage.
+
+## Implemented TypeScript foundation
+
+The static type definitions and initial empty catalogue structure now live in
+`client/src/data/catalog.ts`.
+
+Implemented:
+- KG through Grade 12 grade records grouped by the KG+12 levels.
+- Typed subject and learning-resource records.
+- Verification, rights, review, and visibility status types.
+- The eight general-library category records.
+- A publication guard that only allows public resources with approved review status and an explicit permitted rights state.
+
+The subject and resource arrays are intentionally empty. This file is a typed foundation only; it is not yet connected to the homepage UI, does not contain a verified subject inventory, and does not create a database or backend.
