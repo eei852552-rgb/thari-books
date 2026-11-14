@@ -12,10 +12,10 @@ export const wizardOfOzChapter2My = [
     titleEn: "Chapter II — The Council with the Munchkins",
     illustration: {
       src: "images/illustrations/wizard-of-oz-chapter-2.svg",
-      altMy: "ဒေါ်ရသီနှင့် မန်ချ်ကင်များ အော့ဇ်ပြည်တွင် တွေ့ဆုံနေသည့် သရုပ်ဖော်ပုံ",
-      altEn: "Dorothy meets the Munchkins in the Land of Oz",
-      captionMy: "အခန်း (၂) — အော့ဇ်ပြည်မှ မိတ်ဆွေသစ်များ",
-      captionEn: "Chapter II — New friends in the Land of Oz",
+      altMy: "မြစိမ်းရောင်မြို့တော်သို့ သွားသော အဝါရောင်အုတ်ခင်းလမ်း သရုပ်ဖော်ပုံ",
+      altEn: "An editorial illustration of the yellow brick road",
+      captionMy: "အခန်း (၂) — အဝါရောင်အုတ်ခင်းလမ်း",
+      captionEn: "Chapter II — The yellow brick road",
     },
     contentEn: `She was awakened by a shock, so sudden and severe that if Dorothy had not been lying on the soft bed she might have been hurt. As it was, the jar made her catch her breath and wonder what had happened; and Toto put his cold little nose into her face and whined dismally. Dorothy sat up and noticed that the house was not moving; nor was it dark, for the bright sunshine came in at the window, flooding the little room. She sprang from her bed and with Toto at her heels ran and opened the door.
 
