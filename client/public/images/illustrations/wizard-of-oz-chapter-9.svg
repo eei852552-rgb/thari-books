@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Queen of the Field Mice</title>
+<desc id="desc">The tiny Mouse Queen and many field mice gather beside the Tin Woodman, Dorothy and her friends in a sunny meadow.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b9d9d1"/><stop offset="1" stop-color="#f2e3bd"/></linearGradient><linearGradient id="grass" x2="0" y2="1"><stop stop-color="#8ba66e"/><stop offset="1" stop-color="#4d6a4d"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><circle cx="1020" cy="115" r="60" fill="#f8dd94"/>
+<path d="M0 390Q230 330 500 400T920 385T1200 405V720H0Z" fill="url(#grass)"/>
+<g fill="#f1d88d"><circle cx="95" cy="510" r="8"/><circle cx="180" cy="590" r="7"/><circle cx="1030" cy="520" r="8"/><circle cx="1120" cy="600" r="7"/></g>
+<!-- cart -->
+<rect x="520" y="510" width="280" height="68" rx="12" fill="#9a7145" stroke="#5d472f" stroke-width="8"/><circle cx="570" cy="600" r="27" fill="#5c5142" stroke="#d0b37a" stroke-width="7"/><circle cx="755" cy="600" r="27" fill="#5c5142" stroke="#d0b37a" stroke-width="7"/>
+<!-- sleeping lion -->
+<circle cx="670" cy="465" r="74" fill="#b97d42" stroke="#70452b" stroke-width="6"/><circle cx="670" cy="465" r="48" fill="#e7b66d" stroke="#9a683b" stroke-width="4"/><path d="M646 465q12 12 24 0" stroke="#75503a" stroke-width="5" fill="none"/><path d="M655 485q15 10 30 0" stroke="#75503a" stroke-width="4" fill="none"/>
+<!-- Tin Woodman -->
+<circle cx="380" cy="405" r="31" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M345 445h70l20 125H325Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<!-- Dorothy -->
+<circle cx="250" cy="430" r="28" fill="#f0c99d"/><path d="M222 420q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M225 465h55l20 105h-95Z" fill="#dce7ed" stroke="#60737c" stroke-width="5"/>
+<!-- Scarecrow -->
+<circle cx="470" cy="405" r="27" fill="#d5bb84"/><path d="M444 396q26-30 52 0" fill="#526b83"/><path d="M440 440h60l16 115h-92Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- mouse queen -->
+<ellipse cx="890" cy="550" rx="38" ry="28" fill="#aeb2a8" stroke="#68746c" stroke-width="5"/><circle cx="870" cy="520" r="18" fill="#aeb2a8"/><circle cx="905" cy="520" r="18" fill="#aeb2a8"/><circle cx="882" cy="547" r="4" fill="#353535"/><circle cx="898" cy="547" r="4" fill="#353535"/><path d="M915 555q48 12 60-15" fill="none" stroke="#aeb2a8" stroke-width="6"/>
+<path d="M882 495l8-24 10 24" fill="#d9bb72" stroke="#765b37" stroke-width="4"/>
+<!-- tiny mice -->
+<g fill="#b9bdb4" stroke="#727e75" stroke-width="3"><ellipse cx="960" cy="610" rx="20" ry="14"/><circle cx="948" cy="596" r="9"/><circle cx="969" cy="596" r="9"/><ellipse cx="1020" cy="630" rx="18" ry="12"/><circle cx="1009" cy="618" r="8"/><circle cx="1028" cy="618" r="8"/><ellipse cx="1080" cy="590" rx="20" ry="14"/><circle cx="1068" cy="576" r="9"/><circle cx="1089" cy="576" r="9"/></g>
+<text x="70" y="100" fill="#315b55" font-family="Georgia,serif" font-size="36">The little Queen and her people</text><text x="70" y="145" fill="#315b55" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER IX · COMPLETE TRANSLATION</text>
+</svg>
