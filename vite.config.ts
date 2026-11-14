@@ -171,6 +171,8 @@ function vitePluginPublicPlatformConfig(): Plugin {
 const plugins = [vitePluginPublicPlatformConfig(), react(), tailwindcss(), jsxLocPlugin(), vitePluginManusDebugCollector()];
 
 export default defineConfig({
+  // GitHub Pages hosts this project under /thari-books/; other previews use the domain root.
+  base: process.env.GITHUB_PAGES === "true" ? "/thari-books/" : "/",
   plugins,
   resolve: {
     alias: {
