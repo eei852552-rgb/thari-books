@@ -11,6 +11,13 @@ export const wizardOfOzChapter17My = [
     readingType: "translation",
     title: "အခန်း (၁၇) — လေပူဖောင်း ထွက်ခွာခြင်း",
     titleEn: "Chapter XVII — How the Balloon Was Launched",
+    illustration: {
+      src: "images/illustrations/wizard-of-oz-chapter-17.svg",
+      altMy: "မြစိမ်းရောင်မြို့တော်အပေါ်တွင် လေပူဖောင်း မြင့်တက်နေပြီး ဒေါ်ရသီနှင့် တိုတိုတို့က အောက်မှ ကြည့်နေသည့် သရုပ်ဖော်ပုံ",
+      altEn: "The balloon rising above the Emerald City as Dorothy and Toto watch from below",
+      captionMy: "အခန်း (၁၇) — အော့ဇ်၏ နောက်ဆုံးခရီး",
+      captionEn: "Chapter XVII — Oz's departure",
+    },
     contentEn: `For three days Dorothy heard nothing from Oz. These were sad days for the little girl, although her friends were all happy and comfortable.
 
 The Scarecrow told them that wonderful thoughts were filling his head, but he would not explain what they were. He said that no one else could understand them until he had become used to his new brains.
