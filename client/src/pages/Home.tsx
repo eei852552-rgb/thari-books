@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   ArrowRight,
   ArrowUpRight,
@@ -194,14 +194,14 @@ function readProgress(): ReaderProgress | null {
     const raw = window.localStorage.getItem(readingProgressKey);
     if (!raw) return null;
     const value = JSON.parse(raw) as Partial<ReaderProgress>;
-    if (!value.bookId || typeof value.chapterIndex !== "number" || typeof value.page !== "number") return null;
+    if (!value.bookId || !Number.isInteger(value.chapterIndex) || !Number.isFinite(value.chapterIndex) || !Number.isInteger(value.page) || !Number.isFinite(value.page)) return null;
     if (!openBooks.some((book) => book.id === value.bookId)) return null;
     return {
       bookId: value.bookId,
       chapterIndex: Math.max(0, value.chapterIndex),
       page: Math.max(0, value.page),
       language: value.language === "en" ? "en" : "my",
-      updatedAt: typeof value.updatedAt === "number" ? value.updatedAt : Date.now(),
+      updatedAt: typeof value.updatedAt === "number" && Number.isFinite(value.updatedAt) ? value.updatedAt : Date.now(),
     };
   } catch {
     return null;
@@ -226,6 +226,8 @@ export default function Home() {
   const [readerChapterIndex, setReaderChapterIndex] = useState(0);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [resumeProgress, setResumeProgress] = useState<ReaderProgress | null>(() => readProgress());
+  const readerDialogRef = useRef<HTMLElement | null>(null);
+  const previouslyFocusedRef = useRef<HTMLElement | null>(null);
   const ui = copy[siteLanguage];
   const readerChapters = selectedBook ? (readerChaptersByBookId[selectedBook.id as keyof typeof readerChaptersByBookId] ?? []) as readonly ReaderChapter[] : [];
   const activeChapter = readerChapters[readerChapterIndex] ?? null;
@@ -248,14 +250,37 @@ export default function Home() {
   useEffect(() => {
     if (!selectedBook) return;
     const previousOverflow = document.body.style.overflow;
+    previouslyFocusedRef.current = document.activeElement instanceof HTMLElement ? document.activeElement : null;
     document.body.style.overflow = "hidden";
+    const dialog = readerDialogRef.current;
+    const focusableSelector = 'a[href], button:not([disabled]), input:not([disabled]), [tabindex]:not([tabindex="-1"])';
+    const getFocusableElements = () => Array.from(dialog?.querySelectorAll<HTMLElement>(focusableSelector) ?? []);
+    getFocusableElements()[0]?.focus();
     const handleKeyDown = (event: KeyboardEvent) => {
-      if (event.key === "Escape") setSelectedBook(null);
+      if (event.key === "Escape") {
+        setSelectedBook(null);
+        return;
+      }
+      if (event.key !== "Tab") return;
+      const focusableElements = getFocusableElements();
+      const first = focusableElements[0];
+      const last = focusableElements[focusableElements.length - 1];
+      if (!first || !last) {
+        event.preventDefault();
+        dialog?.focus();
+      } else if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
     };
     window.addEventListener("keydown", handleKeyDown);
     return () => {
       document.body.style.overflow = previousOverflow;
       window.removeEventListener("keydown", handleKeyDown);
+      previouslyFocusedRef.current?.focus();
     };
   }, [selectedBook]);
 
@@ -432,7 +457,7 @@ export default function Home() {
 
         {selectedBook && (
           <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSelectedBook(null); }}>
-            <section className="demo-dialog burmese-reader" role="dialog" aria-modal="true" aria-labelledby="reader-title">
+            <section ref={readerDialogRef} className="demo-dialog burmese-reader" role="dialog" aria-modal="true" aria-labelledby="reader-title" tabIndex={-1}>
               <button className="dialog-close" type="button" onClick={() => setSelectedBook(null)} aria-label={ui.close}><X size={19} /></button>
               <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · {ui.myanmar} / {ui.english}</span>
               <h2 id="reader-title">{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h2>
