@@ -6,7 +6,7 @@
 **ထုတ်ဝေသူ / Publisher:** THARi BOOKS  
 **ဘာသာစကား / Languages:** မြန်မာ / English  
 **အမျိုးအစား / Genre:** ဘဝဒဿန၊ ကိုယ်တိုင်လေ့လာမှု၊ လူမှုဘဝ  
-**အခြေအနေ / Status:** Working manuscript — editorial review and completion pending
+**အခြေအနေ / Status:** Complete first draft — editorial review, bilingual verification, illustration, and Reader integration pending. Not yet publication-ready.
 
 ---
 
