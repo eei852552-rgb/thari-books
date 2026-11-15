@@ -367,3 +367,145 @@ Each evening, write down three things you appreciated about the day. They do not
 - What is one thing in your life that you can appreciate today?
 - How can you combine gratitude with practical problem-solving?
 
+
+
+---
+
+# အခန်း ၆။ အခက်အခဲထဲမှ သင်ယူခြင်း
+## Chapter 6. Learning Through Difficulty
+
+### မြန်မာစာ
+
+ဘဝတွင် အခက်အခဲများကို လုံးဝရှောင်ရှားနိုင်သူ မရှိပါ။ အချို့အခက်အခဲများသည် မိမိ၏ရွေးချယ်မှုကြောင့် ဖြစ်လာနိုင်သော်လည်း အချို့မှာ မိမိမထိန်းချုပ်နိုင်သော အခြေအနေများကြောင့် ဖြစ်ပေါ်လာသည်။ ထိုအခက်အခဲများကို ကြုံတွေ့ရသောအခါ “ဘာကြောင့် ငါ့အပေါ် ဒီလိုဖြစ်ရတာလဲ” ဟု မေးမိနိုင်သည်။ ထိုမေးခွန်းသည် သဘာဝကျသော်လည်း တစ်ခါတစ်ရံ “ယခုအခြေအနေထဲမှ ဘာကို နားလည်နိုင်သလဲ၊ ဘယ်လိုအကူအညီ လိုအပ်သလဲ” ဟု မေးခြင်းက နောက်တစ်ဆင့်ကို ရှာဖွေရန် ပိုအသုံးဝင်နိုင်သည်။
+
+အခက်အခဲတိုင်းတွင် သင်ခန်းစာတစ်ခု မဖြစ်မနေ ပါဝင်နေသည်ဟု မဆိုနိုင်ပါ။ မတရားမှု၊ ဆုံးရှုံးမှုနှင့် မမျှော်လင့်သောပြဿနာများသည် နာကျင်စရာဖြစ်နိုင်ပြီး ထိုအရာများကို ချက်ချင်းအဓိပ္ပာယ်ဖော်ရန် မလိုအပ်ပါ။ အခက်အခဲကြုံသူတစ်ဦးကို “ဒီကနေ သင်ခန်းစာယူလိုက်ပါ” ဟု အလျင်စလို ပြောခြင်းသည် သူ၏ခံစားချက်ကို လျစ်လျူရှုသကဲ့သို့ ဖြစ်နိုင်သည်။ တစ်ခါတစ်ရံ ပထမဆုံးလိုအပ်သည်မှာ နားထောင်ပေးသူ၊ လုံခြုံသောနေရာ၊ အနားယူချိန် သို့မဟုတ် လက်တွေ့အကူအညီဖြစ်သည်။
+
+**ဥပမာ — ပျက်စီးသွားသော မြေပုံ**
+
+ခရီးသွားတစ်ဦးသည် မိုးကြီးပြီးနောက် မြေပုံဟောင်းတစ်ရွက် ပျက်စီးသွားသည်ကို တွေ့သည်။ မြေပုံကို အတင်းပြန်ဖတ်ရန် ကြိုးစားသော်လည်း လမ်းအချို့ကို မမြင်နိုင်တော့ပါ။ သူသည် ခဏရပ်ပြီး လက်ရှိနေရာကို စစ်ဆေးသည်။ အနီးအနားရှိ လူများထံမှ လမ်းအချက်အလက် မေးမြန်းပြီး လမ်းသစ်ကို ရွေးချယ်သည်။ သူ၏ခရီးစဉ်သည် မူလအစီအစဉ်အတိုင်း မဖြစ်တော့သော်လည်း အခြေအနေအသစ်နှင့် ကိုက်ညီသော နည်းလမ်းတစ်ခုကို ရှာတွေ့ခဲ့သည်။
+
+ဤပုံရိပ်သည် အခက်အခဲကို ရင်ဆိုင်ရာတွင် အရေးကြီးသော အချက်တစ်ခုကို ပြသသည်။ အစီအစဉ်တစ်ခု မအောင်မြင်သောအခါ မိမိကိုယ်ကို အပြစ်တင်ရုံဖြင့် မလုံလောက်ပါ။ အချက်အလက်အသစ်ကို စုဆောင်းရန်၊ အကူအညီတောင်းရန်၊ လိုအပ်ပါက ရည်မှန်းချက်ကို ပြန်လည်ပြင်ဆင်ရန် လိုအပ်နိုင်သည်။
+
+သင်ယူခြင်းသည် အမှားမလုပ်တော့ခြင်း မဟုတ်ပါ။ အမှားဖြစ်ပေါ်စေသည့် အကြောင်းရင်းကို နားလည်လာခြင်း၊ နောက်တစ်ကြိမ်တွင် မတူညီသောနည်းလမ်းကို စမ်းသပ်ခြင်းနှင့် မိမိ၏ကန့်သတ်ချက်ကို သိရှိလာခြင်းဖြစ်သည်။ တစ်ခါတစ်ရံ အကူအညီတောင်းခြင်းသည်လည်း သင်ယူမှု၏ အစိတ်အပိုင်းတစ်ခုဖြစ်သည်။
+
+အခက်အခဲတစ်ခုကို ရင်ဆိုင်ရာတွင် အရာအားလုံးကို တစ်ပြိုင်နက် ဖြေရှင်းရန် မကြိုးစားပါနှင့်။ ပြဿနာကို သေးငယ်သောအပိုင်းများအဖြစ် ခွဲပါ။ မိမိယခုလုပ်နိုင်သည့်အရာ၊ အခြားသူထံမှ အကူအညီလိုသည့်အရာနှင့် မိမိထိန်းချုပ်မရသည့်အရာတို့ကို ခွဲခြားပါ။ ထို့နောက် လုံခြုံပြီး လက်တွေ့ကျသော ခြေလှမ်းတစ်ခုကို ရွေးချယ်ပါ။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — ပြန်လည်သုံးသပ်ခြင်း
+
+အတိတ်က ကြုံတွေ့ခဲ့သော အခက်အခဲအသေးစားတစ်ခုကို ရွေးပြီး အောက်ပါအချက်များကို ရေးပါ။
+
+1. ဘာဖြစ်ခဲ့သလဲ။
+2. ဘယ်အပိုင်းကို မိမိထိန်းချုပ်နိုင်ခဲ့သလဲ။
+3. ဘယ်အပိုင်းတွင် အကူအညီလိုအပ်ခဲ့သလဲ။
+4. နောက်တစ်ကြိမ်တွင် ဘာကို မတူညီစွာ လုပ်နိုင်မလဲ။
+5. ယခုအချိန်တွင် မိမိကိုယ်ကို ဘယ်လိုကြင်နာစွာ ဆက်ဆံနိုင်မလဲ။
+
+ဤလေ့ကျင့်ခန်းသည် အတိတ်ကို ပြန်လည်အပြစ်တင်ရန် မဟုတ်ပါ။ အတွေ့အကြုံကို ပိုမိုနားလည်ပြီး နောက်တစ်ဆင့်အတွက် အသိပညာရရှိရန်ဖြစ်သည်။
+
+### စဉ်းစားရန်
+
+- အခက်အခဲကြုံသောအခါ မိမိသည် အကူအညီတောင်းရန် အဆင်ပြေသလား။
+- မိမိထိန်းချုပ်နိုင်သည့်အရာနှင့် မထိန်းချုပ်နိုင်သည့်အရာကို ခွဲခြားနိုင်သလား။
+- အတိတ်အမှားတစ်ခုမှ ရရှိခဲ့သော အသိပညာက ဘာလဲ။
+
+### English
+
+No one can avoid every difficulty in life. Some difficulties arise from our own choices, while others come from circumstances beyond our control. When facing them, we may ask, “Why is this happening to me?” That is a natural question. Yet sometimes it is also useful to ask, “What can I understand about this situation, and what support do I need now?”
+
+Not every difficulty necessarily contains a lesson. Injustice, loss, and unexpected problems can be painful, and we do not have to assign meaning to them immediately. Telling someone who is struggling to “learn a lesson from it” too quickly may overlook what they are feeling. Sometimes the first need is someone who listens, a safe place, time to rest, or practical support.
+
+**An example — A damaged map**
+
+After heavy rain, a traveller discovers that an old map has been damaged. They try to read it, but some of the roads are no longer visible. The traveller pauses and checks their current location. They ask nearby people for directions and choose a new route. The journey no longer follows the original plan, but a way forward becomes possible.
+
+This image shows an important part of facing difficulty. When a plan fails, blaming ourselves is not enough. We may need to gather new information, ask for help, and revise our goal if necessary.
+
+Learning does not mean never making mistakes again. It means understanding what contributed to a mistake, trying a different approach next time, and recognising our limitations. Asking for help can also be part of learning.
+
+When facing a difficult situation, do not try to solve everything at once. Divide the problem into smaller parts. Separate what you can do now, what requires help from someone else, and what is beyond your control. Then choose one safe and realistic next step.
+
+### Practical exercise — Looking back with understanding
+
+Choose a manageable difficulty from your past and write about these points:
+
+1. What happened?
+2. Which part was within my control?
+3. Where did I need help?
+4. What could I do differently next time?
+5. How can I treat myself with kindness now?
+
+This exercise is not meant to blame you for the past. It is meant to help you understand the experience and carry useful knowledge into the next step.
+
+### Reflection
+
+- Are you comfortable asking for help when you face difficulty?
+- Can you distinguish what you can control from what you cannot?
+- What understanding did you gain from a past mistake?
+
+---
+
+# အခန်း ၇။ လူများနှင့်အတူ နေထိုင်ခြင်း
+## Chapter 7. Living Among Others
+
+### မြန်မာစာ
+
+လူသားတစ်ဦးသည် တစ်ယောက်တည်းဖြင့်သာ ဘဝကို တည်ဆောက်နေခြင်း မဟုတ်ပါ။ မိသားစု၊ မိတ်ဆွေ၊ ဆရာသမား၊ အိမ်နီးချင်းနှင့် မိမိမသိကျွမ်းသော လူများ၏ လုပ်ဆောင်မှုများကပင် နေ့စဉ်ဘဝကို သက်ရောက်စေသည်။ ကျွန်ုပ်တို့စားသုံးသောအစားအစာ၊ အသုံးပြုသောလမ်း၊ သင်ယူရသောအသိပညာနှင့် ရရှိသောဝန်ဆောင်မှုများသည် လူအများ၏ အလုပ်နှင့် ပူးပေါင်းဆောင်ရွက်မှုကြောင့် ဖြစ်ပေါ်လာသည်။ ထို့ကြောင့် လူမှုဘဝကို နားလည်ခြင်းသည် မိမိကိုယ်ကိုသာ နားလည်ခြင်းထက် ပိုကျယ်ပြန့်သည်။
+
+အတူနေထိုင်ခြင်းသည် အမြဲသဘောတူညီနေရခြင်း မဟုတ်ပါ။ လူတို့တွင် အတွေ့အကြုံ၊ ယုံကြည်ချက်၊ လိုအပ်ချက်နှင့် အမြင်မတူညီကြသည်။ မတူညီမှုကြောင့် သဘောထားကွဲလွဲမှု ဖြစ်ပေါ်နိုင်သည်။ အရေးကြီးသည်မှာ သဘောထားမတူသူကို ရန်သူဟု ချက်ချင်းမသတ်မှတ်ဘဲ အကြောင်းပြချက်ကို နားထောင်နိုင်ခြင်းဖြစ်သည်။ သို့သော် လေးစားမှုရှိခြင်းသည် မတရားမှု သို့မဟုတ် ထိခိုက်စေသောအပြုအမူကို လက်ခံရမည်ဟု မဆိုလိုပါ။ ကိုယ့်နယ်နိမိတ်ကို သတ်မှတ်ခြင်းနှင့် အကူအညီရှာခြင်းတို့လည်း အရေးကြီးသည်။
+
+**ဥပမာ — တံတားတစ်စင်း**
+
+မြစ်တစ်စင်း၏ တစ်ဖက်ကမ်းတွင် ရွာတစ်ရွာ၊ အခြားတစ်ဖက်တွင် ဈေးတစ်ခု ရှိသည်ဟု စဉ်းစားပါ။ တံတားမရှိလျှင် လူများသည် အချိန်ပိုယူ၍ သွားလာရမည်။ တံတားတစ်စင်း တည်ဆောက်ရန် အင်ဂျင်နီယာ၊ အလုပ်သမား၊ ပစ္စည်းပေးသွင်းသူနှင့် ရပ်ရွာလူထုတို့ ပူးပေါင်းရသည်။ တံတားသည် တစ်ဦးတစ်ယောက်၏ အောင်မြင်မှုမဟုတ်ဘဲ လူအများ၏ ပူးပေါင်းမှုမှ ဖြစ်လာသော အကျိုးရလဒ်ဖြစ်သည်။
+
+လူမှုဆက်ဆံရေးတွင်လည်း ယုံကြည်မှုကို တစ်ကြိမ်တည်းဖြင့် တည်ဆောက်၍ မရပါ။ ကတိတည်ခြင်း၊ နားထောင်ခြင်း၊ အမှားရှိလျှင် ဝန်ခံခြင်း၊ အခြားသူ၏အချိန်နှင့် နယ်နိမိတ်ကို လေးစားခြင်းတို့ကို ထပ်ခါတလဲလဲ ပြုလုပ်ခြင်းဖြင့် ယုံကြည်မှု တိုးပွားလာသည်။ ယုံကြည်မှုသည် စကားလုံးများထက် လုပ်ရပ်များနှင့် ပိုမိုခိုင်မာလာတတ်သည်။
+
+ကောင်းမွန်သောဆက်ဆံရေးတစ်ခုတွင် ပြောဆိုနိုင်ခြင်းသာမက နားထောင်နိုင်ခြင်းလည်း လိုအပ်သည်။ တစ်ဖက်လူ ပြောနေစဉ် မိမိအဖြေကိုသာ စဉ်းစားနေပါက သူ၏ဆိုလိုရင်းကို လွတ်သွားနိုင်သည်။ နားထောင်ခြင်းဆိုသည်မှာ သဘောတူညီခြင်း မဟုတ်ပါ။ အခြားသူ၏အမြင်ကို မည်သို့ရောက်လာသည်ကို နားလည်ရန် ကြိုးစားခြင်းဖြစ်သည်။
+
+ပဋိပက္ခဖြစ်လာသောအခါ လူကို တိုက်ခိုက်မည့်အစား ပြဿနာကို ရှင်းလင်းစွာ ဖော်ပြခြင်းက ပိုကောင်းသည်။ “မင်းက အမြဲတမ်း ဒီလိုပဲ” ဟု အထွေထွေစွပ်စွဲခြင်းထက် “ဒီကိစ္စဖြစ်တဲ့အခါ ကျွန်ုပ်အတွက် အခက်အခဲဖြစ်ခဲ့တယ်၊ နောက်တစ်ကြိမ် ဒီလိုလုပ်ပေးနိုင်မလား” ဟု တိကျစွာ ပြောနိုင်သည်။ စကားပြောရာတွင် အသံနေအသံထားနှင့် အချိန်ရွေးချယ်မှုသည်လည်း အရေးကြီးသည်။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — နားထောင်ခြင်းကို လေ့ကျင့်ပါ
+
+ယုံကြည်ရသော မိတ်ဆွေ သို့မဟုတ် မိသားစုဝင်တစ်ဦးနှင့် စကားပြောသည့်အခါ—
+
+1. သူပြောနေစဉ် ကြားဖြတ်မပြောဘဲ နားထောင်ပါ။
+2. သူဆိုလိုသည်ဟု မိမိနားလည်သည့်အရာကို ပြန်လည်အကျဉ်းချုပ်ပြောပါ။
+3. မသေချာသည့်အချက်ကို မေးမြန်းပါ။
+4. သဘောမတူပါက လူကို မတိုက်ခိုက်ဘဲ အယူအဆကိုသာ ဆွေးနွေးပါ။
+
+### စဉ်းစားရန်
+
+- မိမိသည် အခြားသူများကို နားထောင်ပေးတတ်သလား။
+- မတူညီသောအမြင်တစ်ခုကို မည်သို့လေးစားစွာ ဆွေးနွေးနိုင်မလဲ။
+- မိမိ၏ဆက်ဆံရေးများတွင် ယုံကြည်မှုတိုးစေရန် ဘယ်လုပ်ရပ်ငယ်ကို စတင်နိုင်မလဲ။
+
+### English
+
+A human life is not built in isolation. Family members, friends, teachers, neighbours, and even people we have never met influence our everyday experience. The food we eat, the roads we use, the knowledge we gain, and the services we receive all depend on the work and cooperation of many people. Understanding social life therefore means looking beyond ourselves.
+
+Living together does not mean agreeing about everything. People have different experiences, beliefs, needs, and perspectives. These differences can lead to disagreement. The important skill is not to label someone an enemy immediately, but to listen to the reasons behind their view. Respect, however, does not require accepting unfairness or harmful behaviour. Setting boundaries and seeking support are important too.
+
+**An example — A bridge**
+
+Imagine a village on one side of a river and a market on the other. Without a bridge, people must spend more time travelling between them. Building a bridge requires engineers, workers, suppliers, and the local community to cooperate. The bridge is not the achievement of one person alone; it is the result of many people working together.
+
+Trust in relationships is also not built in a single moment. It grows through repeated actions: keeping promises, listening, admitting mistakes, and respecting other people's time and boundaries. Trust is often strengthened more by actions than by words.
+
+Good relationships require not only the ability to speak but also the ability to listen. If we spend the whole time preparing our reply while another person is talking, we may miss what they mean. Listening does not mean agreeing. It means trying to understand how another person arrived at their view.
+
+When conflict appears, describing the problem clearly is usually more useful than attacking the person. Instead of making a broad accusation such as “You always do this,” we might say, “When this happened, it created a difficulty for me. Could we handle it differently next time?” Tone and timing matter too.
+
+### Practical exercise — Practise listening
+
+When speaking with a trusted friend or family member:
+
+1. Listen without interrupting.
+2. Summarise what you understand them to mean.
+3. Ask about anything that remains unclear.
+4. If you disagree, discuss the idea without attacking the person.
+
+### Reflection
+
+- Do you make space to listen to other people?
+- How can you discuss a different opinion respectfully?
+- What small action could help build trust in one of your relationships?
+
