@@ -619,4 +619,203 @@ Dorothy said nothing. She could not decide which of her two friends was right. S
 
 What worried her most was that the bread was nearly gone. Another meal for herself and Toto would empty the basket. The Woodman and the Scarecrow never needed to eat, but Dorothy was made neither of tin nor straw, and she could not live without food.`
   },
+  {
+    number: 6,
+    title: "အခန်း (၆) — သတ္တိမရှိသော ခြင်္သေ့",
+    titleEn: "Chapter VI — The Cowardly Lion",
+    content: `ဤအချိန်တစ်လျှောက်လုံး ဒေါ်ရသီနှင့် သူမ၏ မိတ်ဆွေများသည် ထူထပ်သော သစ်တောအတွင်း ခရီးဆက်နေကြသည်။ လမ်းမှာ အဝါရောင်အုတ်ခင်းလမ်းပင် ဖြစ်သော်လည်း သစ်ကိုင်းခြောက်များနှင့် ကြွေကျနေသော သစ်ရွက်များက ဖုံးလွှမ်းနေသဖြင့် လျှောက်ရသည်မှာ မလွယ်ကူပေ။
+
+ထိုသစ်တောအပိုင်းတွင် ငှက်များလည်း အနည်းငယ်သာ တွေ့ရသည်။ ငှက်များသည် နေရောင်ကောင်းစွာရပြီး လွတ်လပ်ကျယ်ပြန့်သော နေရာများကို ပိုနှစ်သက်ကြသည်။ သို့သော် သစ်ပင်များကြားမှ တစ်ခါတစ်ရံ တောရိုင်းတိရစ္ဆာန်တစ်ကောင်ကဲ့သို့ နက်ရှိုင်းသော ဟိန်းသံများ ထွက်ပေါ်လာတတ်သည်။ ထိုအသံများကြောင့် ဘာသတ္တဝါက အသံပေးနေမှန်း မသိသော ဒေါ်ရသီမှာ စိတ်လှုပ်ရှားပြီး ကြောက်ရွံ့လာသည်။ တိုတိုကတော့ အသံပေးသူကို သိနေသကဲ့သို့ ဒေါ်ရသီအနားမှ မခွာဘဲ လိုက်လာပြီး ပြန်ဟောင်ခြင်းပင် မလုပ်တော့ပေ။
+
+“သစ်တောထဲက ဘယ်တော့လောက် ထွက်နိုင်ကြမလဲ” ဟု ဒေါ်ရသီက သံခုတ်သမားကို မေးသည်။
+
+“ကျွန်တော် မသိနိုင်ဘူး။ မြစိမ်းရောင်မြို့တော်ကို တစ်ခါမှ မရောက်ဖူးဘူး။ ဒါပေမဲ့ ကျွန်တော့်အဖေက ကျွန်တော် ငယ်ငယ်တုန်းက အဲဒီမြို့ကို တစ်ကြိမ် သွားဖူးတယ်။ အန္တရာယ်များတဲ့ နယ်မြေကို ဖြတ်ရတာကြောင့် ခရီးရှည်တယ်လို့ ပြောခဲ့တယ်။ အော့ဇ်နေတဲ့ မြို့နားကို ရောက်လာလေလေ ပတ်ဝန်းကျင်က ပိုလှပလာလေလေတဲ့။ ကျွန်တော့်မှာ ဆီဘူးရှိနေသရွေ့တော့ မကြောက်ပါဘူး။ စာခြောက်ရုပ်ကိုလည်း ဘာမှ ထိခိုက်အောင် မလုပ်နိုင်ဘူး။ မင်းနဖူးမှာ မြောက်ပိုင်းက ကောင်းသောစုန်းမရဲ့ အနမ်းအမှတ် ရှိနေတော့ မင်းကိုလည်း အန္တရာယ်က ကာကွယ်ပေးထားတယ်” ဟု သူက ပြန်ဖြေသည်။
+
+“ဒါဆို တိုတိုကရော။ သူ့ကို ဘယ်အရာက ကာကွယ်ပေးမှာလဲ” ဟု ဒေါ်ရသီက စိုးရိမ်စွာ မေးသည်။
+
+“သူ အန္တရာယ်ကြုံလာရင် ကျွန်တော်တို့ကိုယ်တိုင် ကာကွယ်ပေးရမှာပေါ့” ဟု သံခုတ်သမားက ပြန်ဖြေသည်။
+
+သူပြောပြီးသည်နှင့် သစ်တောထဲမှ ကြောက်မက်ဖွယ် ဟိန်းသံကြီးတစ်ခု ထွက်ပေါ်လာပြီး နောက်တစ်ခဏတွင် ခြင်္သေ့ကြီးတစ်ကောင်သည် လမ်းပေါ်သို့ ခုန်ထွက်လာသည်။ ၎င်းသည် လက်ဖဝါးဖြင့် ရိုက်လိုက်ရာ စာခြောက်ရုပ်သည် လမ်းဘေးသို့ လိမ့်ကျသွားသည်။ ထို့နောက် သံခုတ်သမားဘက်သို့ လှည့်ကာ လက်သည်းများဖြင့် တိုက်ခိုက်ရန် ကြိုးစားသည်။ သို့သော် သံကိုယ်ခန္ဓာကို ထိခိုက်အောင် မလုပ်နိုင်သဖြင့် ခြင်္သေ့ကြီးပင် အံ့အားသင့်သွားသည်။ သံခုတ်သမားကတော့ လမ်းပေါ်သို့ လဲကျသွားပြီး ခဏမျှ ငြိမ်သက်နေသည်။
+
+တိုတိုသည် မိမိ၏ မိတ်ဆွေကို ကာကွယ်လိုသကဲ့သို့ ခြင်္သေ့ကြီးဆီသို့ ဟောင်ကာ ပြေးသွားသည်။ ခြင်္သေ့ကြီးက ခွေးကလေးကို ကိုက်ရန် ပါးစပ်ဖွင့်လိုက်သည့်အခါ ဒေါ်ရသီသည် တိုတို အန္တရာယ်ဖြစ်မည်ကို စိုးရိမ်သဖြင့် မိမိကိုယ်တိုင် အန္တရာယ်ကို မစဉ်းစားတော့ဘဲ ရှေ့သို့ ပြေးဝင်ကာ ခြင်္သေ့၏ နှာခေါင်းကို လက်ဖြင့် ရိုက်လိုက်သည်။
+
+“တိုတိုကို ကိုက်ဖို့ မကြိုးစားနဲ့။ မင်းလို အကောင်ကြီးတစ်ကောင်က ခွေးကလေးကို ရန်ပြုတာ ရှက်စရာကောင်းတယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ကျွန်တော် မကိုက်ခဲ့ပါဘူး” ဟု ခြင်္သေ့ကြီးက ပြန်ပြောရင်း ဒေါ်ရသီ ရိုက်လိုက်သည့်နေရာကို လက်ဖဝါးဖြင့် ပွတ်နေသည်။
+
+“မကိုက်သေးပေမဲ့ ကိုက်ဖို့တော့ ကြိုးစားခဲ့တယ်။ မင်းက အရွယ်ကြီးပြီး သတ္တိမရှိတဲ့ ခြင်္သေ့ပဲ” ဟု ဒေါ်ရသီက ပြန်ပြောသည်။
+
+“ဟုတ်ပါတယ်။ ကျွန်တော် သိပါတယ်။ အမြဲတမ်းလည်း ကိုယ့်ကိုယ်ကို အဲဒီလိုပဲ သိနေခဲ့တာပါ။ ဒါပေမဲ့ ဘယ်လိုပြောင်းလဲရမလဲဆိုတာ မသိဘူး” ဟု ခြင်္သေ့ကြီးက ခေါင်းငုံ့ကာ ပြောသည်။
+
+“စာခြောက်ရုပ်လို သတ္တဝါကိုတောင် မင်းက ရိုက်လိုက်သေးတယ်။ အဲဒါလည်း မကောင်းဘူး” ဟု ဒေါ်ရသီက ဆက်ပြောသည်။
+
+“သူက စာခြောက်ရုပ်လား” ဟု ခြင်္သေ့ကြီးက အံ့အားသင့်စွာ မေးသည်။ ထိုအချိန်တွင် ဒေါ်ရသီက စာခြောက်ရုပ်ကို မြေပြင်မှ ကောက်ထူပြီး ပုံစံပြန်တည့်အောင် ပြုပြင်ပေးနေသည်။
+
+“ဟုတ်တာပေါ့။ သူ့ကို ကောက်ရိုးတွေနဲ့ ဖြည့်ထားတာ” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။
+
+“ဒါကြောင့် အလွယ်တကူ လိမ့်သွားတာကိုး။ သူ အဲဒီလောက် လှည့်သွားတာကို ကျွန်တော် အံ့ဩခဲ့တာ။ နောက်တစ်ယောက်ကရော စာဖြည့်ထားတာလား” ဟု ခြင်္သေ့ကြီးက မေးသည်။
+
+“မဟုတ်ဘူး။ သူက သံနဲ့ လုပ်ထားတာ” ဟု ဒေါ်ရသီက ပြောပြီး သံခုတ်သမားကိုလည်း ပြန်ထူပေးသည်။
+
+“ဒါကြောင့် ကျွန်တော့်လက်သည်းတွေတောင် ထိခိုက်မလို ဖြစ်ခဲ့တာပဲ။ သံနဲ့ ထိမိတဲ့အခါ အေးစက်တဲ့ ခံစားမှုတစ်ခု ဖြစ်သွားတယ်။ ဒါနဲ့ မင်း အလွန်ဂရုစိုက်နေတဲ့ အကောင်ငယ်လေးက ဘာလဲ” ဟု ခြင်္သေ့ကြီးက မေးသည်။
+
+“သူက ကျွန်မရဲ့ ခွေးလေး တိုတိုပါ” ဟု ဒေါ်ရသီက ဖြေသည်။
+
+“သူက သံနဲ့ လုပ်ထားတာလား၊ ကောက်ရိုးဖြည့်ထားတာလား” ဟု ခြင်္သေ့ကြီးက ထပ်မေးသည်။
+
+“အဲဒီနှစ်မျိုးလုံး မဟုတ်ဘူး။ သူက သာမန်ခွေးလေးပါ” ဟု ဒေါ်ရသီက ဖြေသည်။
+
+“အော်၊ ထူးဆန်းတဲ့ သတ္တဝါလေးပဲ။ အခုမှ သေချာကြည့်မိတော့ အလွန်သေးငယ်တာပဲ။ ကျွန်တော်လို သတ္တိမရှိတဲ့သူကလွဲရင် ဒီလောက်သေးတဲ့ သတ္တဝါကို ဘယ်သူမှ ကိုက်ဖို့ မစဉ်းစားလောက်ဘူး” ဟု ခြင်္သေ့ကြီးက ဝမ်းနည်းစွာ ပြောသည်။
+
+“မင်း ဘာကြောင့် သတ္တိမရှိရတာလဲ” ဟု ဒေါ်ရသီက မေးသည်။ သူမရှေ့တွင် ရှိနေသော ခြင်္သေ့ကြီးမှာ မြင်းငယ်တစ်ကောင်လောက်ပင် ကြီးမားနေသည်။
+
+“ဒါဟာ ကျွန်တော်ကိုယ်တိုင်တောင် အကြောင်းရင်းမသိတဲ့ လျှို့ဝှက်ချက်တစ်ခုပဲ။ မွေးကတည်းက ဒီလိုဖြစ်လာတာ ထင်ပါတယ်။ သစ်တောထဲက တိရစ္ဆာန်တွေက ခြင်္သေ့ဆိုတာ သားရဲတို့၏ ဘုရင်ဖြစ်လို့ သတ္တိရှိရမယ်လို့ မျှော်လင့်ကြတယ်။ ကျွန်တော်ကတော့ ဟိန်းသံကို ကျယ်ကျယ်ပေးလိုက်ရင် တခြားသတ္တဝါတွေ ကြောက်ပြီး လမ်းဖယ်ပေးကြတာကို သိလာခဲ့တယ်။ လူတစ်ယောက်နဲ့ တွေ့တိုင်း ကျွန်တော် အရမ်းကြောက်ပေမဲ့ ဟိန်းလိုက်တော့ သူတို့ကလည်း ကြောက်ပြီး အမြန်ပြေးသွားကြတယ်။
+
+“ဆင်တွေ၊ ကျားတွေ၊ ဝက်ဝံတွေက ကျွန်တော်နဲ့ တကယ်ရင်ဆိုင်ဖို့ ကြိုးစားခဲ့ရင်တော့ ကျွန်တော်ကိုယ်တိုင်ပဲ ပြေးသွားမိမှာပါ။ ကျွန်တော်ဟာ အရမ်းကြောက်တတ်သူပါ။ ဒါပေမဲ့ ကျွန်တော့်ဟိန်းသံကို ကြားတာနဲ့ သူတို့အားလုံး ထွက်ပြေးကြလို့ ကျွန်တော်လည်း သူတို့ကို လွှတ်ပေးလိုက်သလို ဖြစ်နေတယ်” ဟု ခြင်္သေ့ကြီးက ရှင်းပြသည်။
+
+“ဒါကတော့ မမှန်ဘူး။ သားရဲတို့ရဲ့ ဘုရင်ဟာ သတ္တိမရှိသူ မဖြစ်သင့်ဘူး” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+“ကျွန်တော်လည်း သိပါတယ်” ဟု ခြင်္သေ့ကြီးက ပြန်ဖြေသည်။ သူ၏ မျက်ရည်တစ်စက်ကို အမြီးဖျားဖြင့် သုတ်လိုက်သည်။ “ဒါဟာ ကျွန်တော့်အတွက် အကြီးမားဆုံး ဝမ်းနည်းစရာဖြစ်ပြီး ဘဝကိုလည်း မပျော်ရွှင်စေဘူး။ အန္တရာယ်ကြုံလာတိုင်း ကျွန်တော့်နှလုံးခုန်နှုန်း မြန်လာတတ်တယ်” ဟု ပြောသည်။
+
+“ဒါဆို မင်းမှာ နှလုံးရောဂါရှိတာ ဖြစ်နိုင်တယ်” ဟု သံခုတ်သမားက ပြောသည်။
+
+“ဖြစ်နိုင်ပါတယ်” ဟု ခြင်္သေ့ကြီးက ပြန်ဖြေသည်။
+
+“အဲဒီလိုဆိုရင် ဝမ်းသာသင့်တယ်။ မင်းမှာ နှလုံးသားရှိတယ်ဆိုတာ ပြနေတာပဲ။ ကျွန်တော့်မှာတော့ နှလုံးသားမရှိဘူး။ ဒါကြောင့် နှလုံးရောဂါလည်း မဖြစ်နိုင်ဘူး” ဟု သံခုတ်သမားက ပြောသည်။
+
+“နှလုံးသားမရှိခဲ့ရင် ကျွန်တော်လည်း ဒီလောက်ကြောက်တတ်မှာ မဟုတ်ဘူးလို့ ထင်မိတယ်” ဟု ခြင်္သေ့ကြီးက စဉ်းစားရင်း ပြောသည်။
+
+“မင်းမှာ ဦးနှောက်ရှိလား” ဟု စာခြောက်ရုပ်က မေးသည်။
+
+“ရှိမယ်ထင်ပါတယ်။ ဒါပေမဲ့ တစ်ခါမှ စစ်မကြည့်ဖူးဘူး” ဟု ခြင်္သေ့ကြီးက ဖြေသည်။
+
+“ကျွန်တော်ကတော့ ဦးနှောက်ရဖို့ မဟာမှော်ဆရာ အော့ဇ်ဆီ သွားမလို့ပါ။ ကျွန်တော့်ခေါင်းထဲမှာ ကောက်ရိုးတွေပဲ ရှိတယ်” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+“ကျွန်တော်ကတော့ နှလုံးသားရဖို့ သွားမှာပါ” ဟု သံခုတ်သမားက ပြောသည်။
+
+“ကျွန်မကတော့ တိုတိုနဲ့အတူ ကန်ဆတ်ပြည်နယ်ကို ပြန်ပို့ပေးဖို့ တောင်းဆိုမှာပါ” ဟု ဒေါ်ရသီက ထပ်ပြောသည်။
+
+“အော့ဇ်က ကျွန်တော့်ကို သတ္တိပေးနိုင်မယ်လို့ ထင်ပါသလား” ဟု ခြင်္သေ့ကြီးက မေးသည်။
+
+“ကျွန်တော့်ကို ဦးနှောက်ပေးနိုင်သလိုပဲ ပေးနိုင်မှာပါ” ဟု စာခြောက်ရုပ်က ပြန်ဖြေသည်။
+
+“ကျွန်တော့်ကို နှလုံးသားပေးနိုင်သလိုပဲ ဖြစ်မှာပါ” ဟု သံခုတ်သမားက ပြောသည်။
+
+“ကျွန်မကို ကန်ဆတ်ပြည်နယ် ပြန်ပို့ပေးနိုင်သလိုပဲ ဖြစ်မှာပါ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ဒါဆို အဆင်ပြေရင် ကျွန်တော်လည်း ရှင်တို့နဲ့အတူ လိုက်ခဲ့ချင်ပါတယ်။ သတ္တိအနည်းငယ်တောင် မရှိဘဲ နေရတာ ကျွန်တော့်ဘဝအတွက် အလွန်ခက်ခဲနေပြီ” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“လာခဲ့ပါ။ မင်းလည်း ကျွန်မတို့နဲ့အတူ လိုက်လာတာ ဝမ်းသာပါတယ်။ မင်းက တခြားတောရိုင်းတိရစ္ဆာန်တွေကို ဝေးဝေးနေစေဖို့ ကူညီနိုင်မှာပဲ။ မင်းကို အလွယ်တကူ ကြောက်သွားကြတဲ့အတွက် သူတို့က မင်းထက်တောင် ကြောက်တတ်ကြတာ ဖြစ်မယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“တကယ်တော့ အဲဒီလိုပါပဲ။ ဒါပေမဲ့ သူတို့က ကျွန်တော့်ကို ကြောက်တာနဲ့ ကျွန်တော် သတ္တိရှိလာတာ မဟုတ်ဘူး။ ကိုယ့်ကိုယ်ကို ကြောက်တတ်သူလို့ သိနေသရွေ့တော့ ကျွန်တော် မပျော်နိုင်ဘူး” ဟု ခြင်္သေ့ကြီးက ပြန်ဖြေသည်။
+
+ထို့ကြောင့် သူတို့၏ အဖွဲ့သည် ခရီးကို ထပ်မံစတင်လိုက်ကြသည်။ ခြင်္သေ့ကြီးသည် ဒေါ်ရသီ၏ ဘေးတွင် ဂုဏ်ယူဝင့်ကြွားသည့် ခြေလှမ်းများဖြင့် လျှောက်လာသည်။ တိုတိုကတော့ မိတ်ဆွေအသစ်ကို အစပိုင်းတွင် မယုံကြည်သေးပေ။ ခြင်္သေ့ကြီး၏ ပါးစပ်ကြားတွင် မိမိ အန္တရာယ်ကြုံလုနီးပါး ဖြစ်ခဲ့သည့်အကြောင်းကို မမေ့နိုင်သေးသောကြောင့် ဖြစ်သည်။ သို့သော် အချိန်အနည်းငယ် ကြာလာသောအခါ တိုတိုသည် စိတ်အေးလာပြီး နောက်ဆုံးတွင် ခြင်္သေ့ကြီးနှင့် မိတ်ဆွေကောင်းများ ဖြစ်လာကြသည်။
+
+ထိုနေ့၏ ကျန်ရှိသောအချိန်တွင် သူတို့၏ ခရီးကို အနှောင့်အယှက်ဖြစ်စေမည့် အခြားစွန့်စားခန်း မကြုံခဲ့ကြပေ။ တစ်ကြိမ်တွင် သံခုတ်သမားသည် လမ်းပေါ်တွင် တွားသွားနေသော ပိုးကောင်ငယ်တစ်ကောင်ကို မတော်တဆ နင်းမိသွားသည်။ ထိုအဖြစ်ကြောင့် သူသည် အလွန်ဝမ်းနည်းသွားသည်။ အခြားသက်ရှိတစ်ကောင်ကို မထိခိုက်စေလိုသူဖြစ်သဖြင့် နောင်တရကာ မျက်ရည်များ ကျလာသည်။ မျက်ရည်များသည် သူ့မျက်နှာပေါ်မှ စီးဆင်းပြီး မေးရိုးအဆစ်များပေါ်တွင် စိုစွတ်သွားရာ ထိုနေရာများတွင် သံချေးတက်လာသည်။
+
+ဒေါ်ရသီက သူ့ကို မေးခွန်းတစ်ခု မေးသောအခါ သံခုတ်သမားသည် ပါးစပ်ဖွင့်၍ မရတော့ပေ။ မေးရိုးအဆစ်များ သံချေးတက်ပြီး ကပ်နေသောကြောင့် စကားမပြောနိုင်တော့ခြင်း ဖြစ်သည်။ သူသည် အလွန်စိုးရိမ်သွားပြီး ဒေါ်ရသီကို အကူအညီတောင်းလိုသော်လည်း သူ၏ လှုပ်ရှားပြမှုများကို ဒေါ်ရသီ နားမလည်နိုင်ခဲ့ပေ။ ခြင်္သေ့ကြီးလည်း ဘာဖြစ်နေသည်ကို မသိနိုင်ခဲ့ပါ။ သို့သော် စာခြောက်ရုပ်သည် ဒေါ်ရသီ၏ ခြင်းတောင်းထဲမှ ဆီဘူးကို ယူကာ သံခုတ်သမား၏ မေးရိုးအဆစ်များကို ဆီလိမ်းပေးလိုက်သည်။ မကြာမီ သူသည် အရင်လိုပင် စကားပြောနိုင်လာသည်။
+
+“ဒီအဖြစ်က ကျွန်တော့်အတွက် သင်ခန်းစာတစ်ခုပါပဲ။ နောက်တစ်ခါ လမ်းလျှောက်တဲ့အခါ ခြေချမယ့်နေရာကို သေချာကြည့်ရမယ်။ ပိုးကောင်တစ်ကောင်ကို ထပ်နင်းမိပြီး သေသွားစေခဲ့ရင် ကျွန်တော် ထပ်ပြီး ငိုမိမှာပဲ။ ငိုလိုက်ရင် မေးရိုးတွေ သံချေးတက်ပြီး စကားပြောလို့ မရတော့ဘူး” ဟု သံခုတ်သမားက ပြောသည်။
+
+ထိုအချိန်မှစ၍ သူသည် လမ်းကို သေချာကြည့်ပြီး ဂရုတစိုက် လျှောက်လာသည်။ လမ်းပေါ်တွင် အလုပ်ကြိုးစားစွာ သွားလာနေသော ပုရွက်ဆိတ်ငယ်တစ်ကောင်ကို တွေ့လျှင်ပင် မထိခိုက်စေရန် ကျော်လွှားသွားသည်။ သံခုတ်သမားသည် မိမိမှာ နှလုံးသားမရှိဟု ယုံကြည်နေသဖြင့် မည်သည့်သက်ရှိကိုမျှ ရက်စက်ခြင်း၊ မကြင်နာခြင်း မဖြစ်စေရန် အထူးဂရုစိုက်နေခဲ့သည်။
+
+“နှလုံးသားရှိတဲ့ ရှင်တို့မှာ မှန်ကန်တဲ့လမ်းကို ပြသပေးနိုင်တဲ့ အရာတစ်ခု ရှိနေတယ်။ ဒါကြောင့် မကောင်းတာ မလုပ်မိအောင် အမြဲသတိထားနိုင်တယ်။ ကျွန်တော့်မှာတော့ နှလုံးသားမရှိဘူးလို့ ယုံကြည်ထားတဲ့အတွက် ပိုပြီး သတိထားနေရတာပါ။ အော့ဇ်က ကျွန်တော့်ကို နှလုံးသားပေးလိုက်ရင်တော့ ဒီလောက် စိုးရိမ်နေစရာ မလိုတော့ဘူးပေါ့” ဟု သူက ပြောသည်။`,
+    contentEn: `All this time Dorothy and her companions had been walking through the thick woods. The road was still paved with yellow brick, but it was much covered by dried branches and dead leaves from the trees, and the walking was not at all good.
+
+There were few birds in this part of the forest, for birds love the open country where there is plenty of sunshine. But now and then there came a deep growl from some wild animal hidden among the trees. These sounds made the little girl's heart beat fast, for she did not know what made them; but Toto knew, and he walked close to Dorothy's side, and did not even bark in return.
+
+"How long will it be," the child asked of the Tin Woodman, "before we are out of the forest?"
+
+"I cannot tell," was the answer, "for I have never been to the Emerald City. But my father went there once, when I was a boy, and he said it was a long journey through a dangerous country, although nearer to the city where Oz dwells the country is beautiful. But I am not afraid so long as I have my oil-can, and nothing can hurt the Scarecrow, while you bear upon your forehead the mark of the Good Witch's kiss, and that will protect you from harm."
+
+"But Toto!" said the girl anxiously. "What will protect him?"
+
+"We must protect him ourselves if he is in danger," replied the Tin Woodman.
+
+Just as he spoke there came from the forest a terrible roar, and the next moment a great Lion bounded into the road. With one blow of his paw he sent the Scarecrow spinning to the edge of the road, and then he struck at the Tin Woodman. But, to the Lion's surprise, he could make no impression on the tin, although the Woodman fell over in the road and lay still.
+
+Little Toto, now that he had an enemy to face, ran barking toward the Lion. The great beast opened his mouth as if to bite the dog, when Dorothy, fearing Toto would be harmed and heedless of danger, rushed forward and slapped the Lion upon his nose as hard as she could.
+
+"Don't you dare to bite Toto! You ought to be ashamed of yourself, a big beast like you, to bite a poor little dog!"
+
+"I didn't bite him," said the Lion, rubbing his nose with his paw where Dorothy had hit it.
+
+"No, but you tried to," she retorted. "You are nothing but a big coward."
+
+"I know it," said the Lion, hanging his head in shame. "I've always known it. But how can I help it?"
+
+"I don't know, I'm sure. To think of your striking a stuffed man, like the poor Scarecrow!"
+
+"Is he stuffed?" asked the Lion in surprise, as he watched her pick up the Scarecrow and set him upon his feet, while she patted him into shape again.
+
+"Of course he's stuffed," replied Dorothy, who was still angry.
+
+"That's why he went over so easily," remarked the Lion. "It astonished me to see him whirl around so. Is the other one stuffed also?"
+
+"No," said Dorothy, "he's made of tin." And she helped the Woodman up again.
+
+"That's why I nearly hurt my claws," said the Lion. "When they touched the tin it made a cold shiver run down my back. What is that little animal you are so tender of?"
+
+"He is my dog, Toto," answered Dorothy.
+
+"Is he made of tin, or stuffed?" asked the Lion.
+
+"Neither. He's a little dog," said the girl.
+
+"Oh! He's a curious animal and seems remarkably small, now that I look at him. No one would think of biting such a little thing, except a coward like me," continued the Lion sadly.
+
+"What makes you a coward?" asked Dorothy, looking at the great beast in wonder, for he was as big as a small horse.
+
+"It's a mystery," replied the Lion. "I suppose I was born that way. All the other animals in the forest naturally expect me to be brave, for the Lion is everywhere thought to be the King of Beasts. I learned that if I roared very loudly every living thing was frightened and got out of my way. Whenever I've met a person I've been terribly scared; but I just roared at them, and they always ran away as fast as they could.
+
+"If the elephants and the tigers and the bears had ever tried to face me, I should have run myself—I'm such a coward. But as soon as they hear me roar they all try to get away, and of course I let them go."
+
+"But that isn't right. The King of Beasts shouldn't be a coward," said the Scarecrow.
+
+"I know it," returned the Lion, wiping a tear from his eye with the tip of his tail. "It is my great sorrow, and makes my life very unhappy. Whenever there is danger, my heart begins to beat fast."
+
+"Perhaps you have heart disease," said the Tin Woodman.
+
+"It may be," said the Lion.
+
+"If you have," continued the Tin Woodman, "you ought to be glad, for it proves you have a heart. For my part, I have no heart; so I cannot have heart disease."
+
+"Perhaps," said the Lion thoughtfully, "if I had no heart I should not be a coward."
+
+"Have you brains?" asked the Scarecrow.
+
+"I suppose so. I've never looked to see," replied the Lion.
+
+"I am going to the Great Oz to ask him to give me some," remarked the Scarecrow, "for my head is stuffed with straw."
+
+"And I am going to ask him to give me a heart," said the Woodman.
+
+"And I am going to ask him to send Toto and me back to Kansas," added Dorothy.
+
+"Do you think Oz could give me courage?" asked the Cowardly Lion.
+
+"Just as easily as he could give me brains," said the Scarecrow.
+
+"Or give me a heart," said the Tin Woodman.
+
+"Or send me back to Kansas," said Dorothy.
+
+"Then, if you don't mind, I'll go with you," said the Lion, "for my life is simply unbearable without a bit of courage."
+
+"You will be very welcome," answered Dorothy, "for you will help to keep away the other wild beasts. It seems to me they must be more timid than you are if they allow you to scare them so easily."
+
+"They really are," said the Lion, "but that doesn't make me any braver, and as long as I know myself to be a coward I shall be unhappy."
+
+So once more the little company set off upon the journey, the Lion walking with stately strides at Dorothy's side. Toto did not approve of this new comrade at first, for he could not forget how nearly he had been harmed. But after a time he became more at ease, and presently Toto and the Cowardly Lion had grown to be good friends.
+
+During the rest of that day there was no other adventure to disturb the peace of their journey. Once, indeed, the Tin Woodman accidentally stepped upon a small beetle crawling along the road. This made him very unhappy, for he was always careful not to hurt any living creature; and as he walked along he wept several tears of sorrow and regret. These tears ran down his face and over the hinges of his jaw, and there they rusted.
+
+When Dorothy presently asked him a question the Tin Woodman could not open his mouth, for his jaws were tightly rusted together. He became greatly frightened and made many motions to Dorothy to help him, but she could not understand. The Lion was also puzzled. But the Scarecrow seized the oilcan from Dorothy's basket and oiled the Woodman's jaws, so that after a few moments he could talk as well as before.
+
+"This will serve me as a lesson," said he, "to look where I step. For if I should harm another bug or beetle I should surely cry again, and crying rusts my jaws so that I cannot speak."
+
+Thereafter he walked very carefully, with his eyes on the road, and when he saw a tiny ant toiling by he would step over it, so as not to harm it. The Tin Woodman knew very well he had no heart, and therefore he took great care never to be cruel or unkind to anything.
+
+"You people with hearts," he said, "have something to guide you, and need never do wrong; but I have no heart, and so I must be very careful. When Oz gives me a heart, of course I needn't mind so much."`,
+  },
 ] as const;
