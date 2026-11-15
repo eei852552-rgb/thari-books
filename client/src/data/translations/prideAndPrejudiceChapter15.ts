@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter15My = [
     number: 15,
     title: "အခန်း (၁၅)",
     titleEn: "Chapter XV",
+    readingType: "summary",
     contentEn: `Mr. Collins was not a particularly sensible man. His education had done little to improve his judgement, and much of his early life had been spent under the influence of a strict and ungenerous father. He had learned to speak politely, but he often mistook formal manners for good sense.
 
 After becoming a clergyman, he had been fortunate enough to receive the support of Lady Catherine de Bourgh. Her kindness and influence had given him a comfortable position, and he admired her so greatly that he often repeated her opinions as if they were his own.
