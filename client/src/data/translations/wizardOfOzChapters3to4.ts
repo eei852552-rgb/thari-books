@@ -1187,7 +1187,7 @@ On and on they walked, and it seemed that the great carpet of deadly flowers tha
 “I’m sorry,” said the Scarecrow. “The Lion was a very good comrade for one so cowardly. But let us go on.”
 
 They carried the sleeping girl to a pretty spot beside the river, far enough from the poppy field to prevent her breathing any more of the poison of the flowers, and here they laid her gently on the soft grass and waited for the fresh breeze to waken her.`
-  },,
+  },
   {
     number: 9,
     title: "အခန်း (၉) — ကြွက်ကွင်းပြင်၏ ဘုရင်မ",
