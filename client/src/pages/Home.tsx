@@ -416,7 +416,7 @@ export default function Home() {
     setReaderLanguage(savedForBook?.language ?? "my");
     setReaderStarted(true);
     setReaderIntroPage(0);
-    setReaderIntroComplete(Boolean(readerForewordPages.length === 0));
+    setReaderIntroComplete(Boolean(savedForBook));
     setReaderFinished(false);
     setResumeAtSavedPage(Boolean(savedForBook));
   };
