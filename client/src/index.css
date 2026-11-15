@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Myanmar:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Noto+Sans+Myanmar:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
 @import "tailwindcss";
 @import "tw-animate-css";
 
@@ -32,40 +32,56 @@
 
 :root {
   font-family: 'Inter', 'Noto Sans Myanmar', sans-serif;
-  color: #13243e;
-  background: #fffefa;
+  color: #2C2A29;
+  background: #F5F0E6;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
-  --navy: #142947;
-  --navy-deep: #102039;
-  --navy-soft: #284363;
-  --gold: #c6a355;
-  --gold-bright: #ddc276;
-  --ink: #15243a;
-  --muted: #747b84;
-  --line: #e8e4dc;
-  --paper: #fffefa;
-  --cream: #f7f5f0;
-  --radius: 0.65rem;
-  --background: #fffefa;
-  --foreground: #15243a;
-  --card: #ffffff;
-  --card-foreground: #15243a;
-  --popover: #ffffff;
-  --popover-foreground: #15243a;
-  --primary: #142947;
-  --primary-foreground: #ffffff;
-  --secondary: #f7f5f0;
-  --secondary-foreground: #15243a;
-  --muted: #f1efea;
-  --muted-foreground: #747b84;
-  --accent: #f5f0e4;
-  --accent-foreground: #142947;
-  --destructive: #a63d38;
-  --destructive-foreground: #ffffff;
-  --border: #e8e4dc;
-  --input: #e8e4dc;
-  --ring: #c6a355;
+  --bg-deep: #0D1117;
+  --bg-surface: #F5F0E6;
+  --bg-card: #FFFFFF;
+  --bg-reader: #FAF6ED;
+  --text-main: #2C2A29;
+  --text-muted: #6B6560;
+  --text-light: #F5F0E6;
+  --accent-gold: #D4AF37;
+  --accent-gold-hover: #E5C158;
+  --border-classic: #D2C4B4;
+  --border-gold: rgba(212, 175, 55, 0.4);
+  --shadow-card: 0 8px 24px rgba(44, 42, 41, 0.08);
+  --shadow-card-hover: 0 16px 32px rgba(44, 42, 41, 0.15);
+  --font-burmese: 'Pyidaungsu', 'Noto Sans Myanmar', sans-serif;
+  --font-heading: 'Cinzel', 'Playfair Display', serif;
+  --transition-smooth: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  --navy: #0D1117;
+  --navy-deep: #0D1117;
+  --navy-soft: #1A2332;
+  --gold: #D4AF37;
+  --gold-bright: #E5C158;
+  --ink: #2C2A29;
+  --muted: #6B6560;
+  --line: #D2C4B4;
+  --paper: #F5F0E6;
+  --cream: #F5F0E6;
+  --radius: 0.5rem;
+  --background: #F5F0E6;
+  --foreground: #2C2A29;
+  --card: #FFFFFF;
+  --card-foreground: #2C2A29;
+  --popover: #FFFFFF;
+  --popover-foreground: #2C2A29;
+  --primary: #0D1117;
+  --primary-foreground: #F5F0E6;
+  --secondary: #F5F0E6;
+  --secondary-foreground: #2C2A29;
+  --muted: #EEE8DD;
+  --muted-foreground: #6B6560;
+  --accent: #FAF6ED;
+  --accent-foreground: #0D1117;
+  --destructive: #A63D38;
+  --destructive-foreground: #FFFFFF;
+  --border: #D2C4B4;
+  --input: #D2C4B4;
+  --ring: #D4AF37;
 }
 
 * { box-sizing: border-box; }
@@ -112,7 +128,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
 .eyebrow { display: flex; align-items: center; gap: 10px; color: #d4bd83; font-family: 'Inter', sans-serif; font-size: 9px; font-weight: 600; letter-spacing: .14em; }
 .eyebrow-line { display: inline-block; width: 24px; height: 1px; background: var(--gold-bright); }
 .hero-copy h1 { margin: 24px 0 20px; color: #fff; font-family: 'Noto Sans Myanmar', sans-serif; font-size: clamp(34px, 4.5vw, 55px); font-weight: 600; line-height: 1.62; letter-spacing: -.025em; }
-.hero-copy h1 span { color: #ddc276; }
+.hero-copy h1 span { color: #E5C158; }
 .hero-description { max-width: 435px; margin: 0; color: rgba(242, 244, 247, .79); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 14px; line-height: 2.15; }
 .hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 19px; margin-top: 29px; }
 .button-primary { display: inline-flex; min-height: 46px; justify-content: center; align-items: center; gap: 12px; padding: 0 19px; border: 1px solid var(--gold); border-radius: 4px; color: var(--navy-deep); background: var(--gold-bright); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 12px; font-weight: 600; transition: background .18s, transform .18s; }
@@ -415,7 +431,7 @@ a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-o
 .kg-lesson-visual { margin: 10px 0; color: #b28a42; font-size: 22px; letter-spacing: 3px; text-align: center; }
 .kg-choice-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; margin-top: 11px; }
 .kg-choice { display: flex; min-height: 38px; justify-content: center; align-items: center; gap: 5px; padding: 6px; border: 1px solid #e6e1d7; color: #34445a; background: #fff; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px; cursor: pointer; }
-.kg-choice:hover, .kg-choice:focus-visible { border-color: #c6a355; outline: none; background: #faf7ef; }
+.kg-choice:hover, .kg-choice:focus-visible { border-color: #D4AF37; outline: none; background: #faf7ef; }
 .kg-choice.is-correct { border-color: #8aaf91; color: #315e3c; background: #f0f7f0; }
 .kg-choice.is-wrong { border-color: #d9b18d; color: #80512e; background: #fbf4ed; }
 .kg-feedback { margin: 9px 0 0 !important; padding: 7px 9px; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px !important; line-height: 1.9 !important; }
@@ -573,7 +589,7 @@ a.subject-row:focus-visible { outline: 2px solid var(--gold, #cba75b); outline-o
 .language-toggle { display: inline-flex; min-height: 40px; align-items: center; justify-content: center; gap: 6px; padding: 0 10px; border: 1px solid var(--line); border-radius: 5px; color: var(--navy); background: #fff; font-family: 'Inter', 'Noto Sans Myanmar', sans-serif; font-size: 10px; font-weight: 600; cursor: pointer; transition: border-color .18s, background .18s, transform .18s; }
 .language-toggle:hover { border-color: var(--gold); background: #fbf7ed; transform: translateY(-1px); }
 .language-toggle svg { color: #a9843d; }
-.category-card.is-selected { border-color: #c6a355; background: #fbf7ec; box-shadow: 0 9px 21px rgba(36,48,62,.07); }
+.category-card.is-selected { border-color: #D4AF37; background: #fbf7ec; box-shadow: 0 9px 21px rgba(36,48,62,.07); }
 .category-card.is-selected .category-arrow { color: #8b6b33; opacity: 1; transform: translate(0, 0); }
 .category-arrow.is-visible { opacity: 1; transform: translate(0, 0); }
 .library-promise { display: grid; width: min(1180px, calc(100% - 42px)); grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; margin: 0 auto; padding: 18px 0; border-bottom: 1px solid var(--line); }
@@ -2148,7 +2164,7 @@ body { background: #fbf9f4; }
   --navy: #0d1117;
   --navy-deep: #090d13;
   --navy-soft: #222b38;
-  --gold: #c5a059;
+  --gold: #D4AF37;
   --gold-bright: #dfc17d;
   --ink: #2c2a29;
   --muted: #6b6560;
@@ -2171,7 +2187,7 @@ body { background: #fbf9f4; }
   --accent-foreground: #0d1117;
   --border: #d8cbb8;
   --input: #d8cbb8;
-  --ring: #c5a059;
+  --ring: #D4AF37;
 }
 html { scroll-padding-top: 7rem; }
 body {
@@ -2262,7 +2278,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   border-color: #d6b66d;
   border-radius: 3px;
   color: #17150f;
-  background: linear-gradient(135deg, #e4cb8d, #c5a059);
+  background: linear-gradient(135deg, #e4cb8d, #D4AF37);
   box-shadow: 0 8px 22px rgba(197,160,89,.17);
 }
 .button-primary:hover { background: #ead69f; }
@@ -2298,7 +2314,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   box-shadow: 0 5px 16px rgba(39,31,20,.035);
 }
 .grade-group:hover {
-  border-color: #c5a059;
+  border-color: #D4AF37;
   box-shadow: 0 12px 25px rgba(39,31,20,.08);
 }
 .grade-icon { border: 1px solid #e5d8bf; color: #8b6a34; background: #f6f0e4; }
@@ -2321,7 +2337,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   box-shadow: 0 5px 16px rgba(39,31,20,.045);
 }
 .category-card:hover {
-  border-color: #c5a059;
+  border-color: #D4AF37;
   box-shadow: 0 13px 27px rgba(39,31,20,.1);
 }
 .category-card.is-selected { border-color: #b58c45; background: #f8f1e2; }
@@ -2388,7 +2404,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
 .search-hint { color: rgba(245,240,230,.64); }
 
 .closing-note { border-color: #d9cdbb; }
-.closing-mark { border-color: #c5a059; border-radius: 2px; color: #8d6b34; background: #f5f0e6; }
+.closing-mark { border-color: #D4AF37; border-radius: 2px; color: #8d6b34; background: #f5f0e6; }
 .closing-note h2 { color: #171d27; }
 .closing-note h2 em { color: #98763d; }
 .closing-note p { color: #706960; }
@@ -2412,7 +2428,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   box-shadow: 0 14px 35px rgba(39,31,20,.055);
 }
 .book-detail-cover {
-  border-color: #c5a059;
+  border-color: #D4AF37;
   background: #fffdf9;
   box-shadow: 0 20px 42px rgba(13,17,23,.2), 5px 5px 0 #e5d9c4;
 }
@@ -2424,7 +2440,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   background: #fffdf9;
 }
 .detail-chapter-item { border-color: #e3d8c7; background: #fbf9f5; }
-.detail-chapter-item:hover { border-color: #c5a059; background: #f6f0e4; }
+.detail-chapter-item:hover { border-color: #D4AF37; background: #f6f0e4; }
 .detail-chapter-number { color: #80602f; background: #f2e8d3; }
 .detail-chapter-item strong { color: #25221f; }
 
@@ -2452,7 +2468,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
     radial-gradient(ellipse at 50% 22%, #fffdf9 0%, #f5f0e6 68%, #e8decc 100%);
 }
 .reader-cover-frame {
-  border-color: #c5a059;
+  border-color: #D4AF37;
   background: #fffdf9;
   box-shadow: 0 24px 50px rgba(13,17,23,.22), 7px 7px 0 #ded1b8;
 }
@@ -2463,7 +2479,7 @@ button:focus-visible, a:focus-visible, input:focus-visible {
   min-height: 50px;
   border-color: #a9823f;
   color: #17150f;
-  background: linear-gradient(135deg, #e6d09a, #c5a059);
+  background: linear-gradient(135deg, #e6d09a, #D4AF37);
   box-shadow: 0 8px 20px rgba(117,83,30,.12);
 }
 .reader-start-button:hover { background: #ead9ad; }
@@ -2544,3 +2560,89 @@ button:focus-visible, a:focus-visible, input:focus-visible {
     transform: none !important;
   }
 }
+
+/* ==========================================================================
+   THARi BOOKS — Selected Classic Luxury Design (user-approved palette)
+   Adapted to the existing React/Tailwind component classes; utility layers
+   and reader/application behavior remain intact.
+   ========================================================================== */
+body, button, input, textarea, select {
+  font-family: var(--font-burmese);
+}
+body {
+  color: var(--text-main);
+  background: var(--bg-surface);
+  line-height: 1.85;
+  -webkit-font-smoothing: antialiased;
+}
+.site-header {
+  background: #12161F;
+  border-bottom: 2px solid var(--accent-gold);
+  box-shadow: 0 4px 12px rgba(0,0,0,.3);
+}
+.brand-wordmark strong, .brand-wordmark { font-family: var(--font-heading); }
+.brand-mark, .brand-wordmark strong span { color: var(--accent-gold); }
+.hero-section {
+  background: linear-gradient(135deg, #0D1117 0%, #1A2332 100%);
+  border-bottom: 3px solid var(--accent-gold);
+}
+.hero-copy h1 { font-family: var(--font-heading); }
+.section-heading h2, .book-detail-summary h1,
+.detail-overview h2, .detail-chapters h2 {
+  font-family: var(--font-heading);
+}
+.general-section { background: linear-gradient(180deg, #F5F0E6 0%, #FBF9F5 100%); }
+.featured-section {
+  border-color: var(--border-gold);
+  background: linear-gradient(135deg, #121923 0%, #0D1117 100%);
+}
+.book-card {
+  border-color: var(--border-classic);
+  box-shadow: var(--shadow-card);
+  transition: var(--transition-smooth);
+}
+.book-card:hover {
+  border-color: var(--accent-gold);
+  box-shadow: var(--shadow-card-hover);
+}
+.book-cover-image { background-color: #E6DCB8; }
+.book-detail-page, .detail-overview, .detail-chapters {
+  background-color: var(--bg-surface);
+}
+.reader-fullscreen { background-color: var(--bg-surface); }
+.reader-page-paper {
+  background-color: var(--bg-reader);
+  border-color: var(--border-classic);
+}
+.reader-page-prose {
+  color: var(--text-main);
+  font-family: var(--font-burmese);
+  line-height: 2.2;
+}
+.reader-topbar {
+  background-color: var(--bg-deep);
+  border-bottom-color: var(--accent-gold);
+}
+.reader-topbar-title strong, .reader-cover-kicker,
+.reader-reading-meta, .reader-page-folio {
+  color: var(--accent-gold);
+}
+.reader-bottom-controls button {
+  min-height: 48px;
+  border-color: var(--border-classic);
+}
+button, a, .book-card { transition: var(--transition-smooth); }
+@media (max-width: 768px) {
+  .hero-copy h1 { font-size: clamp(1.8rem, 7vw, 2rem); }
+  .reader-page-paper { padding: 1.5rem; min-height: 100%; }
+  .reader-page-prose { line-height: 2.15; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    transition-duration: .01ms !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
