@@ -271,6 +271,10 @@ export default function Home() {
   const [pendingPage, setPendingPage] = useState<number | null>(null);
   const touchStartXRef = useRef<number | null>(null);
   const [readerChapterIndex, setReaderChapterIndex] = useState(0);
+  const [readerStarted, setReaderStarted] = useState(false);
+  const [readerIntroPage, setReaderIntroPage] = useState(0);
+  const [readerIntroComplete, setReaderIntroComplete] = useState(false);
+  const [readerFinished, setReaderFinished] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [resumeProgress, setResumeProgress] = useState<ReaderProgress | null>(() => readProgress());
   const readerDialogRef = useRef<HTMLElement | null>(null);
@@ -280,6 +284,25 @@ export default function Home() {
   const activeChapter = readerChapters[readerChapterIndex] ?? null;
   const readerContent = activeChapter ? (readerLanguage === "my" ? activeChapter.content : activeChapter.contentEn) : "";
   const readerPages = useMemo(() => splitReaderPages(readerContent), [readerContent]);
+  const readerForewordPages = useMemo(() => {
+    if (!selectedBook) return [];
+    const sections = [
+      selectedBook.authorForewordMy ? {
+        title: readerLanguage === "my" ? "စာရေးသူ၏ အမှာစကား" : "Author’s Foreword",
+        content: readerLanguage === "my" ? selectedBook.authorForewordMy : selectedBook.authorForewordEn,
+      } : null,
+      selectedBook.editorialForewordMy ? {
+        title: readerLanguage === "my" ? "THARi အယ်ဒီတာ၏ အမှာစကား" : "THARi Editorial Foreword",
+        content: readerLanguage === "my" ? selectedBook.editorialForewordMy : selectedBook.editorialForewordEn,
+      } : null,
+    ].filter((section): section is { title: string; content: string } => Boolean(section?.content?.trim()));
+    return sections.flatMap((section) => splitReaderPages(section.content, 1500).map((content, pageIndex) => ({
+      title: section.title,
+      content,
+      sectionPage: pageIndex + 1,
+      sectionPages: splitReaderPages(section.content, 1500).length,
+    })));
+  }, [selectedBook, readerLanguage]);
   const normalizedQuery = query.normalize("NFC").trim().toLocaleLowerCase();
   const categories = openBookCategories.filter((category) => openBooks.some((book) => book.categoryId === category.id));
   const visibleBooks = useMemo(() => openBooks.filter((book) => {
@@ -390,6 +413,10 @@ export default function Home() {
     setReaderChapterIndex(savedForBook ? Math.min(savedForBook.chapterIndex, Math.max(0, chapters.length - 1)) : 0);
     setReaderPage(savedForBook?.page ?? 0);
     setReaderLanguage(savedForBook?.language ?? "my");
+    setReaderStarted(false);
+    setReaderIntroPage(0);
+    setReaderIntroComplete(false);
+    setReaderFinished(false);
   };
 
   return (
@@ -568,88 +595,104 @@ export default function Home() {
 
       </>)}
         {selectedBook && (
-          <div className="modal-backdrop" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setSelectedBook(null); }}>
-            <section ref={readerDialogRef} className="demo-dialog burmese-reader" role="dialog" aria-modal="true" aria-labelledby="reader-title" tabIndex={-1}>
-              <button className="dialog-close" type="button" onClick={() => setSelectedBook(null)} aria-label={ui.close}><X size={19} /></button>
-              <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · {ui.myanmar} / {ui.english}</span>
-              <h2 id="reader-title">{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h2>
-              <p className="dialog-subtitle">{selectedBook.title} · {selectedBook.author}</p>
-              {selectedBook.authorForewordMy && (
-                <section className="reader-page reader-foreword">
-                  <h3>{readerLanguage === "my" ? "စာရေးသူ၏ အမှာစာ" : "Author’s Foreword"}</h3>
-                  <p className={readerLanguage === "en" ? "reader-chapter-en" : ""}>{readerLanguage === "my" ? selectedBook.authorForewordMy : selectedBook.authorForewordEn}</p>
+          <div className="reader-fullscreen-backdrop">
+            <section ref={readerDialogRef} className="reader-fullscreen" role="dialog" aria-modal="true" aria-labelledby="reader-title" tabIndex={-1}>
+              <header className="reader-topbar">
+                <button className="reader-topbar-button" type="button" onClick={() => setSelectedBook(null)} aria-label={ui.close}><X size={21} /></button>
+                <div className="reader-topbar-title"><strong>THARi BOOKS</strong><span>{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</span></div>
+                {readerStarted && !readerFinished && (
+                  <button className="reader-topbar-button reader-language-quick" type="button" onClick={() => { setReaderLanguage((language) => language === "my" ? "en" : "my"); setReaderPage(0); setReaderIntroPage(0); }} aria-label="Change reading language"><Languages size={19} /></button>
+                )}
+              </header>
+
+              {!readerStarted ? (
+                <section className="reader-cover-screen">
+                  <div className="reader-cover-frame">
+                    <img src={getAssetPath(selectedBook.coverImage)} alt={`${selectedBook.title} — ${selectedBook.author}`} />
+                  </div>
+                  <p className="reader-cover-kicker">THARi BOOKS · CLASSIC LIBRARY</p>
+                  <h1 id="reader-title">{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h1>
+                  <p className="reader-cover-author">{selectedBook.author}</p>
+                  <button className="reader-start-button" type="button" onClick={() => { setReaderStarted(true); setReaderIntroComplete(readerForewordPages.length === 0); setReaderFinished(false); }}>{siteLanguage === "my" ? (detailProgress ? "ဆက်ဖတ်မယ်" : "ဖတ်မယ်") : (detailProgress ? "Continue reading" : "Start reading")} <BookOpen size={18} /></button>
+                  <p className="reader-cover-hint">{siteLanguage === "my" ? "စာအုပ်ကို စာမျက်နှာတစ်မျက်နှာချင်း ဖတ်ရှုနိုင်ပါသည်" : "Read one page at a time"}</p>
                 </section>
-              )}
-              {selectedBook.editorialForewordMy && (
-                <section className="reader-page reader-foreword">
-                  <h3>{readerLanguage === "my" ? ui.editorialForeword : ui.editorialForeword}</h3>
-                  <p className={readerLanguage === "en" ? "reader-chapter-en" : ""}>{readerLanguage === "my" ? selectedBook.editorialForewordMy : selectedBook.editorialForewordEn}</p>
+              ) : readerFinished ? (
+                <section className="reader-finish-screen">
+                  <BookOpen size={42} />
+                  <p className="reader-cover-kicker">THE END</p>
+                  <h1>{siteLanguage === "my" ? "စာအုပ်ဖတ်ရှုပြီးပါပြီ" : "You’ve reached the end"}</h1>
+                  <p>{siteLanguage === "my" ? "ဒီစာအုပ်ကို အဆုံးထိ ဖတ်ရှုပြီးပါပြီ။" : "You have reached the final page of this book."}</p>
+                  <button className="reader-start-button" type="button" onClick={() => { setReaderFinished(false); setReaderChapterIndex(0); setReaderPage(0); setReaderIntroPage(0); setReaderIntroComplete(false); }}>{siteLanguage === "my" ? "အစမှ ပြန်ဖတ်မယ်" : "Read again"} <BookOpen size={18} /></button>
                 </section>
-              )}
-              {readerChapters.length > 0 && activeChapter ? (
-                <div className="reader-full-translation">
-                  {activeChapter.illustration && (
+              ) : !readerIntroComplete && readerForewordPages.length > 0 ? (
+                <section className="reader-page-screen">
+                  <div className="reader-page-paper">
+                    <div className="reader-page-running-head"><span>THARi BOOKS</span><span>{readerLanguage === "my" ? "အမှာစကား" : "FOREWORD"}</span></div>
+                    <h1>{readerForewordPages[readerIntroPage]?.title}</h1>
+                    <p className={`reader-page-prose ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerForewordPages[readerIntroPage]?.content}</p>
+                    <span className="reader-page-folio">{readerIntroPage + 1}</span>
+                  </div>
+                  <div className="reader-bottom-controls">
+                    <button type="button" disabled={readerIntroPage === 0} onClick={() => setReaderIntroPage((page) => Math.max(0, page - 1))}>{ui.previousPage}</button>
+                    <span>{readerIntroPage + 1} / {readerForewordPages.length}</span>
+                    <button type="button" onClick={() => {
+                      if (readerIntroPage < readerForewordPages.length - 1) setReaderIntroPage((page) => page + 1);
+                      else { setReaderIntroComplete(true); setReaderPage(0); }
+                    }}>{readerIntroPage === readerForewordPages.length - 1 ? (siteLanguage === "my" ? "စာအုပ်စဖတ်မယ်" : "Begin the book") : ui.nextPage}</button>
+                  </div>
+                </section>
+              ) : readerChapters.length > 0 && activeChapter ? (
+                <section className="reader-page-screen">
+                  <div className="reader-reading-meta">
+                    <span>{readerLanguage === "my" ? activeChapter.title : activeChapter.titleEn ?? `Chapter ${activeChapter.number}`}</span>
+                    <span>{ui.chapter} {readerChapterIndex + 1} / {readerChapters.length}</span>
+                  </div>
+                  {activeChapter.illustration && readerPage === 0 && (
                     <figure className="reader-illustration">
                       <img src={getAssetPath(activeChapter.illustration.src)} alt={readerLanguage === "my" ? activeChapter.illustration.altMy : activeChapter.illustration.altEn} />
-                      <figcaption><span>{ui.illustration}</span><strong>{readerLanguage === "my" ? activeChapter.illustration.captionMy : activeChapter.illustration.captionEn}</strong></figcaption>
+                      <figcaption>{readerLanguage === "my" ? activeChapter.illustration.captionMy : activeChapter.illustration.captionEn}</figcaption>
                     </figure>
                   )}
-                  {readerChapters.length > 1 && <div className="reader-pagination reader-chapter-pagination">
-                    <button type="button" disabled={readerChapterIndex === 0} onClick={() => { setReaderChapterIndex((index) => Math.max(0, index - 1)); setReaderPage(0); }}>{ui.previousChapter}</button>
-                    <span>{ui.chapter} {readerChapterIndex + 1} / {readerChapters.length}</span>
-                    <button type="button" disabled={readerChapterIndex >= readerChapters.length - 1} onClick={() => { setReaderChapterIndex((index) => Math.min(readerChapters.length - 1, index + 1)); setReaderPage(0); }}>{ui.nextChapter}</button>
-                  </div>}
-                  <div className="reader-language-switch" role="group" aria-label="စာဖတ်ဘာသာစကား ရွေးချယ်ရန်">
-                    <button type="button" className={readerLanguage === "my" ? "is-active" : ""} aria-pressed={readerLanguage === "my"} onClick={() => { setReaderLanguage("my"); setReaderPage(0); }}>{ui.myanmar}</button>
-                    <button type="button" className={readerLanguage === "en" ? "is-active" : ""} aria-pressed={readerLanguage === "en"} onClick={() => { setReaderLanguage("en"); setReaderPage(0); }}>{ui.english}</button>
+                  <div className="reader-page-paper reader-chapter-paper">
+                    <div className="reader-page-running-head"><span>THARi BOOKS</span><span>{readerLanguage === "my" ? "စာဖတ်ခန်း" : "READING ROOM"}</span></div>
+                    <h1>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h1>
+                    <p className={`reader-page-prose ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[readerPage] ?? ""}</p>
+                    <span className="reader-page-folio">{readerPage + 1}</span>
                   </div>
-                  <div
-                    className={`reader-book-stage ${pageTurnDirection ? `is-turning-${pageTurnDirection}` : ""}`}
-                    onTouchStart={(event) => { touchStartXRef.current = event.changedTouches[0]?.clientX ?? null; }}
-                    onTouchEnd={(event) => {
-                      const startX = touchStartXRef.current;
-                      const endX = event.changedTouches[0]?.clientX;
-                      touchStartXRef.current = null;
-                      if (startX === null || endX === undefined || Math.abs(endX - startX) < 48) return;
-                      turnReaderPage(endX < startX ? "forward" : "backward");
-                    }}
-                  >
-                    <div className="reader-book-spine" aria-hidden="true" />
-                    <section className="reader-page reader-book-page">
-                      <div className="reader-page-heading"><h3>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {(pendingPage ?? readerPage) + 1} / {readerPages.length}</span></div>
-                      <p className={`reader-chapter ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[pendingPage ?? readerPage] ?? ""}</p>
-                      <span className="reader-page-number">{(pendingPage ?? readerPage) + 1}</span>
-                    </section>
-                    {pageTurnDirection && pendingPage !== null && (
-                      <section className={`reader-page reader-turning-sheet turn-${pageTurnDirection}`} onAnimationEnd={finishPageTurn} aria-hidden="true">
-                        <div className="reader-page-heading"><h3>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {readerPage + 1} / {readerPages.length}</span></div>
-                        <p className={`reader-chapter ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[readerPage] ?? ""}</p>
-                        <span className="reader-page-number">{readerPage + 1}</span>
-                      </section>
-                    )}
-                    <button className="reader-page-corner corner-prev" type="button" aria-label={ui.previousPage} disabled={readerPage === 0 || Boolean(pageTurnDirection)} onClick={() => turnReaderPage("backward")}><ChevronRight size={18} /></button>
-                    <button className="reader-page-corner corner-next" type="button" aria-label={ui.nextPage} disabled={readerPage >= readerPages.length - 1 || Boolean(pageTurnDirection)} onClick={() => turnReaderPage("forward")}><ChevronRight size={18} /></button>
-                  </div>
-                  <div className="reader-pagination">
-                    <button type="button" disabled={readerPage === 0 || Boolean(pageTurnDirection)} onClick={() => turnReaderPage("backward")}>{ui.previousPage}</button>
+                  <div className="reader-bottom-controls">
+                    <button type="button" onClick={() => {
+                      if (readerPage > 0) turnReaderPage("backward");
+                      else if (readerChapterIndex > 0) {
+                        const previousIndex = readerChapterIndex - 1;
+                        setReaderChapterIndex(previousIndex);
+                        setReaderPage(splitReaderPages(readerLanguage === "my" ? readerChapters[previousIndex].content : readerChapters[previousIndex].contentEn).length - 1);
+                      } else if (readerForewordPages.length > 0) {
+                        setReaderIntroComplete(false);
+                        setReaderIntroPage(readerForewordPages.length - 1);
+                      }
+                    }}>{ui.previousPage}</button>
                     <span>{readerPage + 1} / {readerPages.length}</span>
-                    <button type="button" disabled={readerPage >= readerPages.length - 1 || Boolean(pageTurnDirection)} onClick={() => turnReaderPage("forward")}>{ui.nextPage}</button>
+                    <button type="button" onClick={() => {
+                      if (readerPage < readerPages.length - 1) turnReaderPage("forward");
+                      else if (readerChapterIndex < readerChapters.length - 1) {
+                        setReaderChapterIndex((index) => index + 1);
+                        setReaderPage(0);
+                      } else setReaderFinished(true);
+                    }}>{readerPage === readerPages.length - 1 && readerChapterIndex === readerChapters.length - 1 ? (siteLanguage === "my" ? "ပြီးဆုံးမယ်" : "Finish") : ui.nextPage}</button>
                   </div>
-                  <p className="reader-note">{activeChapter.readingType === "summary" ? ui.abridgedNote : ui.translationNote} {siteLanguage === "my" ? `Source: ${selectedBook.source}.` : `Source: ${selectedBook.source}.`}</p>
-                </div>
+                  <div className="reader-bottom-note">
+                    <span>{activeChapter.readingType === "summary" ? ui.abridgedNote : ui.translationNote}</span>
+                    <span>{readerLanguage === "my" ? "မြန်မာ" : "English"}</span>
+                  </div>
+                </section>
               ) : (
-                <>
-                  <h3>{ui.aboutBook}</h3>
-                  <p>{siteLanguage === "my" ? selectedBook.synopsisMy : selectedBook.descriptionEn}</p>
-                  {siteLanguage === "my" && <>
-                    <h3>{ui.keyIdeas}</h3>
-                    <ul className="reader-ideas">{selectedBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul>
-                    <p className="reader-note">{selectedBook.readingNoteMy}</p>
-                  </>}
-                </>
+                <section className="reader-finish-screen">
+                  <BookOpen size={42} />
+                  <h1>{siteLanguage === "my" ? "ဖတ်ရှုရန် အကြောင်းအရာ မရှိသေးပါ" : "Reading content is not available yet"}</h1>
+                  <p>{siteLanguage === "my" ? "ဤစာအုပ်အတွက် THARi Reader အကြောင်းအရာ မထည့်သွင်းရသေးပါ။" : "THARi Reader content has not been added for this book yet."}</p>
+                  {selectedBook.sourceUrl && <a className="reader-start-button" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.sourceBook} <ArrowUpRight size={18} /></a>}
+                </section>
               )}
-              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {siteLanguage === "my" || selectedBook.source === "AUREN" ? selectedBook.rightsNote : "This link opens the original source. Copyright status and reuse rights can differ by country; check local law before reusing any text."}</p>
-              {selectedBook.sourceUrl && <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.sourceBook} <ArrowUpRight size={16} /></a>}
             </section>
           </div>
         )}
