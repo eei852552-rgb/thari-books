@@ -1594,4 +1594,434 @@ Then the green man fitted spectacles for the Scarecrow and the Tin Woodman and t
 
 Then the Guardian of the Gates put on his own glasses and told them he was ready to show them to the Palace. Taking a big golden key from a peg on the wall, he opened another gate, and they all followed him through the portal into the streets of the Emerald City.`
   },
-] as const;
+  {
+    number: 11,
+    title: "အခန်း (၁၁) — အော့ဇ်၏ အံ့ဖွယ်မြို့တော်",
+    titleEn: "Chapter 11 — The Wonderful City of Oz",
+    content: `အစိမ်းရောင်မျက်မှန်များ တပ်ထားသော်လည်း ဒေါ်ရသီနှင့် သူမ၏ မိတ်ဆွေများသည် အံ့ဖွယ်မြို့တော်၏ တောက်ပမှုကြောင့် အစပိုင်းတွင် မျက်စိကျိန်းမိကြသည်။ လမ်းတစ်လျှောက်ရှိ အိမ်လှလှများကို အစိမ်းရောင်စကျင်ကျောက်များဖြင့် ဆောက်လုပ်ထားပြီး နေရာအနှံ့တွင် တောက်ပသော မြကျောက်များကို စီခြယ်ထားသည်။ သူတို့ လျှောက်သွားသော လမ်းခင်းကျောက်များမှာလည်း အစိမ်းရောင်စကျင်ကျောက်များပင် ဖြစ်သည်။ ကျောက်တုံးတစ်တုံးနှင့် တစ်တုံး ဆက်ထားသည့် နေရာများတွင် မြကျောက်တန်းများကို နီးနီးကပ်ကပ် စီထားသဖြင့် နေရောင်အောက်တွင် တလက်လက် တောက်ပနေသည်။
+
+ပြတင်းပေါက်မှန်များမှာ အစိမ်းရောင်မှန်များ ဖြစ်ကြသည်။ မြို့တော်အပေါ်ရှိ ကောင်းကင်မှာပင် အစိမ်းရောင်သန်းနေပြီး နေရောင်ခြည်များကလည်း အစိမ်းရောင်အလင်းကို ပေးနေသကဲ့သို့ ဖြစ်သည်။
+
+မြို့ထဲတွင် အမျိုးသား၊ အမျိုးသမီးနှင့် ကလေးငယ်များ အများအပြား လမ်းလျှောက်သွားလာနေကြသည်။ သူတို့အားလုံးသည် အစိမ်းရောင်အဝတ်များ ဝတ်ဆင်ထားကြပြီး အသားအရေမှာလည်း အစိမ်းရောင်သန်းနေသည်။ ထူးဆန်းသော အဖွဲ့လိုက် ခရီးသွားများကို သူတို့က အံ့ဩစွာ ကြည့်နေကြသည်။ ခြင်္သေ့ကြီးကို မြင်သည့်အခါ ကလေးများသည် ကြောက်လန့်ပြီး မိခင်များနောက်တွင် ပြေးပုန်းကြသော်လည်း မည်သူမျှ သူတို့နှင့် စကားမပြောကြပေ။ လမ်းတစ်လျှောက်တွင် ဆိုင်များစွာ ရှိပြီး ဆိုင်ထဲရှိ ပစ္စည်းအားလုံးနီးပါးမှာ အစိမ်းရောင်များ ဖြစ်ကြောင်း ဒေါ်ရသီ သတိထားမိသည်။
+
+အစိမ်းရောင်သကြားလုံးများ၊ ပြောင်းဖူးပေါက်ပေါက်များကို ရောင်းချနေကြသည်။ အစိမ်းရောင်ဖိနပ်များ၊ ဦးထုပ်များနှင့် အမျိုးမျိုးသော အဝတ်အစားများလည်း ရှိသည်။ တစ်နေရာတွင် အမျိုးသားတစ်ဦးက အစိမ်းရောင်လီမွန်ရည်ကို ရောင်းနေသည်။ ကလေးများ ဝယ်ယူသောက်သုံးကြသည့်အခါ အစိမ်းရောင်ကြေးပြားငွေများဖြင့် ပေးချေကြသည်ကို ဒေါ်ရသီ မြင်လိုက်ရသည်။
+
+မြို့ထဲတွင် မြင်းများ သို့မဟုတ် အခြားတိရစ္ဆာန်များကို မတွေ့ရသလောက်ပင် ဖြစ်သည်။ အမျိုးသားများသည် ပစ္စည်းများကို အစိမ်းရောင်လှည်းငယ်များထဲ ထည့်ကာ ကိုယ်တိုင် တွန်းသယ်ကြသည်။ လူတိုင်းသည် ပျော်ရွှင်အေးချမ်းပြီး ချမ်းသာကြွယ်ဝသည့်ပုံ ပေါ်နေကြသည်။
+
+တံခါးစောင့်သည် သူတို့ကို လမ်းများတစ်လျှောက် ခေါ်ဆောင်လာပြီး နောက်ဆုံးတွင် မြို့တော်၏ အလယ်တည့်တည့်၌ တည်ရှိသော အဆောက်အအုံကြီးတစ်ခုရှေ့သို့ ရောက်လာသည်။ ထိုအဆောက်အအုံမှာ မဟာမှော်ဆရာ အော့ဇ်၏ နန်းတော် ဖြစ်သည်။ တံခါးရှေ့တွင် အစိမ်းရောင်ယူနီဖောင်း ဝတ်ဆင်ထားပြီး အစိမ်းရောင်မုတ်ဆိတ်ရှည်ကြီး ထားရှိသော စစ်သားတစ်ဦး ရပ်နေသည်။
+
+“ဒီမှာ သူစိမ်းဧည့်သည်တွေ ရောက်နေပါတယ်။ မဟာမှော်ဆရာ အော့ဇ်ကို တွေ့ခွင့်တောင်းနေကြပါတယ်” ဟု တံခါးစောင့်က စစ်သားကို ပြောသည်။
+
+“အထဲဝင်လာကြပါ။ သူတို့ရောက်နေကြောင်း သတင်းပို့ပေးပါမယ်” ဟု စစ်သားက ပြန်ဖြေသည်။
+
+ထို့နောက် သူတို့သည် နန်းတော်တံခါးကို ဖြတ်ဝင်ကာ အစိမ်းရောင်ကော်ဇောခင်းထားပြီး မြကျောက်များဖြင့် အလှဆင်ထားသော လှပသည့် ပရိဘောဂများ ရှိသည့် အခန်းကြီးတစ်ခန်းသို့ ခေါ်ဆောင်ခံရသည်။ ထိုအခန်းထဲ မဝင်မီ စစ်သားက သူတို့အားလုံးကို အစိမ်းရောင်ဖျာပေါ်တွင် ဖိနပ်သုတ်ရန် ပြောသည်။ သူတို့ ထိုင်ပြီးသောအခါ စစ်သားက ယဉ်ကျေးစွာ ပြောလိုက်သည်။
+
+“ကျေးဇူးပြုပြီး သက်သောင့်သက်သာ ထိုင်စောင့်နေကြပါ။ ကျွန်တော်က နန်းတော်ခန်းမတော်တံခါးဆီ သွားပြီး အော့ဇ်ကို ခင်ဗျားတို့ ရောက်နေကြောင်း သတင်းပို့လိုက်ပါမယ်။”
+
+စစ်သား ပြန်လာသည်အထိ သူတို့သည် အချိန်အတော်ကြာ စောင့်ဆိုင်းခဲ့ကြရသည်။ နောက်ဆုံးတွင် သူ ပြန်ရောက်လာသောအခါ ဒေါ်ရသီက မေးလိုက်သည်။
+
+“ရှင် အော့ဇ်ကို တွေ့ခဲ့ရလား။”
+
+“မတွေ့ခဲ့ပါဘူး” ဟု စစ်သားက ပြန်ဖြေသည်။ “ကျွန်တော် သူ့ကို တစ်ခါမှ မမြင်ဖူးပါဘူး။ ဒါပေမဲ့ သူက အကာအကွယ်နောက်မှာ ထိုင်နေတုန်း ကျွန်တော် စကားပြောပြီး ခင်ဗျားတို့ရဲ့ သတင်းကို ပို့ပေးခဲ့ပါတယ်။ သူက ခင်ဗျားတို့ တကယ်တွေ့ချင်တယ်ဆိုရင် လက်ခံတွေ့ဆုံမယ်လို့ ပြောပါတယ်။ ဒါပေမဲ့ တစ်ယောက်ချင်းစီသာ ဝင်တွေ့ရမယ်။ တစ်နေ့ကို တစ်ဦးတည်းကိုသာ လက်ခံမယ်လို့လည်း ပြောပါတယ်။ ဒါကြောင့် နန်းတော်မှာ ရက်အနည်းငယ် နေရပါလိမ့်မယ်။ ခရီးပန်းလာကြတာကို အနားယူနိုင်ဖို့ အခန်းတွေ ပြင်ဆင်ပေးပါမယ်။”
+
+“ကျေးဇူးတင်ပါတယ်။ အော့ဇ်က အလွန်ကြင်နာတာပဲ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+ထို့နောက် စစ်သားသည် အစိမ်းရောင်ဝီစီကို မှုတ်လိုက်သည်။ ချက်ချင်းပင် လှပသော အစိမ်းရောင်ပိုးဝတ်စုံ ဝတ်ဆင်ထားသည့် မိန်းကလေးငယ်တစ်ဦး အခန်းထဲသို့ ဝင်လာသည်။ သူမ၏ ဆံပင်နှင့် မျက်လုံးများမှာလည်း အစိမ်းရောင် ဖြစ်သည်။ သူမသည် ဒေါ်ရသီရှေ့တွင် ဦးညွှတ်ပြီး “ကျွန်မနောက်ကို လိုက်ခဲ့ပါ။ ရှင့်အခန်းကို လိုက်ပြပေးပါမယ်” ဟု ပြောသည်။
+
+ဒေါ်ရသီသည် တိုတိုမှလွဲ၍ သူမ၏ မိတ်ဆွေများအားလုံးကို နှုတ်ဆက်ခဲ့သည်။ ထို့နောက် တိုတိုကို ပွေ့ချီကာ အစိမ်းရောင်မိန်းကလေးနောက်သို့ လိုက်သွားသည်။ သူတို့သည် လမ်းကြား ခုနစ်ခုကို ဖြတ်ပြီး လှေကားသုံးထပ် တက်ခဲ့ကြသည်။ နောက်ဆုံးတွင် နန်းတော်၏ ရှေ့ဘက်ရှိ အခန်းတစ်ခန်းသို့ ရောက်လာသည်။ ထိုအခန်းသည် ကမ္ဘာပေါ်တွင် အလှပဆုံး အခန်းငယ်လေးတစ်ခန်း ဖြစ်ပုံရသည်။ ပျော့ပျောင်းသက်သောင့်သက်သာရှိသော အိပ်ရာပေါ်တွင် အစိမ်းရောင်ပိုးထည်ဖြင့် ပြုလုပ်ထားသော အိပ်ရာခင်းများနှင့် အစိမ်းရောင်ကတ္တီပါ စောင်တစ်ထည် ရှိသည်။
+
+အခန်းအလယ်တွင် ရေပန်းငယ်တစ်ခု ရှိသည်။ ထိုရေပန်းမှ အစိမ်းရောင်ရနံ့သင်းသည့် ရေမှုန်များကို လေထဲသို့ ပန်းထုတ်လိုက်ပြီး လှပစွာ ထွင်းထုထားသော အစိမ်းရောင်စကျင်ကျောက်ရေကန်ထဲသို့ ပြန်ကျလာသည်။ ပြတင်းပေါက်များတွင် လှပသော အစိမ်းရောင်ပန်းများ ရှိပြီး စင်တစ်ခုပေါ်တွင်လည်း အစိမ်းရောင်စာအုပ်ငယ်များ တန်းစီထားသည်။ ဒေါ်ရသီက အချိန်ရ၍ စာအုပ်များကို ဖွင့်ကြည့်သောအခါ ရယ်စရာကောင်းသော ထူးဆန်းသည့် အစိမ်းရောင်ပုံများဖြင့် ပြည့်နေသည်ကို တွေ့ရသည်။
+
+အဝတ်ဗီရိုထဲတွင် ပိုးထည်၊ ဖဲထည်နှင့် ကတ္တီပါတို့ဖြင့် ချုပ်လုပ်ထားသော အစိမ်းရောင်ဝတ်စုံများစွာ ရှိသည်။ ထိုဝတ်စုံအားလုံးသည် ဒေါ်ရသီနှင့် အံကိုက် ဖြစ်နေကြသည်။
+
+“ဒီအခန်းကို ကိုယ့်အိမ်လို သဘောထားပြီး နေပါ။ တစ်ခုခု လိုအပ်ရင် ခေါင်းလောင်းကို တီးလိုက်ပါ။ အော့ဇ်က မနက်ဖြန်မနက်မှာ ရှင့်ကို ခေါ်ပါလိမ့်မယ်” ဟု အစိမ်းရောင်မိန်းကလေးက ပြောသည်။
+
+ထို့နောက် သူမသည် ဒေါ်ရသီကို တစ်ယောက်တည်း ထားခဲ့ပြီး အခြားသူများကိုလည်း အခန်းများဆီ လိုက်ပို့ပေးသည်။ သူတို့တစ်ဦးစီသည် နန်းတော်၏ သာယာလှပသော အစိတ်အပိုင်းများတွင် အခန်းရရှိကြသည်။ သို့သော် စာခြောက်ရုပ်အတွက်တော့ ထိုဧည့်ဝတ်ပြုမှုမှာ အကျိုးမရှိသလောက် ဖြစ်နေသည်။ မိမိအခန်းထဲ တစ်ယောက်တည်း ကျန်ခဲ့သောအခါ သူသည် တံခါးအနီးတွင် မတ်တတ်ရပ်လျက် နံနက်မိုးလင်းသည်အထိ စောင့်နေခဲ့သည်။
+
+သူ့အတွက် လှဲအိပ်ရန် မလိုအပ်သလို မျက်လုံးပိတ်ရန်လည်း မလိုပေ။ ထို့ကြောင့် အခန်းထောင့်တစ်နေရာတွင် ပင့်ကူငယ်တစ်ကောင် ပင့်ကူမျှင် ယက်လုပ်နေသည်ကို တစ်ညလုံး ကြည့်နေခဲ့သည်။ ထိုအခန်းသည် ကမ္ဘာပေါ်တွင် အံ့ဖွယ်အကောင်းဆုံး အခန်းများထဲမှ တစ်ခန်းဖြစ်သော်လည်း သူ့အတွက်တော့ ထူးခြားမှု မရှိသလိုပင်။ သံခုတ်သမားကတော့ ယခင်က အသားကိုယ်ခန္ဓာရှိခဲ့စဉ်က အိပ်ရာပေါ်တွင် လှဲအိပ်ခဲ့သည့် အလေ့အကျင့်ကြောင့် အိပ်ရာပေါ်တွင် လှဲနေခဲ့သည်။ သို့သော် အိပ်မပျော်သဖြင့် သူ၏ အဆစ်အမြစ်များ ကောင်းမွန်စွာ လှုပ်ရှားနိုင်သေးကြောင်း သေချာစေရန် တစ်ညလုံး အဆစ်များကို အထက်အောက် လှုပ်ရှားနေခဲ့သည်။
+
+ခြင်္သေ့ကြီးကတော့ တောထဲရှိ သစ်ရွက်ခြောက်များပေါ်တွင် အိပ်ရသည်ကို ပိုနှစ်သက်ပြီး အခန်းထဲ ပိတ်လှောင်ခံထားရသလို ဖြစ်နေသည်ကို မကြိုက်ပေ။ သို့သော် ထိုအကြောင်းကို စိတ်ပူမနေတော့ဘဲ အိပ်ရာပေါ်သို့ ခုန်တက်ကာ ကြောင်တစ်ကောင်ကဲ့သို့ ကိုယ်ကို ကွေးကွေးလေး လှိမ့်အိပ်လိုက်သည်။ မကြာမီပင် သာယာစွာ ဟိန်းမြည်ရင်း အိပ်ပျော်သွားသည်။
+
+နောက်တစ်နေ့မနက် မနက်စာစားပြီးသောအခါ အစိမ်းရောင်မိန်းကလေးသည် ဒေါ်ရသီကို လာခေါ်သည်။ သူမအား အစိမ်းရောင်ပန်းပွင့်ပုံ အလှဆင်ထားသော ဖဲထည်ဝတ်စုံလှလှတစ်စုံ ဝတ်ဆင်ပေးသည်။ ဒေါ်ရသီသည် အစိမ်းရောင်ပိုးထည်ခါးစည်းကို ဝတ်ပြီး တိုတို၏ လည်ပင်းတွင်လည်း အစိမ်းရောင်ဖဲကြိုးတစ်ချောင်း ချည်ပေးလိုက်သည်။ ထို့နောက် မဟာမှော်ဆရာ အော့ဇ်၏ နန်းတော်ခန်းမတော်ဆီသို့ စတင်ထွက်ခွာကြသည်။
+
+ပထမဦးစွာ သူတို့သည် နန်းတော်မှူးမတ်များနှင့် အမျိုးသမီးအမျိုးသားများစွာ ရှိနေသော ခန်းမကြီးတစ်ခုသို့ ရောက်လာသည်။ ထိုသူများသည် လှပခမ်းနားသော အဝတ်အစားများကို ဝတ်ဆင်ထားကြသည်။ သူတို့တွင် အလုပ်အကိုင်မရှိသလောက် ဖြစ်ပြီး အချင်းချင်း စကားပြောနေကြရုံသာ ဖြစ်သည်။ သို့သော် မနက်တိုင်း အော့ဇ်ကို မတွေ့ရသော်လည်း နန်းတော်ခန်းမတော်အပြင်ဘက်တွင် စောင့်ဆိုင်းရန် လာရောက်ကြသည်။ ဒေါ်ရသီ ဝင်လာသောအခါ သူတို့က စူးစမ်းသည့်အကြည့်များဖြင့် ကြည့်ကြပြီး တစ်ဦးက တိုးတိုးလေး မေးလိုက်သည်။
+
+“ရှင်က တကယ်ပဲ ကြောက်မက်ဖွယ်ကောင်းတဲ့ အော့ဇ်ရဲ့ မျက်နှာကို မြင်ရတော့မှာလား။”
+
+“သူက ကျွန်မကို တွေ့မယ်ဆိုရင်တော့ တွေ့ရမှာပေါ့” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။
+
+“သူက ရှင့်ကို တွေ့ပါလိမ့်မယ်” ဟု မှော်ဆရာထံ သတင်းပို့ခဲ့သော စစ်သားက ပြောသည်။ “သူက လူတွေ သူ့ကို တွေ့ဖို့ တောင်းဆိုတာကို မကြိုက်ပါဘူး။ အစကတော့ သူ စိတ်ဆိုးပြီး ရှင်တို့လာခဲ့တဲ့ နေရာကို ပြန်ပို့လိုက်ဖို့ ကျွန်တော့်ကို ပြောခဲ့ပါတယ်။ ဒါပေမဲ့ နောက်တော့ ရှင် ဘယ်လိုပုံစံရှိသလဲလို့ မေးပါတယ်။ ရှင့်ရဲ့ ငွေရောင်ဖိနပ်အကြောင်း ပြောပြလိုက်တဲ့အခါ သူ အလွန်စိတ်ဝင်စားသွားပါတယ်။ နောက်ဆုံးမှာ ရှင့်နဖူးပေါ်က အမှတ်အသားအကြောင်းကိုပါ ပြောပြလိုက်တော့မှ သူက ရှင့်ကို လက်ခံတွေ့ဆုံဖို့ ဆုံးဖြတ်ခဲ့တာပါ။”
+
+ထိုအချိန်တွင် ခေါင်းလောင်းသံ မြည်လာသည်။ အစိမ်းရောင်မိန်းကလေးက ဒေါ်ရသီကို “ဒါက အချက်ပေးသံပါ။ ရှင်တစ်ယောက်တည်း နန်းတော်ခန်းမတော်ထဲ ဝင်ရပါမယ်” ဟု ပြောသည်။
+
+သူမသည် တံခါးငယ်လေးကို ဖွင့်ပေးလိုက်ရာ ဒေါ်ရသီသည် ရဲရဲဝံ့ဝံ့ ဝင်သွားပြီး အံ့ဖွယ်ကောင်းသော နေရာတစ်ခုသို့ ရောက်လာသည်။ ထိုအခန်းမှာ အဝိုင်းပုံစံရှိပြီး အမိုးခုံးမြင့်မြင့်တစ်ခု ပါရှိသည်။ နံရံများ၊ မျက်နှာကြက်နှင့် ကြမ်းပြင်တို့ကို မြကျောက်အကြီးများဖြင့် နီးနီးကပ်ကပ် စီခြယ်ထားသည်။ အမိုးအလယ်တွင် နေမင်းကဲ့သို့ တောက်ပသော အလင်းရောင်ကြီးတစ်ခု ရှိနေပြီး မြကျောက်များကို အံ့ဖွယ်တောက်ပစေသည်။
+
+သို့သော် ဒေါ်ရသီ၏ စိတ်ဝင်စားမှုကို အများဆုံး ဆွဲဆောင်သည့်အရာမှာ အခန်းအလယ်တွင် ရှိသော အစိမ်းရောင်စကျင်ကျောက် နန်းထိုင်ခုံကြီး ဖြစ်သည်။ ထိုခုံသည် ထိုင်ခုံပုံစံရှိပြီး အခြားအရာအားလုံးကဲ့သို့ ရတနာကျောက်များဖြင့် တောက်ပနေသည်။ ထိုခုံ၏ အလယ်တွင်တော့ ကိုယ်ခန္ဓာမရှိ၊ လက်မောင်းနှင့် ခြေထောက်လည်း မရှိသော ဦးခေါင်းကြီးတစ်လုံး ရှိနေသည်။ ဦးခေါင်းတွင် ဆံပင်မရှိသော်လည်း မျက်လုံး၊ နှာခေါင်းနှင့် ပါးစပ်တို့ ရှိသည်။ အရွယ်အစားမှာ အကြီးဆုံး ဘီလူးကြီး၏ ဦးခေါင်းထက်ပင် များစွာ ကြီးမားနေသည်။
+
+ဒေါ်ရသီသည် အံ့ဩထိတ်လန့်စွာ ကြည့်နေစဉ် ထိုဦးခေါင်း၏ မျက်လုံးများသည် ဖြည်းဖြည်းချင်း လှည့်လာပြီး သူမကို စူးစိုက်ကြည့်သည်။ ထို့နောက် ပါးစပ်လှုပ်ရှားလာပြီး အသံတစ်သံ ထွက်ပေါ်လာသည်။
+
+“ငါဟာ ကြီးမြတ်ပြီး ကြောက်မက်ဖွယ်ကောင်းတဲ့ အော့ဇ်ပဲ။ မင်းက ဘယ်သူလဲ။ ဘာကြောင့် ငါ့ဆီ လာတွေ့တာလဲ။”
+
+ဦးခေါင်းကြီးထံမှ ထွက်လာမည်ဟု ထင်ထားသည့် အသံလောက် မကြောက်စရာ မကောင်းသဖြင့် ဒေါ်ရသီသည် သတ္တိမွေးကာ ပြန်ဖြေလိုက်သည်။
+
+“ကျွန်မက သေးငယ်ပြီး နူးညံ့တဲ့ ဒေါ်ရသီပါ။ အကူအညီတောင်းဖို့ ရှင့်ဆီ လာခဲ့တာပါ။”
+
+မျက်လုံးကြီးများက သူမကို တစ်မိနစ်ခန့် စဉ်းစားသလို ကြည့်နေသည်။ ထို့နောက် အသံက မေးလိုက်သည်။
+
+“မင်းရဲ့ ငွေရောင်ဖိနပ်တွေကို ဘယ်က ရခဲ့တာလဲ။”
+
+“အရှေ့ဘက်က မကောင်းဆိုးဝါးစုန်းမဆီက ရခဲ့တာပါ။ ကျွန်မအိမ် ပြိုကျလာတဲ့အခါ သူမကို ဖိမိသွားခဲ့တာပါ” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။
+
+“မင်းနဖူးပေါ်က အမှတ်အသားကို ဘယ်က ရခဲ့တာလဲ” ဟု အသံက ဆက်မေးသည်။
+
+“မြောက်ဘက်က ကြင်နာတတ်တဲ့ စုန်းမက ကျွန်မကို နှုတ်ဆက်ပြီး ရှင့်ဆီ လွှတ်လိုက်တဲ့အခါ နဖူးကို နမ်းပေးခဲ့တာပါ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+မျက်လုံးများသည် သူမကို ထပ်မံစူးစိုက်ကြည့်ကြပြီး သူမ အမှန်အတိုင်း ပြောနေကြောင်း သိရှိသွားသည်။ ထို့နောက် အော့ဇ်က “ငါ မင်းအတွက် ဘာလုပ်ပေးရမလဲ” ဟု မေးသည်။
+
+“ကျွန်မကို ကန်ဆတ်ပြည်နယ်က အဒေါ်အမ်နဲ့ ဦးလေးဟင်နရီဆီ ပြန်ပို့ပေးပါ။ ဒီနိုင်ငံက အလွန်လှပပေမဲ့ ကျွန်မ မနေချင်ပါဘူး။ ကျွန်မ ဒီလောက်ကြာကြာ အိမ်ပြန်မလာတာကြောင့် အဒေါ်အမ် အရမ်းစိတ်ပူနေမှာ သေချာပါတယ်” ဟု ဒေါ်ရသီက စိတ်ရင်းဖြင့် ပြောသည်။
+
+မျက်လုံးကြီးများသည် သုံးကြိမ်တိုင်တိုင် မျက်တောင်ခတ်လိုက်သည်။ ထို့နောက် မျက်နှာကြက်ကို ကြည့်လိုက်၊ ကြမ်းပြင်ကို ကြည့်လိုက်၊ အခန်းတစ်ခုလုံးကို စစ်ဆေးနေသကဲ့သို့ ထူးဆန်းစွာ လှည့်ပတ်ကြည့်လိုက်ပြီး နောက်ဆုံးတွင် ဒေါ်ရသီကို ပြန်ကြည့်သည်။
+
+“မင်းအတွက် ငါ ဘာကြောင့် ဒီလိုလုပ်ပေးရမှာလဲ” ဟု အော့ဇ်က မေးသည်။
+
+“ရှင်က အင်အားကြီးပြီး ကျွန်မက အားနည်းလို့ပါ။ ရှင်က မဟာမှော်ဆရာကြီး ဖြစ်ပြီး ကျွန်မက ကလေးမလေးတစ်ယောက်ပဲ ရှိသေးလို့ပါ” ဟု သူမက ပြန်ဖြေသည်။
+
+“ဒါပေမဲ့ မင်းက အရှေ့ဘက်က မကောင်းဆိုးဝါးစုန်းမကို အနိုင်ယူနိုင်ခဲ့တယ် မဟုတ်လား” ဟု အော့ဇ်က ပြောသည်။
+
+“အဲဒါက မတော်တဆ ဖြစ်သွားတာပါ။ ကျွန်မ ရည်ရွယ်ခဲ့တာ မဟုတ်ပါဘူး” ဟု ဒေါ်ရသီက ရိုးရိုးသားသား ပြန်ဖြေသည်။
+
+“ကောင်းပြီ” ဟု ဦးခေါင်းကြီးက ပြောသည်။ “ငါ့အဖြေကို ပြောပြမယ်။ မင်းက ငါ့အတွက် တစ်ခုခု ပြန်လုပ်မပေးဘဲ ကန်ဆတ်ကို ပြန်ပို့ပေးဖို့ မျှော်လင့်ပိုင်ခွင့် မရှိဘူး။ ဒီနိုင်ငံမှာ လူတိုင်းဟာ ရရှိတဲ့အရာတိုင်းအတွက် တစ်စုံတစ်ရာ ပြန်ပေးရတယ်။ ငါ့ရဲ့ မှော်စွမ်းအားကို အသုံးပြုပြီး မင်းကို အိမ်ပြန်ပို့စေချင်ရင် အရင်ဆုံး ငါ့အတွက် အလုပ်တစ်ခု လုပ်ပေးရမယ်။ မင်းက ငါ့ကို ကူညီပါ။ ငါလည်း မင်းကို ကူညီမယ်။”
+
+“ကျွန်မ ဘာလုပ်ပေးရမှာလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“အနောက်ဘက်က မကောင်းဆိုးဝါးစုန်းမကို အနိုင်ယူရမယ်” ဟု အော့ဇ်က ပြန်ဖြေသည်။
+
+“ဒါပေမဲ့ ကျွန်မ မလုပ်နိုင်ပါဘူး” ဟု ဒေါ်ရသီက အလွန်အံ့ဩစွာ အော်ပြောလိုက်သည်။
+
+“မင်းက အရှေ့ဘက်က စုန်းမကို အနိုင်ယူခဲ့ပြီး အစွမ်းထက်တဲ့ မှော်အင်အား ပါဝင်နေတဲ့ ငွေရောင်ဖိနပ်တွေကိုလည်း စီးထားတယ်။ ဒီနိုင်ငံမှာ အခု မကောင်းဆိုးဝါးစုန်းမ တစ်ဦးပဲ ကျန်တော့တယ်။ သူမကို အနိုင်ယူပြီးပြီလို့ မင်းလာပြောနိုင်တဲ့အခါမှ ငါ မင်းကို ကန်ဆတ်ပြည်နယ် ပြန်ပို့ပေးမယ်။ အဲဒီမတိုင်ခင်တော့ မပို့ပေးနိုင်ဘူး။”
+
+ဒေါ်ရသီသည် အလွန်စိတ်ပျက်သွားသဖြင့် မျက်ရည်ကျလာသည်။ အော့ဇ်၏ မျက်လုံးများသည် ထပ်မံမျက်တောင်ခတ်ပြီး သူမကို စိုးရိမ်သလို ကြည့်နေသည်။ သူမက သူ့အတွက် အလုပ်ကို လုပ်ပေးနိုင်မည်ဟု မျှော်လင့်နေသည့်ပုံပင်။
+
+“ကျွန်မက ဘယ်သူ့ကိုမှ ရည်ရွယ်ချက်ရှိရှိ မထိခိုက်စေခဲ့ဖူးပါဘူး” ဟု သူမက ငိုရင်း ပြောသည်။ “ကျွန်မ လုပ်ချင်တယ်ဆိုရင်တောင် အဲဒီစုန်းမကို ဘယ်လို အနိုင်ယူနိုင်မှာလဲ။ ရှင်လို ကြီးမြတ်ပြီး ကြောက်မက်ဖွယ်ကောင်းတဲ့ မှော်ဆရာတောင် သူမကို မနိုင်ဘူးဆိုရင် ကျွန်မကို ဘယ်လိုလုပ်နိုင်မယ်လို့ မျှော်လင့်တာလဲ။”
+
+“ငါလည်း မသိဘူး” ဟု ဦးခေါင်းကြီးက ပြောသည်။ “ဒါပေမဲ့ ငါ့အဖြေက ဒီအတိုင်းပဲ။ မကောင်းဆိုးဝါးစုန်းမ ရှိနေသရွေ့ မင်းရဲ့ အဒေါ်နဲ့ ဦးလေးကို ပြန်တွေ့ရမှာ မဟုတ်ဘူး။ သူမဟာ အလွန်ဆိုးသွမ်းသူ ဖြစ်တယ်ဆိုတာ သတိရပါ။ အခု သွားတော့။ မင်းတာဝန်ကို မပြီးမချင်း ငါ့ဆီ ထပ်လာမတွေ့နဲ့တော့။”
+
+ဒေါ်ရသီသည် ဝမ်းနည်းစွာဖြင့် နန်းတော်ခန်းမတော်မှ ထွက်လာပြီး အော့ဇ်ပြောသမျှကို သိချင်နေကြသော ခြင်္သေ့ကြီး၊ စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့ ရှိရာသို့ ပြန်လာသည်။
+
+“ကျွန်မအတွက် မျှော်လင့်ချက် မရှိတော့ဘူး” ဟု သူမက ဝမ်းနည်းစွာ ပြောသည်။ “အော့ဇ်က အနောက်ဘက်က မကောင်းဆိုးဝါးစုန်းမကို အနိုင်ယူပြီးမှ အိမ်ပြန်ပို့မယ်လို့ ပြောတယ်။ ဒါပေမဲ့ ကျွန်မ အဲဒီလို မလုပ်နိုင်ဘူး။”
+
+သူမ၏ မိတ်ဆွေများက စိတ်မကောင်းဖြစ်ကြသော်လည်း ကူညီပေးနိုင်သည့် နည်းလမ်း မရှိကြပေ။ ထို့ကြောင့် ဒေါ်ရသီသည် မိမိအခန်းသို့ ပြန်သွားကာ အိပ်ရာပေါ်တွင် လှဲပြီး ငိုရင်း အိပ်ပျော်သွားသည်။
+
+နောက်တစ်နေ့မနက်တွင် အစိမ်းရောင်မုတ်ဆိတ်ရှိသော စစ်သားသည် စာခြောက်ရုပ်ထံ လာပြီး “ကျွန်တော်နဲ့ လိုက်ခဲ့ပါ။ အော့ဇ်က ရှင့်ကို ခေါ်နေပါတယ်” ဟု ပြောသည်။
+
+စာခြောက်ရုပ်သည် စစ်သားနောက်သို့ လိုက်ကာ မြကျောက်နန်းထိုင်ခုံကြီး ရှိသော နန်းတော်ခန်းမတော်ထဲသို့ ဝင်ရောက်ခဲ့သည်။ ထိုနေရာတွင် သူသည် အလွန်လှပသော အမျိုးသမီးတစ်ဦးကို တွေ့လိုက်ရသည်။ သူမသည် မြစိမ်းရောင်ပိုးပါးဝတ်စုံကို ဝတ်ဆင်ထားပြီး ရှည်လျားသော အစိမ်းရောင်ဆံပင်ပေါ်တွင် ရတနာများဖြင့် ပြုလုပ်ထားသော သရဖူတစ်ခု ဆောင်းထားသည်။ သူမ၏ ပခုံးနှစ်ဖက်မှ အရောင်အသွေးစုံလင်ပြီး လေပြေလေး တိုက်ခတ်ရုံဖြင့် လှုပ်ရှားသည့် တောင်ပံများ ပေါက်နေသည်။
+
+စာခြောက်ရုပ်သည် မိမိ၏ ကောက်ရိုးများကြောင့် လှပစွာ ဦးညွှတ်နိုင်သလောက် ဦးညွှတ်လိုက်သည်။ ထိုအမျိုးသမီးက သူ့ကို ကြင်နာစွာ ကြည့်ပြီး ပြောသည်။
+
+“ငါဟာ ကြီးမြတ်ပြီး ကြောက်မက်ဖွယ်ကောင်းတဲ့ အော့ဇ်ပဲ။ မင်းက ဘယ်သူလဲ။ ဘာကြောင့် ငါ့ဆီ လာတွေ့တာလဲ။”
+
+ဒေါ်ရသီ ပြောပြခဲ့သော ဦးခေါင်းကြီးကို တွေ့ရမည်ဟု မျှော်လင့်ထားသည့် စာခြောက်ရုပ်သည် အလွန်အံ့ဩသွားသော်လည်း သတ္တိရှိစွာ ပြန်ဖြေသည်။
+
+“ကျွန်တော်က ကောက်ရိုးတွေနဲ့ ပြည့်နေတဲ့ စာခြောက်ရုပ်တစ်ရုပ်ပါ။ ဒါကြောင့် ကျွန်တော့်မှာ ဦးနှောက် မရှိပါဘူး။ ကျွန်တော့်ခေါင်းထဲက ကောက်ရိုးတွေအစား ဦးနှောက်တွေ ထည့်ပေးပါလို့ တောင်းဆိုဖို့ လာခဲ့တာပါ။ ဒါမှ ရှင့်နိုင်ငံထဲက အခြားလူတွေလို ပညာရှိသူတစ်ဦး ဖြစ်လာနိုင်မှာပါ။”
+
+“မင်းအတွက် ငါ ဘာကြောင့် ဒီလိုလုပ်ပေးရမှာလဲ” ဟု အမျိုးသမီးက မေးသည်။
+
+“ရှင်က ပညာရှိပြီး တန်ခိုးကြီးသူ ဖြစ်လို့ပါ။ ကျွန်တော့်ကို ကူညီနိုင်တာလည်း ရှင်တစ်ယောက်ပဲ ရှိပါတယ်” ဟု စာခြောက်ရုပ်က ပြန်ဖြေသည်။
+
+“ငါက ဘာမှ ပြန်မရဘဲ ဘယ်သူ့ကိုမှ အကူအညီ မပေးတတ်ဘူး” ဟု အော့ဇ်က ပြောသည်။ “ဒါပေမဲ့ ဒီလောက်တော့ ကတိပေးမယ်။ မင်းက ငါ့အတွက် အနောက်ဘက်က မကောင်းဆိုးဝါးစုန်းမကို အနိုင်ယူပေးမယ်ဆိုရင် မင်းကို ဦးနှောက်အများကြီး ပေးမယ်။ အဲဒီဦးနှောက်တွေက အလွန်ကောင်းမွန်လို့ အော့ဇ်နိုင်ငံတစ်ဝန်းမှာ မင်းဟာ ပညာအရှိဆုံးသူ ဖြစ်လာလိမ့်မယ်။”
+
+“ဒေါ်ရသီကိုလည်း စုန်းမကို အနိုင်ယူဖို့ ပြောခဲ့တယ် မဟုတ်လား” ဟု စာခြောက်ရုပ်က အံ့ဩစွာ မေးသည်။
+
+“ဟုတ်တယ်။ ဘယ်သူက အနိုင်ယူပေးပေး ငါ့အတွက် အရေးမကြီးဘူး။ ဒါပေမဲ့ သူမ မရှိတော့တဲ့အချိန်အထိ မင်းရဲ့ ဆန္ဒကို ငါ ဖြည့်ဆည်းပေးမှာ မဟုတ်ဘူး။ အခု သွားတော့။ မင်းလိုချင်တဲ့ ဦးနှောက်တွေကို ရယူနိုင်တဲ့အထိ ငါ့ဆီ ထပ်မလာနဲ့တော့။”
+
+စာခြောက်ရုပ်သည် ဝမ်းနည်းစွာဖြင့် သူ့မိတ်ဆွေများထံ ပြန်လာပြီး အော့ဇ်ပြောခဲ့သမျှကို ပြောပြသည်။ မဟာမှော်ဆရာသည် သူမမြင်ခဲ့ရသော ဦးခေါင်းကြီး မဟုတ်ဘဲ လှပသော အမျိုးသမီးတစ်ဦး ဖြစ်နေကြောင်းကို ဒေါ်ရသီက အံ့ဩနေသည်။
+
+“ဘာပဲဖြစ်ဖြစ် သူမမှာလည်း သံခုတ်သမားလိုပဲ နှလုံးသားတစ်ခု လိုအပ်နေမယ်ထင်တယ်” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+နောက်တစ်နေ့မနက်တွင် အစိမ်းရောင်မုတ်ဆိတ်ရှိသော စစ်သားသည် သံခုတ်သမားထံ လာပြီး “အော့ဇ်က ရှင့်ကို ခေါ်နေပါတယ်။ ကျွန်တော်နဲ့ လိုက်ခဲ့ပါ” ဟု ပြောသည်။
+
+သံခုတ်သမားသည် စစ်သားနောက်သို့ လိုက်ကာ နန်းတော်ခန်းမတော်သို့ ရောက်လာသည်။ အော့ဇ်ကို လှပသော အမျိုးသမီးပုံစံဖြင့် တွေ့ရမလား၊ ဦးခေါင်းကြီးပုံစံဖြင့် တွေ့ရမလား သူ မသိခဲ့ပေ။ သို့သော် အမျိုးသမီးပုံစံဖြင့် တွေ့ရမည်ဟု မျှော်လင့်နေသည်။ အကြောင်းမှာ ဦးခေါင်းကြီးတွင် ကိုယ်ပိုင်နှလုံးသား မရှိသဖြင့် သူ့ခံစားချက်ကို နားလည်ပေးနိုင်မည် မဟုတ်ဟု ထင်နေသောကြောင့် ဖြစ်သည်။ အမျိုးသမီးဖြစ်ပါကတော့ ကြင်နာတတ်သူများဟု လူတို့ ပြောလေ့ရှိသဖြင့် နှလုံးသားတစ်ခု ရရှိရန် သေချာစွာ တောင်းဆိုမည်ဟု စဉ်းစားထားသည်။
+
+သို့သော် သံခုတ်သမားသည် နန်းတော်ခန်းမတော်ထဲ ဝင်လိုက်သောအခါ ဦးခေါင်းကြီးကိုလည်း မတွေ့၊ အမျိုးသမီးကိုလည်း မတွေ့ရပေ။ အော့ဇ်သည် အလွန်ကြောက်မက်ဖွယ်ကောင်းသော သားရဲကြီးတစ်ကောင်၏ ပုံစံကို ယူထားသည်။ ထိုသားရဲကြီးသည် ဆင်တစ်ကောင်နီးပါး အရွယ်အစားရှိပြီး အစိမ်းရောင်နန်းထိုင်ခုံကြီးပင် ၎င်း၏ အလေးချိန်ကို ခံနိုင်မည်မဟုတ်သကဲ့သို့ ဖြစ်နေသည်။ ၎င်း၏ ဦးခေါင်းမှာ ကြံ့တစ်ကောင်နှင့် ဆင်တူသော်လည်း မျက်လုံးငါးလုံး ပါရှိသည်။ ကိုယ်ခန္ဓာမှ လက်တံရှည်ငါးချောင်း ထွက်နေပြီး ခြေထောက်ရှည်သွယ်ငါးချောင်းလည်း ပါရှိသည်။
+
+၎င်း၏ ကိုယ်ခန္ဓာတစ်ခုလုံးကို ထူထဲသော အမွေးများ ဖုံးအုပ်ထားသည်။ ထိုမျှ ကြောက်မက်ဖွယ်ကောင်းသော သတ္တဝါကို စိတ်ကူးကြည့်ရန်ပင် ခက်ခဲလှသည်။ သံခုတ်သမားတွင် ထိုအချိန်က နှလုံးသားမရှိသေးခြင်းက ကံကောင်းသည်ဟု ဆိုရမည်။ မဟုတ်ပါက ကြောက်လန့်မှုကြောင့် နှလုံးခုန်သံ အလွန်မြန်နေမည် ဖြစ်သည်။ သို့သော် သူသည် သံဖြင့် ပြုလုပ်ထားသူဖြစ်သောကြောင့် မကြောက်ခဲ့ပေ။ အော့ဇ်၏ ပုံစံကိုသာ အလွန်စိတ်ပျက်မိနေသည်။
+
+“ငါဟာ ကြီးမြတ်ပြီး ကြောက်မက်ဖွယ်ကောင်းတဲ့ အော့ဇ်ပဲ။ မင်းက ဘယ်သူလဲ။ ဘာကြောင့် ငါ့ဆီ လာတွေ့တာလဲ” ဟု သားရဲကြီးက ဟိန်းဟောက်သံကြီးဖြင့် ပြောသည်။
+
+“ကျွန်တော်က သံနဲ့ ပြုလုပ်ထားတဲ့ သံခုတ်သမားပါ။ ဒါကြောင့် ကျွန်တော့်မှာ နှလုံးသားမရှိသလို ချစ်ခြင်းမေတ္တာကိုလည်း မခံစားနိုင်ပါဘူး။ အခြားလူတွေလို ဖြစ်လာနိုင်ဖို့ နှလုံးသားတစ်ခု ပေးသနားပါလို့ တောင်းဆိုချင်ပါတယ်” ဟု သံခုတ်သမားက ပြောသည်။
+
+“မင်းအတွက် ငါ ဘာကြောင့် ဒီလိုလုပ်ပေးရမှာလဲ” ဟု သားရဲကြီးက မေးသည်။
+
+“ကျွန်တော်က တောင်းဆိုနေတာဖြစ်ပြီး ကျွန်တော့်ဆန္ဒကို ဖြည့်ဆည်းပေးနိုင်တာ ရှင်တစ်ယောက်တည်း ရှိလို့ပါ” ဟု သံခုတ်သမားက ပြန်ဖြေသည်။
+
+အော့ဇ်သည် အသံတိုးတိုးဖြင့် ဟိန်းဟောက်လိုက်ပြီး “မင်း တကယ်ပဲ နှလုံးသားလိုချင်တယ်ဆိုရင် အရင်ဆုံး ထိုက်တန်အောင် လုပ်ရမယ်” ဟု ကြမ်းတမ်းစွာ ပြောသည်။
+
+“ဘယ်လိုလုပ်ရမှာလဲ” ဟု သံခုတ်သမားက မေးသည်။
+
+“ဒေါ်ရသီကို အနောက်ဘက်က မကောင်းဆိုးဝါးစုန်းမကို အနိုင်ယူနိုင်အောင် ကူညီပေးပါ။ စုန်းမကို အနိုင်ယူပြီးတဲ့အခါ ငါ့ဆီ ပြန်လာခဲ့။ အဲဒီအခါ အော့ဇ်နိုင်ငံတစ်ဝန်းမှာ အကြီးမားဆုံး၊ ကြင်နာတတ်ဆုံးနဲ့ မေတ္တာအပြည့်ဝဆုံး နှလုံးသားကို မင်းအား ပေးမယ်” ဟု သားရဲကြီးက ပြောသည်။
+
+သံခုတ်သမားသည် ဝမ်းနည်းစွာဖြင့် မိတ်ဆွေများထံ ပြန်လာပြီး ကြောက်မက်ဖွယ်ကောင်းသော မှော်ဆရာနှင့် တွေ့ဆုံခဲ့ရပုံကို ပြောပြသည်။ မဟာမှော်ဆရာသည် ပုံစံအမျိုးမျိုး ပြောင်းလဲနိုင်ကြောင်းကို သူတို့အားလုံး အလွန်အံ့ဩနေကြသည်။ ထိုအခါ ခြင်္သေ့ကြီးက ပြောလိုက်သည်။
+
+“ငါသွားတွေ့တဲ့အခါ သူက သားရဲကြီးပုံစံ ဖြစ်နေမယ်ဆိုရင် ငါ့အသံအကျယ်ဆုံးနဲ့ ဟိန်းဟောက်ပြီး သူ့ကို ကြောက်အောင်လုပ်မယ်။ ဒါဆို ငါတောင်းသမျှကို ပေးလိမ့်မယ်။ သူက လှပတဲ့ အမျိုးသမီးပုံစံ ဖြစ်နေမယ်ဆိုရင်လည်း သူ့ဆီ ခုန်ဝင်တော့မလို ဟန်ဆောင်ပြီး ငါ့စကားနားထောင်အောင် လုပ်မယ်။ ဦးခေါင်းကြီးပုံစံ ဖြစ်နေမယ်ဆိုရင်တော့ အဲဒီဦးခေါင်းကို အခန်းထဲမှာ လှိမ့်ပစ်ပြီး ငါတို့လိုချင်တာတွေ ပေးမယ်လို့ ကတိပေးတဲ့အထိ လုပ်နိုင်တယ်။ ဒါကြောင့် စိတ်မပျက်ကြပါနဲ့။ အားလုံး အဆင်ပြေသွားမှာပါ။”
+
+နောက်တစ်နေ့မနက်တွင် အစိမ်းရောင်မုတ်ဆိတ်ရှိသော စစ်သားသည် ခြင်္သေ့ကြီးကို နန်းတော်ခန်းမတော်သို့ ခေါ်ဆောင်သွားပြီး အော့ဇ်ထံ ဝင်တွေ့ရန် ပြောသည်။
+
+ခြင်္သေ့ကြီးသည် တံခါးမှ ဝင်သွားပြီး နန်းထိုင်ခုံရှေ့တွင် မီးလုံးကြီးတစ်လုံး ရှိနေသည်ကို အံ့ဩစွာ တွေ့လိုက်ရသည်။ ထိုမီးလုံးကြီးသည် အလွန်တောက်ပပူပြင်းသဖြင့် ကြာကြာကြည့်ရန်ပင် ခက်ခဲသည်။ အော့ဇ်သည် မတော်တဆ မီးလောင်နေခြင်း ဖြစ်မည်ဟု သူ ပထမဆုံး ထင်လိုက်သည်။ သို့သော် အနားသို့ ချဉ်းကပ်ရန် ကြိုးစားသည့်အခါ အပူရှိန်မှာ အလွန်ပြင်းထန်သဖြင့် သူ၏ နှုတ်ခမ်းမွေးများပင် အပူထိသွားသည်။ ထို့ကြောင့် တုန်လှုပ်စွာဖြင့် တံခါးအနီးသို့ ပြန်ဆုတ်သွားသည်။
+
+ထို့နောက် မီးလုံးကြီးထဲမှ တိုးညင်းငြိမ်သက်သော အသံတစ်သံ ထွက်လာသည်။
+
+“ငါဟာ ကြီးမြတ်ပြီး ကြောက်မက်ဖွယ်ကောင်းတဲ့ အော့ဇ်ပဲ။ မင်းက ဘယ်သူလဲ။ ဘာကြောင့် ငါ့ဆီ လာတွေ့တာလဲ။”
+
+ခြင်္သေ့ကြီးက “ကျွန်တော်က အရာရာကို ကြောက်တတ်တဲ့ ကြောက်တတ်သော ခြင်္သေ့ပါ။ ကျွန်တော့်ကို သတ္တိရှိလာအောင် သတ္တိတစ်ခု ပေးသနားပါလို့ တောင်းဆိုဖို့ လာခဲ့တာပါ။ ဒါမှ လူတွေ ခေါ်ကြသလို သားရဲတို့၏ ဘုရင်တစ်ပါး အမှန်တကယ် ဖြစ်လာနိုင်မှာပါ” ဟု ပြန်ဖြေသည်။
+
+“မင်းကို ငါ ဘာကြောင့် သတ္တိပေးရမှာလဲ” ဟု အော့ဇ်က မေးသည်။
+
+“မှော်ဆရာအားလုံးထဲမှာ ရှင်က အကြီးမြတ်ဆုံး ဖြစ်ပြီး ကျွန်တော့်ဆန္ဒကို ဖြည့်ဆည်းပေးနိုင်တာလည်း ရှင်တစ်ယောက်တည်း ရှိလို့ပါ” ဟု ခြင်္သေ့ကြီးက ပြန်ဖြေသည်။
+
+မီးလုံးကြီးသည် ခဏတာ ပြင်းပြင်းထန်ထန် တောက်လောင်နေပြီးနောက် အသံက “အနောက်ဘက်က မကောင်းဆိုးဝါးစုန်းမ အနိုင်ယူခံရကြောင်း သက်သေယူလာပါ။ အဲဒီအချိန်မှာပဲ ငါ မင်းကို သတ္တိပေးမယ်။ စုန်းမ ရှိနေသရွေ့တော့ မင်းဟာ ကြောက်တတ်သူအဖြစ်ပဲ နေရလိမ့်မယ်” ဟု ပြောသည်။
+
+ခြင်္သေ့ကြီးသည် ထိုစကားကြောင့် စိတ်ဆိုးသွားသော်လည်း ပြန်ပြောစရာ မရှိခဲ့ပေ။ သူသည် မီးလုံးကြီးကို တိတ်တဆိတ် ကြည့်နေစဉ် မီးလုံး၏ အပူရှိန်သည် ပိုမိုပြင်းထန်လာသည်။ ထို့ကြောင့် သူသည် လှည့်ပြေးထွက်လာခဲ့သည်။ အပြင်တွင် စောင့်နေကြသော မိတ်ဆွေများကို ပြန်တွေ့ရသည့်အခါ ဝမ်းသာသွားပြီး မှော်ဆရာနှင့် တွေ့ဆုံခဲ့ရပုံကို ပြောပြလိုက်သည်။
+
+“အခု ကျွန်မတို့ ဘာလုပ်ကြမလဲ” ဟု ဒေါ်ရသီက ဝမ်းနည်းစွာ မေးသည်။
+
+“လုပ်စရာ တစ်ခုပဲ ရှိတော့တယ်” ဟု ခြင်္သေ့ကြီးက ပြန်ဖြေသည်။ “ဝင်ကီတို့ နေထိုင်ရာ အနောက်ဘက်နယ်မြေကို သွားပြီး မကောင်းဆိုးဝါးစုန်းမကို ရှာကာ အနိုင်ယူကြရမယ်။”
+
+“ကျွန်မတို့ မနိုင်ခဲ့ရင်ရော” ဟု ဒေါ်ရသီက မေးသည်။
+
+“ဒါဆို ငါ သတ္တိရှိလာမှာ မဟုတ်တော့ဘူး” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“ငါလည်း ဦးနှောက် ရတော့မှာ မဟုတ်ဘူး” ဟု စာခြောက်ရုပ်က ထပ်ပြောသည်။
+
+“ငါလည်း နှလုံးသား ရတော့မှာ မဟုတ်ဘူး” ဟု သံခုတ်သမားက ပြောသည်။
+
+“ကျွန်မလည်း အဒေါ်အမ်နဲ့ ဦးလေးဟင်နရီကို ပြန်တွေ့ရတော့မှာ မဟုတ်ဘူး” ဟု ဒေါ်ရသီက ငိုမိပြန်သည်။
+
+“သတိထားပါဦး” ဟု အစိမ်းရောင်မိန်းကလေးက အော်ပြောသည်။ “မျက်ရည်တွေက ရှင့်ရဲ့ အစိမ်းရောင်ပိုးဝတ်စုံပေါ် ကျပြီး အစွန်းအထင်း ဖြစ်သွားလိမ့်မယ်။”
+
+ထို့ကြောင့် ဒေါ်ရသီသည် မျက်ရည်များကို သုတ်လိုက်ပြီး “ကျွန်မတို့ ကြိုးစားကြည့်ရမယ် ထင်ပါတယ်။ ဒါပေမဲ့ အဒေါ်အမ်ကို ပြန်တွေ့ချင်တာကြောင့်တောင် ဘယ်သူ့ကိုမှ ထိခိုက်အောင် မလုပ်ချင်ပါဘူး” ဟု ပြောသည်။
+
+“ငါလည်း မင်းတို့နဲ့ လိုက်ခဲ့မယ်။ ဒါပေမဲ့ ငါက ကြောက်တတ်လွန်းလို့ စုန်းမကို အနိုင်ယူနိုင်မှာ မဟုတ်ဘူး” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“ငါလည်း လိုက်ခဲ့မယ်” ဟု စာခြောက်ရုပ်က ပြောသည်။ “ဒါပေမဲ့ ငါက အလွန်အမင်း မသိနားမလည်သူတစ်ဦး ဖြစ်လို့ မင်းတို့ကို အများကြီး ကူညီနိုင်မှာ မဟုတ်ဘူး။”
+
+“ငါ့မှာ နှလုံးသားမရှိပေမဲ့ စုန်းမတစ်ဦးကိုတောင် ထိခိုက်အောင် မလုပ်ချင်ဘူး။ ဒါပေမဲ့ မင်းတို့ သွားမယ်ဆိုရင် ငါလည်း သေချာပေါက် လိုက်ခဲ့မယ်” ဟု သံခုတ်သမားက ပြောသည်။
+
+ထို့ကြောင့် နောက်တစ်နေ့မနက်တွင် ခရီးစတင်ထွက်ခွာရန် ဆုံးဖြတ်လိုက်ကြသည်။ သံခုတ်သမားသည် မိမိ၏ ပုဆိန်ကို အစိမ်းရောင်သွေးကျောက်ပေါ်တွင် သေချာပြုပြင်ထားပြီး အဆစ်အမြစ်များကိုလည်း ဆီထည့်ကာ ကောင်းမွန်စွာ ပြုပြင်ထားသည်။ စာခြောက်ရုပ်သည် မိမိကိုယ်ထဲတွင် ကောက်ရိုးအသစ်များ ထပ်ဖြည့်လိုက်ပြီး ဒေါ်ရသီကလည်း သူ ပိုမိုမြင်နိုင်စေရန် သူ၏ မျက်လုံးများကို ဆေးအသစ် ထပ်သုတ်ပေးလိုက်သည်။ သူတို့အပေါ် အလွန်ကြင်နာသော အစိမ်းရောင်မိန်းကလေးသည် ဒေါ်ရသီ၏ ခြင်းတောင်းထဲတွင် စားစရာကောင်းများ ထည့်ပေးပြီး တိုတို၏ လည်ပင်းတွင်လည်း အစိမ်းရောင်ဖဲကြိုးနှင့် ခေါင်းလောင်းငယ်တစ်ခု ချည်ပေးလိုက်သည်။
+
+သူတို့အားလုံးသည် စောစောအိပ်ရာဝင်ခဲ့ကြပြီး မိုးလင်းသည်အထိ အေးချမ်းစွာ အိပ်ပျော်ခဲ့ကြသည်။ နံနက်မိုးလင်းချိန်တွင် နန်းတော်နောက်ဖေး၌ နေထိုင်သော အစိမ်းရောင်ကြက်ဖ၏ တွန်သံနှင့် အစိမ်းရောင်ဥတစ်လုံး ဥထားသော ကြက်မ၏ ကွက်ကွက်မြည်သံတို့ကြောင့် နိုးလာကြသည်။`,
+    contentEn: `Even with eyes protected by the green spectacles, Dorothy and her friends were at first dazzled by the brilliancy of the wonderful City. The streets were lined with beautiful houses all built of green marble and studded everywhere with sparkling emeralds. They walked over a pavement of the same green marble, and where the blocks were joined together were rows of emeralds, set closely, and glittering in the brightness of the sun.
+
+The window panes were of green glass; even the sky above the City had a green tint, and the rays of the sun were green.
+
+There were many people—men, women, and children—walking about, and these were all dressed in green clothes and had greenish skins. They looked at Dorothy and her strangely assorted company with wondering eyes, and the children all ran away and hid behind their mothers when they saw the Lion; but no one spoke to them. Many shops stood in the street, and Dorothy saw that everything in them was green.
+
+Green candy and green pop corn were offered for sale, as well as green shoes, green hats, and green clothes of all sorts. At one place a man was selling green lemonade, and when the children bought it Dorothy could see that they paid for it with green pennies.
+
+There seemed to be no horses nor animals of any kind; the men carried things around in little green carts, which they pushed before them. Everyone seemed happy and contented and prosperous.
+
+The Guardian of the Gates led them through the streets until they came to a big building, exactly in the middle of the City, which was the Palace of Oz, the Great Wizard. There was a soldier before the door, dressed in a green uniform and wearing a long green beard.
+
+“Here are strangers,” said the Guardian of the Gates to him, “and they demand to see the Great Oz.”
+
+“Step inside,” answered the soldier, “and I will carry your message to him.”
+
+So they passed through the Palace Gates and were led into a big room with a green carpet and lovely green furniture set with emeralds. The soldier made them all wipe their feet upon a green mat before entering this room, and when they were seated he said politely:
+
+“Please make yourselves comfortable while I go to the door of the Throne Room and tell Oz you are here.”
+
+They had to wait a long time before the soldier returned. When, at last, he came back, Dorothy asked:
+
+“Have you seen Oz?”
+
+“Oh, no,” returned the soldier; “I have never seen him. But I spoke to him as he sat behind his screen and gave him your message. He said he will grant you an audience, if you so desire; but each one of you must enter his presence alone, and he will admit but one each day. Therefore, as you must remain in the Palace for several days, I will have you shown to rooms where you may rest in comfort after your journey.”
+
+“Thank you,” replied the girl; “that is very kind of Oz.”
+
+The soldier now blew upon a green whistle, and at once a young girl, dressed in a pretty green silk gown, entered the room. She had lovely green hair and green eyes, and she bowed low before Dorothy as she said, “Follow me and I will show you your room.”
+
+So Dorothy said good-bye to all her friends except Toto, and taking the dog in her arms followed the green girl through seven passages and up three flights of stairs until they came to a room at the front of the Palace. It was the sweetest little room in the world, with a soft comfortable bed that had sheets of green silk and a green velvet counterpane.
+
+There was a tiny fountain in the middle of the room, that shot a spray of green perfume into the air, to fall back into a beautifully carved green marble basin. Beautiful green flowers stood in the windows, and there was a shelf with a row of little green books. When Dorothy had time to open these books she found them full of queer green pictures that made her laugh, they were so funny.
+
+In a wardrobe were many green dresses, made of silk and satin and velvet; and all of them fitted Dorothy exactly.
+
+“Make yourself perfectly at home,” said the green girl, “and if you wish for anything ring the bell. Oz will send for you tomorrow morning.”
+
+She left Dorothy alone and went back to the others. These she also led to rooms, and each one of them found himself lodged in a very pleasant part of the Palace. Of course this politeness was wasted on the Scarecrow; for when he found himself alone in his room he stood stupidly in one spot, just within the doorway, to wait till morning.
+
+It would not rest him to lie down, and he could not close his eyes; so he remained all night staring at a little spider which was weaving its web in a corner of the room, just as if it were not one of the most wonderful rooms in the world. The Tin Woodman lay down on his bed from force of habit, for he remembered when he was made of flesh; but not being able to sleep, he passed the night moving his joints up and down to make sure they kept in good working order.
+
+The Lion would have preferred a bed of dried leaves in the forest, and did not like being shut up in a room; but he had too much sense to let this worry him, so he sprang upon the bed and rolled himself up like a cat and purred himself asleep in a minute.
+
+The next morning, after breakfast, the green maiden came to fetch Dorothy, and she dressed her in one of the prettiest gowns, made of green brocaded satin. Dorothy put on a green silk apron and tied a green ribbon around Toto’s neck, and they started for the Throne Room of the Great Oz.
+
+First they came to a great hall in which were many ladies and gentlemen of the court, all dressed in rich costumes. These people had nothing to do but talk to each other, but they always came to wait outside the Throne Room every morning, although they were never permitted to see Oz. As Dorothy entered they looked at her curiously, and one of them whispered:
+
+“Are you really going to look upon the face of Oz the Terrible?”
+
+“Of course,” answered the girl, “if he will see me.”
+
+“Oh, he will see you,” said the soldier who had taken her message to the Wizard, “although he does not like to have people ask to see him. Indeed, at first he was angry and said I should send you back where you came from. Then he asked me what you looked like, and when I mentioned your silver shoes he was very much interested. At last I told him about the mark upon your forehead, and he decided he would admit you to his presence.”
+
+Just then a bell rang, and the green girl said to Dorothy, “That is the signal. You must go into the Throne Room alone.”
+
+She opened a little door and Dorothy walked boldly through and found herself in a wonderful place. It was a big, round room with a high arched roof, and the walls and ceiling and floor were covered with large emeralds set closely together. In the center of the roof was a great light, as bright as the sun, which made the emeralds sparkle in a wonderful manner.
+
+But what interested Dorothy most was the big throne of green marble that stood in the middle of the room. It was shaped like a chair and sparkled with gems, as did everything else. In the center of the chair was an enormous Head, without a body to support it or any arms or legs whatever. There was no hair upon this head, but it had eyes and a nose and mouth, and was much bigger than the head of the biggest giant.
+
+As Dorothy gazed upon this in wonder and fear, the eyes turned slowly and looked at her sharply and steadily. Then the mouth moved, and Dorothy heard a voice say:
+
+“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”
+
+It was not such an awful voice as she had expected to come from the big Head; so she took courage and answered:
+
+“I am Dorothy, the Small and Meek. I have come to you for help.”
+
+The eyes looked at her thoughtfully for a full minute. Then said the voice:
+
+“Where did you get the silver shoes?”
+
+“I got them from the Wicked Witch of the East, when my house fell on her and killed her,” she replied.
+
+“Where did you get the mark upon your forehead?” continued the voice.
+
+“That is where the Good Witch of the North kissed me when she bade me good-bye and sent me to you,” said the girl.
+
+Again the eyes looked at her sharply, and they saw she was telling the truth. Then Oz asked, “What do you wish me to do?”
+
+“Send me back to Kansas, where my Aunt Em and Uncle Henry are,” she answered earnestly. “I don’t like your country, although it is so beautiful. And I am sure Aunt Em will be dreadfully worried over my being away so long.”
+
+The eyes winked three times, and then they turned up to the ceiling and down to the floor and rolled around so queerly that they seemed to see every part of the room. And at last they looked at Dorothy again.
+
+“Why should I do this for you?” asked Oz.
+
+“Because you are strong and I am weak; because you are a Great Wizard and I am only a little girl.”
+
+“But you were strong enough to kill the Wicked Witch of the East,” said Oz.
+
+“That just happened,” returned Dorothy simply; “I could not help it.”
+
+“Well,” said the Head, “I will give you my answer. You have no right to expect me to send you back to Kansas unless you do something for me in return. In this country everyone must pay for everything he gets. If you wish me to use my magic power to send you home again you must do something for me first. Help me and I will help you.”
+
+“What must I do?” asked the girl.
+
+“Kill the Wicked Witch of the West,” answered Oz.
+
+“But I cannot!” exclaimed Dorothy, greatly surprised.
+
+“You killed the Witch of the East and you wear the silver shoes, which bear a powerful charm. There is now but one Wicked Witch left in all this land, and when you can tell me she is dead I will send you back to Kansas—but not before.”
+
+The little girl began to weep, she was so much disappointed; and the eyes winked again and looked upon her anxiously, as if the Great Oz felt that she could help him if she would.
+
+“I never killed anything, willingly,” she sobbed. “Even if I wanted to, how could I kill the Wicked Witch? If you, who are Great and Terrible, cannot kill her yourself, how do you expect me to do it?”
+
+“I do not know,” said the Head; “but that is my answer, and until the Wicked Witch dies you will not see your uncle and aunt again. Remember that the Witch is Wicked—tremendously Wicked—and ought to be killed. Now go, and do not ask to see me again until you have done your task.”
+
+Sorrowfully Dorothy left the Throne Room and went back where the Lion and the Scarecrow and the Tin Woodman were waiting to hear what Oz had said to her. “There is no hope for me,” she said sadly, “for Oz will not send me home until I have killed the Wicked Witch of the West; and that I can never do.”
+
+Her friends were sorry, but could do nothing to help her; so Dorothy went to her own room and lay down on the bed and cried herself to sleep.
+
+The next morning the soldier with the green whiskers came to the Scarecrow and said:
+
+“Come with me, for Oz has sent for you.”
+
+So the Scarecrow followed him and was admitted into the great Throne Room, where he saw, sitting in the emerald throne, a most lovely Lady. She was dressed in green silk gauze and wore upon her flowing green locks a crown of jewels. Growing from her shoulders were wings, gorgeous in color and so light that they fluttered if the slightest breath of air reached them.
+
+When the Scarecrow had bowed, as prettily as his straw stuffing would let him, before this beautiful creature, she looked upon him sweetly, and said:
+
+“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”
+
+Now the Scarecrow, who had expected to see the great Head Dorothy had told him of, was much astonished; but he answered her bravely.
+
+“I am only a Scarecrow, stuffed with straw. Therefore I have no brains, and I come to you praying that you will put brains in my head instead of straw, so that I may become as much a man as any other in your dominions.”
+
+“Why should I do this for you?” asked the Lady.
+
+“Because you are wise and powerful, and no one else can help me,” answered the Scarecrow.
+
+“I never grant favors without some return,” said Oz; “but this much I will promise. If you will kill for me the Wicked Witch of the West, I will bestow upon you a great many brains, and such good brains that you will be the wisest man in all the Land of Oz.”
+
+“I thought you asked Dorothy to kill the Witch,” said the Scarecrow, in surprise.
+
+“So I did. I don’t care who kills her. But until she is dead I will not grant your wish. Now go, and do not seek me again until you have earned the brains you so greatly desire.”
+
+The Scarecrow went sorrowfully back to his friends and told them what Oz had said; and Dorothy was surprised to find that the Great Wizard was not a Head, as she had seen him, but a lovely Lady.
+
+“All the same,” said the Scarecrow, “she needs a heart as much as the Tin Woodman.”
+
+On the next morning the soldier with the green whiskers came to the Tin Woodman and said:
+
+“Oz has sent for you. Follow me.”
+
+So the Tin Woodman followed him and came to the great Throne Room. He did not know whether he would find Oz a lovely Lady or a Head, but he hoped it would be the lovely Lady. “For,” he said to himself, “if it is the head, I am sure I shall not be given a heart, since a head has no heart of its own and therefore cannot feel for me. But if it is the lovely Lady I shall beg hard for a heart, for all ladies are themselves said to be kindly hearted.”
+
+But when the Woodman entered the great Throne Room he saw neither the Head nor the Lady, for Oz had taken the shape of a most terrible Beast. It was nearly as big as an elephant, and the green throne seemed hardly strong enough to hold its weight. The Beast had a head like that of a rhinoceros, only there were five eyes in its face. There were five long arms growing out of its body, and it also had five long, slim legs.
+
+Thick, woolly hair covered every part of it, and a more dreadful-looking monster could not be imagined. It was fortunate the Tin Woodman had no heart at that moment, for it would have beat loud and fast from terror. But being only tin, the Woodman was not at all afraid, although he was much disappointed.
+
+“I am Oz, the Great and Terrible,” spoke the Beast, in a voice that was one great roar. “Who are you, and why do you seek me?”
+
+“I am a Woodman, and made of tin. Therefore I have no heart, and cannot love. I pray you to give me a heart that I may be as other men are.”
+
+“Why should I do this?” demanded the Beast.
+
+“Because I ask it, and you alone can grant my request,” answered the Woodman.
+
+Oz gave a low growl at this, but said, gruffly: “If you indeed desire a heart, you must earn it.”
+
+“How?” asked the Woodman.
+
+“Help Dorothy to kill the Wicked Witch of the West,” replied the Beast. “When the Witch is dead, come to me, and I will then give you the biggest and kindest and most loving heart in all the Land of Oz.”
+
+So the Tin Woodman was forced to return sorrowfully to his friends and tell them of the terrible Beast he had seen. They all wondered greatly at the many forms the Great Wizard could take upon himself, and the Lion said:
+
+“If he is a Beast when I go to see him, I shall roar my loudest, and so frighten him that he will grant all I ask. And if he is the lovely Lady, I shall pretend to spring upon her, and so compel her to do my bidding. And if he is the great Head, he will be at my mercy; for I will roll this head all about the room until he promises to give us what we desire. So be of good cheer, my friends, for all will yet be well.”
+
+The next morning the soldier with the green whiskers led the Lion to the great Throne Room and bade him enter the presence of Oz.
+
+The Lion at once passed through the door, and glancing around saw, to his surprise, that before the throne was a Ball of Fire, so fierce and glowing he could scarcely bear to gaze upon it. His first thought was that Oz had by accident caught on fire and was burning up; but when he tried to go nearer, the heat was so intense that it singed his whiskers, and he crept back tremblingly to a spot nearer the door.
+
+Then a low, quiet voice came from the Ball of Fire, and these were the words it spoke:
+
+“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”
+
+And the Lion answered, “I am a Cowardly Lion, afraid of everything. I came to you to beg that you give me courage, so that in reality I may become the King of Beasts, as men call me.”
+
+“Why should I give you courage?” demanded Oz.
+
+“Because of all Wizards you are the greatest, and alone have power to grant my request,” answered the Lion.
+
+The Ball of Fire burned fiercely for a time, and the voice said, “Bring me proof that the Wicked Witch is dead, and that moment I will give you courage. But as long as the Witch lives, you must remain a coward.”
+
+The Lion was angry at this speech, but could say nothing in reply, and while he stood silently gazing at the Ball of Fire it became so furiously hot that he turned tail and rushed from the room. He was glad to find his friends waiting for him, and told them of his terrible interview with the Wizard.
+
+“What shall we do now?” asked Dorothy sadly.
+
+“There is only one thing we can do,” returned the Lion, “and that is to go to the land of the Winkies, seek out the Wicked Witch, and destroy her.”
+
+“But suppose we cannot?” said the girl.
+
+“Then I shall never have courage,” declared the Lion.
+
+“And I shall never have brains,” added the Scarecrow.
+
+“And I shall never have a heart,” spoke the Tin Woodman.
+
+“And I shall never see Aunt Em and Uncle Henry,” said Dorothy, beginning to cry.
+
+“Be careful!” cried the green girl. “The tears will fall on your green silk gown and spot it.”
+
+So Dorothy dried her eyes and said, “I suppose we must try it; but I am sure I do not want to kill anybody, even to see Aunt Em again.”
+
+“I will go with you; but I’m too much of a coward to kill the Witch,” said the Lion.
+
+“I will go too,” declared the Scarecrow; “but I shall not be of much help to you, I am such a fool.”
+
+“I haven’t the heart to harm even a Witch,” remarked the Tin Woodman; “but if you go I certainly shall go with you.”
+
+Therefore it was decided to start upon their journey the next morning, and the Woodman sharpened his axe on a green grindstone and had all his joints properly oiled. The Scarecrow stuffed himself with fresh straw and Dorothy put new paint on his eyes that he might see better. The green girl, who was very kind to them, filled Dorothy’s basket with good things to eat, and fastened a little bell around Toto’s neck with a green ribbon.
+
+They went to bed quite early and slept soundly until daylight, when they were awakened by the crowing of a green cock that lived in the back yard of the Palace, and the cackling of a hen that had laid a green egg.`,
+  },
+]
+ as const;
