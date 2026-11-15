@@ -25,6 +25,8 @@ export type OpenBook = {
   /** THARi editorial introduction; not attributed to the original author. */
   editorialForewordMy?: string;
   editorialForewordEn?: string;
+  authorForewordMy?: string;
+  authorForewordEn?: string;
 };
 
 export const openBooks: readonly OpenBook[] = [
@@ -39,6 +41,8 @@ export const openBooks: readonly OpenBook[] = [
     descriptionMy: "ရည်မှန်းချက်ချမှတ်ခြင်း၊ နားလည်မှုတည်ဆောက်ခြင်းနှင့် လက်တွေ့လေ့ကျင့်ခြင်းတို့ဖြင့် သင်ယူမှုကို ပိုမိုထိရောက်စေမည့် မူရင်းလမ်းညွှန်။",
     descriptionEn: "An original guide to setting learning goals, building understanding, practising effectively and continuing to learn.",
     synopsisMy: "သင်ယူမှုကို မှတ်သားခြင်းတစ်ခုတည်းအဖြစ် မမြင်ဘဲ နားလည်ခြင်း၊ ပြန်လည်လေ့ကျင့်ခြင်း၊ အမှားမှသင်ယူခြင်းနှင့် လက်တွေ့အသုံးချခြင်းတို့ဖြင့် တည်ဆောက်ပုံကို ရှင်းပြထားသည်။",
+    authorForewordMy: "သင်ယူခြင်းဆိုသည်မှာ အချက်အလက်များကို မှတ်မိထားခြင်းတစ်ခုတည်း မဟုတ်ပါ။ အသစ်သိလာသည့်အရာကို နားလည်ခြင်း၊ ယခင်သိထားသည့်အရာနှင့် ဆက်စပ်ခြင်း၊ လက်တွေ့အသုံးချခြင်းနှင့် လိုအပ်သည့်အခါ မိမိ၏နားလည်မှုကို ပြန်လည်ပြင်ဆင်ခြင်းတို့ ပါဝင်သည်။ စာမေးပွဲအတွက် မှတ်သားထားသည့်အချက်တစ်ခုကို မကြာမီ မေ့သွားနိုင်သော်လည်း အကြောင်းရင်းကို နားလည်ပြီး အသုံးချတတ်လာသည့် သဘောတရားတစ်ခုသည် အခြေအနေအသစ်တွင်လည်း အထောက်အကူဖြစ်နိုင်သည်။\n\nလူတိုင်း သင်ယူနိုင်သည့်ပုံစံ တစ်မျိုးတည်း မရှိပါ။ အချို့က ဖတ်ခြင်းမှ ပိုနားလည်ကြသည်၊ အချို့က နားထောင်ခြင်း၊ လက်တွေ့စမ်းသပ်ခြင်း၊ ဆွေးနွေးခြင်းတို့မှ အကျိုးရှိနိုင်သည်။ မိမိအတွက် အဆင်ပြေသည့်နည်းလမ်းကို ရှာဖွေခြင်းနှင့် နည်းလမ်းတစ်ခုတည်းအပေါ် မမှီခိုခြင်းသည် သင်ယူမှုကို ပိုမိုတည်ငြိမ်စေသည်။",
+    authorForewordEn: "Learning is more than remembering information. It includes understanding something new, connecting it to prior knowledge, applying it, and revising our understanding when needed. A fact memorized for an exam may soon be forgotten, while a concept understood and applied can remain useful in unfamiliar situations.\n\nThere is no single learning method that works identically for everyone. Some people benefit from reading; others may learn through listening, experimenting, or discussion. Finding methods that suit a particular learner, without depending on only one approach, can make learning more resilient.",
     keyIdeasMy: ["ရည်မှန်းချက်ကို လုပ်ဆောင်ချက်အဖြစ် ပြောင်းပါ။","စာအုပ်မကြည့်ဘဲ ပြန်လည်ဖြေဆိုခြင်းဖြင့် မှတ်ဉာဏ်ကို လေ့ကျင့်ပါ။","အမှားကို သင်ယူရန် အချက်အလက်အဖြစ် အသုံးချပါ။"],
     readingNoteMy: "AUREN ၏ မူရင်းမြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာစာမူ။",
     source: "AUREN",
