@@ -1844,3 +1844,6 @@ body { background: var(--paper); }
   .reader-page-turn-overlay.turn-forward,
   .reader-page-turn-overlay.turn-backward { animation: none; }
 }
+
+/* Keep the paper sheet scrollable if a viewport or font renders a page taller than expected. */
+.reader-page-paper { overflow-y: auto; }
