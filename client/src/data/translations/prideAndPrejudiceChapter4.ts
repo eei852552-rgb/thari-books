@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter4My = [
     number: 4,
     title: "အခန်း (၄)",
     titleEn: "Chapter IV",
+    readingType: "summary",
     contentEn: `When Jane and Elizabeth were alone together, they spoke about the people they had met at the assembly. Jane was delighted with Mr. Bingley.
 
 “He is exactly what a young man ought to be,” she said. “He is cheerful, kind, and easy to please. He has such a pleasant manner, and he dances beautifully.”
