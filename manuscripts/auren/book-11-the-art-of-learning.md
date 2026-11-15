@@ -42,39 +42,63 @@ There is no single learning method that works identically for everyone. Some peo
 
 ### မြန်မာစာ
 
-သင်ယူခြင်းသည် အသိပညာကို လက်ခံရရှိခြင်းမှ စတင်နိုင်သော်လည်း ထိုနေရာတွင် မပြီးဆုံးပါ။ တစ်စုံတစ်ခုကို ဖတ်ပြီးနောက် ကိုယ့်စကားဖြင့် ပြန်ရှင်းပြနိုင်ခြင်း၊ ဥပမာအသစ်တစ်ခု ဖန်တီးနိုင်ခြင်း၊ မသိသေးသည့်အခြေအနေတွင် အသုံးချနိုင်ခြင်းတို့က နားလည်မှု ပိုမိုနက်ရှိုင်းလာကြောင်း ပြသနိုင်သည်။
+သင်ယူခြင်းသည် အသိပညာကို လက်ခံရရှိခြင်းမှ စတင်နိုင်သော်လည်း ထိုနေရာတွင် မပြီးဆုံးပါ။ စာမျက်နှာတစ်ခုကို ဖတ်ပြီးသွားခြင်း၊ ဗီဒီယိုတစ်ခုကို ကြည့်ပြီးသွားခြင်း၊ ဆရာတစ်ဦး၏ ရှင်းပြချက်ကို နားထောင်ပြီးသွားခြင်းတို့သည် သင်ယူမှုလုပ်ငန်းစဉ်၏ အစိတ်အပိုင်းများသာ ဖြစ်သည်။ အဲဒီနောက် မိမိနားလည်ထားသည့်အရာကို ပြန်လည်ဖော်ပြနိုင်သလား၊ ဥပမာအသစ်တစ်ခု ဖန်တီးနိုင်သလား၊ အခြေအနေပြောင်းသွားသည့်အခါ အသုံးချနိုင်သလားဆိုသည်ကို စစ်ဆေးရန် လိုအပ်သည်။ ထိုအဆင့်များမှတစ်ဆင့် သတင်းအချက်အလက်သည် အသုံးချနိုင်သည့် အသိပညာအဖြစ် တဖြည်းဖြည်း ပြောင်းလဲလာသည်။
 
-“သိတယ်” ဟု ပြောသည့်အခါ ဘာကိုဆိုလိုသလဲ ခွဲခြားသင့်သည်။ စကားလုံးကို မြင်လျှင် မှတ်မိခြင်းတစ်မျိုး၊ အဓိပ္ပာယ်ကို ရှင်းပြနိုင်ခြင်းတစ်မျိုး၊ ကိုယ်တိုင်လုပ်ဆောင်နိုင်ခြင်းတစ်မျိုး ဖြစ်သည်။ ဥပမာ စက်ဘီးစီးခြင်းအကြောင်း စာဖတ်ထားခြင်းနှင့် စက်ဘီးကို အမှန်တကယ် ထိန်းညှိစီးနိုင်ခြင်းသည် မတူပါ။ အသိပညာအမျိုးအစားအလိုက် လေ့ကျင့်ပုံလည်း ကွာခြားရသည်။
+“သိတယ်” ဟု ပြောသည့်အခါ ဘာကိုဆိုလိုသလဲ ခွဲခြားစဉ်းစားသင့်သည်။ စကားလုံးတစ်လုံးကို မြင်လျှင် မှတ်မိခြင်းသည် အဆင့်တစ်ခုဖြစ်သည်။ ထိုစကားလုံး၏ အဓိပ္ပာယ်ကို ကိုယ့်စကားဖြင့် ရှင်းပြနိုင်ခြင်းက နောက်တစ်ဆင့်ဖြစ်သည်။ စကားပြောရာ၊ စာရေးရာ သို့မဟုတ် အခြေအနေအသစ်တစ်ခုတွင် သင့်လျော်စွာ အသုံးပြုနိုင်ခြင်းက ပိုမိုနက်ရှိုင်းသည့် ကျွမ်းကျင်မှုကို ပြသသည်။ အချက်အလက်ကို မှတ်မိခြင်း၊ အဓိပ္ပာယ်ကို နားလည်ခြင်းနှင့် လက်တွေ့လုပ်ဆောင်နိုင်ခြင်းတို့သည် ဆက်စပ်နေသော်လည်း တစ်ခုတည်း မဟုတ်ကြပါ။
 
-သင်ယူမှုကို အခြားသူနှင့် နှိုင်းယှဉ်ခြင်းထက် မိမိ၏ ယခင်အခြေအနေနှင့် နှိုင်းယှဉ်ပါ။ ယခင်က မရှင်းပြနိုင်သည့် အယူအဆတစ်ခုကို ယခု ရှင်းပြနိုင်ပြီလား။ အရင်က အကူအညီမပါဘဲ မလုပ်နိုင်သည့်အလုပ်ကို ယခု ဘယ်အပိုင်းအထိ လုပ်နိုင်ပြီလဲ။ တိုးတက်မှုကို သေးငယ်သည့် အထောက်အထားများဖြင့် သတိပြုနိုင်သည်။
+ဥပမာ စက်ဘီးစီးခြင်းအကြောင်း စာဖတ်ထားသူတစ်ဦးသည် စက်ဘီး၏ အစိတ်အပိုင်းများကို အမည်တပ်နိုင်ကောင်းနိုင်သည်။ သို့သော် စက်ဘီးကို ဟန်ချက်ညီအောင် ထိန်းခြင်း၊ လမ်းကြောင်းကို သတိပြုခြင်းနှင့် အခြေအနေအလိုက် ရပ်တန့်ခြင်းတို့ကို လက်တွေ့လေ့ကျင့်ရန် လိုသေးသည်။ အလားတူပင် သင်္ချာပုံသေနည်းတစ်ခုကို အလွတ်ကျက်ထားခြင်းနှင့် ဘယ်အခြေအနေတွင် ဘယ်ပုံသေနည်းကို သုံးရမည်ကို နားလည်ခြင်းသည် မတူပါ။ ထို့ကြောင့် သင်ယူမည့်အကြောင်းအရာ၏ သဘောသဘာဝကို ကြည့်ပြီး လေ့ကျင့်နည်းကို ရွေးချယ်ရသည်။
 
-**ဥပမာ။** အင်္ဂလိပ်စကားလုံးအသစ် ၂၀ လုံးကို အလွတ်ကျက်ခြင်းသည် စတင်မှုကောင်းတစ်ခုဖြစ်နိုင်သည်။ သို့သော် ထိုစကားလုံးများကို ဝါကျထဲတွင် သုံးနိုင်ခြင်း၊ စကားပြောရာတွင် နားလည်နိုင်ခြင်းနှင့် အခြေအနေအသစ်တွင် မှန်ကန်စွာ ရွေးချယ်နိုင်ခြင်းတို့က အသုံးချနိုင်သည့် သင်ယူမှုကို ပြသသည်။
+သင်ယူမှုကို အဆင့်သုံးဆင့်ဖြင့် စစ်ဆေးကြည့်နိုင်သည်။ ပထမအဆင့်မှာ မှတ်မိခြင်းဖြစ်သည်။ စာအုပ်ထဲက အဓိကစကားလုံးများ၊ အချက်အလက်များ သို့မဟုတ် လုပ်ငန်းစဉ်အဆင့်များကို ပြန်လည်ဖော်ပြနိုင်သလား။ ဒုတိယအဆင့်မှာ နားလည်ခြင်းဖြစ်သည်။ အကြောင်းရင်းကို ရှင်းပြနိုင်သလား၊ မိမိစကားဖြင့် ပြန်ဆိုနိုင်သလား၊ ဥပမာတစ်ခုနှင့် ဆက်စပ်နိုင်သလား။ တတိယအဆင့်မှာ အသုံးချခြင်းဖြစ်သည်။ သင်ယူထားသည့်အရာကို မတူညီသည့် ပြဿနာတစ်ခုတွင် အသုံးပြုနိုင်သလား။ အဆင့်သုံးဆင့်လုံးကို အမြဲတမ်း တစ်ကြိမ်တည်း ပြီးမြောက်ရန် မလိုပါ။ မိမိရောက်နေသည့်အဆင့်ကို သိရှိပြီး နောက်တစ်ဆင့်အတွက် လေ့ကျင့်ခြင်းက ပိုမိုထိရောက်သည်။
 
-**လက်တွေ့လေ့ကျင့်ခန်း**
-- သင်လေ့လာနေသော အကြောင်းအရာတစ်ခုကို ရွေးပါ။
-- “မှတ်မိနိုင်သည်၊ ရှင်းပြနိုင်သည်၊ လုပ်ဆောင်နိုင်သည်” ဟူ၍ မိမိ၏အဆင့်ကို ခွဲရေးပါ။
-- နောက်တစ်ဆင့်တက်ရန် လိုအပ်သည့် လေ့ကျင့်ခန်းတစ်ခုကို သတ်မှတ်ပါ။
+သင်ယူမှုသည် တစ်ကြိမ်ဖတ်ပြီး အပြီးသတ်သည့် လုပ်ငန်းမဟုတ်ဘဲ ပြန်လည်လေ့လာခြင်းနှင့် ပြင်ဆင်ခြင်းတို့ ပါဝင်သည့် လုပ်ငန်းစဉ်ဖြစ်သည်။ အကြောင်းအရာအသစ်တစ်ခုကို စတင်လေ့လာသောအခါ အချို့အပိုင်းများကို ချက်ချင်းနားလည်နိုင်သော်လည်း အချို့အပိုင်းများမှာ အချိန်ယူရနိုင်သည်။ ပထမဆုံးကြိုးစားမှုတွင် မရှင်းလင်းသည့်အချက်ကို တွေ့ရှိခြင်းသည် မိမိမတတ်နိုင်ကြောင်း သက်သေမဟုတ်ပါ။ ဘယ်အပိုင်းကို ထပ်မံရှင်းလင်းရန် လိုသလဲဆိုသည့် အချက်အလက်ဖြစ်သည်။ အဲဒီအချက်ကို မှတ်သားပြီး နောက်တစ်ကြိမ် လေ့လာမှုကို ပိုမိုတိကျစွာ စီစဉ်နိုင်သည်။
 
-**စဉ်းစားရန်။** အချက်အလက်တစ်ခုကို မှတ်မိခြင်းနှင့် နားလည်ခြင်းတို့၏ ကွာခြားချက်က ဘာလဲ။
+သင်ယူမှုကို အခြားသူနှင့် နှိုင်းယှဉ်ခြင်းထက် မိမိ၏ ယခင်အခြေအနေနှင့် နှိုင်းယှဉ်ပါ။ ယခင်က မရှင်းပြနိုင်သည့် အယူအဆတစ်ခုကို ယခု ရှင်းပြနိုင်ပြီလား။ အရင်က အကူအညီလိုအပ်ခဲ့သည့် လုပ်ငန်းတစ်ခုကို ယခု ဘယ်အပိုင်းအထိ ကိုယ်တိုင်လုပ်ဆောင်နိုင်ပြီလဲ။ ယခင်က မသိခဲ့သည့် မေးခွန်းတစ်ခုကို ယခု မေးမြန်းနိုင်ပြီလား။ တိုးတက်မှုသည် အမြဲတမ်း အမှတ်တစ်ခု သို့မဟုတ် စာမေးပွဲရလဒ်တစ်ခုတည်းဖြင့် မတိုင်းတာနိုင်ပါ။ ရှင်းပြနိုင်မှု၊ မေးခွန်းကောင်းမေးနိုင်မှု၊ အမှားကို သတိပြုနိုင်မှုနှင့် အကူအညီမပါဘဲ လုပ်ဆောင်နိုင်မှုတို့လည်း တိုးတက်မှု၏ အထောက်အထားများ ဖြစ်သည်။
+
+သို့သော် မိမိနားလည်ပြီဟု ခံစားရခြင်းတစ်ခုတည်းကို အထောက်အထားအဖြစ် မယူသင့်ပါ။ စာကို ပြန်ဖတ်နေစဉ် ရင်းနှီးသလို ခံစားရနိုင်သော်လည်း စာအုပ်ပိတ်လိုက်သည့်အခါ အဓိကအချက်များကို ပြန်မပြောနိုင်တာမျိုး ဖြစ်နိုင်သည်။ ထို့ကြောင့် စာဖတ်ပြီးနောက် စာအုပ်ကို ခဏပိတ်ထားပြီး အဓိကအချက်သုံးချက်ကို မှတ်မိသမျှ ရေးကြည့်ပါ။ ထို့နောက် မူရင်းစာသားနှင့် ပြန်နှိုင်းယှဉ်ပါ။ မမှတ်မိသည့်နေရာကို ပြန်လေ့လာပြီး မေးခွန်းတစ်ခု ထပ်မံဖြေကြည့်ပါ။ ဤနည်းလမ်းသည် မိမိ၏ နားလည်မှုကို ပိုမိုတိကျစွာ စစ်ဆေးနိုင်စေသည်။
+
+**ဥပမာ — အင်္ဂလိပ်စာလေ့လာခြင်း။** စကားလုံးအသစ် ၂၀ လုံးကို အလွတ်ကျက်ခြင်းသည် စတင်မှုကောင်းတစ်ခုဖြစ်နိုင်သည်။ သို့သော် စာရင်းထဲတွင် မြင်သောအခါ မှတ်မိခြင်းသာ ရှိသေးလျှင် အသုံးချနိုင်မှု မပြည့်စုံသေးပါ။ ထိုစကားလုံးများဖြင့် ဝါကျရေးခြင်း၊ စာပိုဒ်တိုတစ်ခု ဖတ်ရာတွင် အဓိပ္ပာယ်ကို ခန့်မှန်းခြင်း၊ စကားပြောရာတွင် သင့်လျော်သည့် စကားလုံးကို ရွေးချယ်ခြင်းတို့ကို လေ့ကျင့်ပါ။ ထိုသို့လုပ်ခြင်းဖြင့် စကားလုံးကို မှတ်မိခြင်းမှ နားလည်ပြီး အသုံးချနိုင်ခြင်းသို့ တိုးတက်လာနိုင်သည်။
+
+**ဥပမာ — သင်္ချာလေ့လာခြင်း။** ပုံသေနည်းတစ်ခုကို မှတ်မိထားခြင်းထက် ထိုပုံသေနည်းက ဘာကိုတွက်ချက်ပေးသလဲ၊ ဘယ်အချက်အလက်တွေ လိုအပ်သလဲ၊ ဘယ်အခြေအနေမှာ မသုံးသင့်သလဲဆိုတာကိုပါ နားလည်ရန် လိုသည်။ ပုစ္ဆာတစ်ပုဒ်ကို ဖြေပြီးနောက် အဖြေမှန်မမှန်သာ မကြည့်ဘဲ အဆင့်တိုင်းကို ပြန်ရှင်းပြပါ။ အခြားကိန်းဂဏန်းများဖြင့် ပုစ္ဆာအသစ်တစ်ပုဒ်ကို ဖြေကြည့်ပါ။ အဖြေတူညီသည့် နည်းလမ်းကိုသာ အလွတ်ကျက်ထားခြင်းမဟုတ်ဘဲ အကြောင်းရင်းကို နားလည်လာမည်။
+
+သင်ယူမှု၏ အဓိကရည်ရွယ်ချက်မှာ အချက်အလက်များကို စုဆောင်းထားခြင်းတစ်ခုတည်း မဟုတ်ပါ။ မေးခွန်းမေးနိုင်ခြင်း၊ အထောက်အထားကို စိစစ်နိုင်ခြင်း၊ အယူအဆများကို ဆက်စပ်နိုင်ခြင်းနှင့် သိထားသည့်အရာကို သင့်လျော်စွာ အသုံးချနိုင်ခြင်းတို့ကို တည်ဆောက်ခြင်းဖြစ်သည်။ မိမိမသိသေးသည့်အရာကို သိရှိခြင်းသည်လည်း သင်ယူမှု၏ အစိတ်အပိုင်းဖြစ်သည်။ ထိုနေရာမှ စတင်၍ နောက်တစ်ဆင့်ကို ရွေးချယ်နိုင်သည်။
 
 ### English
 
-Learning may begin with receiving information, but it does not end there. Explaining an idea in your own words, creating a new example, or applying it in an unfamiliar situation can indicate deeper understanding.
+Learning may begin with receiving information, but it does not end there. Finishing a page, watching a video, or listening to an explanation are only parts of the process. Afterward, ask whether you can explain what you understood, create a new example, or use the idea in a different situation. Through these steps, information can gradually become knowledge that you can use.
 
-When we say “I know this,” we should ask what we mean. Recognizing a word is one level; explaining its meaning is another; using it independently is another. Reading about riding a bicycle is different from being able to balance and ride one. Different kinds of knowledge require different forms of practice.
+When you say, “I know this,” it is worth asking what you mean. Recognizing a word when you see it is one level. Explaining its meaning in your own words is another. Using it appropriately in conversation, writing, or an unfamiliar situation shows a deeper level of skill. Remembering information, understanding its meaning, and being able to act on it are connected, but they are not identical.
 
-Compare your learning with your earlier ability rather than with another person. Can you now explain an idea that once confused you? Can you complete more of a task independently than before? Small pieces of evidence can reveal progress.
+Imagine someone who has read about riding a bicycle. That person may be able to name its parts, yet still need practice balancing, watching the path, and stopping safely. In the same way, memorizing a mathematical formula is different from understanding when and why to use it. The kind of practice should match the kind of knowledge being learned.
 
-**Example.** Memorizing twenty new English words may be a useful start. Using them in sentences, understanding them in conversation, and choosing them correctly in new contexts demonstrate more transferable learning.
+One useful way to review learning is to consider three stages. The first is recognition and recall: can you name the key terms, facts, or steps? The second is understanding: can you explain the reasons, restate the idea, and connect it to an example? The third is application: can you use what you learned to approach a different problem? You do not need to master all three stages at once. Identify your current stage and choose a practice activity that helps you move forward.
+
+Learning is not a task that is completed after one reading. It includes revisiting ideas and revising understanding. When you first study a new subject, some parts may become clear quickly while others take more time. Finding something confusing during an early attempt does not prove that you cannot learn it. It provides information about which part needs another explanation or a different example. You can use that information to plan your next study session more carefully.
+
+Compare your learning with your earlier ability rather than measuring it only against another person. Can you now explain an idea that once confused you? Can you complete more of a task independently than before? Can you ask a more precise question about something you do not yet understand? Progress is not always represented by a score or a single test result. Being able to explain, ask useful questions, notice an error, and work more independently are also signs of development.
+
+However, feeling that you understand something is not enough evidence by itself. While rereading, material may feel familiar, yet when the book is closed you may be unable to recall its main points. After reading, close the book and write down three important ideas from memory. Then compare your notes with the original material. Return to anything you missed and answer a question about it. This gives you a clearer check of what you can actually remember and explain.
+
+**Example — Learning English.** Memorizing twenty new words can be a useful beginning. But recognizing them on a list does not mean you can use them. Practise writing sentences with the words, understanding them in a short passage, and choosing the right word in a conversation. These activities help move learning from recognition toward understanding and use.
+
+**Example — Learning mathematics.** Instead of only memorizing a formula, understand what it calculates, which information it requires, and when it should not be used. After solving a problem, explain each step rather than checking only whether the final answer is correct. Then try a new problem with different numbers. This helps you understand the reasoning instead of memorizing one pattern.
+
+The purpose of learning is not simply to collect facts. It is to develop the ability to ask questions, examine evidence, connect ideas, and apply knowledge appropriately. Recognizing what you do not yet know is also part of learning. From that point, you can choose a useful next step.
 
 **Practical exercise**
-- Choose a topic you are studying.
-- Describe your level under three headings: recognize, explain, and do.
-- Choose one exercise that would help you reach the next level.
+- Choose a subject you are currently studying.
+- Without looking at your notes, write three things you remember about it.
+- Explain one of those ideas in your own words.
+- Connect it to an example from everyday life.
+- Create a small practice task that uses the idea in a new situation.
+- Note what remains unclear and revisit it in your next study session.
 
-**Reflection.** What is the difference between remembering information and understanding it?
+**Self-check questions**
+1. How is remembering information different from understanding its meaning?
+2. How can you test whether you really understand an idea?
+3. What evidence can help you notice your own progress?
+4. What could you do to apply what you learned in a new situation?
 
----
+**Chapter summary.** Learning is more than reading or memorizing. It is a continuing process of remembering, understanding, applying, checking, and revising. Use evidence to identify your current level, then choose practice that helps you take the next step.
 
 # အခန်း ၂။ ရည်မှန်းချက်ကို ရှင်းလင်းစွာ သတ်မှတ်ခြင်း
 ## Chapter 2. Setting Clear Learning Goals
