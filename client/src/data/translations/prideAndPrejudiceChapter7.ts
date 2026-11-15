@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter7My = [
     number: 7,
     title: "အခန်း (၇)",
     titleEn: "Chapter VII",
+    readingType: "summary",
     contentEn: `Mr. Bennet's property was not to pass to his daughters after his death. Because he had no son, the estate would go to a distant male relative named Mr. Collins. This arrangement worried Mrs. Bennet, who often thought about what would happen to her five daughters if they did not marry well.
 
 The Bennet daughters had different interests. Jane was admired for her beauty and gentle manner. Elizabeth was lively and thoughtful. Mary spent much of her time reading. Kitty and Lydia were younger and enjoyed talking about officers and social events.
