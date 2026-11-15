@@ -99,6 +99,8 @@ const copy = {
     myanmar: "မြန်မာ",
     english: "English",
     aboutBook: "စာအုပ်အကြောင်း",
+    editorialForeword: "THARi အယ်ဒီတာ၏ အမှာစကား",
+    authorForeword: "စာရေးသူ၏ အမှာစာ",
     keyIdeas: "အဓိက မှတ်သားစရာများ",
     close: "ပိတ်ရန်",
     sourceBook: "English မူရင်းစာအုပ် ဖတ်ရန်",
@@ -152,6 +154,8 @@ const copy = {
     myanmar: "မြန်မာ",
     english: "English",
     aboutBook: "About this book",
+    editorialForeword: "THARi Editorial Foreword",
+    authorForeword: "Author’s Foreword",
     keyIdeas: "Key ideas",
     close: "Close",
     sourceBook: "Read the English source",
@@ -475,6 +479,12 @@ export default function Home() {
               <span className="demo-label"><BookOpen size={13} /> THARi BOOKS · {ui.myanmar} / {ui.english}</span>
               <h2 id="reader-title">{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h2>
               <p className="dialog-subtitle">{selectedBook.title} · {selectedBook.author}</p>
+              {selectedBook.authorForewordMy && (
+                <section className="reader-page reader-foreword">
+                  <h3>{siteLanguage === "my" ? "စာရေးသူ၏ အမှာစာ" : "Author’s Foreword"}</h3>
+                  <p className={siteLanguage === "en" ? "reader-chapter-en" : ""}>{readerLanguage === "my" ? selectedBook.authorForewordMy : selectedBook.authorForewordEn}</p>
+                </section>
+              )}
               {readerChapters.length > 0 && activeChapter ? (
                 <div className="reader-full-translation">
                   {activeChapter.illustration && (
@@ -505,6 +515,12 @@ export default function Home() {
                 </div>
               ) : (
                 <>
+                  {selectedBook.editorialForewordMy && (
+                    <>
+                      <h3>{ui.editorialForeword}</h3>
+                      <p className={siteLanguage === "en" ? "reader-chapter-en" : ""}>{siteLanguage === "my" ? selectedBook.editorialForewordMy : selectedBook.editorialForewordEn}</p>
+                    </>
+                  )}
                   <h3>{ui.aboutBook}</h3>
                   <p>{siteLanguage === "my" ? selectedBook.synopsisMy : selectedBook.descriptionEn}</p>
                   {siteLanguage === "my" && <>
