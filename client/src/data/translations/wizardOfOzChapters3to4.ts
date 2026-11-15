@@ -3046,4 +3046,139 @@ The Lion hesitated no longer, but drank till the dish was empty.
 
 Oz, left to himself, smiled to think of his success in giving the Scarecrow and the Tin Woodman and the Lion exactly what they thought they wanted. “How can I help being a humbug,” he said, “when all these people make me do things that everybody knows can’t be done? It was easy to make the Scarecrow and the Lion and the Woodman happy, because they imagined I could do anything. But it will take more than imagination to carry Dorothy back to Kansas, and I’m sure I don’t know how it can be done.”`,
   },
+  {
+    number: 17,
+    title: "အခန်း (၁၇) — မိုးပျံပူဖောင်းကို လွှတ်တင်ခြင်း",
+    titleEn: "Chapter 17 — How the Balloon Was Launched",
+    content: `အော့ဇ်ထံမှ သတင်းမကြားရဘဲ ဒေါ်ရသီသည် သုံးရက်ကြာ နေခဲ့ရသည်။ သူမ၏ မိတ်ဆွေများကတော့ ပျော်ရွှင်ကျေနပ်နေကြသော်လည်း ဒေါ်ရသီအတွက် ထိုရက်များသည် ဝမ်းနည်းစရာကောင်းလှသည်။ ကောက်ရိုးလူက သူ့ဦးခေါင်းထဲတွင် အံ့ဩဖွယ် အတွေးအခေါ်များ ရှိနေပြီဟု ပြောသော်လည်း ထိုအတွေးများကို မည်သူမျှ နားလည်နိုင်မည်မဟုတ်ဟု ယူဆသည့်အတွက် မပြောပြခဲ့ပေ။ သံလူ လမ်းလျှောက်သည့်အခါ သူ၏ ရင်ဘတ်ထဲတွင် နှလုံးသားလေး လှုပ်ခတ်နေသည်ကို ခံစားရပြီး ယခင် အသားကိုယ်ခန္ဓာရှိစဉ်က ရှိခဲ့သော နှလုံးသားထက် ပိုမိုကြင်နာနူးညံ့သည့် နှလုံးသားဖြစ်ကြောင်း ဒေါ်ရသီကို ပြောပြသည်။ ခြင်္သေ့ကြီးကလည်း ကမ္ဘာပေါ်တွင် မည်သည့်အရာကိုမျှ မကြောက်တော့ကြောင်း၊ စစ်တပ်ကြီးတစ်တပ် သို့မဟုတ် ကြမ်းတမ်းသော ကာလီဒါများ တစ်ဒါဇင်ခန့်နှင့်ပင် ရင်ဆိုင်ရဲကြောင်း ကြေညာသည်။
+
+ထို့ကြောင့် သူတို့အဖွဲ့ထဲတွင် ဒေါ်ရသီတစ်ယောက်သာ မကျေနပ်နိုင်သေးပေ။ သူမသည် ကန်ဆတ်ပြည်သို့ ပြန်ရောက်ချင်သည့် ဆန္ဒ ပိုမိုပြင်းပြလာခဲ့သည်။
+
+စတုတ္ထနေ့တွင် ဒေါ်ရသီ အလွန်ဝမ်းသာစွာဖြင့် အော့ဇ်ထံမှ ခေါ်စာရရှိခဲ့သည်။ သူမ ပလ္လင်ခန်းထဲသို့ ဝင်သွားသောအခါ အော့ဇ်က ရင်းနှီးဖော်ရွေစွာ နှုတ်ဆက်သည်။
+
+“ထိုင်ပါဦး၊ ချစ်သမီး။ ဒီနိုင်ငံကနေ မင်းကို ပြန်ထွက်နိုင်မယ့် နည်းလမ်းတစ်ခုကို ငါ ရှာတွေ့ပြီလို့ ထင်တယ်။”
+
+“ကန်ဆတ်ပြည်ကို ပြန်ရောက်နိုင်မှာလား” ဟု ဒေါ်ရသီက စိတ်လှုပ်ရှားစွာ မေးသည်။
+
+“ကန်ဆတ်ဘယ်ဘက်မှာ ရှိတယ်ဆိုတာ ငါ လုံးဝမသိတဲ့အတွက် အဲဒီအကြောင်းတော့ သေချာမပြောနိုင်ဘူး။ ဒါပေမဲ့ အရင်ဆုံး သဲကန္တာရကို ဖြတ်ကျော်ရမယ်။ အဲဒီနောက် အိမ်ပြန်လမ်းကို ရှာဖို့ လွယ်သွားလိမ့်မယ်” ဟု အော့ဇ်က ပြောသည်။
+
+“သဲကန္တာရကို ဘယ်လို ဖြတ်ကျော်ရမှာလဲ” ဟု သူမက မေးသည်။
+
+“ငါ့အကြံကို ပြောပြမယ်။ ငါ ဒီနိုင်ငံကို ရောက်လာတုန်းက မိုးပျံပူဖောင်းနဲ့ လာခဲ့တာကို မင်းသိတယ်။ မင်းလည်း လေဆင်နှာမောင်းက သယ်ဆောင်လာလို့ ဒီကို ရောက်လာခဲ့တာပဲ။ ဒါကြောင့် သဲကန္တာရကို ဖြတ်ဖို့ အကောင်းဆုံးနည်းလမ်းက လေထဲကနေ သွားတာလို့ ငါထင်တယ်။ လေဆင်နှာမောင်းတစ်ခု ဖန်တီးဖို့တော့ ငါ့မှာ အစွမ်းမရှိဘူး။ ဒါပေမဲ့ ဒီအကြောင်းကို စဉ်းစားကြည့်ပြီးနောက် မိုးပျံပူဖောင်းတစ်ခု လုပ်နိုင်မယ်လို့ ယုံကြည်လာတယ်” ဟု အော့ဇ်က ပြောသည်။
+
+“ဘယ်လိုလုပ်မှာလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“မိုးပျံပူဖောင်းကို ပိုးထည်နဲ့ ပြုလုပ်ပြီး အတွင်းက လေမလွတ်အောင် ပြင်ဆင်ရတယ်။ နန်းတော်မှာ ပိုးထည်တွေ အများကြီးရှိတဲ့အတွက် ပူဖောင်းကို ပြုလုပ်ဖို့ အခက်အခဲမရှိဘူး။ ဒါပေမဲ့ ဒီနိုင်ငံတစ်ဝန်းမှာ ပူဖောင်းကို လွင့်တက်စေဖို့ ဖြည့်ရမယ့် ဓာတ်ငွေ့ မရှိဘူး။”
+
+“မလွင့်တက်နိုင်ရင် ကျွန်မတို့အတွက် အသုံးမဝင်ဘူးပေါ့” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“မှန်ပါတယ်။ ဒါပေမဲ့ လွင့်တက်စေမယ့် နောက်တစ်နည်းရှိတယ်။ ပူနွေးတဲ့လေနဲ့ ပြည့်စေဖို့ပဲ။ ဓာတ်ငွေ့လောက်တော့ မကောင်းဘူး။ လေက အေးသွားရင် ပူဖောင်းက သဲကန္တာရပေါ် ပြန်ကျလာနိုင်ပြီး ငါတို့ ဒုက္ခရောက်သွားနိုင်တယ်” ဟု အော့ဇ်က ပြန်ဖြေသည်။
+
+“ကျွန်မတို့လို့ ပြောလိုက်တာလား။ ရှင်လည်း ကျွန်မနဲ့ လိုက်မှာလား” ဟု ဒေါ်ရသီက အံ့ဩစွာ မေးသည်။
+
+“ဟုတ်တာပေါ့။ ဒီလို ဟန်ဆောင်သူကြီးအဖြစ် နေရတာ ငါ ပင်ပန်းနေပြီ။ နန်းတော်အပြင်ကို ထွက်လိုက်တာနဲ့ ငါဟာ တကယ့်မှော်ဆရာ မဟုတ်ဘူးဆိုတာ ငါ့လူတွေ သိသွားကြလိမ့်မယ်။ သူတို့ကို လှည့်စားခဲ့တဲ့အတွက်လည်း ငါ့ကို စိတ်ဆိုးကြမှာပဲ။ ဒါကြောင့် တစ်နေ့လုံး ဒီအခန်းတွေထဲမှာပဲ ပိတ်လှောင်နေထိုင်ရတယ်။ အဲဒါလည်း ပျင်းစရာကောင်းလှပြီ။ မင်းနဲ့အတူ ကန်ဆတ်ပြည်ကို ပြန်ပြီး ဆပ်ကပ်အဖွဲ့ထဲမှာ ပြန်နေချင်တယ်” ဟု အော့ဇ်က ပြောသည်။
+
+“ရှင် ကျွန်မနဲ့ လိုက်မယ်ဆိုရင် ကျွန်မ အရမ်းဝမ်းသာမှာပါ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ကျေးဇူးတင်ပါတယ်။ ကဲ၊ မင်းက ပိုးထည်တွေကို ချုပ်ပေးမယ်ဆိုရင် ငါတို့ ပူဖောင်းအတွက် စတင်လုပ်ကိုင်ကြရအောင်” ဟု အော့ဇ်က ပြောသည်။
+
+ထို့နောက် ဒေါ်ရသီသည် အပ်နှင့်ချည်ကို ယူကာ အော့ဇ်က ပုံစံအလိုက် ဖြတ်တောက်ပေးသော ပိုးထည်အပိုင်းများကို တစ်ခုချင်း သပ်သပ်ရပ်ရပ် ချုပ်ဆက်ပေးသည်။ ပထမတစ်ပိုင်းမှာ အစိမ်းဖျော့ရောင်၊ ဒုတိယတစ်ပိုင်းမှာ အစိမ်းရင့်ရောင်၊ တတိယတစ်ပိုင်းမှာ မြကျောက်စိမ်းရောင် ဖြစ်သည်။ သူတို့ပတ်ဝန်းကျင်ရှိ အစိမ်းရောင်အမျိုးမျိုးကို အော့ဇ်က သဘောကျသည့်အတွက် ပူဖောင်းကိုလည်း အရောင်အမျိုးမျိုးဖြင့် ပြုလုပ်လိုခြင်းဖြစ်သည်။ ပိုးထည်အပိုင်းအားလုံးကို ချုပ်ဆက်ရန် သုံးရက်ကြာခဲ့သည်။ ပြီးစီးသွားသောအခါ အရှည်ပေ နှစ်ဆယ်ကျော်ရှိသည့် အစိမ်းရောင်ပိုးထည်အိတ်ကြီးတစ်ခု ဖြစ်လာသည်။
+
+အော့ဇ်သည် ပူဖောင်းအတွင်းပိုင်းကို လေမလွတ်စေရန် ပြင်ဆင်ပြီးနောက် ပူဖောင်းအသင့်ဖြစ်ပြီဟု ကြေညာသည်။
+
+“ဒါပေမဲ့ စီးဖို့ ခြင်းတောင်းတစ်လုံးလည်း လိုသေးတယ်” ဟု သူက ပြောသည်။ ထို့ကြောင့် အစိမ်းရောင်မုတ်ဆိတ်စစ်သားကို ခြင်းတောင်းကြီးတစ်လုံး ယူလာခိုင်းပြီး ပူဖောင်းအောက်ခြေတွင် ကြိုးများစွာဖြင့် ချိတ်ဆက်စေသည်။
+
+အရာအားလုံး အသင့်ဖြစ်သွားသောအခါ အော့ဇ်က မိမိသည် မိုးတိမ်များအကြားတွင် နေထိုင်သော မဟာမှော်ဆရာညီတော်တစ်ဦးထံ သွားရောက်လည်ပတ်မည်ဖြစ်ကြောင်း သူ့လူများကို သတင်းပို့စေသည်။ ထိုသတင်းသည် မြို့အနှံ့ လျင်မြန်စွာ ပျံ့နှံ့သွားပြီး အံ့ဩဖွယ်မြင်ကွင်းကို ကြည့်ရှုရန် လူတိုင်း ရောက်လာကြသည်။
+
+အော့ဇ်က ပူဖောင်းကို နန်းတော်ရှေ့သို့ ယူလာစေပြီး လူများက စူးစမ်းစွာ ဝိုင်းကြည့်ကြသည်။ သံလူက ထင်းအများအပြားကို စုဆောင်းပြင်ဆင်ပေးခဲ့ပြီး ပူဖောင်းကို လွင့်တက်စေရန် လိုအပ်သော ပူနွေးသည့်လေကို အော့ဇ်က စီစဉ်ပေးသည်။ တဖြည်းဖြည်း ပူဖောင်းကြီး ဖောင်းကားလာပြီး လေထဲသို့ မြင့်တက်လာကာ နောက်ဆုံးတွင် ခြင်းတောင်းက မြေပြင်ကို အသာထိနေသည့်အနေအထားသို့ ရောက်လာသည်။
+
+ထို့နောက် အော့ဇ်သည် ခြင်းတောင်းထဲသို့ ဝင်ပြီး လူအားလုံး ကြားနိုင်လောက်အောင် ကျယ်လောင်စွာ ပြောလိုက်သည်။
+
+“အခု ငါ ခရီးထွက်တော့မယ်။ ငါ မရှိတဲ့အချိန်မှာ ကောက်ရိုးလူက မင်းတို့ကို အုပ်ချုပ်လိမ့်မယ်။ ငါ့ကို နာခံသလို သူ့ကိုလည်း နာခံကြဖို့ အမိန့်ပေးတယ်။”
+
+ထိုအချိန်တွင် ပူဖောင်းကို မြေပြင်၌ ထိန်းထားသော ကြိုးသည် တင်းကျပ်လာသည်။ အတွင်းရှိ ပူနွေးသောလေကြောင့် ပူဖောင်းသည် ပတ်ဝန်းကျင်လေထက် ပိုမိုပေါ့ပါးလာပြီး ကောင်းကင်သို့ မြင့်တက်ရန် အားပြင်းပြင်း ဆွဲတင်နေသည်။
+
+“လာတော့ ဒေါ်ရသီ။ မြန်မြန်လာပါ။ မဟုတ်ရင် ပူဖောင်း လွင့်သွားတော့မယ်” ဟု မှော်ဆရာက အော်ခေါ်သည်။
+
+“တိုတိုကို ဘယ်မှာမှ ရှာမတွေ့သေးဘူး” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။ သူမသည် ခွေးလေးကို ချန်ထားခဲ့ရန် မလိုလားပေ။ တိုတိုသည် ကြောင်ပေါက်လေးတစ်ကောင်ကို ဟောင်ရန် လူအုပ်ထဲသို့ ပြေးဝင်သွားခဲ့ခြင်းဖြစ်သည်။ နောက်ဆုံးတွင် ဒေါ်ရသီသည် သူ့ကို ရှာတွေ့ပြီး ပွေ့ချီကာ ပူဖောင်းဆီသို့ အမြန်ပြေးလာခဲ့သည်။
+
+သူမသည် ပူဖောင်းနှင့် ခြေလှမ်းအနည်းငယ်သာ ကွာတော့သည့်အချိန်တွင် အော့ဇ်က ခြင်းတောင်းထဲသို့ တက်နိုင်ရန် လက်ကမ်းပေးနေသည်။ ထိုအချိန်မှာပင် ကြိုးများ ပြတ်သွားပြီး ပူဖောင်းသည် ဒေါ်ရသီမပါဘဲ ကောင်းကင်သို့ မြင့်တက်သွားတော့သည်။
+
+“ပြန်လာပါဦး။ ကျွန်မလည်း လိုက်ချင်တယ်” ဟု သူမက အော်ဟစ်သည်။
+
+“ချစ်သမီးရေ၊ ငါ ပြန်လာလို့ မရတော့ဘူး။ နှုတ်ဆက်ပါတယ်” ဟု ခြင်းတောင်းထဲမှ အော့ဇ်က ပြန်အော်သည်။
+
+“နှုတ်ဆက်ပါတယ်” ဟု လူအားလုံးက အော်ပြောကြသည်။ လူတိုင်း၏ မျက်လုံးများသည် ခြင်းတောင်းထဲတွင် စီးနင်းလိုက်ပါသွားသော မှော်ဆရာကို မော့ကြည့်နေကြသည်။ ပူဖောင်းသည် တစ်ခဏထက်တစ်ခဏ ကောင်းကင်ပေါ်သို့ ပိုမိုမြင့်တက်သွားသည်။
+
+ထိုအချိန်မှစ၍ အော့ဇ်၊ အံ့ဖွယ်မှော်ဆရာကို သူတို့ထဲမှ မည်သူမျှ ထပ်မံမတွေ့ခဲ့ကြတော့ပေ။ သို့သော် သူသည် အိုမာဟာမြို့သို့ ဘေးကင်းစွာ ရောက်သွားခဲ့ပြီး ယခုအချိန်အထိ ထိုနေရာတွင် ရှိနေနိုင်သည်ဟု ထင်မြင်နိုင်ကြသည်။ မည်သို့ပင်ဖြစ်စေ မြို့သူမြို့သားများသည် သူ့ကို ချစ်ခင်စွာ အမှတ်ရနေကြပြီး တစ်ဦးနှင့်တစ်ဦး ဤသို့ ပြောဆိုကြသည်။
+
+“အော့ဇ်ဟာ အမြဲတမ်း ငါတို့ရဲ့ မိတ်ဆွေပါပဲ။ သူ ဒီမှာရှိတုန်းက ငါတို့အတွက် လှပတဲ့ မြကျောက်စိမ်းမြို့တော်ကို တည်ဆောက်ပေးခဲ့တယ်။ အခု သူ ထွက်သွားပေမဲ့ ပညာရှိတဲ့ ကောက်ရိုးလူကို ငါတို့အုပ်ချုပ်ဖို့ ချန်ထားခဲ့တယ်။”
+
+သို့သော် အံ့ဖွယ်မှော်ဆရာကြီးကို ဆုံးရှုံးလိုက်ရသည့်အတွက် သူတို့သည် ရက်ပေါင်းများစွာ ဝမ်းနည်းပူဆွေးနေခဲ့ကြပြီး မည်သည့်အရာကမျှ သူတို့၏ ဝမ်းနည်းမှုကို မဖြေဖျောက်နိုင်ခဲ့ပေ။`,
+    contentEn: `For three days Dorothy heard nothing from Oz. These were sad days for the little girl, although her friends were all quite happy and contented. The Scarecrow told them there were wonderful thoughts in his head; but he would not say what they were because he knew no one could understand them but himself. When the Tin Woodman walked about he felt his heart rattling around in his breast; and he told Dorothy he had discovered it to be a kinder and more tender heart than the one he had owned when he was made of flesh. The Lion declared he was afraid of nothing on earth, and would gladly face an army or a dozen of the fierce Kalidahs.
+
+Thus each of the little party was satisfied except Dorothy, who longed more than ever to get back to Kansas.
+
+On the fourth day, to her great joy, Oz sent for her, and when she entered the Throne Room he greeted her pleasantly:
+
+“Sit down, my dear; I think I have found the way to get you out of this country.”
+
+“And back to Kansas?” she asked eagerly.
+
+“Well, I’m not sure about Kansas,” said Oz, “for I haven’t the faintest notion which way it lies. But the first thing to do is to cross the desert, and then it should be easy to find your way home.”
+
+“How can I cross the desert?” she inquired.
+
+“Well, I’ll tell you what I think,” said the little man. “You see, when I came to this country it was in a balloon. You also came through the air, being carried by a cyclone. So I believe the best way to get across the desert will be through the air. Now, it is quite beyond my powers to make a cyclone; but I’ve been thinking the matter over, and I believe I can make a balloon.”
+
+“How?” asked Dorothy.
+
+“A balloon,” said Oz, “is made of silk, which is prepared to keep the air inside. I have plenty of silk in the Palace, so it will be no trouble to make the balloon. But in all this country there is no gas to fill the balloon with, to make it float.”
+
+“If it won’t float,” remarked Dorothy, “it will be of no use to us.”
+
+“True,” answered Oz. “But there is another way to make it float, which is to fill it with hot air. Hot air isn’t as good as gas, for if the air should get cold the balloon would come down in the desert, and we should be lost.”
+
+“We!” exclaimed the girl. “Are you going with me?”
+
+“Yes, of course,” replied Oz. “I am tired of being such a humbug. If I should go out of this Palace my people would soon discover I am not a Wizard, and then they would be vexed with me for having deceived them. So I have to stay shut up in these rooms all day, and it gets tiresome. I’d much rather go back to Kansas with you and be in a circus again.”
+
+“I shall be glad to have your company,” said Dorothy.
+
+“Thank you,” he answered. “Now, if you will help me sew the silk together, we will begin to work on our balloon.”
+
+So Dorothy took a needle and thread, and as fast as Oz prepared the strips of silk the girl sewed them neatly together. First there was a strip of light green silk, then a strip of dark green and then a strip of emerald green; for Oz had a fancy to make the balloon in different shades of the color about them. It took three days to sew all the strips together, but when it was finished they had a big bag of green silk more than twenty feet long.
+
+Then Oz prepared the inside of it to keep the air from escaping, after which he announced that the balloon was ready.
+
+“But we must have a basket to ride in,” he said. So he sent the soldier with the green whiskers for a big clothes basket, which he fastened with many ropes to the bottom of the balloon.
+
+When it was all ready, Oz sent word to his people that he was going to make a visit to a great brother Wizard who lived in the clouds. The news spread rapidly throughout the city and everyone came to see the wonderful sight.
+
+Oz ordered the balloon carried out in front of the Palace, and the people gazed upon it with much curiosity. The Tin Woodman had prepared a large supply of wood, and Oz arranged for the warm air that would lift the balloon. Gradually the balloon swelled out and rose into the air, until finally the basket just touched the ground.
+
+Then Oz got into the basket and said to all the people in a loud voice:
+
+“I am now going away to make a visit. While I am gone the Scarecrow will rule over you. I command you to obey him as you would me.”
+
+The balloon was by this time tugging hard at the rope that held it to the ground, for the air within it was hot, and this made it so much lighter in weight than the air without that it pulled hard to rise into the sky.
+
+“Come, Dorothy!” cried the Wizard. “Hurry up, or the balloon will fly away.”
+
+“I can’t find Toto anywhere,” replied Dorothy, who did not wish to leave her little dog behind. Toto had run into the crowd to bark at a kitten, and Dorothy at last found him. She picked him up and ran towards the balloon.
+
+She was within a few steps of it, and Oz was holding out his hands to help her into the basket, when, crack! went the ropes, and the balloon rose into the air without her.
+
+“Come back!” she screamed. “I want to go, too!”
+
+“I can’t come back, my dear,” called Oz from the basket. “Good-bye!”
+
+“Good-bye!” shouted everyone, and all eyes were turned upward to where the Wizard was riding in the basket, rising every moment farther and farther into the sky.
+
+And that was the last any of them ever saw of Oz, the Wonderful Wizard, though he may have reached Omaha safely, and be there now, for all we know. But the people remembered him lovingly, and said to one another:
+
+“Oz was always our friend. When he was here he built for us this beautiful Emerald City, and now he is gone he has left the Wise Scarecrow to rule over us.”
+
+Still, for many days they grieved over the loss of the Wonderful Wizard, and would not be comforted.`,
+  },
 ] as const;
