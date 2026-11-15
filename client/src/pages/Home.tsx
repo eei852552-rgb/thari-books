@@ -712,8 +712,21 @@ export default function Home() {
                   <div className="reader-page-paper reader-chapter-paper">
                     <div className="reader-page-running-head"><span>THARi BOOKS</span><span>{readerLanguage === "my" ? "စာဖတ်ခန်း" : "READING ROOM"}</span></div>
                     <h1>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h1>
-                    <p className={`reader-page-prose ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[readerPage] ?? ""}</p>
-                    <span className="reader-page-folio">{readerPage + 1}</span>
+                    <p className={`reader-page-prose ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[pendingPage ?? readerPage] ?? ""}</p>
+                    <span className="reader-page-folio">{(pendingPage ?? readerPage) + 1}</span>
+                    {pendingPage !== null && pageTurnDirection && (
+                      <div
+                        key={`${readerChapterIndex}-${readerPage}-${pendingPage}-${pageTurnDirection}`}
+                        className={`reader-page-turn-overlay ${pageTurnDirection === "forward" ? "turn-forward" : "turn-backward"}`}
+                        aria-hidden="true"
+                        onAnimationEnd={finishPageTurn}
+                      >
+                        <div className="reader-page-running-head"><span>THARi BOOKS</span><span>{readerLanguage === "my" ? "စာဖတ်ခန်း" : "READING ROOM"}</span></div>
+                        <h1>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h1>
+                        <p className={`reader-page-prose ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[readerPage] ?? ""}</p>
+                        <span className="reader-page-folio">{readerPage + 1}</span>
+                      </div>
+                    )}
                   </div>
                   <div className="reader-bottom-controls">
                     <button type="button" onClick={() => {
