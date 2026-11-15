@@ -357,10 +357,170 @@ Write down three activities that help you feel rested. Include one of them in yo
 **Status:** Early manuscript — not complete and not publication-ready.
 
 
+
+---
+
+# အခန်း ၆။ အာရုံစူးစိုက်မှုနှင့် အနှောင့်အယှက်
+## Chapter 6. Attention and Distraction
+
+### မြန်မာစာ
+
+အချိန်တစ်ခုကို အလုပ်တစ်ခုအတွက် သတ်မှတ်ထားခြင်းနှင့် ထိုအချိန်အတွင်း အာရုံစူးစိုက်နိုင်ခြင်းတို့သည် မတူညီသောအရာများဖြစ်သည်။ စာဖတ်ရန် တစ်နာရီထားသော်လည်း စိတ်က အခြားကိစ္စများဆီ မကြာခဏ ရောက်နေပါက အချိန်အများစုသည် အမှန်တကယ် စာဖတ်ခြင်းအတွက် အသုံးမဝင်နိုင်ပါ။ အာရုံစူးစိုက်မှုသည် အချိန်ကို အဓိပ္ပာယ်ရှိစွာ အသုံးပြုနိုင်ရန် ကူညီသည့် အရင်းအမြစ်တစ်ခုဖြစ်သည်။
+
+အာရုံပျက်စေသောအရာများသည် ပြင်ပမှလာနိုင်သကဲ့သို့ အတွင်းစိတ်မှလည်း ဖြစ်ပေါ်နိုင်သည်။ ဖုန်းအသိပေးချက်၊ ဆူညံသံ၊ လူတစ်ဦး၏မေးခွန်းတို့သည် ပြင်ပအနှောင့်အယှက်များဖြစ်သည်။ စိုးရိမ်ပူပန်မှု၊ မပြီးသေးသောအလုပ်ကို သတိရခြင်း၊ ပင်ပန်းနွမ်းနယ်ခြင်းနှင့် စိတ်မဝင်စားခြင်းတို့သည် အတွင်းပိုင်းအကြောင်းရင်းများ ဖြစ်နိုင်သည်။ အနှောင့်အယှက်အားလုံးကို ဖယ်ရှား၍ မရသော်လည်း မိမိထိန်းချုပ်နိုင်သည့် အချို့အရာများကို ပြုပြင်နိုင်သည်။
+
+**ဥပမာ — စာဖတ်ချိန်ကို ကာကွယ်ခြင်း**
+
+လင်းလင်းသည် စာတစ်အုပ်ဖတ်ရန် စတင်သော်လည်း ဖုန်းအသိပေးချက်များကြောင့် စာမျက်နှာအနည်းငယ်ဖတ်ပြီးတိုင်း ရပ်တန့်နေရသည်။ သူမသည် စာဖတ်ချိန်ကို မိသားစုဝင်များအား ကြိုတင်ပြောပြပြီး အရေးပေါ်မဟုတ်သော အသိပေးချက်များကို ခဏပိတ်ထားသည်။ စာဖတ်နေစဉ် စိတ်ထဲပေါ်လာသော အခြားလုပ်စရာများကို စာရွက်တစ်ရွက်ပေါ်တွင် ချရေးပြီး နောက်မှ ပြန်ကြည့်ရန် ထားသည်။ ထိုနည်းလမ်းသည် စိတ်ထဲတွင် အလုပ်များကို ဆက်လက်သတိရနေရသည့် ဝန်ကို လျှော့ချနိုင်သည်။
+
+အာရုံစူးစိုက်မှုသည် အမြဲတမ်း အပြည့်အဝရှိနေရမည့် အရာမဟုတ်ပါ။ လူတိုင်းတွင် အာရုံပျက်သည့်အချိန်များ ရှိသည်။ အရေးကြီးသည်မှာ အာရုံပျက်သွားသည်ကို သတိပြုမိပြီး မိမိလုပ်နေသောအရာဆီ ပြန်လည်ရောက်ရှိနိုင်ရန်ဖြစ်သည်။ မိမိကိုယ်ကို အပြစ်တင်နေခြင်းက အာရုံစူးစိုက်မှုကို ပြန်မရစေပါ။ အလုပ်၏ နောက်တစ်ဆင့်ကို ရှင်းလင်းစွာ သတ်မှတ်ခြင်းက ပိုအသုံးဝင်နိုင်သည်။
+
+အလုပ်တစ်ခုကို စတင်ရန် ခက်ခဲပါက “ဒီနေ့ စာအုပ်တစ်အုပ်လုံးဖတ်မည်” ဟု မသတ်မှတ်ဘဲ “ပထမအပိုဒ်နှစ်ပိုဒ်ကို ဖတ်မည်” ကဲ့သို့ စတင်နိုင်သော လုပ်ဆောင်ချက်ငယ်တစ်ခုကို ရွေးချယ်ပါ။ အလုပ်၏အရွယ်အစားကို လျှော့ချခြင်းသည် ရည်မှန်းချက်ကို စွန့်လွှတ်ခြင်းမဟုတ်ဘဲ စတင်ရန် လွယ်ကူစေခြင်းဖြစ်သည်။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — အာရုံစူးစိုက်မှုအတွက် ပြင်ဆင်ခြင်း
+
+အရေးကြီးသောအလုပ်တစ်ခုကို ရွေးပါ။ စတင်မီ လိုအပ်သောပစ္စည်းများကို စုစည်းပါ၊ မလိုအပ်သော အသိပေးချက်များကို စီမံပါ၊ အလုပ်၏ ပထမခြေလှမ်းကို ချရေးပါ။ အာရုံပျက်သွားပါက မိမိကိုယ်ကို အပြစ်မတင်ဘဲ ပထမခြေလှမ်းဆီ ပြန်လာပါ။
+
+### စဉ်းစားရန်
+- မိမိကို အများဆုံး အာရုံပျက်စေသော ပြင်ပနှင့် အတွင်းပိုင်းအကြောင်းရင်းများက ဘာတွေလဲ။
+- အာရုံပျက်သွားပြီးနောက် ပြန်လည်စတင်ရန် ဘာက ကူညီနိုင်သလဲ။
+- အလုပ်တစ်ခု၏ ပထမခြေလှမ်းကို ပိုမိုရှင်းလင်းအောင် ဘယ်လိုပြုလုပ်နိုင်သလဲ။
+
+### English
+
+Setting aside time for a task and being able to focus during that time are not the same thing. If an hour is reserved for reading but the mind repeatedly moves to other concerns, much of that hour may not be spent reading. Attention is a resource that helps us use time meaningfully.
+
+Distractions can come from outside or from within. Notifications, noise, and questions from other people are external interruptions. Worry, remembering unfinished tasks, tiredness, and lack of interest can be internal causes. We cannot remove every interruption, but we can adjust some of the things within our control.
+
+**Example — Protecting reading time**
+
+Lin Lin begins reading a book but keeps stopping whenever a phone notification appears. She tells her family when she plans to read and temporarily silences non-essential alerts. When other tasks come to mind, she writes them on a piece of paper to review later. This reduces the pressure of trying to remember every unfinished task while reading.
+
+Attention does not have to remain perfect. Everyone becomes distracted at times. What matters is noticing when attention has wandered and finding a way back to the task. Blaming yourself does not restore focus. Identifying the next clear action may be more useful.
+
+If starting a task feels difficult, replace a broad instruction such as “I will finish this whole book today” with a small first action, such as “I will read the first two paragraphs.” Reducing the size of the first step does not mean abandoning the goal; it makes beginning more manageable.
+
+### Practical exercise — Prepare to focus
+
+Choose one important task. Before starting, gather what you need, manage non-essential notifications, and write down the first step. If your attention wanders, return to that step without blaming yourself.
+
+### Reflection
+- Which external and internal factors distract you most?
+- What helps you return to a task after losing focus?
+- How could you make the first step of a task clearer?
+
+---
+
+# အခန်း ၇။ အစီအစဉ်ရေးဆွဲခြင်း၏ အနုပညာ
+## Chapter 7. The Art of Planning
+
+### မြန်မာစာ
+
+အစီအစဉ်တစ်ခုသည် အနာဂတ်ကို အပြည့်အဝ ထိန်းချုပ်နိုင်မည်ဟု အာမခံချက်မဟုတ်ပါ။ မိမိ၏ရည်ရွယ်ချက်ကို ရှင်းလင်းစေပြီး လုပ်ဆောင်ရန် လမ်းကြောင်းတစ်ခု ပေးသည့် ကိရိယာတစ်ခုသာ ဖြစ်သည်။ ကောင်းမွန်သောအစီအစဉ်သည် အသေးစိတ်အလွန်များပြီး ပြောင်းလဲ၍မရသော အချိန်ဇယားမဟုတ်ပါ။ လက်တွေ့ကျပြီး အခြေအနေပြောင်းလဲလာလျှင် ပြင်ဆင်နိုင်သော အစီအစဉ်ဖြစ်သည်။
+
+အစီအစဉ်ရေးဆွဲရာတွင် မိမိလုပ်နိုင်မည့်အရာထက် ပိုမိုများပြားစွာ မထည့်သွင်းမိရန် သတိထားရသည်။ တစ်နေ့တာတွင် လုပ်စရာအလုပ်များအပြင် သွားလာချိန်၊ အစားအသောက်၊ အနားယူချိန်နှင့် မမျှော်လင့်ထားသောကိစ္စများလည်း ရှိသည်။ အချိန်ဇယားတစ်ခုလုံးကို အလုပ်များဖြင့် ပြည့်စေခြင်းသည် စာရွက်ပေါ်တွင်သာ လှပပြီး လက်တွေ့တွင် ဖိအားဖြစ်စေနိုင်သည်။
+
+**ဥပမာ — လက်တွေ့ကျသော နေ့စဉ်အစီအစဉ်**
+
+ကိုရဲမင်းသည် မနက်ဖြန်အတွက် အလုပ်ဆယ်ခုကို စာရင်းပြုစုထားသည်။ အားလုံးကို ပြီးမြောက်ရန် ကြိုးစားမည့်အစား သတ်မှတ်ချိန်ရှိသော အလုပ်နှစ်ခု၊ မိသားစုတာဝန်တစ်ခုနှင့် ကိုယ်ပိုင်လေ့လာမှုအတွက် အချိန်တစ်ခုကို ဦးစားပေးသည်။ ကျန်အလုပ်များကို အချိန်ရနိုင်ပါက လုပ်မည်ဟု သတ်မှတ်ထားသည်။ နေ့လယ်တွင် မမျှော်လင့်ထားသောကိစ္စ ပေါ်လာသောအခါ အရေးကြီးဆုံးအလုပ်ကို ဆက်လုပ်နိုင်ရန် အစီအစဉ်ကို ပြင်ဆင်သည်။
+
+အစီအစဉ်တစ်ခုကို စတင်ရန် ရိုးရှင်းသောနည်းလမ်းမှာ ရည်မှန်းချက်၊ နောက်တစ်ဆင့်နှင့် အချိန်အကန့်အသတ်ကို ချရေးခြင်းဖြစ်သည်။ “အင်္ဂလိပ်စာ တိုးတက်စေမည်” ဆိုသည်မှာ ရည်ရွယ်ချက်ဖြစ်သော်လည်း လုပ်ဆောင်ချက် မရှင်းလင်းသေးပါ။ “ဒီနေ့ စကားလုံးအသစ်ငါးလုံးကို သင်ယူပြီး ဝါကျထဲတွင် အသုံးပြုမည်” ဆိုပါက စတင်ရန် ပိုမိုရှင်းလင်းသည်။ သို့သော် အချိန်နှင့် အင်အားမလုံလောက်သည့်နေ့တွင် ပိုသေးငယ်သော အဆင့်တစ်ခုကို ရွေးနိုင်သည်။
+
+အစီအစဉ်ကို ပြန်လည်သုံးသပ်ခြင်းသည်လည်း အရေးကြီးသည်။ အလုပ်မပြီးခဲ့လျှင် မိမိကိုယ်ကို အပြစ်တင်ခြင်းထက် ဘာကြောင့် မပြီးခဲ့သည်ကို မေးပါ။ အချိန်ခန့်မှန်းချက် မမှန်ခဲ့သလား၊ အလုပ်၏အရွယ်အစား ကြီးလွန်းသလား၊ အခြားတာဝန်များ ပေါ်လာသလား။ အကြောင်းရင်းကို သိမှ နောက်တစ်ကြိမ် ပိုမိုကောင်းမွန်သော အစီအစဉ် ပြုလုပ်နိုင်မည်ဖြစ်သည်။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — မနက်ဖြန်အတွက် ရိုးရှင်းသောအစီအစဉ်
+
+မနက်ဖြန်အတွက် အရေးကြီးဆုံး အလုပ်သုံးခုကို ရေးပါ။ တစ်ခုစီအတွက် စတင်မည့်အချိန် သို့မဟုတ် အချိန်အပိုင်းအခြားကို သတ်မှတ်ပါ။ အနားယူချိန်နှင့် မမျှော်လင့်ထားသောကိစ္စများအတွက် နေရာချန်ထားပါ။ ညနေတွင် ဘာအလုပ်လုပ်နိုင်ခဲ့သည်၊ ဘာကြောင့် ပြောင်းလဲခဲ့သည်ကို အပြစ်မတင်ဘဲ ပြန်လည်သုံးသပ်ပါ။
+
+### စဉ်းစားရန်
+- မိမိ၏အစီအစဉ်သည် လက်တွေ့ကျကြောင်း ဘယ်လိုသိနိုင်သလဲ။
+- အချိန်ဇယားတွင် အနားယူချိန်နှင့် လွတ်လပ်သောအချိန်ကို ဘာကြောင့် ထည့်သွင်းသင့်သလဲ။
+- မပြီးမြောက်ခဲ့သောအလုပ်တစ်ခုမှ ဘယ်လိုသင်ယူနိုင်သလဲ။
+
+### English
+
+A plan does not guarantee complete control over the future. It is a tool that clarifies intentions and offers a route for action. A good plan is not an excessively detailed timetable that cannot change. It is realistic and flexible enough to respond to new circumstances.
+
+When planning, avoid adding more than you can reasonably do. A day contains more than tasks: travel, meals, rest, and unexpected events also take time. Filling every available space with work may look impressive on paper but create pressure in practice.
+
+**Example — A realistic daily plan**
+
+Ko Ye Min lists ten tasks for the next day. Instead of expecting to finish all ten, he gives priority to two tasks with deadlines, one family responsibility, and a period for personal learning. He leaves the remaining tasks for any time that becomes available. When an unexpected matter appears in the afternoon, he adjusts the schedule so that the most important task can still be addressed.
+
+A simple way to begin planning is to write down a goal, the next action, and a reasonable time period. “Improve my English” is an intention, but the action is not yet clear. “Learn five new words and use them in sentences today” gives a more definite starting point. On a day with less time or energy, an even smaller step may be appropriate.
+
+Reviewing a plan is also important. If a task was not completed, ask why instead of immediately blaming yourself. Was the time estimate unrealistic? Was the task too large? Did other responsibilities arise? Understanding the reason makes it possible to create a better plan next time.
+
+### Practical exercise — A simple plan for tomorrow
+
+Write down the three most important tasks for tomorrow. Give each one a starting time or a suitable period. Leave room for rest and unexpected events. In the evening, review what you managed to do and why anything changed, without turning the review into self-blame.
+
+### Reflection
+- How can you tell whether a plan is realistic?
+- Why should a schedule include rest and unassigned time?
+- What can an unfinished task teach you?
+
+---
+
+# အခန်း ၈။ မမျှော်လင့်ထားသောအရာများအတွက် နေရာချန်ခြင်း
+## Chapter 8. Leaving Room for the Unexpected
+
+### မြန်မာစာ
+
+ဘဝ၏နေ့စဉ်အစီအစဉ်သည် မိမိရေးဆွဲထားသည့်အတိုင်း အမြဲမဖြစ်နိုင်ပါ။ မိုးရွာနိုင်သည်၊ သွားလာရေးကြန့်ကြာနိုင်သည်၊ မိသားစုဝင်တစ်ဦး အကူအညီလိုနိုင်သည်၊ အလုပ်တစ်ခုသည် ခန့်မှန်းထားသည်ထက် ပိုကြာနိုင်သည်။ ထိုအရာများသည် အစီအစဉ်မကောင်းကြောင်း သက်သေမဟုတ်ပါ။ လူ့ဘဝတွင် မသေချာမှုရှိနေကြောင်း သတိပေးခြင်းဖြစ်သည်။
+
+အချိန်ဇယားတစ်ခုကို အလွန်တင်းကျပ်စွာ ရေးဆွဲထားပါက အလုပ်တစ်ခု နောက်ကျသွားသည်နှင့် နောက်ဆက်တွဲအလုပ်များအားလုံး ထိခိုက်နိုင်သည်။ ထို့ကြောင့် အချိန်အပိုင်းအခြားအချို့ကို လွတ်လပ်စွာထားခြင်းသည် အကျိုးရှိသည်။ ထိုအချိန်သည် အလုပ်မရှိ၍ ဖြုန်းတီးနေသောအချိန်မဟုတ်ဘဲ မမျှော်လင့်ထားသောအရာများအတွက် ပြင်ဆင်ထားသည့် နေရာဖြစ်သည်။
+
+**ဥပမာ — ခရီးသွားချိန်ကို ထည့်တွက်ခြင်း**
+
+နန်းစုသည် အရေးကြီးသောတွေ့ဆုံမှုတစ်ခုသို့ သွားရန် အချိန်တွက်ထားသည်။ လမ်းကြောင်းသည် ပုံမှန်အားဖြင့် မိနစ်သုံးဆယ်ကြာသော်လည်း ယာဉ်ကြောပိတ်ဆို့မှု ဖြစ်နိုင်သည်။ သူမသည် ပုံမှန်ကြာချိန်အတိုင်းသာ မတွက်ဘဲ အပိုအချိန်တစ်ခု ချန်ထားသည်။ လမ်းပိတ်နေသည့်နေ့တွင်လည်း အလွန်အမင်း အလျင်စလို မဖြစ်တော့ပါ။ အပိုအချိန်သည် အလဟဿမဟုတ်ဘဲ အခြေအနေကို လိုက်လျောညီထွေဖြစ်စေသည့် အကာအကွယ်ဖြစ်သည်။
+
+မမျှော်လင့်ထားသောအရာများကို ရင်ဆိုင်ရာတွင် ဘာကို ချက်ချင်းလုပ်ရန်လိုသည်၊ ဘာကို နောက်သို့ရွှေ့နိုင်သည်၊ ဘယ်သူ့ထံ အကူအညီတောင်းနိုင်သည်ကို စဉ်းစားပါ။ အရေးပေါ်ကိစ္စတစ်ခု ပေါ်လာသည့်အခါ မူလအစီအစဉ်ကို အတင်းအကျပ် ဆက်လုပ်ခြင်းထက် အခြေအနေအသစ်နှင့် ကိုက်ညီသော ဦးစားပေးမှုကို ရွေးချယ်ရသည်။
+
+အခြားသူများ၏အချိန်ကိုလည်း လေးစားရန် လိုအပ်သည်။ မိမိ၏နောက်ကျမှုသည် အခြားသူတစ်ဦး၏ အချိန်ကို ထိခိုက်စေနိုင်သည်။ မမျှော်လင့်ထားသောအကြောင်းရင်းကြောင့် နောက်ကျမည်ဆိုပါက ဖြစ်နိုင်သမျှ ကြိုတင်အသိပေးခြင်း၊ အချိန်အသစ် သဘောတူခြင်းနှင့် တာဝန်ယူခြင်းတို့က ယုံကြည်မှုကို ထိန်းသိမ်းပေးနိုင်သည်။
+
+အစီအစဉ်ပြောင်းလဲရခြင်းကို အရှုံးဟု မယူဆပါနှင့်။ ရည်မှန်းချက်ကို ဆက်လက်ထိန်းသိမ်းထားရင်း လမ်းကြောင်းကို ပြင်ဆင်နိုင်သည်။ တစ်ခါတစ်ရံ အလုပ်တစ်ခုကို နောက်နေ့သို့ ရွှေ့ခြင်းသည် အခြားပိုအရေးကြီးသောတာဝန်ကို မှန်ကန်စွာ ဆောင်ရွက်နိုင်ရန် လိုအပ်သော ဆုံးဖြတ်ချက်ဖြစ်နိုင်သည်။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — အပိုနေရာတစ်ခု ဖန်တီးခြင်း
+
+မိမိ၏နေ့စဉ်အစီအစဉ်ကို ကြည့်ပြီး အချိန်အပိုင်းအခြားတစ်ခုကို မသတ်မှတ်ဘဲ ချန်ထားနိုင်မလား စဉ်းစားပါ။ မဖြစ်နိုင်ပါက အလုပ်တစ်ခုအတွက် အချိန်ခန့်မှန်းချက်ကို ပိုမိုလက်တွေ့ကျအောင် ပြင်ဆင်ပါ။ မမျှော်လင့်ထားသောကိစ္စ ပေါ်လာသည့်အခါ ဘယ်အလုပ်ကို ရွှေ့နိုင်သည်ကို ကြိုတင်စဉ်းစားထားပါ။
+
+### စဉ်းစားရန်
+- မိမိ၏အစီအစဉ်တွင် မမျှော်လင့်ထားသောကိစ္စများအတွက် နေရာရှိသလား။
+- အခြေအနေပြောင်းလဲလာလျှင် ဘယ်အလုပ်ကို ဦးစားပေးသင့်သလဲ။
+- နောက်ကျမှု သို့မဟုတ် အစီအစဉ်ပြောင်းလဲမှုကို အခြားသူများအား ဘယ်လိုတာဝန်ယူအသိပေးနိုင်သလဲ။
+
+### English
+
+Daily life does not always follow the schedule we create. It may rain, transport may be delayed, a family member may need help, or a task may take longer than expected. These events do not necessarily prove that a plan was poor. They remind us that uncertainty is part of life.
+
+If a schedule is too tightly packed, one delayed task can affect everything that follows. Leaving some periods flexible can therefore be useful. Such time is not empty or wasted; it is space reserved for events we could not predict.
+
+**Example — Allowing for travel time**
+
+Nan Su plans a journey to an important meeting. The route usually takes thirty minutes, but traffic may be heavy. Instead of planning around the shortest expected journey, she leaves extra time. When the road is crowded, she does not need to rush excessively. The additional time is not wasted; it provides room to respond to changing conditions.
+
+When an unexpected event occurs, consider what must happen immediately, what can be postponed, and whom you can ask for help. If an urgent responsibility appears, it may be wiser to choose new priorities than to force the original schedule to continue unchanged.
+
+We should also respect other people's time. Our delays can affect them. If an unexpected problem makes you late, giving notice when possible, agreeing on a new time, and taking responsibility can help preserve trust.
+
+Do not treat every change of plan as a defeat. You can keep the goal while adjusting the route. Sometimes moving a task to another day is the responsible choice that allows a more important duty to be handled properly.
+
+### Practical exercise — Create a little room
+
+Review your daily schedule and see whether you can leave one period unassigned. If that is not possible, make the time estimates for your tasks more realistic. Consider in advance which task could move if something unexpected occurs.
+
+### Reflection
+- Does your plan leave room for unexpected events?
+- Which task should take priority when circumstances change?
+- How can you responsibly tell others about a delay or change of plan?
+
+---
+
 ## စာမူတိုးတက်မှု | Manuscript progress
 
-**ရေးသားပြီး / Drafted:** အမှာစာ၊ မာတိကာ၊ နိဒါန်းနှင့် အခန်း ၁–၅ ကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ရေးသားထားသည်။
+**ရေးသားပြီး / Drafted:** အမှာစာ၊ မာတိကာ၊ နိဒါန်းနှင့် အခန်း ၁–၈ ကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ရေးသားထားသည်။
 
-**ကျန်ရှိ / Pending:** အခန်း ၆–၁၀၊ နိဂုံး၊ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာစစ်ဆေးမှု၊ ဥပမာနှင့် အကြောင်းအရာထပ်နေမှုစစ်ဆေးခြင်း၊ သရုပ်ဖော်ပုံများ။
+**ကျန်ရှိ / Pending:** အခန်း ၉–၁၀၊ နိဂုံး၊ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာစစ်ဆေးမှု၊ ဥပမာနှင့် အကြောင်းအရာထပ်နေမှုစစ်ဆေးခြင်း၊ သရုပ်ဖော်ပုံများ။
 
 **Status:** Early manuscript — not complete and not publication-ready.
