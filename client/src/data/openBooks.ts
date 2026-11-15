@@ -150,7 +150,7 @@ export const openBooks: readonly OpenBook[] = [
     editorialForewordMy: "အချိန်ခရီးသွားခြင်း၏ စိတ်ကူးကို အခြေခံထားသော်လည်း H. G. Wells ၏ ဤဝတ္ထုသည် လူ့အဖွဲ့အစည်း၏ အနာဂတ်နှင့် ယနေ့ရွေးချယ်မှုများ၏ အကျိုးဆက်များကို မေးခွန်းထုတ်ထားသည်။ အနာဂတ်ကမ္ဘာကို ဖော်ပြသည့်အခါ စာရေးသူက နည်းပညာတစ်ခုတည်းကိုသာ မကြည့်ဘဲ လူမှုအဆင့်အတန်း၊ အလုပ်နှင့် လူသားတို့၏ ပြောင်းလဲမှုကိုပါ စူးစမ်းထားသည်။ ဇာတ်လမ်းကို ဖတ်ရင်း အနာဂတ်အကြောင်း စိတ်ကူးယဉ်ချက်နှင့် လူမှုဝေဖန်ချက်တို့ ဘယ်လိုပေါင်းစပ်ထားသည်ကို သတိပြုပါ။ ဤသည် THARi အယ်ဒီတာ၏ မိတ်ဆက်ဖြစ်သည်။",
     editorialForewordEn: "Although built around time travel, H. G. Wells’s novel also asks what the future may reveal about society and the consequences of present choices. Its imagined world considers not only technology but also class, labour, and human change. As you read, notice how speculative adventure becomes a way to examine social questions. This is a THARi editorial introduction.",
     keyIdeasMy: ["လူ့အဖွဲ့အစည်း၏ မညီမျှမှုသည် အနာဂတ်ကို ပုံဖော်နိုင်သည်။","နည်းပညာတိုးတက်မှုတစ်ခုတည်းက လူသားဘဝကို အလိုအလျောက် မကောင်းမွန်စေပါ။","အနာဂတ်ကို စဉ်းစားခြင်းက ယနေ့လုပ်ဆောင်ချက်များကို ပြန်လည်သုံးသပ်စေသည်။"],
-    readingNoteMy: "Reader တွင် အခန်း I–VIII ကို အင်္ဂလိပ်စာသားနှင့် မြန်မာဘာသာပြန်/လူငယ်ဖတ်ရှုရန် ပြင်ဆင်ထားသော အကြောင်းအရာဖြင့် ဖတ်ရှုနိုင်သည်။ အခန်း IX–XVI နှင့် Epilogue ကို မထည့်သွင်းရသေးပါ။ ထို့ကြောင့် ဤစာအုပ်ကို အပြည့်အစုံပြီးဆုံးပြီဟု မယူဆရပါ။",
+    readingNoteMy: "Reader တွင် အခန်း I–X ကို အင်္ဂလိပ်စာသားနှင့် မြန်မာဘာသာပြန်/လူငယ်ဖတ်ရှုရန် ပြင်ဆင်ထားသော အကြောင်းအရာဖြင့် ဖတ်ရှုနိုင်သည်။ အခန်း XI–XVI နှင့် Epilogue ကို မထည့်သွင်းရသေးပါ။ ထို့ကြောင့် ဤစာအုပ်ကို အပြည့်အစုံပြီးဆုံးပြီဟု မယူဆရပါ။",
     source: "Project Gutenberg",
     language: "English",
     sourceUrl: "https://www.gutenberg.org/ebooks/35",
