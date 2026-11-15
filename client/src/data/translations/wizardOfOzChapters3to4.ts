@@ -3674,4 +3674,113 @@ It was not so high as the first, however, and by standing upon the Lion’s back
 
 “They are, indeed,” said the Scarecrow, “and I am thankful I am made of straw and cannot be easily damaged. There are worse things in the world than being a Scarecrow.”`,
   },
+  {
+    number: 21,
+    title: "အခန်း (၂၁) — ခြင်္သေ့ကြီး တောရိုင်းတိရစ္ဆာန်တို့၏ ဘုရင်ဖြစ်လာခြင်း",
+    titleEn: "Chapter 21 — The Lion Becomes the King of Beasts",
+    content: `ကြွေထည်နံရံမှ ဆင်းလာပြီးနောက် ခရီးသွားများသည် ရွှံ့နွံများနှင့် ရေစပ်စပ်နေရာများ ပြည့်နှက်နေသော မနှစ်မြို့ဖွယ်ကောင်းသည့် ဒေသတစ်ခုသို့ ရောက်လာကြသည်။ မြက်ရှည်များ ထူထပ်စွာ ပေါက်နေသဖြင့် ရွှံ့တွင်းများကို မမြင်နိုင်ဘဲ ခြေချော်ကျနိုင်သည်။ သို့သော် သူတို့သည် ခြေလှမ်းတိုင်းကို သတိထားရွေးချယ်ကာ နောက်ဆုံးတွင် ခိုင်မာသော မြေပြင်သို့ ဘေးကင်းစွာ ရောက်လာကြသည်။
+
+ထိုနေရာမှစ၍ ပတ်ဝန်းကျင်သည် ပိုမိုရိုင်းစိုင်းလာသည်။ ချုံနွယ်များကြားမှ ပင်ပန်းစွာ လျှောက်လာပြီးနောက် ယခင်က မြင်ဖူးသမျှထက် ပိုမိုကြီးမားပြီး သက်တမ်းရင့်သော သစ်ပင်များရှိသည့် တောအုပ်တစ်ခုထဲသို့ ဝင်လာကြသည်။
+
+“ဒီတောအုပ်က အလွန်လှပတာပဲ။ ဒီလောက်လှတဲ့ နေရာမျိုးကို ကျွန်တော် တစ်ခါမှ မမြင်ဖူးဘူး” ဟု ခြင်္သေ့ကြီးက ပတ်ဝန်းကျင်ကို ဝမ်းသာအားရ ကြည့်ရင်း ပြောသည်။
+
+“ကျွန်တော်တော့ မှောင်မိုက်ပြီး အုံ့မှိုင်းနေသလိုပဲ ထင်တယ်” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+“လုံးဝ မဟုတ်ပါဘူး။ ကျွန်တော်သာဆိုရင် ဒီမှာ တစ်သက်လုံး နေချင်တယ်။ ခြေထောက်အောက်က သစ်ရွက်ခြောက်တွေ ဘယ်လောက်နူးညံ့သလဲ ကြည့်ပါဦး။ သစ်ပင်အိုကြီးတွေပေါ်မှာလည်း စိမ်းလန်းတဲ့ ရေညှိတွေ ထူထပ်စွာ ပေါက်နေတယ်။ တောရိုင်းတိရစ္ဆာန်တစ်ကောင်အတွက် ဒီထက်ကောင်းတဲ့ နေရာ ရှိနိုင်ပါ့မလား” ဟု ခြင်္သေ့ကြီးက ပြန်ပြောသည်။
+
+“ဒီတောထဲမှာ တောရိုင်းတိရစ္ဆာန်တွေ ရှိနေနိုင်တယ်နော်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ရှိမှာပေါ့။ ဒါပေမဲ့ အခုတော့ တစ်ကောင်မှ မတွေ့ရသေးဘူး” ဟု ခြင်္သေ့ကြီးက ဖြေသည်။
+
+သူတို့သည် အလင်းရောင်မလုံလောက်တော့သည့်အထိ တောအုပ်အတွင်း ဆက်လျှောက်ကြသည်။ ထို့နောက် ဒေါ်ရသီ၊ တိုတိုနှင့် ခြင်္သေ့ကြီးတို့သည် အိပ်စက်အနားယူကြပြီး သံခုတ်သမားနှင့် ကောက်ရိုးလူတို့က ထုံးစံအတိုင်း အလှည့်ကျ စောင့်ကြည့်ပေးကြသည်။
+
+နံနက်ရောက်သောအခါ သူတို့သည် ခရီးဆက်ကြသည်။ သိပ်မဝေးသေးမီမှာပင် တောရိုင်းတိရစ္ဆာန်များ အများအပြား ဟိန်းဟောက်နေသကဲ့သို့ နိမ့်ကျယ်သော အသံတစ်ခုကို ကြားလိုက်ရသည်။ တိုတိုက အနည်းငယ် ညည်းညူသော်လည်း အခြားသူများမှာ မကြောက်ကြပေ။ သူတို့သည် တိရစ္ဆာန်များ သွားလာနေကျ လမ်းအတိုင်း ဆက်လျှောက်ပြီး တောအုပ်အတွင်းရှိ ကွင်းပြင်တစ်ခုသို့ ရောက်လာကြသည်။ ထိုနေရာတွင် တိရစ္ဆာန်မျိုးစုံ ရာနှင့်ချီ စုဝေးနေကြသည်။ ကျားများ၊ ဆင်များ၊ ဝက်ဝံများ၊ ဝံပုလွေများ၊ မြေခွေးများနှင့် အခြားတိရစ္ဆာန်များစွာ ရှိနေကြသဖြင့် ဒေါ်ရသီမှာ ခဏတာ အံ့ဩထိတ်လန့်သွားသည်။
+
+ခြင်္သေ့ကြီးကတော့ တိရစ္ဆာန်များသည် အစည်းအဝေးလုပ်နေကြခြင်းဖြစ်ပြီး သူတို့၏ ဟိန်းဟောက်သံများကို ကြားရသဖြင့် အခက်အခဲကြီးတစ်ခု ကြုံတွေ့နေရကြောင်း ခန့်မှန်းမိသည်ဟု ပြောသည်။
+
+သူပြောနေစဉ် တိရစ္ဆာန်အချို့က ခြင်္သေ့ကြီးကို မြင်သွားကြသည်။ ချက်ချင်းပင် စုဝေးနေသော တိရစ္ဆာန်အားလုံး တိတ်ဆိတ်သွားကြသည်။ အကြီးဆုံးကျားကြီးတစ်ကောင်သည် ခြင်္သေ့ကြီးထံသို့ လျှောက်လာပြီး ဦးညွှတ်ကာ ပြောသည်။
+
+“တိရစ္ဆာန်တို့၏ ဘုရင်ကြီး ကြွလာတာကို ကြိုဆိုပါတယ်။ ကျွန်ုပ်တို့ရဲ့ ရန်သူကို တိုက်ဖျက်ပြီး တောအုပ်ထဲက တိရစ္ဆာန်အားလုံးကို ငြိမ်းချမ်းစေဖို့ အချိန်မီ ရောက်လာတာပါပဲ” ဟု ကျားကြီးက ပြောသည်။
+
+“မင်းတို့ ဘာအခက်အခဲ ကြုံနေရတာလဲ” ဟု ခြင်္သေ့ကြီးက အေးဆေးစွာ မေးသည်။
+
+“မကြာသေးခင်က ဒီတောထဲကို ရောက်လာတဲ့ ကြောက်မက်ဖွယ် ရန်သူကြီးတစ်ကောင်ကြောင့် ကျွန်ုပ်တို့အားလုံး အန္တရာယ်ရှိနေပါတယ်။ အဲဒီသတ္တဝါဟာ ပင့်ကူကြီးတစ်ကောင်နဲ့ ဆင်တူပေမဲ့ ဆင်တစ်ကောင်လောက် ကြီးမားပြီး သစ်ပင်ပင်စည်လောက် ရှည်တဲ့ ခြေထောက်တွေ ရှိပါတယ်။ ခြေထောက်ရှစ်ချောင်းလုံးနဲ့ သစ်တောထဲမှာ သွားလာရင်း တိရစ္ဆာန်တစ်ကောင်ကို ဖမ်းယူပြီး စားသောက်တတ်ပါတယ်။ အဲဒီသတ္တဝါ ရှိနေသရွေ့ ကျွန်ုပ်တို့ ဘယ်သူမှ လုံခြုံမှုမရှိပါဘူး။ အဲဒါကြောင့် ဘယ်လိုကာကွယ်ကြမလဲဆိုတာ ဆွေးနွေးဖို့ အစည်းအဝေးခေါ်ထားတာပါ။ အဲဒီအချိန်မှာ ဘုရင်ကြီး ရောက်လာတာပါပဲ” ဟု ကျားကြီးက ရှင်းပြသည်။
+
+ခြင်္သေ့ကြီးသည် ခဏမျှ စဉ်းစားလိုက်သည်။
+
+“ဒီတောထဲမှာ တခြားခြင်္သေ့တွေ ရှိသေးလား” ဟု မေးသည်။
+
+“အရင်က ရှိခဲ့ပါတယ်။ ဒါပေမဲ့ အဲဒီသတ္တဝါက သူတို့အားလုံးကို ဖမ်းယူစားသောက်ခဲ့ပါတယ်။ ဒါ့အပြင် သူတို့ဟာ ဘုရင်ကြီးလောက် ကြီးမားရဲရင့်သူတွေလည်း မဟုတ်ကြပါဘူး” ဟု ကျားကြီးက ပြန်ဖြေသည်။
+
+“မင်းတို့ရဲ့ ရန်သူကို ငါ အနိုင်ယူပေးနိုင်ရင် ငါ့ကို တောအုပ်ရဲ့ ဘုရင်အဖြစ် လက်ခံပြီး စကားနားထောင်ကြမလား” ဟု ခြင်္သေ့ကြီးက မေးသည်။
+
+“ဝမ်းမြောက်စွာ လက်ခံပါမယ်” ဟု ကျားကြီးက ပြန်ဖြေသည်။ အခြားတိရစ္ဆာန်အားလုံးကလည်း “လက်ခံပါမယ်” ဟု ကျယ်လောင်စွာ ဟိန်းဟောက်ကြသည်။
+
+“အဲဒီ ပင့်ကူကြီးက အခု ဘယ်မှာလဲ” ဟု ခြင်္သေ့ကြီးက မေးသည်။
+
+“ဟိုဘက်က ဝက်သစ်ချပင်တွေကြားမှာပါ” ဟု ကျားကြီးက ရှေ့ခြေဖြင့် ညွှန်ပြသည်။
+
+“ငါ့မိတ်ဆွေတွေကို ကောင်းကောင်းစောင့်ရှောက်ထားကြပါ။ ငါ အဲဒီသတ္တဝါနဲ့ သွားရင်ဆိုင်တော့မယ်” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+ထို့နောက် သူသည် မိတ်ဆွေများကို နှုတ်ဆက်ကာ ရန်သူကြီးနှင့် ရင်ဆိုင်ရန် ဂုဏ်ယူဝံ့ကြွားစွာ ထွက်ခွာသွားသည်။
+
+ခြင်္သေ့ကြီး ရောက်သွားသောအခါ ပင့်ကူကြီးသည် အိပ်ပျော်နေသည်။ ထိုသတ္တဝါ၏ ပုံပန်းသဏ္ဌာန်မှာ အလွန်ကြောက်မက်ဖွယ်ကောင်းသည်။ ကျားကြီး ပြောခဲ့သည့်အတိုင်း ခြေထောက်များမှာ အလွန်ရှည်လျားပြီး ကိုယ်ခန္ဓာတစ်ခုလုံးတွင် ကြမ်းတမ်းသော အနက်ရောင်အမွေးများ ဖုံးလွှမ်းနေသည်။ သို့သော် ၎င်း၏ ခေါင်းနှင့် ကိုယ်ခန္ဓာကို ဆက်ထားသော လည်ပင်းမှာ အလွန်သေးငယ်နေသည်။ ခြင်္သေ့ကြီးသည် ထိုအချက်ကို သတိပြုမိပြီး အကောင်းဆုံးနည်းလမ်းဖြင့် ရင်ဆိုင်ရန် ဆုံးဖြတ်လိုက်သည်။ အိပ်ပျော်နေချိန်မှာ ရင်ဆိုင်ရတာ ပိုလွယ်မည်ဟုလည်း သိထားသည်။
+
+ခြင်္သေ့ကြီးသည် ရဲရင့်စွာ ခုန်တက်ကာ ပင့်ကူကြီးကို အနိုင်ယူလိုက်သည်။ မကြာမီပင် ထိုသတ္တဝါသည် လှုပ်ရှားမှုရပ်တန့်သွားပြီး တောအုပ်ကို ခြိမ်းခြောက်နိုင်တော့မည် မဟုတ်ကြောင်း ခြင်္သေ့ကြီး သိလိုက်သည်။
+
+ထို့နောက် ခြင်္သေ့ကြီးသည် တောရိုင်းတိရစ္ဆာန်များ စောင့်နေသော ကွင်းပြင်သို့ ပြန်လာပြီး “မင်းတို့ရဲ့ ရန်သူကို နောက်ထပ် ကြောက်စရာ မလိုတော့ဘူး” ဟု ဂုဏ်ယူစွာ ကြေညာသည်။
+
+တောအုပ်ရှိ တိရစ္ဆာန်အားလုံးသည် ခြင်္သေ့ကြီးကို ဘုရင်အဖြစ် ဦးညွတ်လက်ခံကြသည်။ ခြင်္သေ့ကြီးကလည်း ဒေါ်ရသီ ကန်ဆတ်ပြည်သို့ ဘေးကင်းစွာ ပြန်လည်ထွက်ခွာနိုင်သည့်အခါ သူတို့ထံ ပြန်လာပြီး အုပ်ချုပ်ပေးမည်ဟု ကတိပေးလိုက်သည်။`,
+    contentEn: `After climbing down from the china wall the travelers found themselves in a disagreeable country, full of bogs and marshes and covered with tall, rank grass. It was difficult to walk far without falling into muddy holes, for the grass was so thick that it hid them from sight. However, by carefully picking their way, they got safely along until they reached solid ground.
+
+But here the country seemed wilder than ever, and after a long and tiresome walk through the underbrush they entered another forest, where the trees were bigger and older than any they had ever seen.
+
+“This forest is perfectly delightful,” declared the Lion, looking around him with joy; “never have I seen a more beautiful place.”
+
+“It seems gloomy,” said the Scarecrow.
+
+“Not a bit of it,” answered the Lion; “I should like to live here all my life. See how soft the dried leaves are under your feet and how rich and green the moss is that clings to these old trees. Surely no wild beast could wish a pleasanter home.”
+
+“Perhaps there are wild beasts in the forest now,” said Dorothy.
+
+“I suppose there are,” returned the Lion; “but I do not see any of them about.”
+
+They walked through the forest until it became too dark to go any farther. Dorothy and Toto and the Lion lay down to sleep, while the Woodman and the Scarecrow kept watch over them as usual.
+
+When morning came they started again. Before they had gone far they heard a low rumble, as of the growling of many wild animals. Toto whimpered a little but none of the others was frightened and they kept along the well-trodden path until they came to an opening in the wood, in which were gathered hundreds of beasts of every variety. There were tigers and elephants and bears and wolves and foxes and all the others in the natural history, and for a moment Dorothy was afraid.
+
+But the Lion explained that the animals were holding a meeting, and he judged by their snarling and growling that they were in great trouble.
+
+As he spoke several of the beasts caught sight of him, and at once the great assemblage hushed as if by magic. The biggest of the tigers came up to the Lion and bowed, saying,
+
+“Welcome, O King of Beasts! You have come in good time to fight our enemy and bring peace to all the animals of the forest once more.”
+
+“What is your trouble?” asked the Lion, quietly.
+
+“We are all threatened,” answered the tiger, “by a fierce enemy which has lately come into this forest. It is a most tremendous monster, like a great spider, with a body as big as an elephant and legs as long as a tree trunk. It has eight of these long legs, and as the monster crawls through the forest he seizes an animal with a leg and drags it away to eat it. Not one of us is safe while this fierce creature is alive, and we had called a meeting to decide how to take care of ourselves when you came among us.”
+
+The Lion thought for a moment.
+
+“Are there any other lions in this forest?” he asked.
+
+“No; there were some, but the monster has driven them all away. And, besides, they were none of them nearly so large and brave as you.”
+
+“If I put an end to your enemy will you bow down to me and obey me as King of the Forest?” enquired the Lion.
+
+“We will do that gladly,” returned the tiger; and all the other beasts roared with a mighty roar: “We will!”
+
+“Where is this great spider of yours now?” asked the Lion.
+
+“Yonder, among the oak trees,” said the tiger, pointing with his fore-foot.
+
+“Take good care of these friends of mine,” said the Lion, “and I will go at once to face the monster.”
+
+He bade his comrades good-bye and marched proudly away to meet the enemy.
+
+The great spider was lying asleep when the Lion found it. It looked very frightening, with legs as long as the tiger had described and a body covered with coarse black hair. Its head was joined to its large body by a very slender neck. The Lion noticed this and realized it was the creature’s weak point. Knowing it would be easier to face the monster while it slept, he sprang forward and quickly defeated it. Soon the creature was completely still, and the Lion knew it could no longer threaten the forest.
+
+The Lion went back to the opening where the beasts of the forest were waiting for him and said proudly, “You need fear your enemy no longer.”
+
+Then the beasts bowed down to the Lion as their King, and he promised to come back and rule over them as soon as Dorothy was safely on her way to Kansas.`,
+  },
 ] as const;
