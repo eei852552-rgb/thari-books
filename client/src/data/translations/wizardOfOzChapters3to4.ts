@@ -2,7 +2,7 @@ import type { ReaderChapter } from "../artOfLearning";
 
 /**
  * THARi complete Burmese translations and editorial chapter content.
- * Chapter 3 is a complete translation; other chapter entries are being completed.
+ * Chapters 3 and 4 are complete translations; other chapter entries are being completed.
  * Original source: L. Frank Baum, The Wonderful Wizard of Oz (1900).
  */
 export const wizardOfOzChapters3to4: readonly ReaderChapter[] = [
@@ -245,20 +245,158 @@ Toto did not like this addition to the party at first. He smelled around the stu
     number: 4,
     title: "အခန်း (၄) — တောအုပ်ကို ဖြတ်သန်းသော လမ်း",
     titleEn: "Chapter 4 — The Road Through the Forest",
-    content: `ဒေါ်ရသီ၊ တိုတိုနှင့် စာခြောက်ရုပ်တို့သည် အဝါရောင်အုတ်ခင်းလမ်းအတိုင်း ဆက်လက်လျှောက်လှမ်းကြသည်။ အစပိုင်းတွင် လမ်းသည် ကျယ်ပြန့်ပြီး လယ်ကွင်းများ၊ အိမ်ငယ်များနှင့် သစ်ပင်များကို တွေ့ရသည်။ သို့သော် ခရီးကြာလာသည်နှင့်အမျှ လမ်းသည် ပိုမိုကြမ်းတမ်းလာပြီး အုတ်ခဲအချို့ ကျိုးပဲ့နေသည်။ တချို့နေရာများတွင် အုတ်ခဲများ ပျောက်နေသဖြင့် အပေါက်များကို ကျော်ဖြတ်ရသည်။ စာခြောက်ရုပ်သည် အပေါက်များကို သတိမထားမိဘဲ တည့်တည့်လျှောက်တတ်သောကြောင့် မကြာခဏ ချော်လဲတတ်သည်။ သူ့ကို နာကျင်မှုမရှိသော်လည်း ဒေါ်ရသီက ပြန်ထူပေးရပြီး သူတို့အားလုံး ရယ်မောကြသည်။
+    content: `နာရီအနည်းငယ်ကြာ လျှောက်လာပြီးနောက် လမ်းသည် ကြမ်းတမ်းလာသည်။ အဝါရောင်အုတ်ခဲများမှာ မညီမညာဖြစ်နေသဖြင့် စာခြောက်ရုပ်သည် မကြာခဏ ခလုတ်တိုက်တတ်သည်။ တချို့နေရာများတွင် အုတ်ခဲများ ကျိုးပဲ့နေသလို တချို့နေရာများတွင် လုံးဝပျောက်နေပြီး အပေါက်များ ဖြစ်နေသည်။ တိုတိုက ထိုအပေါက်များကို ခုန်ကျော်သွားနိုင်သော်လည်း ဒေါ်ရသီကတော့ ပတ်၍ လျှောက်သွားရသည်။ စာခြောက်ရုပ်မှာတော့ ဦးနှောက်မရှိဟု သူ့ကိုယ်သူ ယုံကြည်ထားသည့်အတိုင်း ရှေ့တည့်တည့်သာ လျှောက်သွားတတ်ရာ အပေါက်ထဲသို့ ခြေချမိပြီး မာကျောသော အုတ်ခင်းပေါ်သို့ တစ်ကိုယ်လုံး လဲကျသွားတတ်သည်။
 
-လယ်ကွင်းများသည်လည်း အရင်ကလို စိမ်းလန်းသပ်ရပ်မှု မရှိတော့ပေ။ အိမ်များ နည်းလာပြီး သစ်သီးပင်များလည်း ရှားပါးလာသည်။ လမ်းသည် တဖြည်းဖြည်း တောအုပ်ကြီးတစ်ခုဆီသို့ ဦးတည်သွားသည်။ နေ့လယ်အချိန်တွင် သူတို့သည် စမ်းချောင်းငယ်တစ်ခုအနီး၌ ခဏနားကြသည်။ ဒေါ်ရသီက ခရီးဆောင်ခြင်းထဲမှ ပေါင်မုန့်ကို ထုတ်ကာ စာခြောက်ရုပ်ကို ဝေမျှသော်လည်း သူက မစားနိုင်ကြောင်း ပြောသည်။ သူ၏ ပါးစပ်သည် ဆေးဖြင့် ရေးဆွဲထားခြင်းသာဖြစ်ပြီး အစားအစာစားရန် မဖြစ်နိုင်ပေ။ သူသည် ရေသောက်ရန်လည်း မလိုအပ်ပါ။
+သို့သော် သူ့အတွက် ထိခိုက်နာကျင်မှု မရှိပေ။ ဒေါ်ရသီက သူ့ကို ပြန်ထူပေးပြီး ခြေထောက်ပေါ် ပြန်ရပ်စေသည်။ စာခြောက်ရုပ်ကလည်း မိမိ၏ အဖြစ်အပျက်ကို ရယ်မောပျော်ရွှင်စွာ လက်ခံတတ်သည်။
 
-အနားယူပြီးနောက် သူတို့သည် လမ်းဆက်လျှောက်ကြသည်။ စာခြောက်ရုပ်က သူ့တွင် ဦးနှောက်မရှိသဖြင့် အတွေးအခေါ်မရှိဟု ယုံကြည်နေဆဲဖြစ်သည်။ ဒေါ်ရသီကတော့ သူ၏ မေးခွန်းများနှင့် သတိထားကြည့်ရှုမှုများကို နားထောင်ရင်း စဉ်းစားတတ်ခြင်းဆိုသည်မှာ ဦးနှောက်တစ်ခု ရှိခြင်းတစ်ခုတည်းနှင့် မပြီးဆုံးကြောင်း သတိပြုမိသည်။ သူသည် မိမိလိုချင်သည့်အရာကို ရှင်းပြနိုင်ပြီး အခြေအနေများကိုလည်း သတိထားမိသည်။
+ဤနေရာရှိ လယ်ယာများသည် သူတို့ဖြတ်လာခဲ့သော နေရာများလောက် သပ်ရပ်စွာ ပြုပြင်ထိန်းသိမ်းထားခြင်း မရှိတော့ပေ။ အိမ်များလည်း နည်းလာပြီး သစ်သီးပင်များလည်း ရှားပါးလာသည်။ ခရီးပိုဝေးလာသည်နှင့်အမျှ ပတ်ဝန်းကျင်သည် ပိုမိုခြောက်ကပ်ပြီး အထီးကျန်ဆန်လာသည်။
 
-တောအုပ်ထဲသို့ ဝင်လာသောအခါ ပတ်ဝန်းကျင်သည် ပိုမိုမှောင်မိုက်လာသည်။ သစ်ပင်ကြီးများ၏ အကိုင်းအခက်များက နေရောင်ကို ဖုံးကွယ်ထားပြီး လမ်းဘေးတွင် ချုံပုတ်များ ထူထပ်နေသည်။ ဒေါ်ရသီသည် တောထဲတွင် ဘယ်လိုအခက်အခဲများ ရှိနိုင်မည်ကို စိုးရိမ်လာသည်။ စာခြောက်ရုပ်ကလည်း အန္တရာယ်ကို မသိနိုင်သည့်အတွက် စိုးရိမ်စိတ်ရှိကြောင်း ပြောသည်။ သို့သော် သူတို့သည် မြို့တော်သို့ ရောက်ရန် လမ်းကို ဆက်လက်လိုက်ရမည်ဖြစ်သည်။
+နေ့လယ်အချိန်တွင် သူတို့သည် လမ်းဘေးရှိ ချောင်းငယ်တစ်ခုအနီး၌ ထိုင်နားကြသည်။ ဒေါ်ရသီသည် ခြင်းတောင်းကို ဖွင့်ကာ ပေါင်မုန့်တစ်စိတ်ကို ထုတ်ယူလိုက်သည်။ စာခြောက်ရုပ်ကိုလည်း ဝေမျှပေးသော်လည်း သူက ငြင်းလိုက်သည်။
 
-လမ်းတစ်နေရာတွင် စာခြောက်ရုပ်သည် သစ်ပင်တစ်ပင်၏ အောက်ခြေ၌ ပုဆိန်တစ်လက်ကို တွေ့လိုက်ရသည်။ ပုဆိန်သည် အသုံးပြုထားသည့် အမှတ်အသားများ ရှိနေပြီး အနီးအနားတွင် သစ်ခုတ်ထားသည့် သစ်တုံးများလည်း တွေ့ရသည်။ သူတို့သည် ပစ္စည်းပိုင်ရှင်ကို ရှာဖွေရန် ပတ်ဝန်းကျင်ကို ကြည့်ရှုကြသည်။ ခဏအကြာတွင် သစ်ပင်များကြား၌ သတ္တုဖြင့် ပြုလုပ်ထားသကဲ့သို့ တောက်ပနေသော လူတစ်ဦး၏ ပုံရိပ်ကို တွေ့လိုက်ရသည်။
+“ကျွန်တော်က ဘယ်တော့မှ ဗိုက်မဆာဘူး။ အဲဒါက ကံကောင်းတာပဲ။ ကျွန်တော့်ပါးစပ်က ဆေးခြယ်ထားတာသာ ဖြစ်တယ်။ အဲဒီမှာ အပေါက်ဖောက်ပြီး စားလို့ရအောင် လုပ်လိုက်ရင် ကိုယ်ထဲက ကောက်ရိုးတွေ အပြင်ထွက်လာပြီး ခေါင်းပုံစံပျက်သွားလိမ့်မယ်” ဟု သူက ပြောသည်။
 
-အနီးသို့ သွားကြည့်သောအခါ ထိုသူသည် သစ်ခုတ်သမားတစ်ဦး၏ ပုံစံရှိသော်လည်း ကိုယ်ခန္ဓာတစ်ခုလုံး သံဖြင့် ပြုလုပ်ထားကြောင်း သိလာသည်။ သူသည် ပုဆိန်ကို ကိုင်ထားသည့် အနေအထားဖြင့် မလှုပ်မယှက် ရပ်နေသည်။ သူ၏ အဆစ်များမှာ သံချေးတက်နေသလို ဖြစ်ပြီး ပါးစပ်လည်း ဖွင့်ထားသည့်အတိုင်း ရှိနေသည်။ ဒေါ်ရသီက သူ့ကို နှုတ်ဆက်ကြည့်သော်လည်း ပြန်မဖြေပါ။ ထိုအခါ သူတို့သည် သူ့ကို ကူညီနိုင်မည့်နည်းလမ်းတစ်ခု ရှာဖွေရန် ဆုံးဖြတ်လိုက်ကြသည်။`,
-    contentEn: `Dorothy, Toto, and the Scarecrow continue along the Yellow Brick Road. The bricks become uneven and broken, and the countryside grows quieter as they approach a forest. The Scarecrow often trips over missing bricks, but he is not hurt, and the companions laugh together. At a stream they stop to rest. Dorothy offers him bread, but he explains that he cannot eat because his mouth is only painted on.
+ထိုစကားမှာ မှန်ကန်ကြောင်း ဒေါ်ရသီ ချက်ချင်း သဘောပေါက်သွားသည်။ ထို့ကြောင့် ခေါင်းညိတ်ပြပြီး မိမိ၏ ပေါင်မုန့်ကိုသာ ဆက်စားလိုက်သည်။
 
-The forest is darker and more difficult to travel through. The Scarecrow notices an axe near a tree, and the companions look around for its owner. They soon discover a motionless figure among the trees: a Woodman made entirely of tin. His joints appear rusty, and he cannot answer when Dorothy greets him. The travellers decide to find a way to help him.`,
+“ကျွန်တော့်ကို ရှင့်အကြောင်းနဲ့ ရှင်လာခဲ့တဲ့ နိုင်ငံအကြောင်း ပြောပြပါလား” ဟု ဒေါ်ရသီ ထမင်းစားပြီးသောအခါ စာခြောက်ရုပ်က မေးသည်။ ထို့ကြောင့် ဒေါ်ရသီသည် ကန်ဆတ်ပြည်နယ်အကြောင်း၊ ထိုနေရာရှိ အရာအားလုံး မီးခိုးရောင်ဆန်နေသည့်အကြောင်းနှင့် လေဝဲမုန်တိုင်းက သူမကို ထူးဆန်းသော အော့ဇ်ပြည်သို့ သယ်ဆောင်လာခဲ့ပုံတို့ကို ပြောပြလိုက်သည်။
+
+စာခြောက်ရုပ်သည် သေချာနားထောင်ပြီးနောက် “ဒီလောက်လှပတဲ့ နိုင်ငံကို ထားခဲ့ပြီး ရှင်က ကန်ဆတ်လို့ ခေါ်တဲ့ ခြောက်သွေ့ပြီး မီးခိုးရောင်ဆန်တဲ့ နေရာကို ဘာကြောင့် ပြန်ချင်ရတာလဲဆိုတာ ကျွန်တော် နားမလည်ဘူး” ဟု ပြောသည်။
+
+“ရှင့်မှာ ဦးနှောက်မရှိလို့ပေါ့” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။ “ကျွန်မတို့ရဲ့ အိမ်တွေက ဘယ်လောက်ပဲ ခြောက်ကပ်ပြီး မီးခိုးရောင်ဆန်နေပါစေ၊ အသားနဲ့ သွေးနဲ့ ဖွဲ့စည်းထားတဲ့ လူတွေကတော့ ဘယ်လောက်ပဲ လှပတဲ့ နိုင်ငံဖြစ်နေပါစေ ကိုယ့်အိမ်ကိုပဲ ပြန်ချင်ကြတယ်။ ကိုယ့်အိမ်လို နေရာမျိုး ဘယ်မှာမှ မရှိဘူးလေ။”
+
+စာခြောက်ရုပ်သည် သက်ပြင်းချလိုက်သည်။
+
+“အဲဒါကို ကျွန်တော် နားမလည်နိုင်တာ သဘာဝပါပဲ။ ကျွန်တော့်လို ခေါင်းထဲမှာ ကောက်ရိုးတွေ ထည့်ထားမယ်ဆိုရင် လူအားလုံးက လှပတဲ့ နေရာတွေမှာပဲ နေကြလိမ့်မယ်။ အဲဒီလိုဆိုရင် ကန်ဆတ်မှာ လူတစ်ယောက်မှ ရှိတော့မှာ မဟုတ်ဘူး။ လူတွေမှာ ဦးနှောက်ရှိနေတာက ကန်ဆတ်အတွက် ကံကောင်းတာပဲ” ဟု သူက ပြောသည်။
+
+“အနားယူနေတုန်း ကျွန်မကို ပုံပြင်တစ်ပုဒ် ပြောပြပါလား” ဟု ဒေါ်ရသီက မေးလိုက်သည်။
+
+စာခြောက်ရုပ်သည် အပြစ်တင်သကဲ့သို့ သူမကို ကြည့်ပြီး ပြန်ဖြေသည်။
+
+“ကျွန်တော့်ဘဝက အရမ်းတိုတောင်းလွန်းလို့ ဘာမှ မသိသေးဘူး။ ကျွန်တော်ကို မနေ့တစ်နေ့ကမှ ပြုလုပ်ထားတာ။ အဲဒီအချိန်မတိုင်ခင် ကမ္ဘာပေါ်မှာ ဘာတွေဖြစ်ခဲ့သလဲဆိုတာ အားလုံး မသိဘူး။ ကံကောင်းတာက လယ်သမားက ကျွန်တော့်ခေါင်းကို ပြုလုပ်တဲ့အခါ ပထမဆုံးလုပ်ခဲ့တဲ့ အရာတွေထဲမှာ နားနှစ်ဖက်ကို ဆေးခြယ်ပေးတာ ပါတယ်။ ဒါကြောင့် သူတို့ပြောတာတွေကို ကျွန်တော် ကြားနိုင်ခဲ့တယ်။ သူနဲ့အတူ မန်ချ်ကင်တစ်ယောက်လည်း ရှိနေတယ်။ ကျွန်တော် ပထမဆုံးကြားခဲ့ရတာက လယ်သမားက ‘ဒီနားတွေ ဘယ်လိုနေလဲ’ လို့ မေးတာပဲ။
+
+“‘နားတွေက ဖြောင့်မနေဘူး’ လို့ အခြားသူက ပြန်ဖြေတယ်။
+
+“‘ကိစ္စမရှိပါဘူး။ နားတော့ နားပဲလေ’ လို့ လယ်သမားက ပြောတယ်။ အဲဒါလည်း မှန်ပါတယ်။
+
+“‘အခု မျက်လုံးတွေ လုပ်တော့မယ်’ လို့ လယ်သမားက ပြောတယ်။ ဒါနဲ့ ကျွန်တော့်ရဲ့ ညာဘက်မျက်လုံးကို ဆေးခြယ်လိုက်တယ်။ မျက်လုံးတစ်ဖက် ပြီးသွားတာနဲ့ ကျွန်တော်ဟာ သူ့ကိုရော ပတ်ဝန်းကျင်မှာရှိတဲ့ အရာအားလုံးကိုပါ စူးစမ်းချင်စိတ်နဲ့ ကြည့်နေမိတယ်။ ဒါဟာ ကျွန်တော့်အတွက် ကမ္ဘာကြီးကို ပထမဆုံး မြင်တွေ့ရခြင်းပဲ။
+
+“‘ဒီမျက်လုံးက တော်တော်လှတယ်။ အပြာရောင်ဆေးက မျက်လုံးအတွက် အရောင်ကောင်းပဲ’ လို့ လယ်သမားကို ကြည့်နေတဲ့ မန်ချ်ကင်က ပြောတယ်။
+
+“‘နောက်တစ်ဖက်ကို နည်းနည်းပိုကြီးအောင် လုပ်မယ်’ လို့ လယ်သမားက ပြောတယ်။ ဒုတိယမျက်လုံး ပြီးသွားတဲ့အခါ အရင်ကထက် ပိုပြီး ကောင်းကောင်းမြင်လာရတယ်။ အဲဒီနောက် သူက ကျွန်တော့်နှာခေါင်းနဲ့ ပါးစပ်ကို လုပ်ပေးတယ်။ ဒါပေမဲ့ အဲဒီအချိန်မှာ ပါးစပ်ဆိုတာ ဘာအတွက်လဲဆိုတာ ကျွန်တော် မသိသေးလို့ စကားမပြောနိုင်ခဲ့ဘူး။ သူတို့က ကျွန်တော့်ကိုယ်ခန္ဓာ၊ လက်တွေ၊ ခြေထောက်တွေကို ပြုလုပ်နေကြတာကို ကြည့်ရတာ အရမ်းပျော်စရာကောင်းတယ်။ နောက်ဆုံးမှာ ခေါင်းကို ကိုယ်ပေါ်တပ်ပေးလိုက်တဲ့အခါ ကျွန်တော် အလွန်ဂုဏ်ယူမိတယ်။ ဘာကြောင့်လဲဆိုတော့ ကျွန်တော်ဟာ အခြားလူတိုင်းလိုပဲ လူတစ်ယောက်ဖြစ်နေပြီလို့ ထင်ခဲ့လို့ပဲ။
+
+“‘ဒီကောင်က ကျီးကန်းတွေကို ကောင်းကောင်းခြောက်လှန့်နိုင်မှာပဲ။ လူတစ်ယောက်နဲ့လည်း တူတယ်’ လို့ လယ်သမားက ပြောတယ်။
+
+“‘သူက လူတစ်ယောက်ပဲလေ’ လို့ အခြားသူက ပြန်ပြောတယ်။ ကျွန်တော်လည်း သူ့စကားကို သဘောတူခဲ့တယ်။ လယ်သမားက ကျွန်တော့်ကို လက်မောင်းအောက်မှာ ထမ်းပြီး ပြောင်းခင်းထဲသို့ သယ်လာတယ်။ ပြီးတော့ မြင့်တဲ့တိုင်တစ်တိုင်ပေါ်မှာ တင်ထားခဲ့တယ်။ ရှင်တွေ့ခဲ့တဲ့ နေရာပေါ့။ သိပ်မကြာခင်မှာ သူနဲ့ သူ့မိတ်ဆွေက ထွက်သွားပြီး ကျွန်တော့်ကို တစ်ယောက်တည်း ထားခဲ့ကြတယ်။
+
+“အဲဒီလို ပစ်ထားခဲ့တာကို ကျွန်တော် မကြိုက်ဘူး။ ဒါကြောင့် သူတို့နောက်ကို လိုက်ဖို့ ကြိုးစားခဲ့တယ်။ ဒါပေမဲ့ ကျွန်တော့်ခြေထောက်တွေက မြေပြင်ကို မထိနိုင်ဘူး။ အဲဒီတိုင်ပေါ်မှာပဲ နေရတော့တယ်။ ကျွန်တော့်ကို ပြုလုပ်ထားတာ မကြာသေးတဲ့အတွက် စဉ်းစားစရာလည်း ဘာမှ မရှိသေးဘူး။ ဒါကြောင့် အဲဒီဘဝက အထီးကျန်လွန်းတယ်။ ကျီးကန်းတွေနဲ့ အခြားငှက်တွေက ပြောင်းခင်းထဲကို ပျံဝင်လာကြတယ်။ ဒါပေမဲ့ ကျွန်တော့်ကို မြင်တာနဲ့ မန်ချ်ကင်တစ်ယောက်လို့ ထင်ပြီး ပြန်ပျံထွက်သွားကြတယ်။ အဲဒါကို ကျွန်တော် သဘောကျပြီး ကိုယ့်ကိုယ်ကို အရေးပါတဲ့သူတစ်ယောက်လို့ ခံစားခဲ့ရတယ်။
+
+“တစ်ချိန်မှာ ကျီးကန်းအိုတစ်ကောင် ကျွန်တော့်အနီးကို ပျံလာတယ်။ ကျွန်တော့်ကို သေချာကြည့်ပြီး ပခုံးပေါ်မှာ လာနားတယ်။ ပြီးတော့ ‘ဒီလယ်သမားက ဒီလို မသေမသပ်လုပ်ထားပြီး ငါ့ကို လှည့်စားနိုင်မယ်လို့ ထင်နေတာလား မသိဘူး။ စဉ်းစားတတ်တဲ့ ကျီးကန်းတစ်ကောင်ဆိုရင် မင်းက ကောက်ရိုးတွေနဲ့ ဖြည့်ထားတာပဲဆိုတာ ချက်ချင်းသိနိုင်တယ်’ လို့ ပြောတယ်။ အဲဒီနောက် ကျွန်တော့်ခြေထောက်အနားကို ခုန်ဆင်းပြီး သူစားချင်သလောက် ပြောင်းဖူးတွေကို စားတော့တယ်။ အခြားငှက်တွေကလည်း သူ့ကို ကျွန်တော် မတားနိုင်တာကို မြင်ကြတဲ့အခါ ပြောင်းဖူးစားဖို့ လာကြတယ်။ မကြာခင်မှာပဲ ကျွန်တော့်ပတ်လည်မှာ ငှက်အုပ်ကြီးတစ်အုပ် ဖြစ်လာတယ်။
+
+“အဲဒါကို မြင်ရတော့ ကျွန်တော် ဝမ်းနည်းသွားတယ်။ ကျွန်တော်ဟာ စာခြောက်ရုပ်ကောင်းတစ်ရုပ် မဟုတ်ဘူးဆိုတာ ပေါ်လွင်သွားလို့ပဲ။ ဒါပေမဲ့ ကျီးကန်းအိုက ကျွန်တော့်ကို နှစ်သိမ့်ပေးတယ်။ ‘မင်းခေါင်းထဲမှာ ဦးနှောက်သာ ရှိမယ်ဆိုရင် သူတို့ထဲက ဘယ်သူ့ထက်မဆို လူကောင်းတစ်ယောက် ဖြစ်နိုင်တယ်။ တချို့လူတွေထက်တောင် ပိုကောင်းနိုင်တယ်။ ဒီကမ္ဘာမှာ တန်ဖိုးအရှိဆုံးအရာက ဦးနှောက်ပဲ။ ကျီးကန်းဖြစ်ဖြစ်၊ လူဖြစ်ဖြစ် အတူတူပဲ’ လို့ ပြောတယ်။
+
+“ကျီးကန်းတွေ ပျံသန်းထွက်သွားပြီးနောက် အဲဒီစကားကို ကျွန်တော် အချိန်ကြာကြာ စဉ်းစားနေခဲ့တယ်။ နောက်ဆုံးမှာ ဦးနှောက်ရဖို့ အတတ်နိုင်ဆုံး ကြိုးစားမယ်လို့ ဆုံးဖြတ်လိုက်တယ်။ ကံကောင်းလို့ ရှင်ရောက်လာပြီး ကျွန်တော့်ကို တိုင်ပေါ်ကနေ ဆင်းပေးခဲ့တယ်။ ရှင်ပြောပြတဲ့အကြောင်းတွေကို ကြားရတော့ မြစိမ်းရောင်မြို့တော်ကို ရောက်တာနဲ့ မဟာမှော်ဆရာ အော့ဇ်က ကျွန်တော့်ကို ဦးနှောက်ပေးလိမ့်မယ်လို့ ကျွန်တော် ယုံကြည်လာတယ်။”
+
+“အဲဒီလို ဖြစ်ပါစေလို့ ကျွန်မလည်း မျှော်လင့်ပါတယ်။ ရှင်က ဦးနှောက်ကို အရမ်းလိုချင်နေတာပဲ” ဟု ဒေါ်ရသီက စိတ်ရင်းမှန်ဖြင့် ပြောသည်။
+
+“အို၊ အရမ်းလိုချင်တာပေါ့။ ကိုယ့်ကိုယ်ကို လူမိုက်တစ်ယောက်လို့ သိနေရတာ အဆင်မပြေဘူးလေ” ဟု စာခြောက်ရုပ်က ပြန်ဖြေသည်။
+
+“ဒါဆို ဆက်သွားကြရအောင်” ဟု ဒေါ်ရသီက ပြောပြီး ခြင်းတောင်းကို စာခြောက်ရုပ်ထံ ပေးလိုက်သည်။
+
+ယခုအခါ လမ်းဘေးတွင် ခြံစည်းရိုးများ မရှိတော့ပေ။ မြေပြင်သည် ကြမ်းတမ်းပြီး ထွန်ယက်စိုက်ပျိုးထားခြင်းလည်း မရှိတော့ပေ။ ညနေစောင်းလာသောအခါ သူတို့သည် သစ်ပင်ကြီးများ အလွန်မြင့်မားပြီး အလွန်နီးကပ်စွာ ပေါက်ရောက်နေသော တောအုပ်ကြီးတစ်ခုသို့ ရောက်လာကြသည်။ သစ်ကိုင်းများသည် အဝါရောင်အုတ်ခင်းလမ်းပေါ်တွင် တစ်ဖက်နှင့်တစ်ဖက် ဆုံမိနေကြသည်။ သစ်ကိုင်းများက နေရောင်ကို ပိတ်ဆို့ထားသဖြင့် သစ်ပင်အောက်တွင် အလွန်မှောင်နေသည်။ သို့သော် ခရီးသည်များသည် မရပ်နားဘဲ တောအုပ်အတွင်းသို့ ဆက်လက်ဝင်ရောက်သွားကြသည်။
+
+“ဒီလမ်းက တောအုပ်ထဲကို ဝင်သွားတယ်ဆိုရင် တစ်ဖက်မှာ ပြန်ထွက်လာမှာပဲ။ မြစိမ်းရောင်မြို့တော်ကလည်း ဒီလမ်းရဲ့ အခြားတစ်ဖက်မှာ ရှိတာဆိုတော့ လမ်းခေါ်ဆောင်ရာကို လိုက်သွားရမှာပေါ့” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+“အဲဒါကို ဘယ်သူမဆို သိနိုင်တာပဲ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ဟုတ်ပါတယ်။ ဒါကြောင့် ကျွန်တော်လည်း သိတာပေါ့။ အဲဒါကို သိဖို့ ဦးနှောက်လိုမယ်ဆိုရင်တော့ ကျွန်တော် ဘယ်တော့မှ ပြောနိုင်မှာ မဟုတ်ဘူး” ဟု စာခြောက်ရုပ်က ပြန်ပြောသည်။
+
+တစ်နာရီခန့်ကြာပြီးနောက် အလင်းရောင်သည် တဖြည်းဖြည်း မှိန်သွားသည်။ သူတို့သည် အမှောင်ထဲတွင် ခလုတ်တိုက်လျှောက်နေရသည်။ ဒေါ်ရသီမှာ ဘာကိုမျှ မမြင်နိုင်တော့ပေ။ သို့သော် ခွေးအချို့သည် အမှောင်ထဲတွင် ကောင်းစွာ မြင်နိုင်ကြသဖြင့် တိုတိုကတော့ မြင်နိုင်သည်။ စာခြောက်ရုပ်ကလည်း နေ့ခင်းအချိန်ကဲ့သို့ပင် ကောင်းကောင်းမြင်နိုင်ကြောင်း ပြောသည်။ ထို့ကြောင့် ဒေါ်ရသီသည် စာခြောက်ရုပ်၏ လက်မောင်းကို ကိုင်ထားပြီး အတော်အသင့် အဆင်ပြေစွာ လျှောက်နိုင်ခဲ့သည်။
+
+“အိမ်တစ်အိမ် ဒါမှမဟုတ် ညအိပ်လို့ရမယ့် နေရာတစ်ခုခုကို တွေ့ရင် ကျွန်မကို ပြောပေးပါနော်။ အမှောင်ထဲမှာ လမ်းလျှောက်ရတာ အရမ်းအဆင်မပြေလို့ပါ” ဟု သူမက ပြောသည်။
+
+သိပ်မကြာခင်မှာပင် စာခြောက်ရုပ် ရပ်လိုက်သည်။
+
+“ကျွန်တော်တို့ရဲ့ ညာဘက်မှာ သစ်လုံးတွေနဲ့ သစ်ကိုင်းတွေကို အသုံးပြုပြီး ဆောက်ထားတဲ့ တဲငယ်တစ်လုံးကို မြင်တယ်။ အဲဒီကို သွားကြမလား” ဟု သူက မေးသည်။
+
+“သွားကြတာပေါ့။ ကျွန်မ အရမ်းပင်ပန်းနေပြီ” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။
+
+ထို့နောက် စာခြောက်ရုပ်သည် သစ်ပင်များကြားမှ လမ်းပြခေါ်ဆောင်သွားပြီး နောက်ဆုံးတွင် တဲငယ်လေးဆီသို့ ရောက်လာကြသည်။ ဒေါ်ရသီသည် အထဲသို့ ဝင်ကြည့်ရာ ထောင့်တစ်နေရာတွင် သစ်ရွက်ခြောက်များဖြင့် ပြုလုပ်ထားသော အိပ်ရာတစ်ခုကို တွေ့လိုက်ရသည်။ သူမသည် ချက်ချင်းပင် ထိုအိပ်ရာပေါ်တွင် လှဲချလိုက်ပြီး ဘေးတွင် တိုတိုရှိနေသဖြင့် မကြာမီ အိပ်ပျော်သွားသည်။ ဘယ်တော့မှ မပင်ပန်းတတ်သော စာခြောက်ရုပ်ကတော့ အခြားထောင့်တစ်နေရာတွင် မတ်တတ်ရပ်လျက် မနက်မိုးလင်းလာမည့်အချိန်ကို စိတ်ရှည်စွာ စောင့်နေခဲ့သည်။`,
+    contentEn: `After a few hours the road began to be rough, and the walking grew so difficult that the Scarecrow often stumbled over the yellow bricks, which were here very uneven. Sometimes, indeed, they were broken or missing altogether, leaving holes that Toto jumped across and Dorothy walked around. As for the Scarecrow, having no brains, he walked straight ahead, and so stepped into the holes and fell at full length on the hard bricks.
+
+It never hurt him, however, and Dorothy would pick him up and set him upon his feet again, while he joined her in laughing merrily at his own mishap.
+
+The farms were not nearly so well cared for here as they were farther back. There were fewer houses and fewer fruit trees, and the farther they went the more dismal and lonesome the country became.
+
+At noon they sat down by the roadside, near a little brook, and Dorothy opened her basket and got out some bread. She offered a piece to the Scarecrow, but he refused.
+
+“I am never hungry,” he said, “and it is a lucky thing I am not, for my mouth is only painted, and if I should cut a hole in it so I could eat, the straw I am stuffed with would come out, and that would spoil the shape of my head.”
+
+Dorothy saw at once that this was true, so she only nodded and went on eating her bread.
+
+“Tell me something about yourself and the country you came from,” said the Scarecrow, when she had finished her dinner. So she told him all about Kansas, and how gray everything was there, and how the cyclone had carried her to this queer Land of Oz.
+
+The Scarecrow listened carefully, and said, “I cannot understand why you should wish to leave this beautiful country and go back to the dry, gray place you call Kansas.”
+
+“That is because you have no brains,” answered the girl. “No matter how dreary and gray our homes are, we people of flesh and blood would rather live there than in any other country, be it ever so beautiful. There is no place like home.”
+
+The Scarecrow sighed.
+
+“Of course I cannot understand it,” he said. “If your heads were stuffed with straw, like mine, you would probably all live in the beautiful places, and then Kansas would have no people at all. It is fortunate for Kansas that you have brains.”
+
+“Won’t you tell me a story, while we are resting?” asked the child.
+
+The Scarecrow looked at her reproachfully, and answered:
+
+“My life has been so short that I really know nothing whatever. I was only made day before yesterday. What happened in the world before that time is all unknown to me. Luckily, when the farmer made my head, one of the first things he did was to paint my ears, so that I heard what was going on. There was another Munchkin with him, and the first thing I heard was the farmer saying, ‘How do you like those ears?’
+
+“‘They aren’t straight,’ answered the other.
+
+“‘Never mind,’ said the farmer. ‘They are ears just the same,’ which was true enough.
+
+“‘Now I’ll make the eyes,’ said the farmer. So he painted my right eye, and as soon as it was finished I found myself looking at him and at everything around me with a great deal of curiosity, for this was my first glimpse of the world.
+
+“‘That’s a rather pretty eye,’ remarked the Munchkin who was watching the farmer. ‘Blue paint is just the color for eyes.’
+
+“‘I think I’ll make the other a little bigger,’ said the farmer. And when the second eye was done I could see much better than before. Then he made my nose and my mouth. But I did not speak, because at that time I didn’t know what a mouth was for. I had the fun of watching them make my body and my arms and legs; and when they fastened on my head, at last, I felt very proud, for I thought I was just as good a man as anyone.
+
+“‘This fellow will scare the crows fast enough,’ said the farmer. ‘He looks just like a man.’
+
+“‘Why, he is a man,’ said the other, and I quite agreed with him. The farmer carried me under his arm to the cornfield, and set me up on a tall stick, where you found me. He and his friend soon after walked away and left me alone.
+
+“I did not like to be deserted this way. So I tried to walk after them. But my feet would not touch the ground, and I was forced to stay on that pole. It was a lonely life to lead, for I had nothing to think of, having been made such a little while before. Many crows and other birds flew into the cornfield, but as soon as they saw me they flew away again, thinking I was a Munchkin; and this pleased me and made me feel that I was quite an important person.
+
+“By and by an old crow flew near me, and after looking at me carefully he perched upon my shoulder and said:
+
+“‘I wonder if that farmer thought to fool me in this clumsy manner. Any crow of sense could see that you are only stuffed with straw.’ Then he hopped down at my feet and ate all the corn he wanted. The other birds, seeing he was not harmed by me, came to eat the corn too, so in a short time there was a great flock of them about me.
+
+“I felt sad at this, for it showed I was not such a good Scarecrow after all; but the old crow comforted me, saying, ‘If you only had brains in your head you would be as good a man as any of them, and a better man than some of them. Brains are the only things worth having in this world, no matter whether one is a crow or a man.’
+
+“After the crows had gone I thought this over, and decided I would try hard to get some brains. By good luck you came along and pulled me off the stake, and from what you say I am sure the Great Oz will give me brains as soon as we get to the Emerald City.”
+
+“I hope so,” said Dorothy earnestly, “since you seem anxious to have them.”
+
+“Oh, yes; I am anxious,” returned the Scarecrow. “It is such an uncomfortable feeling to know one is a fool.”
+
+“Well,” said the girl, “let us go.” And she handed the basket to the Scarecrow.
+
+There were no fences at all by the roadside now, and the land was rough and untilled. Toward evening they came to a great forest, where the trees grew so big and close together that their branches met over the road of yellow brick. It was almost dark under the trees, for the branches shut out the daylight; but the travelers did not stop, and went on into the forest.
+
+“If this road goes in, it must come out,” said the Scarecrow, “and as the Emerald City is at the other end of the road, we must go wherever it leads us.”
+
+“Anyone would know that,” said Dorothy.
+
+“Certainly; that is why I know it,” returned the Scarecrow. “If it required brains to figure it out, I never should have said it.”
+
+After an hour or so the light faded away, and they found themselves stumbling along in the darkness. Dorothy could not see at all, but Toto could, for some dogs see very well in the dark; and the Scarecrow declared he could see as well as by day. So she took hold of his arm and managed to get along fairly well.
+
+“If you see any house, or any place where we can pass the night,” she said, “you must tell me; for it is very uncomfortable walking in the dark.”
+
+Soon after the Scarecrow stopped.
+
+“I see a little cottage at the right of us,” he said, “built of logs and branches. Shall we go there?”
+
+“Yes, indeed,” answered the child. “I am all tired out.”
+
+So the Scarecrow led her through the trees until they reached the cottage, and Dorothy entered and found a bed of dried leaves in one corner. She lay down at once, and with Toto beside her soon fell into a sound sleep. The Scarecrow, who was never tired, stood up in another corner and waited patiently until morning came.`
   },
   {
     number: 5,
