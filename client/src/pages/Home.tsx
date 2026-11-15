@@ -521,7 +521,7 @@ export default function Home() {
           <button className="cover-entry-language" type="button" onClick={() => setSiteLanguage((language) => language === "my" ? "en" : "my")} aria-label="မြန်မာနှင့် English ဘာသာစကား ပြောင်းရန်"><Languages size={16} /><span>{siteLanguage === "my" ? "EN" : "မြန်မာ"}</span></button>
           <div className="cover-entry-content">
             <div className="cover-entry-art">
-              <img src={getAssetPath(detailBook.coverImage)} alt={`${detailBook.title} — ${detailBook.author}`} />
+              <img src={getAssetPath(detailBook.coverImage)} alt={`${detailBook.title} — ${detailBook.author}`} decoding="async" />
             </div>
             <span className="cover-entry-kicker">THARi BOOKS · CLASSICS</span>
             <h1 id="book-detail-title">{siteLanguage === "my" ? detailBook.titleMy : detailBook.title}</h1>
@@ -637,7 +637,7 @@ export default function Home() {
               return (
                 <article className="book-card" key={book.id}>
                   <div className={`book-cover cover-${["blue", "gold", "green", "rose"][index % 4]}`}>
-                    <img className="book-cover-image" src={getAssetPath(book.coverImage)} alt={`${book.title} — ${book.author}`} />
+                    <img className="book-cover-image" src={getAssetPath(book.coverImage)} alt={`${book.title} — ${book.author}`} loading="lazy" decoding="async" fetchPriority="low" />
                     <div className="book-cover-overlay" aria-hidden="true" />
                     <div className="cover-topline"><span>THARi · FREE LINK</span><span>{String(index + 1).padStart(2, "0")}</span></div>
                     <div className="cover-bottomline"><span>{book.author}</span><span className="cover-seal">T</span></div>
@@ -679,7 +679,7 @@ export default function Home() {
               {!readerStarted ? (
                 <section className="reader-cover-screen">
                   <div className="reader-cover-frame">
-                    <img src={getAssetPath(selectedBook.coverImage)} alt={`${selectedBook.title} — ${selectedBook.author}`} />
+                    <img src={getAssetPath(selectedBook.coverImage)} alt={`${selectedBook.title} — ${selectedBook.author}`} decoding="async" />
                   </div>
                   <p className="reader-cover-kicker">THARi BOOKS · CLASSIC LIBRARY</p>
                   <h1 id="reader-title">{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h1>
