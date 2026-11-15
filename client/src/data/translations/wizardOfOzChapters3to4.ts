@@ -3783,4 +3783,129 @@ The Lion went back to the opening where the beasts of the forest were waiting fo
 
 Then the beasts bowed down to the Lion as their King, and he promised to come back and rule over them as soon as Dorothy was safely on her way to Kansas.`,
   },
+  {
+    number: 22,
+    title: "အခန်း (၂၂) — ကွာဒလင်းလူမျိုးတို့၏ နိုင်ငံ",
+    titleEn: "Chapter 22 — The Country of the Quadlings",
+    content: `ခရီးသွားလေးဦးသည် တောအုပ်၏ ကျန်ရှိသော အပိုင်းကို ဘေးကင်းစွာ ဖြတ်သန်းလာခဲ့ကြသည်။ တောအုပ်၏ အမှောင်ထုမှ ထွက်လာသောအခါ ကျောက်တုံးကြီးများ အောက်ခြေမှ ထိပ်အထိ ဖုံးလွှမ်းနေသည့် မတ်စောက်သော တောင်ကုန်းတစ်ခုကို ရှေ့တွင် တွေ့လိုက်ရသည်။
+
+“ဒီတောင်ကို တက်ရတာ ခက်ခဲမှာပဲ။ ဒါပေမဲ့ ဘယ်လိုပဲဖြစ်ဖြစ် ကျော်ဖြတ်ရမယ်” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+ထို့ကြောင့် သူက ရှေ့ဆုံးမှ ဦးဆောင်သွားပြီး ကျန်သူများက နောက်မှ လိုက်ကြသည်။ ပထမဆုံး ကျောက်တုံးကြီးအနီးသို့ ရောက်ခါနီးတွင် ကြမ်းတမ်းသော အသံတစ်သံက “နောက်ဆုတ်နေကြ!” ဟု အော်လိုက်သည်။
+
+“မင်းက ဘယ်သူလဲ” ဟု ကောက်ရိုးလူက မေးသည်။
+
+ထိုအခါ ကျောက်တုံးပေါ်မှ ခေါင်းတစ်လုံး ပေါ်လာပြီး အရင်အသံကပင် “ဒီတောင်ဟာ ငါတို့ပိုင်တာ။ ဘယ်သူ့ကိုမှ ဖြတ်သန်းခွင့် မပေးဘူး” ဟု ပြောသည်။
+
+“ဒါပေမဲ့ ကျွန်တော်တို့ ဖြတ်သန်းရမယ်။ ကွာဒလင်းလူမျိုးတို့ရဲ့ နိုင်ငံကို သွားနေကြတာပါ” ဟု ကောက်ရိုးလူက ပြန်ပြောသည်။
+
+“မင်းတို့ ဖြတ်သန်းခွင့် မရှိဘူး” ဟု အသံက ပြန်အော်သည်။ ထို့နောက် ခရီးသွားများ မြင်ဖူးသမျှထဲတွင် အထူးဆန်းဆုံးလူတစ်ဦးသည် ကျောက်တုံးနောက်မှ ထွက်လာသည်။
+
+သူသည် အရပ်ပု၍ ကိုယ်လုံးတုတ်ခိုင်ကာ ဦးခေါင်းကြီးတစ်လုံး ရှိသည်။ ဦးခေါင်းထိပ်မှာ ပြားနေပြီး အရေးအကြောင်းများစွာရှိသော လည်ပင်းထူကြီးတစ်ခုက ထောက်ထားသည်။ သူ့တွင် လက်နှစ်ဖက်လုံး မရှိပေ။ ထိုအချက်ကို မြင်လိုက်ရသော ကောက်ရိုးလူသည် ထိုမျှ အကူအညီမဲ့သည့် သတ္တဝါတစ်ဦးက သူတို့ကို တောင်တက်ခွင့် မတားနိုင်ဟု ထင်ကာ “မင်းဆန္ဒအတိုင်း မလုပ်ပေးနိုင်တာ စိတ်မကောင်းပါဘူး။ ဒါပေမဲ့ မင်းကြိုက်သည်ဖြစ်စေ မကြိုက်သည်ဖြစ်စေ ဒီတောင်ကို ကျွန်တော်တို့ ဖြတ်ရမှာပါ” ဟု ပြောပြီး ရဲရဲဝံ့ဝံ့ ရှေ့ဆက်သွားသည်။
+
+လျှပ်တစ်ပြက်အတွင်း ထိုလူ၏ ဦးခေါင်းသည် ရှေ့သို့ အလျင်အမြန် ထွက်လာပြီး လည်ပင်းမှာလည်း ရှည်ထွက်သွားသည်။ ဦးခေါင်းထိပ်ရှိ ပြားသောနေရာက ကောက်ရိုးလူ၏ ကိုယ်အလယ်ကို ထိသွားသဖြင့် သူသည် တောင်စောင်းအတိုင်း လိမ့်ဆင်းသွားတော့သည်။ ဦးခေါင်းသည် ထွက်လာသည့်အတိုင်းပင် ချက်ချင်း ပြန်ဝင်သွားပြီး ထိုလူက ကြမ်းတမ်းစွာ ရယ်မောကာ “မင်းထင်သလောက် မလွယ်ဘူးနော်” ဟု ပြောသည်။
+
+အခြားကျောက်တုံးများနောက်မှလည်း ရယ်မောသံများ ဆူညံစွာ ထွက်ပေါ်လာသည်။ ဒေါ်ရသီသည် တောင်ကုန်းတစ်လျှောက် ကျောက်တုံးတစ်တုံးစီ၏ နောက်တွင် လက်မရှိသော ဟမ်းမာဟက်များ ရာနှင့်ချီ ရှိနေကြောင်း တွေ့လိုက်ရသည်။
+
+ကောက်ရိုးလူ ကြုံတွေ့ခဲ့ရသည့် အဖြစ်ကြောင့် ခြင်္သေ့ကြီးသည် အလွန်စိတ်ဆိုးသွားသည်။ သူသည် မိုးခြိမ်းသံကဲ့သို့ ကျယ်လောင်စွာ ဟိန်းဟောက်ပြီး တောင်ကုန်းပေါ်သို့ အရှိန်ဖြင့် ပြေးတက်သွားသည်။
+
+တစ်ဖန် ဦးခေါင်းတစ်လုံးက လျင်မြန်စွာ ထွက်လာပြီး ခြင်္သေ့ကြီးကိုလည်း အောက်ဘက်သို့ ပြန်လှိမ့်ကျသွားစေသည်။
+
+ဒေါ်ရသီသည် အောက်သို့ ပြေးဆင်းကာ ကောက်ရိုးလူကို ထူပေးလိုက်သည်။ ခြင်္သေ့ကြီးလည်း သူတို့ထံ ပြန်ရောက်လာပြီး အနည်းငယ် နာကျင်မောပန်းနေသည့်ပုံဖြင့် “ဦးခေါင်းတွေကို အဝေးထိ ဆန့်ထုတ်နိုင်တဲ့ ဒီလူတွေကို တိုက်ခိုက်လို့ မရဘူး။ ဘယ်သူမှ သူတို့ကို မတားနိုင်ဘူး” ဟု ပြောသည်။
+
+“ဒါဆို ကျွန်မတို့ ဘာလုပ်ကြမလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“တောင်ပံပါ မျောက်တွေကို ခေါ်လိုက်ပါ။ သူတို့ကို နောက်တစ်ကြိမ် အမိန့်ပေးခွင့် ရှိသေးတယ်” ဟု သံခုတ်သမားက အကြံပေးသည်။
+
+“ကောင်းပြီ” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။ ထို့နောက် ရွှေဦးထုပ်ကို ဆောင်းပြီး မှော်စကားများကို ရွတ်ဆိုလိုက်သည်။ မျောက်များသည် အရင်ကဲ့သို့ပင် ချက်ချင်း ရောက်လာကြပြီး ခဏအတွင်း အုပ်စုတစ်ခုလုံး သူမရှေ့တွင် စုဝေးနေကြသည်။
+
+“အမိန့်တော်က ဘာပါလဲ” ဟု မျောက်ဘုရင်က ဦးညွှတ်ကာ မေးသည်။
+
+“ကျွန်မတို့ကို တောင်ပေါ်ကနေ ကွာဒလင်းလူမျိုးတို့ရဲ့ နိုင်ငံဘက်ကို ပို့ပေးပါ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“အမိန့်တော်အတိုင်း ဆောင်ရွက်ပါမယ်” ဟု မျောက်ဘုရင်က ဖြေသည်။ ထိုအခါ တောင်ပံပါ မျောက်များသည် ခရီးသွားလေးဦးနှင့် တိုတိုကို လက်မောင်းများဖြင့် ချီမပြီး ပျံတက်သွားကြသည်။ တောင်ကုန်းပေါ်မှ ဖြတ်သန်းသွားစဉ် ဟမ်းမာဟက်များသည် စိတ်ပျက်ဒေါသဖြင့် အော်ဟစ်ကြပြီး ဦးခေါင်းများကို လေထဲသို့ မြှောက်တင်ကြသော်လည်း တောင်ပံပါ မျောက်များကို မမီနိုင်ကြပေ။ မျောက်များသည် ဒေါ်ရသီနှင့် သူမ၏ မိတ်ဆွေများကို တောင်တစ်ဖက်ရှိ လှပသော ကွာဒလင်းနိုင်ငံသို့ ဘေးကင်းစွာ ပို့ဆောင်ပေးလိုက်ကြသည်။
+
+“ဒီတစ်ကြိမ်ဟာ ကျွန်ုပ်တို့ကို ခေါ်နိုင်တဲ့ နောက်ဆုံးအကြိမ်ပါပဲ” ဟု မျောက်ခေါင်းဆောင်က ဒေါ်ရသီကို ပြောသည်။ “ဒါကြောင့် နှုတ်ဆက်ပါတယ်။ ကံကောင်းပါစေ။”
+
+“နှုတ်ဆက်ပါတယ်။ အများကြီး ကျေးဇူးတင်ပါတယ်” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။ မျောက်များသည် ကောင်းကင်သို့ ပျံတက်သွားကြပြီး မျက်စိတစ်မှိတ်အတွင်း ပျောက်ကွယ်သွားကြသည်။
+
+ကွာဒလင်းနိုင်ငံသည် ချမ်းသာကြွယ်ဝပြီး ပျော်ရွှင်စရာကောင်းသည့် နေရာတစ်ခု ဖြစ်ပုံရသည်။ ရင့်မှည့်လာသော ကောက်ပဲသီးနှံများရှိသည့် လယ်ကွင်းများသည် တစ်ကွင်းပြီးတစ်ကွင်း ဆက်လက်တည်ရှိနေပြီး ၎င်းတို့ကြားတွင် ခင်းကျင်းထားသော လမ်းများနှင့် ခိုင်ခံ့သော တံတားများရှိသည့် စမ်းချောင်းလေးများလည်း ရှိသည်။ ဝင်းခြံများ၊ အိမ်များနှင့် တံတားများအားလုံးကို အနီရောင်တောက်တောက် ဆေးသုတ်ထားကြသည်။ အနောက်ဘက် ဝင်ကီလူမျိုးတို့၏ နိုင်ငံတွင် အဝါရောင်၊ အရှေ့ဘက် မန်ချကင်လူမျိုးတို့၏ နိုင်ငံတွင် အပြာရောင် ဆေးသုတ်ထားသကဲ့သို့ပင် ဖြစ်သည်။
+
+ကွာဒလင်းလူမျိုးတို့သည် အရပ်ပု၍ ကိုယ်လုံးဝဝနှင့် မျက်နှာချိုသာကြသူများ ဖြစ်ကြသည်။ သူတို့သည် အနီရောင်အဝတ်အစားများကိုသာ ဝတ်ဆင်ထားကြသဖြင့် စိမ်းလန်းသော မြက်ခင်းများနှင့် ဝါဝင်းလာသော ကောက်ပဲသီးနှံများကြားတွင် ထင်ရှားလှပနေကြသည်။
+
+မျောက်များသည် သူတို့ကို လယ်ယာအိမ်တစ်အိမ်အနီးတွင် ချပေးခဲ့ကြသည်။ ခရီးသွားလေးဦးသည် ထိုအိမ်သို့ လျှောက်သွားပြီး တံခါးခေါက်ကြသည်။ လယ်သမား၏ ဇနီးက တံခါးဖွင့်ပေးသည်။ ဒေါ်ရသီက စားစရာတစ်ခုခု တောင်းသောအခါ ထိုအမျိုးသမီးသည် သူတို့အားလုံးကို အရသာရှိသော နေ့လယ်စာ ကျွေးမွေးခဲ့သည်။ ကိတ်မုန့်သုံးမျိုး၊ ကွတ်ကီးလေးမျိုးနှင့် တိုတိုအတွက် နို့တစ်ပန်းကန်လည်း ပါဝင်သည်။
+
+“ဂလင်ဒါရဲ့ ရဲတိုက်ကို ဘယ်လောက်ဝေးသေးလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“သိပ်မဝေးပါဘူး။ တောင်ဘက်ကို သွားတဲ့လမ်းအတိုင်း လိုက်သွားရင် မကြာခင် ရောက်ပါလိမ့်မယ်” ဟု လယ်သမား၏ ဇနီးက ပြန်ဖြေသည်။
+
+ထိုကြင်နာသော အမျိုးသမီးကို ကျေးဇူးတင်ပြီးနောက် သူတို့သည် ခရီးပြန်ဆက်ကြသည်။ လယ်ကွင်းများနှင့် လှပသော တံတားလေးများကို ဖြတ်သန်းလာကြပြီးနောက် ရှေ့တွင် အလွန်လှပသော ရဲတိုက်ကြီးတစ်ခုကို မြင်လိုက်ရသည်။ ရဲတိုက်တံခါးရှေ့တွင် ရွှေရောင်အနားကွပ်များ တန်ဆာဆင်ထားသော အနီရောင်ဝတ်စုံများ ဝတ်ဆင်ထားသည့် မိန်းကလေးစစ်သည် သုံးဦး ရှိနေကြသည်။ ဒေါ်ရသီ ချဉ်းကပ်လာသောအခါ သူတို့ထဲမှ တစ်ဦးက မေးသည်။
+
+“တောင်ဘက်နိုင်ငံကို ဘာကြောင့် လာခဲ့တာလဲ”
+
+“ဒီမှာ အုပ်ချုပ်နေတဲ့ မိန်းမကောင်းစုန်းမကို တွေ့ချင်လို့ပါ။ သူမဆီ ကျွန်မကို ခေါ်သွားပေးနိုင်မလား” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။
+
+“နာမည်ပြောပြပါ။ ဂလင်ဒါက လက်ခံတွေ့ဆုံမလားဆိုတာ ကျွန်မ သွားမေးပေးမယ်” ဟု စစ်သည်မလေးက ပြောသည်။
+
+သူတို့၏ အမည်များကို ပြောပြပြီးနောက် စစ်သည်မလေးသည် ရဲတိုက်အတွင်း ဝင်သွားသည်။ ခဏအကြာတွင် ပြန်ထွက်လာပြီး ဒေါ်ရသီနှင့် သူမ၏ မိတ်ဆွေများကို ချက်ချင်း ဝင်ရောက်ခွင့်ပြုကြောင်း ပြောလိုက်သည်။`,
+    contentEn: `The four travelers passed through the rest of the forest in safety, and when they came out from its gloom saw before them a steep hill, covered from top to bottom with great pieces of rock.
+
+“That will be a hard climb,” said the Scarecrow, “but we must get over the hill, nevertheless.”
+
+So he led the way and the others followed. They had nearly reached the first rock when they heard a rough voice cry out, “Keep back!”
+
+“Who are you?” asked the Scarecrow.
+
+Then a head showed itself over the rock and the same voice said, “This hill belongs to us, and we don’t allow anyone to cross it.”
+
+“But we must cross it,” said the Scarecrow. “We’re going to the country of the Quadlings.”
+
+“But you shall not!” replied the voice, and there stepped from behind the rock the strangest man the travelers had ever seen.
+
+He was quite short and stout and had a big head, which was flat at the top and supported by a thick neck full of wrinkles. But he had no arms at all, and, seeing this, the Scarecrow did not fear that so helpless a creature could prevent them from climbing the hill. So he said, “I’m sorry not to do as you wish, but we must pass over your hill whether you like it or not,” and he walked boldly forward.
+
+As quick as lightning the man’s head shot forward and his neck stretched out until the top of the head, where it was flat, struck the Scarecrow in the middle and sent him tumbling, over and over, down the hill. Almost as quickly as it came the head went back to the body, and the man laughed harshly as he said, “It isn’t as easy as you think!”
+
+A chorus of boisterous laughter came from the other rocks, and Dorothy saw hundreds of the armless Hammer-Heads upon the hillside, one behind every rock.
+
+The Lion became quite angry at the laughter caused by the Scarecrow’s mishap, and giving a loud roar that echoed like thunder, he dashed up the hill.
+
+Again a head shot swiftly out, and the great Lion went rolling down the hill as if he had been struck by a cannon ball.
+
+Dorothy ran down and helped the Scarecrow to his feet, and the Lion came up to her, feeling rather bruised and sore, and said, “It is useless to fight people with shooting heads; no one can withstand them.”
+
+“What can we do, then?” she asked.
+
+“Call the Winged Monkeys,” suggested the Tin Woodman. “You have still the right to command them once more.”
+
+“Very well,” she answered, and putting on the Golden Cap she uttered the magic words. The Monkeys were as prompt as ever, and in a few moments the entire band stood before her.
+
+“What are your commands?” inquired the King of the Monkeys, bowing low.
+
+“Carry us over the hill to the country of the Quadlings,” answered the girl.
+
+“It shall be done,” said the King, and at once the Winged Monkeys caught the four travelers and Toto up in their arms and flew away with them. As they passed over the hill the Hammer-Heads yelled with vexation, and shot their heads high in the air, but they could not reach the Winged Monkeys, which carried Dorothy and her comrades safely over the hill and set them down in the beautiful country of the Quadlings.
+
+“This is the last time you can summon us,” said the leader to Dorothy; “so good-bye and good luck to you.”
+
+“Good-bye, and thank you very much,” returned the girl; and the Monkeys rose into the air and were out of sight in a twinkling.
+
+The country of the Quadlings seemed rich and happy. There was field upon field of ripening grain, with well-paved roads running between, and pretty rippling brooks with strong bridges across them. The fences and houses and bridges were all painted bright red, just as they had been painted yellow in the country of the Winkies and blue in the country of the Munchkins.
+
+The Quadlings themselves, who were short and fat and looked chubby and good-natured, were dressed all in red, which showed bright against the green grass and the yellowing grain.
+
+The Monkeys had set them down near a farmhouse, and the four travelers walked up to it and knocked at the door. It was opened by the farmer’s wife, and when Dorothy asked for something to eat the woman gave them all a good dinner, with three kinds of cake and four kinds of cookies, and a bowl of milk for Toto.
+
+“How far is it to the Castle of Glinda?” asked the child.
+
+“It is not a great way,” answered the farmer’s wife. “Take the road to the South and you will soon reach it.”
+
+Thanking the good woman, they started afresh and walked by the fields and across the pretty bridges until they saw before them a very beautiful Castle. Before the gates were three young girls, dressed in handsome red uniforms trimmed with gold braid; and as Dorothy approached, one of them said to her:
+
+“Why have you come to the South Country?”
+
+“To see the Good Witch who rules here,” she answered. “Will you take me to her?”
+
+“Let me have your name, and I will ask Glinda if she will receive you.” They told who they were, and the girl soldier went into the Castle. After a few moments she came back to say that Dorothy and the others were to be admitted at once.`,
+  },
 ] as const;
