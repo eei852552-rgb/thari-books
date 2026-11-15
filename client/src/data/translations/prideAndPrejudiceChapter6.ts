@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter6My = [
     number: 6,
     title: "အခန်း (၆)",
     titleEn: "Chapter VI",
+    readingType: "summary",
     contentEn: `The ladies of Longbourn soon visited the ladies of Netherfield, and the visit was returned in the usual polite manner. Jane's gentle behaviour made a good impression on Mrs. Hurst and Miss Bingley. They were less pleased with Mrs. Bennet and the younger daughters, whose manners they considered too lively and unrefined.
 
 Jane, however, was welcomed warmly. Miss Bingley and Mrs. Hurst admired her beauty and pleasant manner, and they were glad to see her again.
