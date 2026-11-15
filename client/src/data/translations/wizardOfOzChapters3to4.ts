@@ -2879,4 +2879,171 @@ The false Wizard looked at him carefully.
 
 They agreed to say nothing of what they had learned, and went back to their rooms in high spirits. Even Dorothy had hope that “The Great and Terrible Humbug,” as she called him, would find a way to send her back to Kansas, and if he did she was willing to forgive him everything.`,
   },
+  {
+    number: 16,
+    title: "အခန်း (၁၆) — ဟန်ဆောင်သူကြီး၏ မှော်ပညာအတတ်",
+    titleEn: "Chapter 16 — The Magic Art of the Great Humbug",
+    content: `နောက်တစ်နေ့ နံနက်တွင် ကောက်ရိုးလူက သူ၏ မိတ်ဆွေများကို ပြောသည်။
+
+“ကျွန်တော့်ကို ဂုဏ်ပြုပေးကြပါဦး။ နောက်ဆုံးတော့ ဉာဏ်ပညာရဖို့ အော့ဇ်ဆီ သွားတော့မယ်။ ပြန်လာတဲ့အခါ ကျွန်တော်လည်း တခြားလူတွေလို ဖြစ်လာတော့မှာပါ။”
+
+“အခုလိုပုံစံနဲ့တင် မင်းကို ကျွန်မ အမြဲသဘောကျခဲ့တာပါ” ဟု ဒေါ်ရသီက ရိုးရိုးသားသား ပြောသည်။
+
+“ကောက်ရိုးလူတစ်ယောက်ကို သဘောကျတယ်ဆိုတာ မင်းအတွက် ကြင်နာမှုတစ်ခုပါပဲ။ ဒါပေမဲ့ ကျွန်တော့်ဦးနှောက်အသစ်က ထုတ်ပေးမယ့် ထူးချွန်တဲ့ အတွေးအခေါ်တွေကို ကြားရတဲ့အခါ ကျွန်တော့်ကို ပိုပြီး သဘောကျလာမယ်လို့ ထင်ပါတယ်” ဟု သူက ပြန်ပြောသည်။ ထို့နောက် သူသည် အားလုံးကို ရွှင်လန်းစွာ နှုတ်ဆက်ပြီး ပလ္လင်ခန်းသို့ သွားကာ တံခါးကို ခေါက်လိုက်သည်။
+
+“ဝင်ခဲ့ပါ” ဟု အော့ဇ်က ပြောသည်။
+
+ကောက်ရိုးလူ အခန်းထဲဝင်သွားသောအခါ လူငယ်အော့ဇ်သည် ပြတင်းပေါက်နားတွင် ထိုင်ပြီး အတွေးနက်နက်ဖြင့် စဉ်းစားနေသည်ကို တွေ့ရသည်။
+
+“ကျွန်တော့်ဉာဏ်ပညာ လာယူတာပါ” ဟု ကောက်ရိုးလူက အနည်းငယ် စိုးရိမ်သည့်အသံဖြင့် ပြောသည်။
+
+“အော်၊ ဟုတ်သားပဲ။ ဒီကုလားထိုင်မှာ ထိုင်ပါဦး” ဟု အော့ဇ်က ပြန်ဖြေသည်။ “ဦးခေါင်းကို ဖြုတ်ရမယ့်အတွက် ခွင့်လွှတ်ပါ။ ဉာဏ်ပညာကို သင့်တော်တဲ့နေရာမှာ ထည့်ပေးဖို့ အဲဒီလို လုပ်ရမှာပါ။”
+
+“ရပါတယ်။ ပြန်တပ်ပေးတဲ့အခါ ပိုကောင်းတဲ့ ဦးခေါင်းဖြစ်လာမယ်ဆိုရင် ဖြုတ်ချင်သလို ဖြုတ်နိုင်ပါတယ်” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+ထို့နောက် အော့ဇ်သည် ကောက်ရိုးလူ၏ ဦးခေါင်းကို ဖြုတ်ပြီး အထဲရှိ ကောက်ရိုးများကို ထုတ်ပစ်လိုက်သည်။ ထို့နောက် အနောက်ဘက်အခန်းထဲသို့ ဝင်ကာ ဖွဲနုတစ်ခွက်ကို ယူလာပြီး တံသင်နှင့် အပ်များစွာဖြင့် ရောနှောလိုက်သည်။ ကောင်းစွာ ရောမွှေပြီးနောက် ထိုအရောအနှောကို ကောက်ရိုးလူ၏ ဦးခေါင်းထိပ်ပိုင်းထဲသို့ ဖြည့်ထည့်ကာ ကျန်နေရာကို ကောက်ရိုးများဖြင့် ပြန်ဖြည့်၍ အတွင်းမှာ မြဲမြံနေစေသည်။
+
+ကောက်ရိုးလူ၏ ဦးခေါင်းကို ကိုယ်ခန္ဓာပေါ် ပြန်တပ်ပေးပြီးနောက် အော့ဇ်က “ဒီနေ့ကစပြီး မင်းဟာ ကြီးမြတ်တဲ့လူတစ်ယောက် ဖြစ်လာတော့မယ်။ ငါ မင်းကို အသစ်စက်စက် ဦးနှောက်တွေ အများကြီး ပေးလိုက်ပြီ” ဟု ပြောသည်။
+
+ကောက်ရိုးလူသည် သူ၏ အကြီးမားဆုံး ဆန္ဒ ပြည့်ဝသွားသည့်အတွက် အလွန်ဝမ်းသာပြီး ဂုဏ်ယူနေသည်။ အော့ဇ်ကို လှိုက်လှိုက်လှဲလှဲ ကျေးဇူးတင်ပြီးနောက် မိတ်ဆွေများထံ ပြန်လာခဲ့သည်။
+
+ဒေါ်ရသီက သူ့ကို စူးစမ်းသလို ကြည့်လိုက်သည်။ သူ၏ ဦးခေါင်းထိပ်ပိုင်းမှာ ဦးနှောက်များကြောင့် ဖောင်းနေသည်။
+
+“ဘယ်လို ခံစားရလဲ” ဟု သူမက မေးသည်။
+
+“တကယ်ပဲ ဉာဏ်ပညာရှိလာသလို ခံစားရတယ်။ ဦးနှောက်အသစ်နဲ့ အသားကျသွားတဲ့အခါ အရာအားလုံးကို သိလာတော့မှာပါ” ဟု သူက အလေးအနက် ပြန်ဖြေသည်။
+
+“မင်းခေါင်းထဲက အပ်တွေနဲ့ တံသင်တွေ ဘာလို့ အပြင်ထွက်နေတာလဲ” ဟု သံလူက မေးသည်။
+
+“ဒါက သူ့ရဲ့ အတွေးအခေါ်တွေ ထက်မြက်တယ်ဆိုတဲ့ သက်သေပဲ” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“ကဲ၊ ကျွန်တော်လည်း အော့ဇ်ဆီ သွားပြီး နှလုံးသားယူရတော့မယ်” ဟု သံလူက ပြောသည်။ ထို့နောက် ပလ္လင်ခန်းသို့ သွားကာ တံခါးခေါက်လိုက်သည်။
+
+“ဝင်ခဲ့ပါ” ဟု အော့ဇ်က ခေါ်လိုက်ရာ သံလူသည် အခန်းထဲဝင်ပြီး “ကျွန်တော့်နှလုံးသား လာယူတာပါ” ဟု ပြောသည်။
+
+“ကောင်းပါပြီ။ ဒါပေမဲ့ နှလုံးသားကို သင့်တော်တဲ့နေရာမှာ ထည့်ဖို့ ရင်ဘတ်မှာ အပေါက်ငယ်တစ်ခု ဖွင့်ရမယ်။ နာကျင်မှာတော့ မဟုတ်ပါဘူးလို့ မျှော်လင့်ပါတယ်” ဟု လူငယ်က ပြောသည်။
+
+“မနာပါဘူး။ ကျွန်တော် ဘာမှ မခံစားရပါဘူး” ဟု သံလူက ပြန်ဖြေသည်။
+
+အော့ဇ်သည် သတ္တုပြုပြင်ရာတွင် သုံးသော ကတ်ကြေးတစ်စုံကို ယူလာပြီး သံလူ၏ ရင်ဘတ်ဘယ်ဘက်ခြမ်းတွင် စတုရန်းပုံ အပေါက်ငယ်တစ်ခု ဖွင့်လိုက်သည်။ ထို့နောက် အံဆွဲများပါသော ဗီရိုဆီသို့ သွားကာ လှပသော နှလုံးသားတစ်ခုကို ထုတ်ယူလာသည်။ ထိုနှလုံးသားကို ပိုးထည်ဖြင့် ပြုလုပ်ထားပြီး လွှစာမှုန့်များဖြင့် ဖြည့်ထားသည်။
+
+“လှလိုက်တာ မဟုတ်လား” ဟု အော့ဇ်က မေးသည်။
+
+“တကယ်ကို လှပါတယ်” ဟု သံလူက ဝမ်းသာစွာ ပြန်ဖြေသည်။ “ဒါပေမဲ့ ကြင်နာတတ်တဲ့ နှလုံးသားမျိုး ဟုတ်ရဲ့လား။”
+
+“အလွန်ကြင်နာတတ်တဲ့ နှလုံးသားပါ” ဟု အော့ဇ်က ဖြေသည်။ ထို့နောက် နှလုံးသားကို သံလူ၏ ရင်ဘတ်ထဲ ထည့်ပေးပြီး ဖွင့်ထားသော သံပြားလေးကို ပြန်တပ်ကာ သေသပ်စွာ ပိတ်ဆက်ပေးလိုက်သည်။
+
+“ကဲ၊ ရပြီ။ အခု မင်းမှာ ဘယ်သူမဆို ဂုဏ်ယူနိုင်တဲ့ နှလုံးသားတစ်ခု ရှိသွားပြီ။ ရင်ဘတ်မှာ အဖာလေးတစ်ခု ကျန်ခဲ့တာတော့ စိတ်မကောင်းပါဘူး။ ဒါပေမဲ့ တခြားနည်းလမ်း မရှိခဲ့ဘူး” ဟု သူက ပြောသည်။
+
+“အဖာလေးကို စိတ်မပူပါနဲ့။ ကျွန်တော် အရမ်းဝမ်းသာပါတယ်။ ရှင့်ရဲ့ ကြင်နာမှုကို ဘယ်တော့မှ မမေ့ပါဘူး” ဟု သံလူက ပျော်ရွှင်စွာ ပြောသည်။
+
+“အဲဒီအကြောင်း မပြောပါနဲ့တော့” ဟု အော့ဇ်က ပြန်ဖြေသည်။
+
+ထို့နောက် သံလူသည် မိတ်ဆွေများထံ ပြန်လာခဲ့ပြီး သူ၏ ကံကောင်းမှုအတွက် အားလုံးက ဝမ်းမြောက်ကြောင်း ပြောကြသည်။
+
+ယခုအခါ ခြင်္သေ့ကြီး၏ အလှည့်ရောက်လာသည်။ သူသည် ပလ္လင်ခန်းသို့ သွားကာ တံခါးခေါက်လိုက်သည်။
+
+“ဝင်ခဲ့ပါ” ဟု အော့ဇ်က ပြောသည်။
+
+“ကျွန်တော့်သတ္တိ လာယူတာပါ” ဟု ခြင်္သေ့ကြီးက အခန်းထဲဝင်ရင်း ပြောသည်။
+
+“ကောင်းပါပြီ။ မင်းအတွက် ယူပေးမယ်” ဟု လူငယ်က ပြန်ဖြေသည်။
+
+သူသည် ဗီရိုတစ်ခုဆီသို့ သွားပြီး အမြင့်ပိုင်းစင်ပေါ်မှ အစိမ်းရောင်ပုလင်းလေးတစ်လုံးကို ယူလာသည်။ ထိုပုလင်းထဲရှိ အရည်ကို လှပစွာ ထွင်းထုထားသော အစိမ်းရောင်နှင့် ရွှေရောင်ရောစပ်ထားသည့် ပန်းကန်လုံးထဲသို့ လောင်းထည့်လိုက်သည်။ ထို့နောက် ပန်းကန်လုံးကို ခြင်္သေ့ကြီးရှေ့တွင် ချထားသည်။ ခြင်္သေ့ကြီးက အနံ့ခံကြည့်ရာ မကြိုက်သကဲ့သို့ မျက်နှာမသာမယာ ဖြစ်နေသည်။ အော့ဇ်က “သောက်လိုက်ပါ” ဟု ပြောသည်။
+
+“ဒါက ဘာလဲ” ဟု ခြင်္သေ့ကြီးက မေးသည်။
+
+“အဲဒီအရည်ကို မင်းအတွင်းထဲ ရောက်သွားပြီဆိုရင် သတ္တိဖြစ်သွားမှာပေါ့။ သတ္တိဆိုတာ လူတိုင်းရဲ့ အတွင်းထဲမှာ ရှိနေတာကို မင်းလည်း သိပါတယ်။ ဒါကြောင့် မင်း မသောက်ရသေးသရွေ့ ဒီအရည်ကို သတ္တိလို့ မခေါ်နိုင်သေးဘူး။ အမြန်ဆုံး သောက်လိုက်ဖို့ အကြံပေးပါတယ်” ဟု အော့ဇ်က ပြောသည်။
+
+ခြင်္သေ့ကြီးသည် နောက်ထပ် မတွန့်ဆုတ်တော့ဘဲ ပန်းကန်လုံးထဲရှိ အရည်အားလုံးကို ကုန်အောင် သောက်လိုက်သည်။
+
+“အခု ဘယ်လို ခံစားရလဲ” ဟု အော့ဇ်က မေးသည်။
+
+“သတ္တိတွေ အပြည့်ရှိနေပြီ” ဟု ခြင်္သေ့ကြီးက ဝမ်းသာစွာ ပြန်ဖြေသည်။ ထို့နောက် သူသည် မိတ်ဆွေများထံ ပျော်ရွှင်စွာ ပြန်သွားပြီး မိမိရရှိခဲ့သော ကံကောင်းမှုအကြောင်း ပြောပြသည်။
+
+အော့ဇ်သည် တစ်ယောက်တည်း ကျန်ခဲ့သောအခါ ကောက်ရိုးလူ၊ သံလူနှင့် ခြင်္သေ့ကြီးတို့ကို သူတို့လိုချင်သည်ဟု ထင်ထားသော အရာများ ပေးနိုင်ခဲ့သည့်အတွက် မိမိအောင်မြင်မှုကို ပြုံး၍ စဉ်းစားနေသည်။
+
+“ငါက ဘယ်လိုလုပ်ပြီး ဟန်ဆောင်သူ မဖြစ်ဘဲ နေနိုင်မှာလဲ။ လူတိုင်းက မဖြစ်နိုင်ဘူးဆိုတာ သိထားတဲ့ အရာတွေကို လုပ်ပေးဖို့ ငါ့ဆီ လာတောင်းဆိုနေကြတာပဲ။ ကောက်ရိုးလူ၊ သံလူနဲ့ ခြင်္သေ့ကြီးတို့ကို ပျော်ရွှင်အောင် လုပ်ပေးဖို့က လွယ်ပါတယ်။ ငါ အရာအားလုံး လုပ်နိုင်တယ်လို့ သူတို့က ယုံကြည်နေကြလို့ပေါ့။ ဒါပေမဲ့ ဒေါ်ရသီကို ကန်ဆတ်ပြည် ပြန်ပို့ဖို့ဆိုရင် စိတ်ကူးယဉ်မှုတစ်ခုတည်းနဲ့ မလုံလောက်ဘူး။ အဲဒါကို ဘယ်လိုလုပ်ရမလဲဆိုတာ ငါလည်း တကယ်မသိသေးဘူး” ဟု သူက ပြောလိုက်သည်။`,
+    contentEn: `Next morning the Scarecrow said to his friends:
+
+“Congratulate me. I am going to Oz to get my brains at last. When I return I shall be as other men are.”
+
+“I have always liked you as you were,” said Dorothy simply.
+
+“It is kind of you to like a Scarecrow,” he replied. “But surely you will think more of me when you hear the splendid thoughts my new brain is going to turn out.” Then he said good-bye to them all in a cheerful voice and went to the Throne Room, where he rapped upon the door.
+
+“Come in,” said Oz.
+
+The Scarecrow went in and found the little man sitting down by the window, engaged in deep thought.
+
+“I have come for my brains,” remarked the Scarecrow, a little uneasily.
+
+“Oh, yes; sit down in that chair, please,” replied Oz. “You must excuse me for taking your head off, but I shall have to do it in order to put your brains in their proper place.”
+
+“That’s all right,” said the Scarecrow. “You are quite welcome to take my head off, as long as it will be a better one when you put it on again.”
+
+So the Wizard unfastened his head and emptied out the straw. Then he entered the back room and took up a measure of bran, which he mixed with a great many pins and needles. Having shaken them together thoroughly, he filled the top of the Scarecrow’s head with the mixture and stuffed the rest of the space with straw, to hold it in place.
+
+When he had fastened the Scarecrow’s head on his body again he said to him, “Hereafter you will be a great man, for I have given you a lot of bran-new brains.”
+
+The Scarecrow was both pleased and proud at the fulfillment of his greatest wish, and having thanked Oz warmly he went back to his friends.
+
+Dorothy looked at him curiously. His head was quite bulged out at the top with brains.
+
+“How do you feel?” she asked.
+
+“I feel wise indeed,” he answered earnestly. “When I get used to my brains I shall know everything.”
+
+“Why are those needles and pins sticking out of your head?” asked the Tin Woodman.
+
+“That is proof that he is sharp,” remarked the Lion.
+
+“Well, I must go to Oz and get my heart,” said the Woodman. So he walked to the Throne Room and knocked at the door.
+
+“Come in,” called Oz, and the Woodman entered and said, “I have come for my heart.”
+
+“Very well,” answered the little man. “But I shall have to cut a hole in your breast, so I can put your heart in the right place. I hope it won’t hurt you.”
+
+“Oh, no,” answered the Woodman. “I shall not feel it at all.”
+
+So Oz brought a pair of tinsmith’s shears and cut a small, square hole in the left side of the Tin Woodman’s breast. Then, going to a chest of drawers, he took out a pretty heart, made entirely of silk and stuffed with sawdust.
+
+“Isn’t it a beauty?” he asked.
+
+“It is, indeed!” replied the Woodman, who was greatly pleased. “But is it a kind heart?”
+
+“Oh, very!” answered Oz. He put the heart in the Woodman’s breast and then replaced the square of tin, soldering it neatly together where it had been cut.
+
+“There,” said he; “now you have a heart that any man might be proud of. I’m sorry I had to put a patch on your breast, but it really couldn’t be helped.”
+
+“Never mind the patch,” exclaimed the happy Woodman. “I am very grateful to you, and shall never forget your kindness.”
+
+“Don’t speak of it,” replied Oz.
+
+Then the Tin Woodman went back to his friends, who wished him every joy on account of his good fortune.
+
+The Lion now walked to the Throne Room and knocked at the door.
+
+“Come in,” said Oz.
+
+“I have come for my courage,” announced the Lion, entering the room.
+
+“Very well,” answered the little man; “I will get it for you.”
+
+He went to a cupboard and reaching up to a high shelf took down a square green bottle, the contents of which he poured into a green-gold dish, beautifully carved. Placing this before the Cowardly Lion, who sniffed at it as if he did not like it, the Wizard said:
+
+“Drink.”
+
+“What is it?” asked the Lion.
+
+“Well,” answered Oz, “if it were inside of you, it would be courage. You know, of course, that courage is always inside one; so that this really cannot be called courage until you have swallowed it. Therefore I advise you to drink it as soon as possible.”
+
+The Lion hesitated no longer, but drank till the dish was empty.
+
+“How do you feel now?” asked Oz.
+
+“Full of courage,” replied the Lion, who went joyfully back to his friends to tell them of his good fortune.
+
+Oz, left to himself, smiled to think of his success in giving the Scarecrow and the Tin Woodman and the Lion exactly what they thought they wanted. “How can I help being a humbug,” he said, “when all these people make me do things that everybody knows can’t be done? It was easy to make the Scarecrow and the Lion and the Woodman happy, because they imagined I could do anything. But it will take more than imagination to carry Dorothy back to Kansas, and I’m sure I don’t know how it can be done.”`,
+  },
 ] as const;
