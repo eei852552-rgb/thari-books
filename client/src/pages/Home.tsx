@@ -22,6 +22,7 @@ import { openBooks, openBookCategories, type OpenBook } from "../data/openBooks"
 import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejudice";
 import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
+import { artOfLearningChapters } from "../data/artOfLearning";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
@@ -30,6 +31,7 @@ const readingProgressKey = "thari-books:last-reading";
 const readerChaptersByBookId = {
   "pride-and-prejudice": prideAndPrejudiceChaptersMy,
   "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My],
+  "art-of-learning": artOfLearningChapters,
 } as const;
 
 type ReaderChapter = {
@@ -448,7 +450,7 @@ export default function Home() {
                   <p className={`book-description ${siteLanguage === "en" ? "book-description-en" : ""}`}>{siteLanguage === "my" ? book.descriptionMy : book.descriptionEn}</p>
                   <div className="book-actions">
                     <button className="read-button" type="button" onClick={() => openReader(book)}>{(readerChaptersByBookId[book.id as keyof typeof readerChaptersByBookId]?.length ?? 0) > 0 ? ui.readInThari : ui.readOverview} <BookOpen size={16} /></button>
-                    <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.originalEnglish} <ArrowUpRight size={16} /></a>
+                    {book.sourceUrl && <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.originalEnglish} <ArrowUpRight size={16} /></a>}
                   </div>
                 </article>
               );
@@ -512,8 +514,8 @@ export default function Home() {
                   </>}
                 </>
               )}
-              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {siteLanguage === "my" ? selectedBook.rightsNote : "This link opens the original source. Copyright status and reuse rights can differ by country; check local law before reusing any text."}</p>
-              <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.sourceBook} <ArrowUpRight size={16} /></a>
+              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {siteLanguage === "my" || selectedBook.source === "AUREN" ? selectedBook.rightsNote : "This link opens the original source. Copyright status and reuse rights can differ by country; check local law before reusing any text."}</p>
+              {selectedBook.sourceUrl && <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.sourceBook} <ArrowUpRight size={16} /></a>}
             </section>
           </div>
         )}
