@@ -450,7 +450,7 @@ export default function Home() {
                   <p className={`book-description ${siteLanguage === "en" ? "book-description-en" : ""}`}>{siteLanguage === "my" ? book.descriptionMy : book.descriptionEn}</p>
                   <div className="book-actions">
                     <button className="read-button" type="button" onClick={() => openReader(book)}>{(readerChaptersByBookId[book.id as keyof typeof readerChaptersByBookId]?.length ?? 0) > 0 ? ui.readInThari : ui.readOverview} <BookOpen size={16} /></button>
-                    <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.originalEnglish} <ArrowUpRight size={16} /></a>
+                    {book.sourceUrl && <a className="read-button read-original" href={book.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.originalEnglish} <ArrowUpRight size={16} /></a>}
                   </div>
                 </article>
               );
