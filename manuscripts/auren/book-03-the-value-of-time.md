@@ -185,12 +185,182 @@ Then choose one important task and give it a place in your schedule.
 - What is one thing that is important but not urgent?
 - How can you protect time for your main goal?
 
+
 ---
 
-## စာမူတိုးတက်မှု | Manuscript progress
+# အခန်း ၃။ ဦးစားပေးမှုကို ရွေးချယ်ခြင်း
+## Chapter 3. Choosing Priorities
+
+### မြန်မာစာ
+
+ဦးစားပေးမှုဆိုသည်မှာ လုပ်စရာစာရင်းထဲမှ အလုပ်တစ်ခုကို အခြားအလုပ်များထက် ပိုအရေးကြီးသည်ဟု သတ်မှတ်ခြင်းသာ မဟုတ်ပါ။ မိမိ၏အချိန်၊ အင်အားနှင့် အာရုံစိုက်မှုတို့ကို ဘယ်နေရာတွင် အသုံးပြုမည်ဆိုသည့် ဆုံးဖြတ်ချက်ဖြစ်သည်။ အချိန်နှင့် အင်အားသည် အကန့်အသတ်ရှိသောကြောင့် အရာအားလုံးကို တစ်ပြိုင်နက်တည်း အကောင်းဆုံးလုပ်ဆောင်ရန် မဖြစ်နိုင်ပါ။ ထို့ကြောင့် ရွေးချယ်မှုတစ်ခု ပြုလုပ်ခြင်းသည် အခြားအရာတစ်ခုကို ခဏစောင့်ဆိုင်းစေခြင်းလည်း ဖြစ်နိုင်သည်။
+
+ဦးစားပေးမှုကို ရွေးချယ်ရာတွင် အရေးပေါ်မှု၊ အရေးပါမှု၊ အကျိုးသက်ရောက်မှုနှင့် မိမိ၏တာဝန်တို့ကို စဉ်းစားနိုင်သည်။ ဥပမာ၊ မနက်ဖြန်တင်ရမည့် ကျောင်းစာတစ်ခုသည် အချိန်ကန့်သတ်ချက်ရှိသလို အရေးပါမှုလည်း ရှိနိုင်သည်။ အခန်းကို သန့်ရှင်းရေးလုပ်ခြင်းသည် လိုအပ်သော်လည်း တစ်နာရီအတွင်း မပြီးလျှင် ကြီးမားသောပြဿနာ ဖြစ်မည်မဟုတ်ပါ။ အလုပ်နှစ်ခုကို တူညီသောအဆင့်တွင် မထားဘဲ အခြေအနေကို ကြည့်၍ အစီအစဉ်ချနိုင်သည်။
+
+**ဥပမာ — တစ်နေ့တာကို ပြန်လည်စီစဉ်ခြင်း**
+
+မေသက်သည် ကျောင်းစာဖတ်ရန်၊ အိမ်မှုကိစ္စကူညီရန်၊ သူငယ်ချင်းထံ စာပြန်ရန်နှင့် အနားယူရန် လိုအပ်နေသည်။ အလုပ်အားလုံးကို တစ်ချိန်တည်း စတင်လိုက်လျှင် ဘယ်အရာကိုမှ အာရုံမစိုက်နိုင်တော့ပါ။ သူမသည် အရင်ဆုံး သတ်မှတ်ချိန်ရှိသော ကျောင်းစာကို စတင်ပြီးနောက် အိမ်မှုကိစ္စကို ကူညီသည်။ သူငယ်ချင်းထံ စာပြန်ရန် အချိန်တစ်ခု သတ်မှတ်ထားပြီး အနားယူရန်လည်း နေရာချန်ထားသည်။ ဤအစီအစဉ်သည် လူတိုင်းအတွက် တစ်ပုံစံတည်း မဟုတ်သော်လည်း အလုပ်များကို အဆင့်ခွဲစဉ်းစားပုံကို ပြသသည်။
+
+ဦးစားပေးမှုသည် တစ်ကြိမ်ရွေးပြီး အမြဲတမ်းမပြောင်းလဲရသော စည်းမျဉ်းမဟုတ်ပါ။ မမျှော်လင့်ထားသောတာဝန် ပေါ်လာနိုင်သည်။ မိသားစုဝင်တစ်ဦး အကူအညီလိုလာနိုင်သည်။ မိမိ၏ကျန်းမာရေးအခြေအနေကြောင့် အစီအစဉ်ကို ပြင်ဆင်ရန် လိုအပ်နိုင်သည်။ ထိုအခါ အစီအစဉ်ပြောင်းခြင်းသည် မအောင်မြင်ခြင်းမဟုတ်ဘဲ အခြေအနေအသစ်ကို တုံ့ပြန်ခြင်းဖြစ်သည်။
+
+အရေးကြီးသောအရာများကို ရွေးချယ်ရာတွင် အခြားသူများ၏မျှော်လင့်ချက်ကိုသာ မလိုက်နာသင့်ပါ။ မိမိ၏တာဝန်နှင့် တန်ဖိုးထားမှုကိုလည်း စဉ်းစားရမည်။ သို့သော် မိမိလိုချင်သည့်အရာတိုင်းကို ဦးစားပေး၍ မရနိုင်ပါ။ အခြားသူများအပေါ် တာဝန်ရှိမှု၊ အချိန်ကန့်သတ်ချက်နှင့် အရင်းအမြစ်တို့ကို မျှတစွာ ထည့်သွင်းစဉ်းစားရသည်။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — အရေးကြီးဆုံး သုံးခု
+
+မနက်ဖြန်အတွက် လုပ်စရာများကို ချရေးပါ။ ထိုစာရင်းထဲမှ အရေးကြီးဆုံး သုံးခုကို ရွေးချယ်ပါ။ တစ်ခုစီအတွက် ဘာကြောင့် အရေးကြီးသည်၊ ဘယ်အချိန်တွင် လုပ်မည်၊ လိုအပ်ပါက ဘယ်သူ့ထံ အကူအညီတောင်းနိုင်သည်ကို မှတ်သားပါ။ အခြားအလုပ်များကို ဖယ်ရှားပစ်ရန် မလိုပါ။ သင့်တော်သည့်အချိန်သို့ ရွှေ့ထားနိုင်သည်။
+
+### စဉ်းစားရန်
+- မိမိ၏ဦးစားပေးမှုကို မိမိ၏တန်ဖိုးထားမှုနှင့် ဘယ်လိုချိတ်ဆက်နိုင်သလဲ။
+- အရေးပေါ်အလုပ်နှင့် အရေးကြီးသောအလုပ် ဘယ်လိုကွာခြားသလဲ။
+- အခြေအနေပြောင်းလဲလာသည့်အခါ အစီအစဉ်ကို ပြင်ဆင်ခြင်းသည် ဘာကြောင့် အသုံးဝင်သလဲ။
+
+### English
+
+A priority is more than labelling one item on a to-do list as more important than another. It is a decision about where to place our time, energy, and attention. Because these resources are limited, we cannot do everything at once or give every task equal attention. Choosing one task may mean allowing another to wait.
+
+When setting priorities, consider urgency, importance, impact, and responsibility. A school assignment due tomorrow may be both time-sensitive and important. Cleaning a room may also matter, but delaying it by an hour may not create a serious problem. Rather than treating both tasks as identical, look at the circumstances and plan accordingly.
+
+**Example — Reorganising a day**
+
+May Thet needs to study, help with household tasks, reply to a friend, and rest. If she begins everything at once, her attention becomes divided. She starts with the assignment that has a deadline, helps at home afterwards, sets aside a time to reply to her friend, and keeps room for rest. This schedule will not fit everyone, but it demonstrates how tasks can be considered in relation to one another.
+
+Priorities are not permanent rules chosen once and never reconsidered. An unexpected responsibility may appear. A family member may need help. A change in health or circumstances may require a different plan. Revising a schedule is not necessarily failure; it can be a sensible response to new information.
+
+When choosing what matters, do not follow only other people's expectations. Consider your responsibilities and values as well. At the same time, not every personal wish can take priority. Other people, deadlines, and available resources also deserve fair consideration.
+
+### Practical exercise — The three most important tasks
+
+Write down the tasks you may need to do tomorrow. Select the three most important ones. For each, note why it matters, when you could do it, and whom you could ask for help if necessary. You do not have to discard the remaining tasks; you can move them to a more suitable time.
+
+### Reflection
+- How can your priorities reflect your values?
+- What is the difference between an urgent task and an important task?
+- Why can changing a plan be useful when circumstances change?
+
+---
+
+# အခန်း ၄။ အချိန်ပျောက်ဆုံးသည့်နေရာများ
+## Chapter 4. Where Time Slips Away
+
+### မြန်မာစာ
+
+တစ်နေ့တာကုန်ဆုံးသွားသော်လည်း ဘာလုပ်ခဲ့သည်ကို ရှင်းရှင်းလင်းလင်း မမှတ်မိသည့်အခါ ရှိတတ်သည်။ အချိန်သည် တစ်ခါတစ်ရံ အလုပ်ကြီးတစ်ခုကြောင့်သာ မကုန်ဆုံးပါ။ အလုပ်တစ်ခုမှ တစ်ခုသို့ ပြောင်းရွှေ့နေခြင်း၊ မလိုအပ်ဘဲ ထပ်ခါထပ်ခါ စစ်ဆေးခြင်း၊ ဘာလုပ်ရမည်ကို မဆုံးဖြတ်နိုင်ခြင်းနှင့် အနှောင့်အယှက်များကြောင့်လည်း အချိန်အသုံးပြုမှု ပြန့်ကျဲသွားနိုင်သည်။
+
+အချိန်ပျောက်ဆုံးမှုကို သတိပြုခြင်းသည် မိမိကိုယ်ကို အပြစ်တင်ရန် မဟုတ်ပါ။ ဘယ်အခြေအနေတွင် အချိန်အသုံးပြုမှု မိမိရည်ရွယ်ချက်နှင့် မကိုက်ညီတော့သည်ကို နားလည်ရန်ဖြစ်သည်။ ဖုန်းအသုံးပြုမှု၊ အွန်လိုင်းအကြောင်းအရာများနှင့် စကားပြောမှုတို့သည် အမြဲတမ်း အချိန်ဖြုန်းခြင်း မဟုတ်ပါ။ သင်ယူခြင်း၊ ဆက်သွယ်ခြင်းနှင့် အပန်းဖြေခြင်းတို့အတွက် တန်ဖိုးရှိနိုင်သည်။ ပြဿနာမှာ မိမိရည်ရွယ်ထားသည့်အချိန်ထက် ပိုကြာသွားပြီး အခြားလိုအပ်ချက်များကို ထိခိုက်လာသည့်အခါ ဖြစ်သည်။
+
+**ဥပမာ — ငါးမိနစ်ဟု ထင်ခဲ့သောအချိန်**
+
+အောင်ခန့်သည် သင်ခန်းစာမစမီ ဖုန်းထဲမှ အသိပေးချက်တစ်ခုကိုသာ ကြည့်မည်ဟု ဆုံးဖြတ်သည်။ ထိုမှတစ်ဆင့် ဗီဒီယိုတစ်ခု၊ မှတ်ချက်များနှင့် နောက်ထပ်အကြောင်းအရာများကို ဆက်လက်ကြည့်မိသည်။ နောက်ဆုံးတွင် မိမိရည်ရွယ်ထားသည်ထက် အချိန်ပိုကုန်သွားသည်။ အောင်ခန့်သည် မိမိကိုယ်ကို အပြစ်တင်မည့်အစား နောက်တစ်ကြိမ် စာလေ့လာချိန်တွင် ဖုန်းကို အသံပိတ်ထားပြီး အရေးပေါ်ဆက်သွယ်ရန် လိုအပ်ပါက မိသားစုဝင်တစ်ဦးကို အသိပေးထားရန် ဆုံးဖြတ်သည်။
+
+အချိန်ကို စောင့်ကြည့်ရန် နည်းလမ်းတစ်ခုမှာ တစ်နေ့တာ၏ အချိန်အပိုင်းအခြားအချို့ကို ရိုးရိုးမှတ်သားခြင်းဖြစ်သည်။ မိနစ်တိုင်းကို မှတ်တမ်းတင်ရန် မလိုပါ။ မနက်၊ နေ့လယ်၊ ညနေတို့တွင် မည်သည့်အလုပ်များ လုပ်ခဲ့သည်ကို မှတ်သားရုံဖြင့် ပုံစံအချို့ကို မြင်လာနိုင်သည်။ အလုပ်စတင်ရန် အချိန်ကြာနေသလား၊ အနှောင့်အယှက်များ များနေသလား၊ အနားယူချိန် မလုံလောက်သလားဆိုသည်ကို သတိပြုနိုင်သည်။
+
+အချိန်အသုံးပြုမှုကို ပြုပြင်ရာတွင် အပြောင်းအလဲကြီးများ မလိုအပ်ပါ။ လုပ်စရာတစ်ခုကို စတင်ရန် လိုအပ်သည့်ပစ္စည်းများကို ကြိုတင်ပြင်ဆင်ထားခြင်း၊ အလုပ်တစ်ခုစီအတွက် ရှင်းလင်းသောအစပြုခြေလှမ်း သတ်မှတ်ခြင်း၊ အသိပေးချက်များကို စီမံခြင်းနှင့် အလုပ်တစ်ခုမှ တစ်ခုသို့ ပြောင်းရာတွင် ခဏနားခြင်းတို့က အထောက်အကူဖြစ်နိုင်သည်။
+
+အရေးကြီးသည်မှာ မိမိ၏အချိန်အသုံးပြုမှုကို အခြားသူတစ်ဦးနှင့် အမြဲမနှိုင်းယှဉ်ရန်ဖြစ်သည်။ တာဝန်၊ ပတ်ဝန်းကျင်၊ အင်တာနက်ရရှိမှုနှင့် မိသားစုအခြေအနေတို့ မတူညီနိုင်ပါ။ မိမိ၏အခြေအနေကို နားလည်ပြီး လက်တွေ့ကျသော ပြောင်းလဲမှုတစ်ခုကို ရွေးချယ်ပါ။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — အချိန်ပုံစံကို သတိပြုခြင်း
+
+တစ်ရက်တာအတွင်း အချိန်အပိုင်းအခြား လေးခုကို ရွေးပြီး ထိုအချိန်တွင် ဘာလုပ်ခဲ့သည်၊ ဘာက အာရုံပျက်စေခဲ့သည်၊ ထိုအချိန်ကို မိမိရည်ရွယ်ချက်နှင့် ကိုက်ညီစွာ အသုံးပြုခဲ့သလားကို မှတ်သားပါ။ နောက်တစ်နေ့တွင် ပြောင်းလဲလိုသည့် အချက်တစ်ခုသာ ရွေးပါ။
+
+### စဉ်းစားရန်
+- မိမိ၏အချိန်ကို မကြာခဏ ပြန့်ကျဲစေသော အကြောင်းရင်းက ဘာလဲ။
+- ဖုန်းနှင့် အွန်လိုင်းအသုံးပြုမှုကို အပြစ်မတင်ဘဲ ဘယ်လိုစီမံနိုင်သလဲ။
+- မိမိအခြေအနေနှင့် ကိုက်ညီသော အပြောင်းအလဲအသေးစားတစ်ခုက ဘာဖြစ်နိုင်သလဲ။
+
+### English
+
+A day can end with a vague feeling that time has passed without a clear memory of what happened. Time is not lost only through large tasks. It can also become scattered through frequent switching between activities, repeated checking, uncertainty about what to do next, and interruptions.
+
+Noticing where time goes is not an exercise in blaming yourself. It is a way to understand when your actual use of time no longer matches your intentions. Phones, online content, and conversations are not automatically a waste of time. They can support learning, communication, and recreation. A problem arises when they take much longer than intended and begin to interfere with other needs.
+
+**Example — The five minutes that became longer**
+
+Aung Khant decides to check one notification before studying. That leads to a video, its comments, and more recommended content. Eventually, more time passes than he intended. Instead of blaming himself, he decides to silence non-essential notifications during his next study period. If he needs to remain reachable for an urgent matter, he can arrange that with a family member.
+
+One way to observe time is to make simple notes about a few parts of the day. You do not need to record every minute. A brief note in the morning, afternoon, and evening may reveal patterns. You may notice that starting tasks takes a long time, interruptions are frequent, or rest is insufficient.
+
+Improving the use of time does not require dramatic changes. Preparing materials before beginning, defining a clear first step, managing notifications, and allowing a short pause when switching tasks may all help.
+
+Most importantly, avoid constantly comparing your schedule with someone else's. Responsibilities, surroundings, internet access, and family circumstances differ. Understand your own situation and choose a realistic adjustment.
+
+### Practical exercise — Notice your time patterns
+
+Choose four periods during one day. Record what you were doing, what interrupted your attention, and whether the time was used in a way that matched your intention. On the following day, choose just one thing to adjust.
+
+### Reflection
+- What most often scatters your time?
+- How can you manage phone and online use without treating them as inherently bad?
+- What is one small change that fits your circumstances?
+
+---
+
+# အခန်း ၅။ အနားယူခြင်း၏တန်ဖိုး
+## Chapter 5. The Value of Rest
+
+### မြန်မာစာ
+
+အနားယူခြင်းကို အလုပ်ပြီးမှ ရရှိသည့် ဆုလာဘ်တစ်ခုဟုသာ မမြင်သင့်ပါ။ လူတစ်ဦးသည် အာရုံစူးစိုက်ရန်၊ သင်ယူရန်၊ ဆက်ဆံရေးကို ထိန်းသိမ်းရန်နှင့် နေ့စဉ်တာဝန်များကို ဆောင်ရွက်ရန် အနားယူချိန် လိုအပ်သည်။ အနားယူခြင်းသည် အချိန်စီမံခန့်ခွဲမှု၏ ဆန့်ကျင်ဘက်မဟုတ်ဘဲ ရေရှည်တည်တံ့သော အချိန်အသုံးပြုမှု၏ အစိတ်အပိုင်းတစ်ခုဖြစ်သည်။
+
+အနားယူခြင်းသည် လူတိုင်းအတွက် တူညီသောပုံစံ မဟုတ်ပါ။ တစ်ဦးအတွက် တိတ်ဆိတ်စွာ စာဖတ်ခြင်းက အနားယူမှုဖြစ်နိုင်ပြီး အခြားတစ်ဦးအတွက် လမ်းလျှောက်ခြင်း၊ သီချင်းနားထောင်ခြင်း၊ မိသားစုနှင့် စကားပြောခြင်း သို့မဟုတ် ခဏတာ အလုပ်မှ ခွာနေခြင်းက အထောက်အကူဖြစ်နိုင်သည်။ အရေးကြီးသည်မှာ အနားယူမှုသည် မိမိ၏လိုအပ်ချက်နှင့် ကိုက်ညီပြီး နောက်ထပ်တာဝန်များကို မလိုအပ်ဘဲ ဖိအားမဖြစ်စေရန် ဖြစ်သည်။
+
+**ဥပမာ — အနားယူချိန်ကို အစီအစဉ်ထဲ ထည့်သွင်းခြင်း**
+
+သီရိသည် စာလေ့လာချိန်ကို အချိန်ကြာကြာ ဆက်တိုက်ထားလျှင် နောက်ပိုင်းတွင် အာရုံစူးစိုက်မှု လျော့နည်းလာသည်ကို သတိပြုမိသည်။ သူမသည် မိမိနှင့် သင့်တော်သော အချိန်အပိုင်းအခြားဖြင့် စာလုပ်ပြီး ခဏနားရန် စီစဉ်သည်။ အနားယူချိန်တွင် စာအုပ်ကို ပိတ်ထားပြီး ရေသောက်ခြင်း၊ ပြတင်းပေါက်အပြင်ဘက်ကို ကြည့်ခြင်း သို့မဟုတ် ကိုယ်လက်ကို သက်သာစေခြင်းတို့ ပြုလုပ်သည်။ ထိုနည်းလမ်းက သူမအတွက် အလုပ်နှင့် အနားယူမှုကို မျှတစေသည်။
+
+အနားယူမှုကို အပြစ်ရှိသလို ခံစားစရာ မလိုပါ။ အနားယူနေချိန်တွင်လည်း မိမိဘာကြောင့် နားနေသည်ကို နားလည်ထားနိုင်သည်။ အလုပ်ပြီးမြောက်ရန် အချိန်လိုအပ်သကဲ့သို့ ပြန်လည်အားဖြည့်ရန်လည်း အချိန်လိုအပ်သည်။ အနားယူခြင်းကို အမြဲတမ်း နောက်ဆုံးသို့ ရွှေ့ထားပါက အလုပ်များ မပြီးဆုံးသေးသည့်အတွက် အနားယူခွင့်မရဟု ခံစားလာနိုင်သည်။ ထို့ကြောင့် အနားယူချိန်ကိုလည်း အစီအစဉ်ထဲတွင် တန်ဖိုးရှိသောအရာအဖြစ် ထည့်သွင်းပါ။
+
+သို့သော် အနားယူခြင်းနှင့် တာဝန်ကို ရှောင်ရှားခြင်းကိုလည်း ခွဲခြားသိရန် လိုသည်။ အလုပ်တစ်ခုကို စတင်ရန် ကြောက်ရွံ့နေခြင်း၊ ဘယ်ကစရမည် မသိခြင်း သို့မဟုတ် အလွန်ကြီးမားသည်ဟု ထင်ခြင်းကြောင့် အမြဲရွှေ့ဆိုင်းနေပါက အနားယူခြင်းတစ်ခုတည်းက ပြဿနာကို မဖြေရှင်းနိုင်ပါ။ ထိုအခါ အလုပ်ကို ပိုသေးငယ်သော အဆင့်များအဖြစ် ခွဲပြီး ပထမခြေလှမ်းကို ရှင်းလင်းစွာ သတ်မှတ်နိုင်သည်။
+
+အနားယူရန် အချိန်မရဟု ခံစားရသူများအတွက် အခြေအနေကိုလည်း ထည့်သွင်းစဉ်းစားရမည်။ အိမ်မှုကိစ္စ၊ အလုပ်တာဝန်နှင့် မိသားစုတာဝန်များကြောင့် အချိန်အလွန်ကန့်သတ်နေသူတိုင်းတွင် အချိန်ဇယားကို လွတ်လပ်စွာ ပြောင်းလဲနိုင်မည် မဟုတ်ပါ။ ထိုသူများအတွက် အကူအညီတောင်းခြင်း၊ တာဝန်မျှဝေခြင်း သို့မဟုတ် ခဏတာ အနားယူနိုင်သည့် အခွင့်အရေးကို ရှာဖွေခြင်းက ပိုလက်တွေ့ကျနိုင်သည်။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — မိမိအတွက် သင့်တော်သော အနားယူမှု
+
+မိမိကို အနားရစေသော လုပ်ဆောင်မှု သုံးခုကို ရေးပါ။ ထိုအရာများထဲမှ တစ်ခုကို နေ့စဉ်အစီအစဉ်တွင် ထည့်ပါ။ အနားယူပြီးနောက် မိမိ၏စိတ်အခြေအနေ၊ အာရုံစူးစိုက်မှုနှင့် အင်အားကို သတိပြုပါ။ မိမိအတွက် အကျိုးရှိသောပုံစံကို ရှာဖွေပါ။
+
+### စဉ်းစားရန်
+- အနားယူခြင်းသည် ရေရှည်အလုပ်လုပ်နိုင်စွမ်းကို ဘယ်လိုကူညီနိုင်သလဲ။
+- မိမိအတွက် အမှန်တကယ် အနားရစေသော လုပ်ဆောင်မှုက ဘာလဲ။
+- အနားယူခြင်းနှင့် အလုပ်ကို ရွှေ့ဆိုင်းခြင်းကို ဘယ်လိုခွဲခြားနိုင်သလဲ။
+
+### English
+
+Rest should not be seen only as a reward received after all work is finished. People need time to recover in order to concentrate, learn, maintain relationships, and manage everyday responsibilities. Rest is not the opposite of time management; it is part of using time sustainably.
+
+Rest does not look the same for everyone. Quiet reading may help one person, while another may benefit from walking, listening to music, talking with family, or stepping away from a task for a while. What matters is that the form of rest suits the person's needs and does not create unnecessary pressure.
+
+**Example — Making room for rest**
+
+Thiri notices that when she studies for a long stretch without a break, her attention becomes less steady. She begins working in periods that suit her and plans short pauses. During a break, she closes her book, drinks water, looks outside, or simply gives herself a moment to settle. This approach helps her create a more balanced rhythm.
+
+There is no need to feel guilty about resting. You can understand why you are taking a break. Just as completing work requires time, recovery requires time too. If rest is always postponed until the very end, the unfinished task list may make it feel as though you never deserve a break. Give rest a legitimate place in your plan.
+
+It is also useful to distinguish rest from avoiding a responsibility. If a task is repeatedly postponed because it feels intimidating, unclear, or too large, rest alone may not solve the problem. The task may need to be divided into smaller steps, with a clear first action.
+
+People who feel they have no time to rest may also face real constraints. Household work, employment, and family responsibilities can limit a person's ability to rearrange a schedule freely. Asking for help, sharing responsibilities, or finding a brief opportunity to pause may be more realistic than expecting a complete schedule redesign.
+
+### Practical exercise — Find a form of rest that suits you
+
+Write down three activities that help you feel rested. Include one of them in your daily plan. Afterwards, notice your mood, attention, and energy. Use what you learn to identify a form of rest that works for you.
+
+### Reflection
+- How can rest support the ability to work over time?
+- What activity genuinely helps you recover?
+- How can you distinguish rest from repeatedly postponing a task?
+
+---
+
 
 **ရေးသားပြီး / Drafted:** အမှာစာ၊ မာတိကာ၊ နိဒါန်း၊ အခန်း ၁–၂ ကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ရေးသားထားသည်။
 
 **ကျန်ရှိ / Pending:** အခန်း ၃–၁၀၊ နိဂုံး၊ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာစစ်ဆေးမှု၊ ဥပမာနှင့် အကြောင်းအရာထပ်နေမှုစစ်ဆေးခြင်း၊ သရုပ်ဖော်ပုံများ။
+
+**Status:** Early manuscript — not complete and not publication-ready.
+
+
+## စာမူတိုးတက်မှု | Manuscript progress
+
+**ရေးသားပြီး / Drafted:** အမှာစာ၊ မာတိကာ၊ နိဒါန်းနှင့် အခန်း ၁–၅ ကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ရေးသားထားသည်။
+
+**ကျန်ရှိ / Pending:** အခန်း ၆–၁၀၊ နိဂုံး၊ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာစစ်ဆေးမှု၊ ဥပမာနှင့် အကြောင်းအရာထပ်နေမှုစစ်ဆေးခြင်း၊ သရုပ်ဖော်ပုံများ။
 
 **Status:** Early manuscript — not complete and not publication-ready.
