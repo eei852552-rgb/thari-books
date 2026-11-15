@@ -956,4 +956,236 @@ The Tin Woodman began preparing a raft. While he worked, the Scarecrow found a t
 
 Making the raft took time, even for the industrious Tin Woodman, and the work was not finished by nightfall. So they found a comfortable place beneath the trees and slept until morning. Dorothy dreamed of the Emerald City and the good Wizard Oz, who she hoped would soon send her back to her home in Kansas.`
   },
+
+  {
+    number: 8,
+    title: "အခန်း (၈) — အန္တရာယ်များသော ဘိန်းပန်းခင်း",
+    titleEn: "Chapter 8 — The Deadly Poppy Field",
+    content: `နောက်တစ်နေ့ မနက်တွင် ခရီးသွားအဖွဲ့သည် အားအင်ပြည့်ဝပြီး မျှော်လင့်ချက်အသစ်များဖြင့် နိုးထလာကြသည်။ ဒေါ်ရသီသည် မြစ်ကမ်းနားရှိ သစ်ပင်များမှ မက်မွန်သီးနှင့် ဇီးသီးများကို မင်းသမီးတစ်ပါးလို စားသောက်ခဲ့သည်။ သူတို့နောက်တွင် ဖြတ်သန်းလာခဲ့သော မှောင်မိုက်သည့် တောအုပ်ကြီး ရှိနေပြီး ရှေ့တွင်တော့ မြစိမ်းရောင်မြို့တော်ဆီသို့ ဖိတ်ခေါ်နေသကဲ့သို့ လှပနေရောင်လင်းသော နယ်မြေတစ်ခု ရှိနေသည်။
+
+သို့သော် မြစ်ကျယ်ကြီးက သူတို့နှင့် ထိုလှပသော နယ်မြေကြားတွင် အတားအဆီးဖြစ်နေဆဲပင်။ ဖောင်မှာလည်း ပြီးစီးလုနီးပါး ဖြစ်နေပြီ။ သံခုတ်သမားသည် သစ်တုံးအနည်းငယ် ထပ်မံဖြတ်တောက်ပြီး သစ်သားတံသင်များဖြင့် ချည်နှောင်လိုက်သောအခါ ဖောင်သည် အသင့်ဖြစ်သွားသည်။ ဒေါ်ရသီသည် ဖောင်အလယ်တွင် ထိုင်ကာ တိုတိုကို ပွေ့ထားသည်။
+
+ခြင်္သေ့ကြီး ဖောင်ပေါ်တက်လိုက်သောအခါ သူ၏ ကိုယ်အလေးချိန်ကြောင့် ဖောင်သည် တစ်ဖက်သို့ ယိမ်းသွားသည်။ ထို့ကြောင့် စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့သည် ဖောင်၏ အခြားတစ်ဖက်တွင် ရပ်ကာ ညီမျှအောင် ထိန်းပေးကြသည်။ သူတို့လက်ထဲတွင် ရေထဲတွင် ဖောင်ကို ရွေ့လျားစေရန် အသုံးပြုသော တိုင်ရှည်များလည်း ပါလာသည်။
+
+အစပိုင်းတွင် သူတို့သည် အဆင်ပြေပြေ သွားလာနိုင်ခဲ့ကြသည်။ သို့သော် မြစ်အလယ်သို့ ရောက်သောအခါ ရေစီးသန်မှုက ဖောင်ကို အဝါရောင်အုတ်ခင်းလမ်းရှိရာဘက်မှ ဝေးရာသို့ တဖြည်းဖြည်း မျောပါသွားစေသည်။ ရေသည် ပိုမိုနက်လာသဖြင့် သူတို့၏ တိုင်ရှည်များဖြင့် မြစ်အောက်ခြေကို မထိနိုင်တော့ပေ။
+
+“ဒါ မကောင်းတော့ဘူး” ဟု သံခုတ်သမားက ပြောသည်။ “ကမ်းကို မရောက်နိုင်ရင် အနောက်ဘက် မကောင်းဆိုးဝါး စုန်းမ အုပ်ချုပ်တဲ့ နယ်မြေထဲကို မျောပါသွားနိုင်တယ်။ သူမက ငါတို့ကို မှော်အတတ်နဲ့ ဖမ်းချုပ်ပြီး ကျွန်တွေ လုပ်ပစ်လိမ့်မယ်။”
+
+“ဒါဆို ကျွန်တော် ဦးနှောက်ရမှာ မဟုတ်တော့ဘူး” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+“ကျွန်တော်လည်း သတ္တိရမှာ မဟုတ်တော့ဘူး” ဟု ခြင်္သေ့ကြီးက ဆိုသည်။
+
+“ကျွန်တော်လည်း နှလုံးသားရမှာ မဟုတ်တော့ဘူး” ဟု သံခုတ်သမားက ပြောသည်။
+
+“ကျွန်မလည်း ကန်ဆတ်ကို ဘယ်တော့မှ ပြန်မရောက်နိုင်တော့ဘူး” ဟု ဒေါ်ရသီက ဝမ်းနည်းစွာ ပြောသည်။
+
+“ဘာပဲဖြစ်ဖြစ် မြစိမ်းရောင်မြို့တော်ကို ရောက်အောင် သွားရမယ်” ဟု စာခြောက်ရုပ်က ပြောပြီး သူ၏ တိုင်ရှည်ကို အားကုန်တွန်းလိုက်သည်။ သို့သော် တိုင်သည် မြစ်အောက်ခြေရှိ ရွှံ့ထဲတွင် စိုက်ကပ်သွားသည်။ သူ ပြန်ဆွဲထုတ်ရန် မကြိုးစားမီမှာပင် ဖောင်သည် ရေစီးနှင့်အတူ ဆက်လက်မျောပါသွားပြီး စာခြောက်ရုပ်မှာ မြစ်အလယ်ရှိ တိုင်ကိုသာ ဖက်တွယ်လျက် ကျန်ရစ်ခဲ့သည်။
+
+“နှုတ်ဆက်ခဲ့ကြတော့” ဟု သူက အဝေးသို့ မျောသွားသော မိတ်ဆွေများကို လှမ်းအော်သည်။ သူ့ကို ထားခဲ့ရသည့်အတွက် အားလုံး စိတ်မကောင်းဖြစ်ကြသည်။ သံခုတ်သမားသည် ငိုမိတော့မလို ဖြစ်သွားသော်လည်း သံချေးတက်သွားနိုင်ကြောင်း သတိရကာ ဒေါ်ရသီ၏ အင်္ကျီစဖြင့် မျက်ရည်ကို သုတ်လိုက်သည်။
+
+စာခြောက်ရုပ်မှာတော့ အလွန်စိတ်ညစ်နေသည်။ “ဒေါ်ရသီနဲ့ စတွေ့ခဲ့တုန်းကထက်တောင် အခုအခြေအနေက ပိုဆိုးနေပြီ။ အဲဒီတုန်းက ပြောင်းခင်းထဲက တိုင်ပေါ်မှာ ရှိနေတော့ ကျီးကန်းတွေကို ခြောက်လှန့်နေတယ်လို့ အနည်းဆုံး ဟန်ဆောင်နိုင်သေးတယ်။ အခုတော့ မြစ်အလယ်က တိုင်ပေါ်မှာ တစ်ယောက်တည်း ကျန်နေတဲ့ စာခြောက်ရုပ်ကို ဘယ်သူက လိုအပ်တော့မှာလဲ။ ငါ ဦးနှောက်ရဖို့ မဖြစ်နိုင်တော့ဘူး ထင်ပါရဲ့” ဟု သူ တွေးနေသည်။
+
+ဖောင်သည် မြစ်အောက်ဘက်သို့ ဆက်လက်မျောပါသွားပြီး စာခြောက်ရုပ်ကို အဝေးတွင် ချန်ထားခဲ့သည်။ ထိုအခါ ခြင်္သေ့ကြီးက “ငါတို့ကို ကယ်ဖို့ တစ်ခုခု လုပ်ရမယ်။ မင်းတို့က ငါ့အမြီးဖျားကို မြဲမြဲကိုင်ထားနိုင်ရင် ငါ ကမ်းဘက်ကို ကူးပြီး ဖောင်ကို ဆွဲခေါ်သွားနိုင်မယ် ထင်တယ်” ဟု ပြောသည်။
+
+ထို့နောက် ခြင်္သေ့ကြီးသည် ရေထဲသို့ ခုန်ဆင်းလိုက်ပြီး သံခုတ်သမားက သူ၏ အမြီးကို မြဲမြဲကိုင်ထားသည်။ ခြင်္သေ့ကြီးသည် ကမ်းဘက်သို့ အားကုန်ကူးခတ်သွားသည်။ သူ့ကိုယ်ခန္ဓာကြီးမားသော်လည်း အလုပ်မှာ မလွယ်ကူပေ။ သို့သော် နောက်ဆုံးတွင် သူတို့သည် ရေစီးသန်ရာမှ လွတ်မြောက်လာကြပြီး ဒေါ်ရသီက သံခုတ်သမား၏ တိုင်ရှည်ကို ယူကာ ဖောင်ကို ကမ်းဘက်သို့ ရွေ့လာစေရန် ကူညီပေးခဲ့သည်။
+
+နောက်ဆုံးတွင် သူတို့အားလုံး ကမ်းပေါ်သို့ ရောက်လာကြသည်။ ပင်ပန်းနွမ်းနယ်နေကြသော်လည်း မြစ်ရေက သူတို့ကို မြစိမ်းရောင်မြို့တော်သို့ သွားသော အဝါရောင်အုတ်ခင်းလမ်းထက် အတော်ဝေးသော နေရာသို့ မျောပါသွားစေခဲ့ကြောင်း သိလိုက်ရသည်။
+
+“အခု ဘာလုပ်ကြမလဲ” ဟု သံခုတ်သမားက မြက်ခင်းပေါ်တွင် လှဲကာ နေရောင်ဖြင့် ကိုယ်ကို ခြောက်သွေ့စေသော ခြင်္သေ့ကြီးကို ကြည့်ပြီး မေးသည်။
+
+“တစ်နည်းနည်းနဲ့ လမ်းမကြီးဆီ ပြန်ရောက်အောင် သွားရမယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“မြစ်ကမ်းတစ်လျှောက် လျှောက်သွားရင် လမ်းကို ပြန်တွေ့နိုင်မယ်” ဟု ခြင်္သေ့ကြီးက အကြံပေးသည်။
+
+သူတို့ အနားယူပြီးနောက် ဒေါ်ရသီသည် ခြင်းတောင်းကို ကောက်ယူကာ မြစ်က သူတို့ကို မျောပါသွားစေခဲ့သော လမ်းဘက်သို့ မြက်ခင်းကမ်းတစ်လျှောက် စတင်လျှောက်ကြသည်။ ထိုနေရာသည် ပန်းများ၊ အသီးပင်များနှင့် နေရောင်တို့ကြောင့် အလွန်လှပနေသည်။ စာခြောက်ရုပ်ကို စိတ်ပူမနေခဲ့ရလျှင် သူတို့ အလွန်ပျော်ရွှင်ကြမည်မှာ သေချာသည်။
+
+သူတို့သည် တတ်နိုင်သမျှ မြန်မြန် လျှောက်လာကြသည်။ ဒေါ်ရသီသည် လှပသော ပန်းတစ်ပွင့်ကို ခူးရန် တစ်ကြိမ်သာ ရပ်လိုက်သည်။ ထိုနောက် သံခုတ်သမားက “ဟိုမှာ ကြည့်ကြ” ဟု ရုတ်တရက် အော်ပြောသည်။
+
+အားလုံး မြစ်ဘက်သို့ လှည့်ကြည့်လိုက်သောအခါ စာခြောက်ရုပ်သည် မြစ်အလယ်ရှိ တိုင်ပေါ်တွင် ထိုင်နေပြီး အလွန်အထီးကျန် ဝမ်းနည်းနေသည့်ပုံကို တွေ့လိုက်ရသည်။
+
+“သူ့ကို ဘယ်လိုကယ်ကြမလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+ခြင်္သေ့ကြီးနှင့် သံခုတ်သမားတို့သည် မသိကြောင်း ခေါင်းခါကြသည်။ ထို့ကြောင့် သူတို့သည် မြစ်ကမ်းပေါ်တွင် ထိုင်ကာ စာခြောက်ရုပ်ကို စိတ်မကောင်းစွာ ကြည့်နေကြသည်။ ထိုအချိန်တွင် ငှက်ကြီးတစ်ကောင် ပျံလာပြီး သူတို့ကို မြင်သဖြင့် ရေကမ်းနားတွင် ခဏနားလိုက်သည်။
+
+“မင်းတို့က ဘယ်သူတွေလဲ၊ ဘယ်ကို သွားနေကြတာလဲ” ဟု ငှက်ကြီးက မေးသည်။
+
+“ကျွန်မက ဒေါ်ရသီပါ။ ဒါတွေက ကျွန်မရဲ့ မိတ်ဆွေတွေဖြစ်တဲ့ သံခုတ်သမားနဲ့ ကြောက်တတ်တဲ့ ခြင်္သေ့ကြီးပါ။ ကျွန်မတို့ မြစိမ်းရောင်မြို့တော်ကို သွားနေကြတာပါ” ဟု ဒေါ်ရသီက ဖြေသည်။
+
+“ဒီနေရာက လမ်းမဟုတ်ဘူးနော်” ဟု ငှက်ကြီးက သူ၏ လည်ပင်းရှည်ကို လှည့်ကာ သူတို့ကို သေချာကြည့်ပြီး ပြောသည်။
+
+“သိပါတယ်။ ဒါပေမဲ့ ကျွန်မတို့ စာခြောက်ရုပ်မိတ်ဆွေ ပျောက်သွားလို့ သူ့ကို ဘယ်လိုပြန်ခေါ်ရမလဲ စဉ်းစားနေကြတာပါ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“သူ ဘယ်မှာလဲ” ဟု ငှက်ကြီးက မေးသည်။
+
+“ဟိုမှာ မြစ်ထဲမှာပါ” ဟု ဒေါ်ရသီက ဖြေသည်။
+
+“သူသာ ဒီလောက် မကြီးမလေးဘူးဆိုရင် ငါ ကူညီခေါ်လာပေးနိုင်မှာပဲ” ဟု ငှက်ကြီးက ပြောသည်။
+
+“သူက လုံးဝ မလေးပါဘူး။ ကောက်ရိုးတွေနဲ့ပဲ ပြည့်နေတာပါ။ သူ့ကို ကျွန်မတို့ဆီ ပြန်ခေါ်လာပေးရင် အမြဲကျေးဇူးတင်နေမှာပါ” ဟု ဒေါ်ရသီက စိတ်အားထက်သန်စွာ ပြောသည်။
+
+“ကောင်းပြီ၊ ကြိုးစားကြည့်မယ်။ ဒါပေမဲ့ သူ့ကို သယ်လို့ မရလောက်အောင် လေးနေတယ်ဆိုရင်တော့ မြစ်ထဲကို ပြန်ချရနိုင်တယ်နော်” ဟု ငှက်ကြီးက ပြောသည်။
+
+ထို့နောက် ငှက်ကြီးသည် ကောင်းကင်ပေါ်သို့ ပျံတက်ကာ မြစ်အပေါ်မှ ဖြတ်သန်းပြီး တိုင်ပေါ်တွင် ရှိနေသော စာခြောက်ရုပ်ဆီသို့ ရောက်သွားသည်။ သူ၏ ခြေသည်းကြီးများဖြင့် စာခြောက်ရုပ်၏ လက်မောင်းကို ကိုင်ကာ ကောင်းကင်ပေါ်သို့ သယ်ဆောင်လာပြီး ဒေါ်ရသီ၊ ခြင်္သေ့ကြီး၊ သံခုတ်သမားနှင့် တိုတိုတို့ စောင့်နေသော ကမ်းပေါ်သို့ ပြန်ခေါ်လာပေးခဲ့သည်။
+
+မိတ်ဆွေများအကြား ပြန်ရောက်လာသောအခါ စာခြောက်ရုပ်သည် အလွန်ပျော်ရွှင်သွားပြီး ခြင်္သေ့ကြီးနှင့် တိုတိုအပါအဝင် အားလုံးကို ပွေ့ဖက်လိုက်သည်။ ထို့နောက် သူတို့ လမ်းလျှောက်နေစဉ် “တော်လ်ဒီရီဒီအို” ဟု သီချင်းဆိုကာ ခြေလှမ်းတိုင်းတွင် ပျော်ရွှင်နေခဲ့သည်။
+
+“ငါတော့ မြစ်ထဲမှာ ထာဝရ နေရတော့မယ်လို့ ထင်ခဲ့တာ။ ဒါပေမဲ့ ကြင်နာတတ်တဲ့ ငှက်ကြီးက ငါ့ကို ကယ်ပေးခဲ့တယ်။ တစ်နေ့နေ့ ငါ ဦးနှောက်ရလာခဲ့ရင် ဒီငှက်ကြီးကို ပြန်ရှာပြီး သူ့အတွက် ကောင်းမှုတစ်ခုခု ပြန်လုပ်ပေးမယ်” ဟု သူက ပြောသည်။
+
+“ရပါတယ်။ ဒုက္ခရောက်နေသူတွေကို ကူညီရတာ ငါ အမြဲနှစ်သက်တယ်။ ဒါပေမဲ့ အခုတော့ ပြန်သွားရတော့မယ်။ ငါ့ကလေးတွေက အသိုက်ထဲမှာ စောင့်နေကြတယ်။ မင်းတို့ မြစိမ်းရောင်မြို့တော်ကို ရောက်ပြီး အော့ဇ်က ကူညီပေးနိုင်ပါစေလို့ ဆုတောင်းပါတယ်” ဟု ငှက်ကြီးက ပြောသည်။
+
+“ကျေးဇူးတင်ပါတယ်” ဟု ဒေါ်ရသီက ပြန်ဖြေလိုက်သည်။ ထို့နောက် ကြင်နာတတ်သော ငှက်ကြီးသည် ကောင်းကင်သို့ ပျံတက်သွားပြီး မကြာမီ မြင်ကွင်းမှ ပျောက်ကွယ်သွားသည်။
+
+သူတို့သည် အရောင်အသွေးစုံလင်သော ငှက်များ၏ သီချင်းသံကို နားထောင်ရင်း၊ မြေပြင်တစ်ခုလုံးကို ကော်ဇောခင်းထားသကဲ့သို့ ဖုံးလွှမ်းလာသော လှပသည့် ပန်းများကို ကြည့်ရင်း ဆက်လျှောက်ကြသည်။ အဝါရောင်၊ အဖြူရောင်၊ အပြာရောင်၊ ခရမ်းရောင် ပန်းပွင့်ကြီးများအပြင် အနီရောင်တောက်ပသော ဘိန်းပန်းအုပ်ကြီးများလည်း ရှိနေသည်။ ထိုပန်းများ၏ အရောင်မှာ ဒေါ်ရသီ၏ မျက်လုံးကိုပင် စူးရှတောက်ပစေသည်။
+
+“ဘယ်လောက်လှလိုက်တဲ့ ပန်းတွေပါလဲ” ဟု ဒေါ်ရသီက ပန်းရနံ့ကို ရှူရှိုက်ရင်း မေးသည်။
+
+“ဦးနှောက်ရလာတဲ့အခါကျမှ ငါလည်း ဒီပန်းတွေကို ပိုပြီး သဘောကျလာမယ် ထင်တယ်” ဟု စာခြောက်ရုပ်က ပြန်ဖြေသည်။
+
+“ငါ့မှာ နှလုံးသားသာ ရှိခဲ့ရင် ဒီပန်းတွေကို ချစ်မိမှာပဲ” ဟု သံခုတ်သမားက ထပ်ပြောသည်။
+
+“ငါကတော့ ပန်းတွေကို အမြဲကြိုက်တယ်။ သူတို့က အကာအကွယ်မဲ့ပြီး နူးညံ့သလိုပဲ။ ဒါပေမဲ့ တောထဲမှာ ဒီလောက်တောက်ပတဲ့ ပန်းတွေ မရှိဘူး” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+သူတို့သည် အနီရောင် ဘိန်းပန်းများ ပိုမိုများပြားလာပြီး အခြားပန်းများ တဖြည်းဖြည်း နည်းပါးလာသော နေရာသို့ ရောက်လာကြသည်။ မကြာမီ ဘိန်းပန်းများ ပြည့်နှက်နေသော မြက်ခင်းပြင်ကြီးအလယ်သို့ ရောက်ရှိသွားကြသည်။ ထိုပန်းများစွာ စုဝေးပွင့်နေသောအခါ ရနံ့သည် အလွန်ပြင်းထန်လာပြီး ရှူရှိုက်မိသူများကို အိပ်ပျော်သွားစေနိုင်သည်။ ထိုအိပ်ပျော်မှုမှ မနိုးနိုင်တော့သည့်အထိ ဖြစ်နိုင်ကြောင်း ထိုနယ်မြေတွင် လူသိများကြသည်။
+
+သို့သော် ဒေါ်ရသီသည် ထိုအကြောင်းကို မသိခဲ့ပေ။ သူမပတ်လည်တွင် အနီရောင်တောက်ပသော ပန်းများ အနှံ့အပြားရှိနေပြီး ထိုနေရာမှ အလွယ်တကူ ထွက်ခွာရန်လည်း မဖြစ်နိုင်ခဲ့ပေ။ မကြာမီ သူမ၏ မျက်လုံးများ လေးလံလာပြီး ခဏထိုင်ကာ အနားယူချင်လာသည်။
+
+သံခုတ်သမားက သူမကို ထိုင်ခွင့်မပေးခဲ့ပါ။
+
+“မှောင်မသွားခင် အဝါရောင်အုတ်ခင်းလမ်းဆီ ပြန်ရောက်အောင် အမြန်သွားကြရမယ်” ဟု သူက ပြောသည်။ စာခြောက်ရုပ်လည်း သဘောတူသည်။ သူတို့သည် ဆက်လျှောက်ကြသော်လည်း ဒေါ်ရသီမှာ နောက်ထပ် မလျှောက်နိုင်တော့ပေ။ သူမ၏ မျက်လုံးများသည် မိမိဆန္ဒမပါဘဲ ပိတ်သွားပြီး ဘိန်းပန်းများကြားတွင် အိပ်ပျော်သွားခဲ့သည်။
+
+“အခု ဘယ်လိုလုပ်ကြမလဲ” ဟု သံခုတ်သမားက မေးသည်။
+
+“သူမကို ဒီနေရာမှာ ထားခဲ့ရင် အသက်အန္တရာယ်ရှိနိုင်တယ်။ ပန်းရနံ့က ငါတို့အားလုံးကို အားနည်းစေတယ်။ ငါတောင် မျက်လုံးကို ဖွင့်ထားဖို့ ခက်နေပြီ။ ခွေးလေးလည်း အိပ်ပျော်နေပြီ” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+တကယ်လည်း တိုတိုသည် သူ၏ သခင်မလေးဘေးတွင် လဲလျောင်းကာ အိပ်ပျော်နေပြီဖြစ်သည်။ စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့မှာ အသားနှင့် ပြုလုပ်ထားသူများ မဟုတ်သဖြင့် ထိုပန်းရနံ့ကြောင့် မထိခိုက်ခဲ့ကြပေ။
+
+“မင်း အမြန်ဆုံး ပြေးထွက်သွားပါ။ ဒီပန်းခင်းထဲကနေ အမြန်ဆုံး လွတ်မြောက်အောင် သွားရမယ်။ ငါတို့က ဒေါ်ရသီကို ခေါ်သွားမယ်။ မင်းသာ အိပ်ပျော်သွားရင် မင်းက အရမ်းကြီးလို့ ငါတို့ သယ်နိုင်မှာ မဟုတ်ဘူး” ဟု စာခြောက်ရုပ်က ခြင်္သေ့ကြီးကို ပြောသည်။
+
+ထို့ကြောင့် ခြင်္သေ့ကြီးသည် အားတင်းကာ တတ်နိုင်သမျှ မြန်မြန် ပြေးထွက်သွားသည်။ မကြာမီ သူသည် မျက်စိအောက်မှ ပျောက်ကွယ်သွားသည်။
+
+“ငါတို့လက်တွေနဲ့ ထိုင်ခုံတစ်ခုလို လုပ်ပြီး သူမကို သယ်ကြရအောင်” ဟု စာခြောက်ရုပ်က ပြောသည်။ သူတို့သည် တိုတိုကို ကောက်ယူကာ ဒေါ်ရသီ၏ ပေါင်ပေါ်တွင် တင်ပေးကြသည်။ ထို့နောက် သူတို့၏ လက်များဖြင့် ထိုင်ခုံပုံစံ ပြုလုပ်ကာ အိပ်ပျော်နေသော ဒေါ်ရသီကို ပန်းများကြားမှ သယ်ဆောင်သွားကြသည်။
+
+သူတို့သည် ဆက်လက်လျှောက်လာကြသည်။ အန္တရာယ်ရှိသော ပန်းခင်းကြီးသည် ဘယ်တော့မှ မဆုံးတော့သလိုပင် ထင်ရသည်။ မြစ်ကွေ့အတိုင်း လိုက်လျှောက်လာရင်း နောက်ဆုံးတွင် သူတို့၏ မိတ်ဆွေ ခြင်္သေ့ကြီးကို ဘိန်းပန်းများကြားတွင် အိပ်ပျော်နေသည်ကို တွေ့လိုက်ရသည်။ ပန်းရနံ့သည် သူ့အပေါ်တွင်လည်း သက်ရောက်သွားခဲ့ပြီး သူသည် မြက်ခင်းစိမ်းများ စတင်နေသော ပန်းခင်းအဆုံးနှင့် မဝေးသော နေရာတွင် အိပ်ပျော်သွားခဲ့သည်။
+
+“သူ့ကိုတော့ ငါတို့ ဘာမှ မလုပ်ပေးနိုင်တော့ဘူး” ဟု သံခုတ်သမားက ဝမ်းနည်းစွာ ပြောသည်။ “သူက အရမ်းကြီးလွန်းလို့ သယ်လို့ မရဘူး။ ဒီမှာပဲ အိပ်နေစေရတော့မယ်။ သူ့အိပ်မက်ထဲမှာတော့ နောက်ဆုံး သတ္တိရှိလာပြီလို့ မက်နေနိုင်တာပေါ့။”
+
+“စိတ်မကောင်းပါဘူး။ ခြင်္သေ့ကြီးက ကြောက်တတ်ပေမဲ့ မိတ်ဆွေကောင်းတစ်ယောက်ပါ” ဟု စာခြောက်ရုပ်က ပြောသည်။ “ဒါပေမဲ့ ငါတို့ ဆက်သွားကြရအောင်။”
+
+သူတို့သည် အိပ်ပျော်နေသော ဒေါ်ရသီကို မြစ်ကမ်းနားရှိ လှပသော နေရာတစ်ခုသို့ သယ်ဆောင်သွားကြသည်။ ဘိန်းပန်းခင်းနှင့် ဝေးသည့်နေရာဖြစ်သောကြောင့် ထိုပန်းရနံ့ကို ဆက်လက်မရှူမိတော့ပေ။ ထို့နောက် သူမကို နူးညံ့သော မြက်ခင်းပေါ်တွင် ညင်သာစွာ ချထားပြီး လေပြေလေးတိုက်ခတ်လာကာ သူမ နိုးလာမည်ကို စောင့်နေကြသည်။`,
+    contentEn: `Our little party of travelers awakened the next morning refreshed and full of hope, and Dorothy breakfasted like a princess off peaches and plums from the trees beside the river. Behind them was the dark forest they had passed safely through, although they had suffered many discouragements; but before them was a lovely, sunny country that seemed to beckon them on to the Emerald City.
+
+To be sure, the broad river now cut them off from this beautiful land. But the raft was nearly done, and after the Tin Woodman had cut a few more logs and fastened them together with wooden pins, they were ready to start. Dorothy sat down in the middle of the raft and held Toto in her arms.
+
+When the Cowardly Lion stepped upon the raft it tipped badly, for he was big and heavy; but the Scarecrow and the Tin Woodman stood upon the other end to steady it, and they had long poles in their hands to push the raft through the water.
+
+They got along quite well at first, but when they reached the middle of the river the swift current swept the raft downstream, farther and farther away from the road of yellow brick. And the water grew so deep that the long poles would not touch the bottom.
+
+“This is bad,” said the Tin Woodman, “for if we cannot get to the land we shall be carried into the country of the Wicked Witch of the West, and she will enchant us and make us her slaves.”
+
+“And then I should get no brains,” said the Scarecrow.
+
+“And I should get no courage,” said the Cowardly Lion.
+
+“And I should get no heart,” said the Tin Woodman.
+
+“And I should never get back to Kansas,” said Dorothy.
+
+“We must certainly get to the Emerald City if we can,” the Scarecrow continued, and he pushed so hard on his long pole that it stuck fast in the mud at the bottom of the river. Then, before he could pull it out again—or let go—the raft was swept away, and the poor Scarecrow was left clinging to the pole in the middle of the river.
+
+“Good-bye!” he called after them, and they were very sorry to leave him. Indeed, the Tin Woodman began to cry, but fortunately remembered that he might rust, and so dried his tears on Dorothy’s apron.
+
+Of course this was a bad thing for the Scarecrow.
+
+“I am now worse off than when I first met Dorothy,” he thought. “Then, I was stuck on a pole in a cornfield, where I could make-believe scare the crows, at any rate. But surely there is no use for a Scarecrow stuck on a pole in the middle of a river. I am afraid I shall never have any brains, after all!”
+
+Down the stream the raft floated, and the poor Scarecrow was left far behind. Then the Lion said:
+
+“Something must be done to save us. I think I can swim to the shore and pull the raft after me, if you will only hold fast to the tip of my tail.”
+
+So he sprang into the water, and the Tin Woodman caught fast hold of his tail. Then the Lion began to swim with all his might toward the shore. It was hard work, although he was so big; but by and by they were drawn out of the current, and then Dorothy took the Tin Woodman’s long pole and helped push the raft to the land.
+
+They were all tired out when they reached the shore at last and stepped off upon the pretty green grass, and they also knew that the stream had carried them a long way past the road of yellow brick that led to the Emerald City.
+
+“What shall we do now?” asked the Tin Woodman, as the Lion lay down on the grass to let the sun dry him.
+
+“We must get back to the road, in some way,” said Dorothy.
+
+“The best plan will be to walk along the riverbank until we come to the road again,” remarked the Lion.
+
+So, when they were rested, Dorothy picked up her basket and they started along the grassy bank, to the road from which the river had carried them. It was a lovely country, with plenty of flowers and fruit trees and sunshine to cheer them, and had they not felt so sorry for the poor Scarecrow, they could have been very happy.
+
+They walked along as fast as they could, Dorothy only stopping once to pick a beautiful flower; and after a time the Tin Woodman cried out: “Look!”
+
+Then they all looked at the river and saw the Scarecrow perched upon his pole in the middle of the water, looking very lonely and sad.
+
+“What can we do to save him?” asked Dorothy.
+
+The Lion and the Woodman both shook their heads, for they did not know. So they sat down upon the bank and gazed wistfully at the Scarecrow until a Stork flew by, who, upon seeing them, stopped to rest at the water’s edge.
+
+“Who are you and where are you going?” asked the Stork.
+
+“I am Dorothy,” answered the girl, “and these are my friends, the Tin Woodman and the Cowardly Lion; and we are going to the Emerald City.”
+
+“This isn’t the road,” said the Stork, as she twisted her long neck and looked sharply at the queer party.
+
+“I know it,” returned Dorothy, “but we have lost the Scarecrow, and are wondering how we shall get him again.”
+
+“Where is he?” asked the Stork.
+
+“Over there in the river,” answered the little girl.
+
+“If he wasn’t so big and heavy I would get him for you,” remarked the Stork.
+
+“He isn’t heavy a bit,” said Dorothy eagerly, “for he is stuffed with straw; and if you will bring him back to us, we shall thank you ever and ever so much.”
+
+“Well, I’ll try,” said the Stork, “but if I find he is too heavy to carry I shall have to drop him in the river again.”
+
+So the big bird flew into the air and over the water till she came to where the Scarecrow was perched upon his pole. Then the Stork with her great claws grabbed the Scarecrow by the arm and carried him up into the air and back to the bank, where Dorothy and the Lion and the Tin Woodman and Toto were sitting.
+
+When the Scarecrow found himself among his friends again, he was so happy that he hugged them all, even the Lion and Toto; and as they walked along he sang “Tol-de-ri-de-oh!” at every step, he felt so gay.
+
+“I was afraid I should have to stay in the river forever,” he said, “but the kind Stork saved me, and if I ever get any brains I shall find the Stork again and do her some kindness in return.”
+
+“That’s all right,” said the Stork, who was flying along beside them. “I always like to help anyone in trouble. But I must go now, for my babies are waiting in the nest for me. I hope you will find the Emerald City and that Oz will help you.”
+
+“Thank you,” replied Dorothy, and then the kind Stork flew into the air and was soon out of sight.
+
+They walked along listening to the singing of the brightly colored birds and looking at the lovely flowers which now became so thick that the ground was carpeted with them. There were big yellow and white and blue and purple blossoms, besides great clusters of scarlet poppies, which were so brilliant in color they almost dazzled Dorothy’s eyes.
+
+“Aren’t they beautiful?” the girl asked, as she breathed in the spicy scent of the bright flowers.
+
+“I suppose so,” answered the Scarecrow. “When I have brains, I shall probably like them better.”
+
+“If I only had a heart, I should love them,” added the Tin Woodman.
+
+“I always did like flowers,” said the Lion. “They seem so helpless and frail. But there are none in the forest so bright as these.”
+
+They now came upon more and more of the big scarlet poppies, and fewer and fewer of the other flowers; and soon they found themselves in the midst of a great meadow of poppies. Now it is well known that when there are many of these flowers together their odor is so powerful that anyone who breathes it falls asleep, and if the sleeper is not carried away from the scent of the flowers, he sleeps on and on forever.
+
+But Dorothy did not know this, nor could she get away from the bright red flowers that were everywhere about; so presently her eyes grew heavy and she felt she must sit down to rest and to sleep.
+
+But the Tin Woodman would not let her do this.
+
+“We must hurry and get back to the road of yellow brick before dark,” he said; and the Scarecrow agreed with him. So they kept walking until Dorothy could stand no longer. Her eyes closed in spite of herself and she forgot where she was and fell among the poppies, fast asleep.
+
+“What shall we do?” asked the Tin Woodman.
+
+“If we leave her here she will die,” said the Lion. “The smell of the flowers is killing us all. I myself can scarcely keep my eyes open, and the dog is asleep already.”
+
+It was true; Toto had fallen down beside his little mistress. But the Scarecrow and the Tin Woodman, not being made of flesh, were not troubled by the scent of the flowers.
+
+“Run fast,” said the Scarecrow to the Lion, “and get out of this deadly flower bed as soon as you can. We will bring the little girl with us, but if you should fall asleep you are too big to be carried.”
+
+So the Lion aroused himself and bounded forward as fast as he could go. In a moment he was out of sight.
+
+“Let us make a chair with our hands and carry her,” said the Scarecrow. So they picked up Toto and put the dog in Dorothy’s lap, and then they made a chair with their hands for the seat and their arms for the arms and carried the sleeping girl between them through the flowers.
+
+On and on they walked, and it seemed that the great carpet of deadly flowers that surrounded them would never end. They followed the bend of the river, and at last came upon their friend the Lion, lying fast asleep among the poppies. The flowers had been too strong for the huge beast and he had given up at last, and fallen only a short distance from the end of the poppy bed, where the sweet grass spread in beautiful green fields before them.
+
+“We can do nothing for him,” said the Tin Woodman, sadly; “for he is much too heavy to lift. We must leave him here to sleep on forever, and perhaps he will dream that he has found courage at last.”
+
+“I’m sorry,” said the Scarecrow. “The Lion was a very good comrade for one so cowardly. But let us go on.”
+
+They carried the sleeping girl to a pretty spot beside the river, far enough from the poppy field to prevent her breathing any more of the poison of the flowers, and here they laid her gently on the soft grass and waited for the fresh breeze to waken her.`
+  },
 ] as const;
