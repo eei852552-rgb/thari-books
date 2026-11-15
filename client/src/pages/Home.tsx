@@ -414,78 +414,73 @@ export default function Home() {
     setReaderChapterIndex(savedForBook ? Math.min(savedForBook.chapterIndex, Math.max(0, chapters.length - 1)) : 0);
     setReaderPage(savedForBook?.page ?? 0);
     setReaderLanguage(savedForBook?.language ?? "my");
-    setReaderStarted(false);
+    setReaderStarted(true);
     setReaderIntroPage(0);
-    setReaderIntroComplete(false);
+    setReaderIntroComplete(Boolean(readerForewordPages.length === 0));
     setReaderFinished(false);
     setResumeAtSavedPage(Boolean(savedForBook));
   };
 
   return (
     <div className="site-shell" id="top">
-      <div className="announcement"><Sparkles size={14} aria-hidden="true" /> {siteLanguage === "my" ? "အခမဲ့စာဖတ်ခြင်းမှ အသိပညာကမ္ဘာကို ဖွင့်လှစ်လိုက်ပါ" : "Open a wider world through free reading"}</div>
-      <header className="site-header">
-        <div className="header-inner">
-          <a className="brand" href="#top" aria-label="THARi BOOKS ပင်မစာမျက်နှာ" onClick={closeMobileMenu}>
-            <span className="brand-mark" aria-hidden="true"><BookOpen size={25} /></span>
-            <span className="brand-wordmark"><strong>THARi BOOKS</strong><small>အသိပညာ · စာဖတ်ခြင်း · တိုးတက်မှု</small></span>
-          </a>
-          <nav className="desktop-nav" aria-label={siteLanguage === "my" ? "အဓိက လမ်းညွှန်" : "Main navigation"}>
-            <a href={detailBook ? `${import.meta.env.BASE_URL}#general` : "#general"}>{ui.navCategories}</a>
-            <a href={detailBook ? `${import.meta.env.BASE_URL}#featured` : "#featured"}>{ui.navBooks}</a>
-            <a href={detailBook ? `${import.meta.env.BASE_URL}#about` : "#about"}>{ui.navAbout}</a>
-          </nav>
-          <div className="header-actions">
-            <label className="search-box">
-              <Search size={18} aria-hidden="true" />
-              <input type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder={ui.searchPlaceholder} aria-label={ui.searchLabel} />
-            </label>
-            <button className="language-toggle" type="button" onClick={() => setSiteLanguage((language) => language === "my" ? "en" : "my")} aria-label="မြန်မာနှင့် English ဘာသာစကား ပြောင်းရန်">
-              <Languages size={15} aria-hidden="true" /><span>{siteLanguage === "my" ? "EN" : "မြန်မာ"}</span>
-            </button>
-            <button className="mobile-menu-toggle" type="button" aria-label={mobileMenuOpen ? "မီနူးပိတ်ရန်" : "မီနူးဖွင့်ရန်"} aria-expanded={mobileMenuOpen} onClick={() => setMobileMenuOpen((open) => !open)}>
-              {mobileMenuOpen ? <X size={18} /> : <Menu size={18} />}
-            </button>
+      {!detailBook && (
+        <div className="announcement"><Sparkles size={14} aria-hidden="true" /> {siteLanguage === "my" ? "အခမဲ့စာဖတ်ခြင်းမှ အသိပညာကမ္ဘာကို ဖွင့်လှစ်လိုက်ပါ" : "Open a wider world through free reading"}</div>
+        <header className="site-header">
+          <div className="header-inner">
+            <a className="brand" href="#top" aria-label="THARi BOOKS ပင်မစာမျက်နှာ" onClick={closeMobileMenu}>
+              <span className="brand-mark" aria-hidden="true"><BookOpen size={25} /></span>
+              <span className="brand-wordmark"><strong>THARi BOOKS</strong><small>အသိပညာ · စာဖတ်ခြင်း · တိုးတက်မှု</small></span>
+            </a>
+            <nav className="desktop-nav" aria-label={siteLanguage === "my" ? "အဓိက လမ်းညွှန်" : "Main navigation"}>
+              <a href={detailBook ? `${import.meta.env.BASE_URL}#general` : "#general"}>{ui.navCategories}</a>
+              <a href={detailBook ? `${import.meta.env.BASE_URL}#featured` : "#featured"}>{ui.navBooks}</a>
+              <a href={detailBook ? `${import.meta.env.BASE_URL}#about` : "#about"}>{ui.navAbout}</a>
+            </nav>
+            <div className="header-actions">
+              <label className="search-box">
+                <Search size={18} aria-hidden="true" />
+                <input type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder={ui.searchPlaceholder} aria-label={ui.searchLabel} />
+              </label>
+              <button className="language-toggle" type="button" onClick={() => setSiteLanguage((language) => language === "my" ? "en" : "my")} aria-label="မြန်မာနှင့် English ဘာသာစကား ပြောင်းရန်">
+                <Languages size={15} aria-hidden="true" /><span>{siteLanguage === "my" ? "EN" : "မြန်မာ"}</span>
+              </button>
+              <button className="mobile-menu-toggle" type="button" aria-label={mobileMenuOpen ? "မီနူးပိတ်ရန်" : "မီနူးဖွင့်ရန်"} aria-expanded={mobileMenuOpen} onClick={() => setMobileMenuOpen((open) => !open)}>
+                {mobileMenuOpen ? <X size={18} /> : <Menu size={18} />}
+              </button>
+            </div>
           </div>
-        </div>
-        <nav className={`mobile-nav ${mobileMenuOpen ? "is-open" : ""}`} aria-label="Mobile navigation">
-          <a href={detailBook ? `${import.meta.env.BASE_URL}#general` : "#general"} onClick={closeMobileMenu}>{ui.navCategories}<ChevronRight size={15} /></a>
-          <a href={detailBook ? `${import.meta.env.BASE_URL}#featured` : "#featured"} onClick={closeMobileMenu}>{ui.navBooks}<ChevronRight size={15} /></a>
-          <a href={detailBook ? `${import.meta.env.BASE_URL}#about` : "#about"} onClick={closeMobileMenu}>{ui.navAbout}<ChevronRight size={15} /></a>
-        </nav>
-      </header>
+          <nav className={`mobile-nav ${mobileMenuOpen ? "is-open" : ""}`} aria-label="Mobile navigation">
+            <a href={detailBook ? `${import.meta.env.BASE_URL}#general` : "#general"} onClick={closeMobileMenu}>{ui.navCategories}<ChevronRight size={15} /></a>
+            <a href={detailBook ? `${import.meta.env.BASE_URL}#featured` : "#featured"} onClick={closeMobileMenu}>{ui.navBooks}<ChevronRight size={15} /></a>
+            <a href={detailBook ? `${import.meta.env.BASE_URL}#about` : "#about"} onClick={closeMobileMenu}>{ui.navAbout}<ChevronRight size={15} /></a>
+          </nav>
+        </header>
+  
+      )}
 
       <main>
       {detailBook ? (
-        <section className="book-detail-page section-pad" aria-labelledby="book-detail-title">
-          <a className="detail-back-link" href={import.meta.env.BASE_URL}><ArrowRight size={16} /> {siteLanguage === "my" ? "စာအုပ်စာရင်းသို့ ပြန်သွားရန်" : "Back to the library"}</a>
-          <div className="book-detail-hero">
-            <div className="book-detail-cover"><img src={getAssetPath(detailBook.coverImage)} alt={`${detailBook.title} — ${detailBook.author}`} /></div>
-            <div className="book-detail-summary">
-              <span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> {siteLanguage === "my" ? detailBook.categoryMy : openBookCategories.find((item) => item.id === detailBook.categoryId)?.titleEn}</span>
-              <h1 id="book-detail-title">{siteLanguage === "my" ? detailBook.titleMy : detailBook.title}</h1>
-              <p className="book-detail-author">{detailBook.author}</p>
-              <p className="book-detail-description">{siteLanguage === "my" ? detailBook.descriptionMy : detailBook.descriptionEn}</p>
-              <div className="book-detail-facts"><span>{detailBook.language}</span><span>{detailBook.source}</span><span>{siteLanguage === "my" ? "အခမဲ့" : "Free access"}</span></div>
-              <div className="book-detail-actions">
-                {detailChapters.length > 0 ? (
-                  <button className="button-primary detail-read-button" type="button" onClick={() => openReader(detailBook)}>{siteLanguage === "my" ? (detailProgress ? "ဆက်ဖတ်မယ်" : "စာဖတ်မယ်") : (detailProgress ? "Continue reading" : "Start reading")} <BookOpen size={17} /></button>
-                ) : (
-                  <a className="button-primary detail-read-button" href={detailBook.sourceUrl ?? "#book-overview"} target={detailBook.sourceUrl ? "_blank" : undefined} rel={detailBook.sourceUrl ? "noopener noreferrer" : undefined}>{siteLanguage === "my" ? "မူရင်းစာအုပ် ဖတ်ရန်" : "Read the original"} <ArrowUpRight size={17} /></a>
-                )}
-                {detailBook.sourceUrl && <a className="detail-source-link" href={detailBook.sourceUrl} target="_blank" rel="noopener noreferrer">{siteLanguage === "my" ? "မူရင်းရင်းမြစ်" : "Original source"} <ArrowUpRight size={15} /></a>}
-              </div>
-              {detailProgress && detailChapters.length > 0 && <button className="detail-resume-note" type="button" onClick={() => openReader(detailBook)}><Bookmark size={16} /> {siteLanguage === "my" ? `နောက်ဆုံးဖတ်ထားသည် — အခန်း ${detailProgress.chapterIndex + 1}၊ စာမျက်နှာ ${detailProgress.page + 1}` : `Last read — Chapter ${detailProgress.chapterIndex + 1}, page ${detailProgress.page + 1}`}</button>}
+        <section className="book-cover-entry" aria-labelledby="book-detail-title">
+          <a className="cover-entry-back" href={import.meta.env.BASE_URL}><ArrowRight size={17} /> {siteLanguage === "my" ? "စာအုပ်စာရင်းသို့ ပြန်သွားရန်" : "Back to the library"}</a>
+          <div className="cover-entry-content">
+            <div className="cover-entry-art">
+              <img src={getAssetPath(detailBook.coverImage)} alt={`${detailBook.title} — ${detailBook.author}`} />
             </div>
-          </div>
-          <div className="book-detail-content">
-            <section className="detail-overview" id="book-overview"><span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> {siteLanguage === "my" ? "စာအုပ်မိတ်ဆက်" : "BOOK OVERVIEW"}</span><h2>{siteLanguage === "my" ? "ဒီစာအုပ်အကြောင်း" : "About this book"}</h2><p>{siteLanguage === "my" ? detailBook.synopsisMy : detailBook.descriptionEn}</p>
-              {siteLanguage === "my" && detailBook.keyIdeasMy.length > 0 && <><h3>အဓိက မှတ်သားစရာများ</h3><ul className="detail-key-ideas">{detailBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul></>}
-              <p className="detail-rights-note"><ShieldCheck size={15} /> {detailBook.rightsNote}</p>
-            </section>
-            <section className="detail-chapters"><span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> READING GUIDE</span><h2>{siteLanguage === "my" ? "အခန်းစာရင်း" : "Chapters"}</h2>
-              {detailChapters.length > 0 ? <div className="detail-chapter-list">{detailChapters.map((chapter, index) => <button type="button" className="detail-chapter-item" key={`${chapter.number}-${chapter.title}`} onClick={() => { openReader(detailBook); setReaderChapterIndex(index); setReaderPage(0); }}><span className="detail-chapter-number">{String(index + 1).padStart(2, "0")}</span><span><strong>{siteLanguage === "my" ? chapter.title : chapter.titleEn ?? `Chapter ${chapter.number}`}</strong><small>{siteLanguage === "my" ? `အခန်း ${index + 1}` : `Chapter ${index + 1}`}</small></span><ArrowUpRight size={17} /></button>)}</div> : <div className="detail-external-note"><BookOpen size={19} /><p>{siteLanguage === "my" ? "ဤစာအုပ်၏ အခန်းများကို THARi Reader ထဲတွင် မထည့်သွင်းရသေးပါ။ မူရင်းစာအုပ်ကို အခမဲ့ဖတ်ရှုရန် အပေါ်ရှိ မူရင်းရင်းမြစ်လင့်ခ်ကို အသုံးပြုနိုင်ပါတယ်။" : "Chapters for this title are not yet available in the THARi reader. Use the original-source link above to read the book."}</p></div>}
-            </section>
+            <span className="cover-entry-kicker">THARi BOOKS · CLASSICS</span>
+            <h1 id="book-detail-title">{siteLanguage === "my" ? detailBook.titleMy : detailBook.title}</h1>
+            <p className="cover-entry-author">{detailBook.author}</p>
+            {detailChapters.length > 0 ? (
+              <button className="cover-entry-read" type="button" onClick={() => openReader(detailBook)}>
+                {siteLanguage === "my" ? (detailProgress ? "ဆက်ဖတ်မယ်" : "ဖတ်မယ်") : (detailProgress ? "Continue reading" : "Start reading")} <BookOpen size={19} />
+              </button>
+            ) : (
+              <a className="cover-entry-read" href={detailBook.sourceUrl ?? "#"} target="_blank" rel="noopener noreferrer">
+                {siteLanguage === "my" ? "မူရင်းစာအုပ် ဖတ်ရန်" : "Read the original"} <ArrowRight size={18} />
+              </a>
+            )}
+            {detailProgress && detailChapters.length > 0 && (
+              <p className="cover-entry-progress">{siteLanguage === "my" ? `နောက်ဆုံးဖတ်ထားသည် — အခန်း ${detailProgress.chapterIndex + 1}၊ စာမျက်နှာ ${detailProgress.page + 1}` : `Last read — Chapter ${detailProgress.chapterIndex + 1}, page ${detailProgress.page + 1}`}</p>
+            )}
           </div>
         </section>
       ) : (<>
