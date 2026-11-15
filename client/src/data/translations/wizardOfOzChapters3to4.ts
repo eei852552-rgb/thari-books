@@ -2277,4 +2277,203 @@ Dorothy went to the Witch's cupboard to fill her basket with food for the journe
 
 When everything was ready, they set out for the Emerald City. The Winkies cheered them three times and sent them on their way with many good wishes.`,
   },
+  {
+    number: 14,
+    title: "အခန်း (၁၄) — တောင်ပံပါသော မျောက်များ",
+    titleEn: "Chapter 14 — The Winged Monkeys",
+    content: `ဆိုးယုတ်သော စုန်းမ၏ ရဲတိုက်နှင့် မြမြို့တော်ကြားတွင် လမ်းမရှိ၊ ခြေသွားလမ်းကလေးပင် မရှိကြောင်း မှတ်မိကြပေလိမ့်မည်။ ခရီးသွားလေးဦးသည် စုန်းမကို ရှာဖွေသွားစဉ် သူမက သူတို့ကို မြင်တွေ့ခဲ့သဖြင့် တောင်ပံပါသော မျောက်များကို ခေါ်ကာ သူမထံသို့ ပို့ဆောင်စေခဲ့သည်။ ယခုအခါ သူတို့သည် ပြန်လမ်းကို ရှာရတော့မည်။ အဝါရောင်ပန်းများနှင့် ဒေစီပန်းများ ပြည့်နေသော ကျယ်ပြန့်သည့် လယ်ကွင်းများကို ဖြတ်သန်းပြီး လမ်းရှာရခြင်းမှာ မျောက်များက သယ်ဆောင်သွားစဉ်ကထက် ပိုမိုခက်ခဲသည်။
+
+သူတို့သည် အရှေ့ဘက်၊ နေထွက်ရာအရပ်သို့ တည့်တည့်သွားရမည်ကို သိထားကြသဖြင့် အစပိုင်းတွင် မှန်ကန်သော ဦးတည်ရာအတိုင်း လျှောက်ကြသည်။ သို့သော် မွန်းတည့်ချိန်တွင် နေသည် သူတို့ခေါင်းပေါ်တည့်တည့် ရောက်နေသဖြင့် အရှေ့ဘက်နှင့် အနောက်ဘက်ကို ခွဲခြားမသိတော့ပေ။ ထို့ကြောင့် ပန်းခင်းကြီးများအတွင်း လမ်းပျောက်သွားကြသည်။ သို့သော် ဆက်လက်လျှောက်နေကြပြီး ညရောက်သောအခါ လသည် တောက်ပစွာ ထွက်ပေါ်လာသည်။ သူတို့သည် မွှေးကြိုင်သော အဝါရောင်ပန်းများကြားတွင် အိပ်စက်အနားယူကြသည်။ စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့သာ မအိပ်ဘဲ စောင့်ကြည့်နေကြသည်။
+
+နောက်တစ်နေ့မနက်တွင် နေကို တိမ်များက ဖုံးထားသော်လည်း သူတို့သည် လမ်းသိနေသကဲ့သို့ ဆက်လက်ထွက်ခွာကြသည်။
+
+“အဝေးကြီးအထိ ဆက်လျှောက်သွားရင် တစ်နေရာရာတော့ ရောက်လာမှာပါ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+သို့သော် တစ်ရက်ပြီးတစ်ရက် ကုန်လွန်သွားသော်လည်း သူတို့ရှေ့တွင် မြင်ရသည်မှာ နီမြန်းသော ပန်းခင်းများသာ ဖြစ်နေသည်။ စာခြောက်ရုပ်က စတင်ညည်းညူလာသည်။
+
+“ငါတို့ လမ်းပျောက်နေပြီဆိုတာ သေချာတယ်။ မြမြို့တော်ကို အချိန်မီ မရောက်နိုင်ရင် ငါ ဦးနှောက်ရတော့မှာ မဟုတ်ဘူး” ဟု သူက ပြောသည်။
+
+“ငါလည်း နှလုံးသား မရတော့ဘူးပေါ့။ အော့ဇ်ဆီ အမြန်ရောက်ချင်လှပြီ။ ဒီခရီးက အလွန်ရှည်လျားနေတယ်” ဟု သံခုတ်သမားက ပြောသည်။
+
+“ဒီလိုပဲ အဆုံးမရှိ လျှောက်နေရပြီး ဘယ်မှ မရောက်နိုင်ရင် ငါ့မှာ သတ္တိရှိဖို့တောင် ခက်လာပြီ” ဟု ကြောက်တတ်သော ခြင်္သေ့ကြီးက ညည်းတွားသည်။
+
+ထိုအခါ ဒေါ်ရသီလည်း စိတ်ဓာတ်ကျသွားသည်။ သူမသည် မြက်ခင်းပေါ်တွင် ထိုင်ချလိုက်ပြီး မိတ်ဆွေများကို ကြည့်သည်။ သူတို့လည်း သူမဘေးတွင် ထိုင်ချကြသည်။ တိုတိုသည်ပင် သူ့ဘဝတွင် ပထမဆုံးအကြိမ် လိပ်ပြာတစ်ကောင်ကို လိုက်ဖမ်းရန် ပင်ပန်းလွန်းနေသည်။ သူသည် လျှာကို ထုတ်ကာ အသက်ရှူရင်း ဒေါ်ရသီကို ဘာဆက်လုပ်ကြမလဲဟု မေးနေသကဲ့သို့ ကြည့်နေသည်။
+
+“ကြွက်ကလေးတွေကို ခေါ်ကြည့်ရင်ကောင်းမလား။ သူတို့က မြမြို့တော်ကို သွားရမယ့်လမ်းကို သိနိုင်လောက်တယ်” ဟု ဒေါ်ရသီက အကြံပြုသည်။
+
+“ဟုတ်တာပေါ့။ ငါတို့ ဘာလို့ အရင်က မစဉ်းစားမိတာလဲ” ဟု စာခြောက်ရုပ်က ဝမ်းသာစွာ ပြောသည်။
+
+ဒေါ်ရသီသည် ကြွက်ဘုရင်မက ပေးထားပြီးကတည်းက လည်ပင်းတွင် အမြဲဆောင်ထားသော ဝီစီလေးကို မှုတ်လိုက်သည်။ မကြာမီ ခြေသံသေးသေးလေးများကို ကြားရပြီး မီးခိုးရောင် ကြွက်ကလေးများ အများအပြား ပြေးလာကြသည်။ သူတို့အထဲတွင် ကြွက်ဘုရင်မလည်း ပါလာပြီး အသံစူးစူးလေးဖြင့် “ကျွန်မရဲ့ မိတ်ဆွေတို့ကို ဘာကူညီပေးရမလဲ” ဟု မေးသည်။
+
+“ကျွန်မတို့ လမ်းပျောက်နေပါတယ်။ မြမြို့တော် ဘယ်မှာရှိသလဲ ပြောပြနိုင်မလား” ဟု ဒေါ်ရသီက မေးသည်။
+
+“ရပါတယ်။ ဒါပေမဲ့ အတော်ဝေးပါတယ်။ ဒီအချိန်အထိ မြို့တော်ကို နောက်မှာ ထားပြီး လျှောက်လာခဲ့ကြတာပါ” ဟု ဘုရင်မက ဖြေသည်။ ထို့နောက် ဒေါ်ရသီ၏ ခေါင်းပေါ်မှ ရွှေဦးထုပ်ကို သတိထားမိပြီး “ရွှေဦးထုပ်ရဲ့ မှော်အစွမ်းကို ဘာလို့ မသုံးတာလဲ။ တောင်ပံပါသော မျောက်တွေကို ခေါ်လိုက်ရင် တစ်နာရီမပြည့်ခင် အော့ဇ်ရဲ့ မြို့တော်ကို ပို့ပေးနိုင်တယ်” ဟု ပြောသည်။
+
+“ဒီဦးထုပ်မှာ မှော်အစွမ်းရှိတယ်ဆိုတာ ကျွန်မ မသိခဲ့ဘူး။ ဘယ်လိုခေါ်ရမလဲ” ဟု ဒေါ်ရသီက အံ့ဩစွာ မေးသည်။
+
+“ရွှေဦးထုပ်ရဲ့ အတွင်းဘက်မှာ ရေးထားပါတယ်။ ဒါပေမဲ့ မျောက်တွေကို ခေါ်တော့မယ်ဆိုရင် ကျွန်မတို့ ထွက်ပြေးရမယ်။ သူတို့က အလွန်ဆော့ကစားတတ်ပြီး ကျွန်မတို့ကို အနှောင့်အယှက်ပေးရတာ ပျော်ကြတယ်” ဟု ကြွက်ဘုရင်မက ပြောသည်။
+
+“သူတို့က ကျွန်မကို ထိခိုက်စေမှာ မဟုတ်ဘူးလား” ဟု ဒေါ်ရသီက စိုးရိမ်စွာ မေးသည်။
+
+“မထိခိုက်ပါဘူး။ ဦးထုပ်ဆောင်းထားသူရဲ့ အမိန့်ကို သူတို့ လိုက်နာရပါတယ်။ သွားတော့မယ်နော်” ဟု ဘုရင်မက ပြောပြီး ကြွက်ကလေးများနှင့်အတူ အမြန်ပြေးထွက်သွားသည်။
+
+ဒေါ်ရသီသည် ရွှေဦးထုပ်အတွင်းဘက်ကို ကြည့်လိုက်ရာ အနားသားတွင် စာတန်းအချို့ ရေးထားသည်ကို တွေ့ရသည်။ ထိုစာများသည် မျောက်များကို ခေါ်ရန် အသုံးပြုရမည့် မှော်စကားများ ဖြစ်မည်ဟု သူမ တွေးမိသည်။ ထို့ကြောင့် ညွှန်ကြားချက်များကို သေချာဖတ်ပြီး ဦးထုပ်ကို ခေါင်းပေါ် ဆောင်းလိုက်သည်။
+
+သူမသည် ဘယ်ခြေထောက်ပေါ် ရပ်ကာ “အက်ပ်ပီ၊ ပက်ပ်ပီ၊ ကက်ကေ” ဟု ရွတ်ဆိုသည်။
+
+“ဘာပြောလိုက်တာလဲ” ဟု ဘာဖြစ်နေသည်ကို မသိသော စာခြောက်ရုပ်က မေးသည်။
+
+ဒေါ်ရသီသည် ယခုတစ်ကြိမ် ညာခြေထောက်ပေါ် ရပ်ပြီး “ဟီလို၊ ဟိုလို၊ ဟဲလို” ဟု ဆက်ရွတ်သည်။
+
+“ဟဲလို” ဟု သံခုတ်သမားက အေးအေးဆေးဆေး ပြန်ပြောသည်။
+
+နောက်ဆုံးတွင် ဒေါ်ရသီသည် ခြေထောက်နှစ်ဖက်လုံးပေါ် ရပ်ကာ “ဇစ်ဇီ၊ ဇူဇီ၊ ဇစ်” ဟု ရွတ်ဆိုလိုက်သည်။ မှော်စကား ပြီးဆုံးသည်နှင့် တောင်ပံခတ်သံများ၊ ဆူညံစကားပြောသံများကို ကြားရပြီး တောင်ပံပါသော မျောက်အုပ်ကြီးသည် သူတို့ထံ ပျံသန်းရောက်လာသည်။
+
+မျောက်ဘုရင်သည် ဒေါ်ရသီရှေ့တွင် ဦးညွှတ်ကာ “အရှင်မိန့်တော်မူပါ။ ဘာအမိန့်ရှိပါသလဲ” ဟု မေးသည်။
+
+“ကျွန်မတို့ မြမြို့တော်ကို သွားချင်ပါတယ်။ လမ်းပျောက်နေကြလို့ပါ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ကျွန်ုပ်တို့ ပို့ဆောင်ပေးပါမယ်” ဟု ဘုရင်က ဖြေသည်။ ထိုစကားဆုံးသည်နှင့် မျောက်နှစ်ကောင်က ဒေါ်ရသီကို ဂရုတစိုက် ချီယူကာ ပျံတက်သွားကြသည်။ အခြားမျောက်များက စာခြောက်ရုပ်၊ သံခုတ်သမားနှင့် ခြင်္သေ့ကြီးတို့ကို ချီယူကြပြီး မျောက်ငယ်တစ်ကောင်က တိုတိုကို ချီယူကာ နောက်မှ လိုက်ပျံသည်။ တိုတိုကတော့ သူ့ကို ချီထားသော မျောက်ငယ်ကို ကိုက်ရန် ကြိုးစားနေသည်။
+
+စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့သည် ယခင်က မျောက်များ၏ အပြုအမူကို မှတ်မိနေသဖြင့် အစပိုင်းတွင် အနည်းငယ် ကြောက်ရွံ့ကြသည်။ သို့သော် ယခုအခါ သူတို့ကို ထိခိုက်စေလိုခြင်း မဟုတ်ကြောင်း သိလာကြသဖြင့် ကောင်းကင်ခရီးကို ပျော်ရွှင်စွာ စီးနင်းကြသည်။ အောက်ဘက်တွင် လှပသော ဥယျာဉ်များနှင့် သစ်တောများကို မြင်ရသဖြင့် အံ့ဩပျော်ရွှင်ကြသည်။
+
+ဒေါ်ရသီကိုတော့ အကြီးဆုံးမျောက်နှစ်ကောင်ကြားတွင် သက်သောင့်သက်သာ ချီထားကြသည်။ ထိုနှစ်ကောင်အနက် တစ်ကောင်မှာ မျောက်ဘုရင်ကိုယ်တိုင် ဖြစ်သည်။ သူတို့သည် လက်နှစ်ဖက်ကို ပေါင်းကာ ထိုင်ခုံကဲ့သို့ ပြုလုပ်ထားပြီး ဒေါ်ရသီကို မထိခိုက်စေရန် ဂရုစိုက်ကြသည်။
+
+“ရွှေဦးထုပ်ရဲ့ မှော်အစွမ်းကို ဘာလို့ လိုက်နာကြရတာလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“အဲဒါက ရှည်လျားတဲ့ ဇာတ်လမ်းတစ်ပုဒ်ပါ။ ဒါပေမဲ့ ခရီးကလည်း ရှည်နေတော့ အချိန်ကုန်အောင် ပြောပြပေးပါမယ်။ နားထောင်ချင်ပါသလား” ဟု မျောက်ဘုရင်က ရယ်မောရင်း ဖြေသည်။
+
+“နားထောင်ချင်ပါတယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“တစ်ချိန်တုန်းက ကျွန်ုပ်တို့ဟာ လွတ်လပ်တဲ့ လူမျိုးတစ်မျိုး ဖြစ်ခဲ့ကြပါတယ်။ တောအုပ်ကြီးထဲမှာ ပျော်ရွှင်စွာ နေထိုင်ကြပြီး သစ်ပင်တစ်ပင်ကနေ တစ်ပင်ဆီ ပျံသန်းကြတယ်။ အခွံမာသီးနဲ့ သစ်သီးတွေကို စားကြပြီး ဘယ်သူ့ကိုမှ သခင်အဖြစ် မသတ်မှတ်ဘဲ ကိုယ့်စိတ်ကြိုက် နေထိုင်ခဲ့ကြတယ်။ တစ်ခါတစ်ရံမှာတော့ ကျွန်ုပ်တို့ထဲက အချို့ဟာ အလွန်ဆော့ကစားလွန်းကြတယ်။ တောင်ပံမရှိတဲ့ တိရစ္ဆာန်တွေရဲ့ အမြီးကို ဆွဲဖို့ အောက်ကို ပျံဆင်းကြတယ်၊ ငှက်တွေကို လိုက်ကြတယ်၊ တောထဲမှာ လမ်းလျှောက်နေသူတွေကို သစ်သီးအခွံမာတွေ ပစ်ကြတယ်။ ဒါပေမဲ့ ကျွန်ုပ်တို့ဟာ ပေါ့ပေါ့ပါးပါးနဲ့ ပျော်ရွှင်နေကြပြီး နေ့ရက်တိုင်းကို အပျော်အပါး ဖြတ်သန်းခဲ့ကြတယ်။
+
+“ဒီအဖြစ်အပျက်တွေဟာ အော့ဇ်က မိုးတိမ်တွေကြားကနေ ဒီနိုင်ငံကို အုပ်ချုပ်ဖို့ မရောက်လာခင် နှစ်ပေါင်းများစွာက ဖြစ်ခဲ့တာပါ။
+
+“အဲဒီအချိန်က မြောက်ဘက်ဒေသမှာ ဂေးလက်တီလို့ အမည်ရတဲ့ လှပပြီး မှော်ပညာတတ်မြောက်သော မင်းသမီးတစ်ပါး နေထိုင်ခဲ့တယ်။ သူမဟာ မိမိရဲ့ မှော်ပညာကို လူတွေကို ကူညီဖို့သာ အသုံးပြုခဲ့ပြီး ကောင်းမွန်သူတွေကို ဘယ်တော့မှ မထိခိုက်စေခဲ့ဘူး။ သူမဟာ ပတ္တမြားတုံးကြီးတွေနဲ့ တည်ဆောက်ထားတဲ့ ခမ်းနားသော နန်းတော်တစ်ခုမှာ နေထိုင်တယ်။ လူတိုင်းက သူမကို ချစ်ခင်ကြပေမဲ့ သူမနဲ့အတူ ဘဝတစ်လျှောက် လက်တွဲနိုင်မယ့်သူကို မတွေ့သေးတာက သူမရဲ့ စိတ်မချမ်းသာစရာတစ်ခု ဖြစ်ခဲ့တယ်။
+
+“နောက်ဆုံးမှာတော့ သူမဟာ ရုပ်ရည်လည်း ခန့်ညားပြီး စိတ်ဓာတ်လည်း ရင့်ကျက်ကာ အသက်အရွယ်ထက် ပိုမိုဉာဏ်ပညာရှိတဲ့ လူငယ်တစ်ဦးကို တွေ့ခဲ့တယ်။ သူ့နာမည်က ကွီလာလာ ဖြစ်တယ်။ ဂေးလက်တီက သူကြီးပြင်းလာတဲ့အခါ သူနဲ့ လက်ထပ်ဖို့ ဆုံးဖြတ်ခဲ့ပြီး ပတ္တမြားနန်းတော်ကို ခေါ်ဆောင်ကာ သူ့ကို ပိုမိုကျန်းမာသန်စွမ်း၊ ကြင်နာတတ်ပြီး အရည်အချင်းပြည့်ဝသူ ဖြစ်လာစေရန် မိမိတတ်မြောက်ထားတဲ့ မှော်ပညာတွေနဲ့ ကူညီပေးခဲ့တယ်။
+
+“ကွီလာလာ လူကြီးဖြစ်လာတဲ့အခါ တစ်နိုင်ငံလုံးမှာ အကောင်းဆုံးနဲ့ ဉာဏ်အမြော်အမြင်အရှိဆုံး လူတစ်ယောက်လို့ လူသိများလာတယ်။ သူ့ရဲ့ ကောင်းမွန်တဲ့ အရည်အချင်းတွေကြောင့် ဂေးလက်တီက သူ့ကို ချစ်ခင်လာပြီး မင်္ဂလာပွဲအတွက် ပြင်ဆင်မှုတွေ စတင်ခဲ့တယ်။
+
+“အဲဒီအချိန်မှာ ကျွန်ုပ်ရဲ့ အဘိုးဟာ တောအုပ်ထဲက တောင်ပံပါသော မျောက်များရဲ့ ဘုရင် ဖြစ်ခဲ့တယ်။ အဘိုးက အစားအသောက်ကောင်းကောင်းထက်တောင် ဟာသလုပ်ရတာကို ပိုနှစ်သက်သူပါ။ မင်္ဂလာပွဲမတိုင်မီ တစ်ရက်မှာ အဘိုးဟာ သူ့အဖွဲ့နဲ့အတူ ပျံသန်းလာရင်း မြစ်ကမ်းဘေးမှာ လမ်းလျှောက်နေတဲ့ ကွီလာလာကို တွေ့ခဲ့တယ်။ သူက ပန်းရောင်ပိုးထည်နဲ့ ခရမ်းရောင်ကတ္တီပါဝတ်စုံကို ဝတ်ထားတယ်။ အဘိုးက သူ့ကို နောက်ပြောင်ချင်စိတ် ပေါ်လာခဲ့တယ်။
+
+“အဘိုးရဲ့ အမိန့်နဲ့ မျောက်အုပ်ကြီးက အောက်ကို ပျံဆင်းပြီး ကွီလာလာကို ချီယူကာ မြစ်အလယ်ဘက်အပေါ်သို့ ပို့သွားကြတယ်။ အဲဒီနောက် ရေထဲသို့ ချလိုက်ကြတယ်။
+
+“‘ရေကူးပြီး ကမ်းကို ပြန်လာခဲ့ပါဦး။ မင်းရဲ့ အဝတ်အစားတွေ ရေစိုသွားပြီလား ကြည့်ရအောင်’ ဟု အဘိုးက အော်ပြောခဲ့တယ်။ ကွီလာလာဟာ ရေကူးတတ်သူ ဖြစ်တဲ့အတွက် အေးအေးဆေးဆေး ကမ်းဘက်ကို ရေကူးလာခဲ့တယ်။ သူဟာ ရေပေါ်ပြန်ပေါ်လာတဲ့အခါ ရယ်မောနေခဲ့တယ်။ ဒါပေမဲ့ ဂေးလက်တီက သူ့ဆီ ပြေးလာတဲ့အခါ သူ့ရဲ့ ပိုးထည်နဲ့ ကတ္တီပါဝတ်စုံတွေ ပျက်စီးသွားတာကို တွေ့လိုက်ရတယ်။
+
+“မင်းသမီးက အလွန်ဒေါသထွက်သွားပြီး ဘယ်သူ့လက်ချက်လဲဆိုတာလည်း သိနေတယ်။ သူမက တောင်ပံပါသော မျောက်အားလုံးကို ခေါ်စေပြီး အစပိုင်းမှာ သူတို့ရဲ့ တောင်ပံတွေကို ချည်နှောင်ကာ ကွီလာလာကို ပြုမူခဲ့သလို မြစ်ထဲသို့ ချလိုက်ဖို့ စဉ်းစားခဲ့တယ်။ ဒါပေမဲ့ ကျွန်ုပ်ရဲ့ အဘိုးက မျောက်တွေ တောင်ပံချည်နှောင်ခံရရင် ရေထဲမှာ အန္တရာယ်ကြုံနိုင်ကြောင်း သိတဲ့အတွက် အလွန်တောင်းပန်ခဲ့တယ်။ ကွီလာလာကလည်း သူတို့အတွက် ကောင်းမွန်တဲ့ စကားတစ်ခွန်း ပြောပေးခဲ့တယ်။ နောက်ဆုံးမှာ ဂေးလက်တီက သူတို့ကို ခွင့်လွှတ်ပေးခဲ့ပြီး အပြစ်ပေးမယ့်အစား ရွှေဦးထုပ်ပိုင်ရှင်ရဲ့ အမိန့်ကို နောက်ပိုင်းတွင် သုံးကြိမ်တိုင် လိုက်နာပေးရမယ်ဆိုတဲ့ သတ်မှတ်ချက်တစ်ခု ချမှတ်ခဲ့တယ်။
+
+“အဲဒီရွှေဦးထုပ်ကို ကွီလာလာအတွက် မင်္ဂလာလက်ဆောင်အဖြစ် ပြုလုပ်ပေးခဲ့တာ ဖြစ်ပြီး မင်းသမီးရဲ့ နိုင်ငံတစ်ဝက်နီးပါး တန်ဖိုးရှိတဲ့ ရတနာတွေကို အသုံးပြုခဲ့တယ်လို့ ဆိုကြတယ်။ ကျွန်ုပ်တို့ မျောက်အားလုံးက အဲဒီသတ်မှတ်ချက်ကို လက်ခံခဲ့ကြတယ်။ ဒါကြောင့် ရွှေဦးထုပ်ပိုင်ရှင် ဘယ်သူဖြစ်ဖြစ် ကျွန်ုပ်တို့ဟာ သူ့အမိန့်ကို သုံးကြိမ် လိုက်နာပေးရတာ ဖြစ်ပါတယ်။”
+
+“ဒါဆို နောက်ပိုင်းမှာ သူတို့ ဘာဖြစ်သွားကြသလဲ” ဟု ဒေါ်ရသီက စိတ်ဝင်တစား မေးသည်။
+
+“ရွှေဦးထုပ်ကို ပထမဆုံး ပိုင်ဆိုင်ခဲ့သူက ကွီလာလာပါ။ သူက ကျွန်ုပ်တို့ကို ပထမဆုံး အမိန့်ပေးခဲ့တယ်။ သူ့ဇနီးလောင်းက မျောက်တွေကို မမြင်ချင်တဲ့အတွက် လက်ထပ်ပြီးတဲ့နောက် ကျွန်ုပ်တို့အားလုံးကို တောအုပ်ထဲမှာသာ နေထိုင်ကြဖို့ အမိန့်ပေးခဲ့တယ်။ ကျွန်ုပ်တို့လည်း သူမကို ကြောက်ကြတာကြောင့် အဲဒီအမိန့်ကို ဝမ်းသာစွာ လိုက်နာခဲ့ကြတယ်။
+
+“အဲဒီနောက် ရွှေဦးထုပ်ဟာ အနောက်ဘက်စုန်းမရဲ့ လက်ထဲ ရောက်သွားတဲ့အထိ ကျွန်ုပ်တို့ကို ဘာအမိန့်မှ မပေးခဲ့ကြဘူး။ သူမက ကျွန်ုပ်တို့ကို အသုံးပြုပြီး ဝင်ကီလူမျိုးတွေကို သူမရဲ့ အုပ်ချုပ်မှုအောက်မှာ ထားစေခဲ့တယ်။ နောက်ပိုင်းမှာ အော့ဇ်ကိုလည်း အနောက်ဘက်နယ်မြေကနေ ထွက်ခွာစေခဲ့တယ်။ အခုတော့ ရွှေဦးထုပ်ဟာ သင့်လက်ထဲ ရောက်နေပြီ။ ဒါကြောင့် ကျွန်ုပ်တို့ကို အမိန့်ပေးနိုင်တဲ့ အခွင့်အရေး သုံးကြိမ် သင့်မှာ ရှိပါတယ်” ဟု မျောက်ဘုရင်က ပြောသည်။
+
+မျောက်ဘုရင်၏ ဇာတ်လမ်းဆုံးသွားချိန်တွင် ဒေါ်ရသီသည် အောက်ဘက်သို့ ငုံ့ကြည့်လိုက်ရာ မြမြို့တော်၏ အစိမ်းရောင်တောက်ပသော နံရံကြီးများကို မြင်လိုက်ရသည်။ မျောက်များ၏ ပျံသန်းမှု မြန်ဆန်လွန်းသဖြင့် သူမ အံ့ဩမိသော်လည်း ခရီးဆုံးသို့ ရောက်လာပြီဖြစ်၍ ဝမ်းသာနေသည်။ ထူးဆန်းသော မျောက်များသည် ခရီးသွားများကို မြို့တံခါးရှေ့တွင် ဂရုတစိုက် ချပေးကြသည်။ ဘုရင်သည် ဒေါ်ရသီကို ဦးညွှတ်နှုတ်ဆက်ပြီး သူ့အဖွဲ့နှင့်အတူ အမြန်ပျံသန်းထွက်ခွာသွားသည်။
+
+“ဒီခရီးက တော်တော်ကောင်းတာပဲ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ဟုတ်တယ်။ ငါတို့ရဲ့ အခက်အခဲတွေကို အမြန်ဆုံး ဖြေရှင်းပေးလိုက်တဲ့ ခရီးပဲ။ အဲဒီအံ့ဖွယ်ဦးထုပ်ကို မင်း ယူလာခဲ့တာ ကံကောင်းလိုက်တာ” ဟု ခြင်္သေ့ကြီးက ပြန်ပြောသည်။`,
+    contentEn: `You will remember there was no road—not even a pathway—between the castle of the Wicked Witch and the Emerald City. When the four travelers went in search of the Witch she had seen them coming, and so sent the Winged Monkeys to bring them to her. It was much harder to find their way back through the big fields of buttercups and yellow daisies than it was being carried. They knew, of course, they must go straight east, toward the rising sun; and they started off in the right way.
+
+But at noon, when the sun was over their heads, they did not know which was east and which was west, and that was the reason they were lost in the great fields. They kept on walking, however, and at night the moon came out and shone brightly. So they lay down among the sweet smelling yellow flowers and slept soundly until morning—all but the Scarecrow and the Tin Woodman.
+
+The next morning the sun was behind a cloud, but they started on, as if they were quite sure which way they were going.
+
+“If we walk far enough,” said Dorothy, “I am sure we shall sometime come to some place.”
+
+But day by day passed away, and they still saw nothing before them but the scarlet fields. The Scarecrow began to grumble a bit.
+
+“We have surely lost our way,” he said, “and unless we find it again in time to reach the Emerald City, I shall never get my brains.”
+
+“Nor I my heart,” declared the Tin Woodman. “It seems to me I can scarcely wait till I get to Oz, and you must admit this is a very long journey.”
+
+“You see,” said the Cowardly Lion, with a whimper, “I haven’t the courage to keep tramping forever, without getting anywhere at all.”
+
+Then Dorothy lost heart. She sat down on the grass and looked at her companions, and they sat down and looked at her, and Toto found that for the first time in his life he was too tired to chase a butterfly that flew past his head. So he put out his tongue and panted and looked at Dorothy as if to ask what they should do next.
+
+“Suppose we call the field mice,” she suggested. “They could probably tell us the way to the Emerald City.”
+
+“To be sure they could,” cried the Scarecrow. “Why didn’t we think of that before?”
+
+Dorothy blew the little whistle she had always carried about her neck since the Queen of the Mice had given it to her. In a few minutes they heard the pattering of tiny feet, and many of the small gray mice came running up to her. Among them was the Queen herself, who asked, in her squeaky little voice:
+
+“What can I do for my friends?”
+
+“We have lost our way,” said Dorothy. “Can you tell us where the Emerald City is?”
+
+“Certainly,” answered the Queen; “but it is a great way off, for you have had it at your backs all this time.” Then she noticed Dorothy’s Golden Cap, and said, “Why don’t you use the charm of the Cap, and call the Winged Monkeys to you? They will carry you to the City of Oz in less than an hour.”
+
+“I didn’t know there was a charm,” answered Dorothy, in surprise. “What is it?”
+
+“It is written inside the Golden Cap,” replied the Queen of the Mice. “But if you are going to call the Winged Monkeys we must run away, for they are full of mischief and think it great fun to plague us.”
+
+“Won’t they hurt me?” asked the girl anxiously.
+
+“Oh, no. They must obey the wearer of the Cap. Good-bye!” And she scampered out of sight, with all the mice hurrying after her.
+
+Dorothy looked inside the Golden Cap and saw some words written upon the lining. These, she thought, must be the charm, so she read the directions carefully and put the Cap upon her head.
+
+“Ep-pe, pep-pe, kak-ke!” she said, standing on her left foot.
+
+“What did you say?” asked the Scarecrow, who did not know what she was doing.
+
+“Hil-lo, hol-lo, hel-lo!” Dorothy went on, standing this time on her right foot.
+
+“Hello!” replied the Tin Woodman calmly.
+
+“Ziz-zy, zuz-zy, zik!” said Dorothy, who was now standing on both feet. This ended the saying of the charm, and they heard a great chattering and flapping of wings, as the band of Winged Monkeys flew up to them.
+
+The King bowed low before Dorothy, and asked, “What is your command?”
+
+“We wish to go to the Emerald City,” said the child, “and we have lost our way.”
+
+“We will carry you,” replied the King, and no sooner had he spoken than two of the Monkeys caught Dorothy in their arms and flew away with her. Others took the Scarecrow and the Woodman and the Lion, and one little Monkey seized Toto and flew after them, although the dog tried hard to bite him.
+
+The Scarecrow and the Tin Woodman were rather frightened at first, for they remembered how badly the Winged Monkeys had treated them before; but they saw that no harm was intended, so they rode through the air quite cheerfully, and had a fine time looking at the pretty gardens and woods far below them.
+
+Dorothy found herself riding easily between two of the biggest Monkeys, one of them the King himself. They had made a chair of their hands and were careful not to hurt her.
+
+“Why do you have to obey the charm of the Golden Cap?” she asked.
+
+“That is a long story,” answered the King, with a winged laugh; “but as we have a long journey before us, I will pass the time by telling you about it, if you wish.”
+
+“I shall be glad to hear it,” she replied.
+
+“Once,” began the leader, “we were a free people, living happily in the great forest, flying from tree to tree, eating nuts and fruit, and doing just as we pleased without calling anybody master. Perhaps some of us were rather too full of mischief at times, flying down to pull the tails of the animals that had no wings, chasing birds, and throwing nuts at the people who walked in the forest. But we were careless and happy and full of fun, and enjoyed every minute of the day.
+
+“This was many years ago, long before Oz came out of the clouds to rule over this land.
+
+“There lived here then, away at the North, a beautiful princess, who was also a powerful sorceress. All her magic was used to help the people, and she was never known to hurt anyone who was good. Her name was Gayelette, and she lived in a handsome palace built from great blocks of ruby. Everyone loved her, but her greatest sorrow was that she could find no one to love in return, since all the men were much too stupid and ugly to mate with one so beautiful and wise.
+
+“At last, however, she found a boy who was handsome and manly and wise beyond his years. Gayelette made up her mind that when he grew to be a man she would make him her husband, so she took him to her ruby palace and used all her magic powers to make him as strong and good and lovely as any woman could wish.
+
+“When he grew to manhood, Quelala, as he was called, was said to be the best and wisest man in all the land, while his manly beauty was so great that Gayelette loved him dearly, and hastened to make everything ready for the wedding.
+
+“My grandfather was at that time the King of the Winged Monkeys which lived in the forest near Gayelette’s palace, and the old fellow loved a joke better than a good dinner. One day, just before the wedding, my grandfather was flying out with his band when he saw Quelala walking beside the river. He was dressed in a rich costume of pink silk and purple velvet, and my grandfather thought he would see what he could do.
+
+“At his word the band flew down and seized Quelala, carried him in their arms until they were over the middle of the river, and then dropped him into the water.
+
+“‘Swim out, my fine fellow,’ cried my grandfather, ‘and see if the water has spotted your clothes.’ Quelala was much too wise not to swim, and he was not in the least spoiled by all his good fortune. He laughed, when he came to the top of the water, and swam in to shore. But when Gayelette came running out to him she found his silks and velvet all ruined by the river.
+
+“The princess was angry, and she knew, of course, who did it. She had all the Winged Monkeys brought before her, and she said at first that their wings should be tied and they should be treated as they had treated Quelala, and dropped in the river.
+
+“But my grandfather pleaded hard, for he knew the Monkeys would drown in the river with their wings tied, and Quelala said a kind word for them also; so that Gayelette finally spared them, on condition that the Winged Monkeys should ever after do three times the bidding of the owner of the Golden Cap. This Cap had been made for a wedding present to Quelala, and it is said to have cost the princess half her kingdom.
+
+“Of course my grandfather and all the other Monkeys at once agreed to the condition, and that is how it happens that we are three times the slaves of the owner of the Golden Cap, whosoever he may be.”
+
+“And what became of them?” asked Dorothy, who had been greatly interested in the story.
+
+“Quelala being the first owner of the Golden Cap,” replied the Monkey, “he was the first to lay his wishes upon us. As his bride could not bear the sight of us, he called us all to him in the forest after he had married her and ordered us always to keep where she could never again set eyes on a Winged Monkey, which we were glad to do, for we were all afraid of her.
+
+“This was all we ever had to do until the Golden Cap fell into the hands of the Wicked Witch of the West, who made us enslave the Winkies, and afterward drive Oz himself out of the Land of the West. Now the Golden Cap is yours, and three times you have the right to lay your wishes upon us.”
+
+As the Monkey King finished his story Dorothy looked down and saw the green, shining walls of the Emerald City before them. She wondered at the rapid flight of the Monkeys, but was glad the journey was over. The strange creatures set the travelers down carefully before the gate of the City, the King bowed low to Dorothy, and then flew swiftly away, followed by all his band.
+
+“That was a good ride,” said the little girl.
+
+“Yes, and a quick way out of our troubles,” replied the Lion. “How lucky it was you brought away that wonderful Cap!”`,
+  },
 ] as const;
