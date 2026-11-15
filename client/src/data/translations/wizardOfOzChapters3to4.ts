@@ -3374,4 +3374,115 @@ The soldier then left them and the Scarecrow said:
 
 “We shall go tomorrow morning,” returned the Scarecrow. “So now let us all get ready, for it will be a long journey.”`,
   },
+  {
+    number: 19,
+    title: "အခန်း (၁၉) — တိုက်ခိုက်တတ်သော သစ်ပင်များ၏ ရန်ပြုခြင်း",
+    titleEn: "Chapter 19 — Attacked by the Fighting Trees",
+    content: `နောက်တစ်နေ့နံနက်တွင် ဒေါ်ရသီသည် အစိမ်းရောင်ဝတ်စုံဝတ်ထားသော ချစ်စရာမိန်းကလေးကို နှုတ်ဆက်နမ်းရှိုက်ခဲ့ပြီး သူတို့အားလုံးသည် အစိမ်းရောင်မုတ်ဆိတ်ရှိသော စစ်သားနှင့် လက်ဆွဲနှုတ်ဆက်ကြသည်။ ထိုစစ်သားသည် မြို့တံခါးအထိ သူတို့နှင့်အတူ လိုက်ပို့ခဲ့သည်။ တံခါးစောင့်သည် သူတို့ကို ထပ်မံတွေ့သောအခါ လှပသည့်မြို့တော်ကို စွန့်ခွာပြီး အခက်အခဲအသစ်များကို ရင်ဆိုင်ရန် ထွက်သွားကြသည့်အတွက် အံ့ဩမိသည်။ သို့သော် သူသည် သူတို့၏ မျက်မှန်များကို ချက်ချင်းဖြုတ်ပေးပြီး အစိမ်းရောင်သေတ္တာထဲသို့ ပြန်ထည့်ကာ ခရီးကောင်းမွန်ပါစေကြောင်း ဆုတောင်းပေးသည်။
+
+“အခု မင်းက ငါတို့ရဲ့ အုပ်ချုပ်သူဖြစ်နေပြီ။ ဒါကြောင့် တတ်နိုင်သမျှ မြန်မြန် ပြန်လာခဲ့ပါ” ဟု သူက ကောက်ရိုးလူကို ပြောသည်။
+
+“ပြန်လာနိုင်ရင် သေချာပေါက် ပြန်လာပါမယ်။ ဒါပေမဲ့ အရင်ဆုံး ဒေါ်ရသီကို အိမ်ပြန်နိုင်အောင် ကူညီရပါဦးမယ်” ဟု ကောက်ရိုးလူက ပြန်ဖြေသည်။
+
+ကြင်နာတတ်သော တံခါးစောင့်ကို နောက်ဆုံးအကြိမ် နှုတ်ဆက်စဉ် ဒေါ်ရသီက—
+
+“ရှင့်ရဲ့ လှပတဲ့မြို့တော်မှာ ကျွန်မကို အားလုံးက အလွန်ကြင်နာစွာ ဆက်ဆံခဲ့ကြပါတယ်။ ကျွန်မ ဘယ်လောက်ကျေးဇူးတင်တယ်ဆိုတာ စကားနဲ့တောင် မဖော်ပြနိုင်ပါဘူး” ဟု ပြောသည်။
+
+“အဲဒါကို ပြောဖို့ မကြိုးစားပါနဲ့၊ သမီးရေ။ မင်းကို ငါတို့နဲ့အတူ နေစေချင်ပေမဲ့ ကန်ဆတ်ပြည်ကို ပြန်ချင်တာ မင်းရဲ့ဆန္ဒဆိုရင် အိမ်ပြန်နိုင်မယ့် နည်းလမ်းကို တွေ့ပါစေလို့ ဆုတောင်းပါတယ်” ဟု သူက ဖြေသည်။ ထို့နောက် အပြင်ဘက်မြို့ရိုး၏ တံခါးကို ဖွင့်ပေးလိုက်ရာ သူတို့သည် အပြင်သို့ ထွက်ပြီး ခရီးစတင်ခဲ့ကြသည်။
+
+နေရောင်သည် တောက်ပစွာ ထွန်းလင်းနေပြီး မိတ်ဆွေများသည် တောင်ပိုင်းပြည်ဘက်သို့ မျက်နှာမူကာ ခရီးဆက်ကြသည်။ သူတို့အားလုံး စိတ်ရွှင်လန်းနေကြပြီး ရယ်မောစကားပြောရင်း လမ်းလျှောက်ကြသည်။ ဒေါ်ရသီသည် အိမ်ပြန်ရနိုင်မည့် မျှော်လင့်ချက်ကို ပြန်လည်ရရှိခဲ့ပြီး ကောက်ရိုးလူနှင့် သံလူတို့ကလည်း သူမကို ကူညီနိုင်သည့်အတွက် ဝမ်းသာကြသည်။ ခြင်္သေ့ကြီးကတော့ လတ်ဆတ်သောလေကို ပျော်ရွှင်စွာ ရှူရှိုက်ပြီး အမြီးကို ဘယ်ညာယမ်းလျက် တောအုပ်နှင့် ကျေးလက်ဒေသသို့ ပြန်ရောက်ရခြင်းကို ဝမ်းမြောက်နေသည်။ တိုတိုကလည်း သူတို့ပတ်လည်တွင် ပြေးလွှားကာ လိပ်ပြာများနှင့် ပိုးဖလံများကို လိုက်ဖမ်းပြီး ပျော်ရွှင်စွာ ဟောင်နေသည်။
+
+“မြို့ပြဘဝက ကျွန်တော့်အတွက် လုံးဝ အဆင်မပြေဘူး” ဟု ခြင်္သေ့ကြီးက ခပ်သွက်သွက် လျှောက်ရင်း ပြောသည်။ “အဲဒီမှာ နေခဲ့တဲ့အချိန်က ကျွန်တော့်ရဲ့ ကိုယ်အလေးချိန်တောင် လျော့သွားတယ်။ အခုတော့ တခြားတိရစ္ဆာန်တွေကို ကျွန်တော် ဘယ်လောက်ရဲရင့်လာပြီဆိုတာ ပြသခွင့်ရဖို့ စောင့်မျှော်နေတယ်။”
+
+သူတို့သည် နောက်သို့လှည့်ကာ မြကျောက်စိမ်းမြို့တော်ကို နောက်ဆုံးတစ်ကြိမ် ကြည့်လိုက်ကြသည်။ အစိမ်းရောင်မြို့ရိုးနောက်တွင် မျှော်စင်များနှင့် ဘုရားကျောင်းမျှော်စင်များစွာကိုသာ မြင်ရပြီး အမြင့်ဆုံးနေရာတွင်တော့ အော့ဇ်နန်းတော်၏ အမိုးခုံးနှင့် ချွန်ထက်သော မျှော်စင်များကို တွေ့ရသည်။
+
+“အော့ဇ်ဟာ နောက်ဆုံးတော့ သိပ်မဆိုးတဲ့ မှော်ဆရာတစ်ယောက်ပါပဲ” ဟု သံလူက သူ့ရင်ဘတ်ထဲမှ နှလုံးသားလေး လှုပ်ခတ်သံကို ခံစားရင်း ပြောသည်။
+
+“သူက ကျွန်တော့်ကို ဦးနှောက်ပေးနိုင်ခဲ့တယ်။ အဲဒီဦးနှောက်ကလည်း အလွန်ကောင်းပါတယ်” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+“အော့ဇ်က ကျွန်တော့်ကို ပေးခဲ့တဲ့ သတ္တိမျိုးကို သူကိုယ်တိုင်လည်း ရခဲ့မယ်ဆိုရင် သူဟာ ရဲရင့်တဲ့လူတစ်ယောက် ဖြစ်လာမှာပဲ” ဟု ခြင်္သေ့ကြီးက ထပ်ပြောသည်။
+
+ဒေါ်ရသီကတော့ ဘာမှ မပြောခဲ့ပေ။ အော့ဇ်သည် သူမကို ပေးထားသော ကတိကို မတည်နိုင်ခဲ့သော်လည်း အတတ်နိုင်ဆုံး ကြိုးစားခဲ့ကြောင်း သူမ သိသည်။ ထို့ကြောင့် သူမက သူ့ကို ခွင့်လွှတ်လိုက်သည်။ အော့ဇ် ပြောခဲ့သလိုပင် သူသည် မှော်ဆရာတစ်ယောက်အဖြစ် မကောင်းခဲ့သော်လည်း လူကောင်းတစ်ယောက်တော့ ဖြစ်ခဲ့သည်။
+
+ပထမနေ့ခရီးမှာ မြကျောက်စိမ်းမြို့တော်ပတ်လည်ရှိ စိမ်းလန်းသော လယ်ကွင်းများနှင့် တောက်ပလှပသော ပန်းပွင့်များကြားမှ ဖြတ်သန်းခဲ့ကြသည်။ ထိုညတွင် သူတို့သည် မြက်ခင်းပေါ်၌ အိပ်စက်ကြပြီး အပေါ်တွင် ကြယ်များသာ ရှိနေသည်။ သူတို့အားလုံး အလွန်ကောင်းစွာ အနားယူနိုင်ခဲ့ကြသည်။
+
+နောက်တစ်နေ့နံနက်တွင် သူတို့သည် ခရီးဆက်လာကြပြီး နောက်ဆုံးတွင် ထူထပ်သော တောအုပ်တစ်ခုသို့ ရောက်လာကြသည်။ ထိုတောအုပ်သည် ညာဘက်နှင့် ဘယ်ဘက်သို့ မျက်စိတစ်ဆုံး ဆန့်တန်းနေသဖြင့် ပတ်လမ်းရှာရန် မဖြစ်နိုင်ပေ။ ထို့အပြင် လမ်းကြောင်းပြောင်းလိုက်လျှင် လမ်းပျောက်သွားနိုင်သည့်အတွက် သူတို့သည် တောထဲသို့ ဝင်ရန် အလွယ်ကူဆုံးနေရာကို ရှာဖွေကြသည်။
+
+ရှေ့ဆုံးမှ လျှောက်နေသော ကောက်ရိုးလူသည် နောက်ဆုံးတွင် အကိုင်းအခက်များ အလွန်ကျယ်ပြန့်စွာ ဖြာထွက်နေသော သစ်ပင်ကြီးတစ်ပင်ကို တွေ့ရှိသည်။ ထိုအကိုင်းများအောက်တွင် သူတို့ ဖြတ်သန်းသွားနိုင်မည့် နေရာရှိသည်။ သို့သော် ကောက်ရိုးလူသည် ပထမဆုံးအကိုင်းအောက်သို့ ဝင်လိုက်သည်နှင့် အကိုင်းများက အောက်သို့ ငုံ့လာပြီး သူ့ကို ရစ်ပတ်ဖမ်းဆီးလိုက်ကြသည်။ နောက်တစ်ခဏအတွင်းမှာပင် သူ့ကို မြေပြင်မှ မြှောက်တင်ကာ မိတ်ဆွေများရှိရာသို့ ပစ်ချလိုက်သည်။
+
+ဤဖြစ်ရပ်ကြောင့် ကောက်ရိုးလူသည် မထိခိုက်ခဲ့သော်လည်း အလွန်အံ့ဩသွားသည်။ ဒေါ်ရသီက သူ့ကို ပြန်ထူပေးသည့်အခါ သူသည် မူးဝေနေသည့်ပုံပေါက်နေသည်။
+
+“ဒီမှာ သစ်ပင်တွေကြားက နောက်ထပ် လမ်းလွတ်တစ်ခု ရှိတယ်” ဟု ခြင်္သေ့ကြီးက အော်ပြောသည်။
+
+“ကျွန်တော် အရင်စမ်းကြည့်ပါရစေ။ ကျွန်တော့်ကို ပစ်ချလိုက်လို့ ဘာမှ မဖြစ်ပါဘူး” ဟု ကောက်ရိုးလူက ပြောသည်။ သူသည် နောက်ထပ်သစ်ပင်တစ်ပင်ဆီသို့ လျှောက်သွားသော်လည်း ထိုသစ်ပင်၏ အကိုင်းများကလည်း ချက်ချင်း လှမ်းဖမ်းကာ သူ့ကို ပြန်ပစ်ချလိုက်သည်။
+
+“ဒါ အတော်ထူးဆန်းတာပဲ။ ငါတို့ ဘာလုပ်ကြမလဲ” ဟု ဒေါ်ရသီက အံ့ဩစွာ မေးသည်။
+
+“ဒီသစ်ပင်တွေက ငါတို့ကို တိုက်ခိုက်ပြီး ခရီးဆက်မသွားနိုင်အောင် တားဖို့ ဆုံးဖြတ်ထားကြပုံရတယ်” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“ကျွန်တော် ကိုယ်တိုင် စမ်းကြည့်ပါမယ်” ဟု သံလူက ပြောပြီး သစ်ပင်ကြီးဆီသို့ ရှေ့တိုးသွားသည်။ အကိုင်းကြီးတစ်ခုက သူ့ကို ဖမ်းရန် ငုံ့လာသောအခါ သံလူသည် မိမိ၏ ပုဆိန်ဖြင့် လမ်းဖွင့်နိုင်အောင် လုပ်ဆောင်လိုက်သည်။ အကိုင်းသည် ပြတ်သွားပြီး သစ်ပင်ကြီးသည် နာကျင်သကဲ့သို့ အကိုင်းအခက်အားလုံးကို လှုပ်ခါနေသည်။ သံလူသည် ထိုသစ်ပင်အောက်မှ ဘေးကင်းစွာ ဖြတ်သန်းသွားနိုင်ခဲ့သည်။
+
+“လာကြတော့။ မြန်မြန်လာကြ” ဟု သူက အော်ခေါ်သည်။ သူတို့အားလုံး အမြန်ပြေးဖြတ်သန်းကြပြီး တိုတိုတစ်ကောင်သာ အကိုင်းငယ်တစ်ခု၏ ဖမ်းဆီးခြင်းကို ခံလိုက်ရသည်။ ထိုအကိုင်းက တိုတိုကို လှုပ်ခါသဖြင့် သူသည် အော်မြည်နေသည်။ သံလူက ချက်ချင်း ကူညီပေးလိုက်သောကြောင့် ခွေးလေးသည် လွတ်မြောက်သွားသည်။
+
+တောအုပ်အတွင်းရှိ အခြားသစ်ပင်များက သူတို့ကို မတားဆီးကြတော့ပေ။ ထို့ကြောင့် သူတို့သည် သစ်ပင်တန်းရှေ့ပိုင်းတစ်ခုတည်းသာ အကိုင်းများကို ငုံ့ချနိုင်ပြီး သူစိမ်းများကို တောထဲမဝင်စေရန် တားဆီးပေးသည့် အစောင့်သစ်ပင်များ ဖြစ်နိုင်ကြောင်း ယူဆလိုက်ကြသည်။
+
+ခရီးသွားလေးဦးသည် တောအုပ်အတွင်းမှ အေးအေးဆေးဆေး ဖြတ်သန်းလာကြပြီး တစ်ဖက်အစွန်းသို့ ရောက်သောအခါ သူတို့ရှေ့တွင် အလွန်မြင့်မားသော နံရံကြီးတစ်ခုကို တွေ့လိုက်ရသည်။ ထိုနံရံသည် အဖြူရောင်ကြွေထည်ဖြင့် ပြုလုပ်ထားသကဲ့သို့ ချောမွေ့နေပြီး သူတို့၏ ဦးခေါင်းထက်ပင် မြင့်မားနေသည်။
+
+“အခု ကျွန်မတို့ ဘာလုပ်ကြမလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“လှေကားတစ်ခု လုပ်ပေးမယ်။ ဒီနံရံကို ကျော်တက်ရမှာ သေချာတယ်” ဟု သံလူက ပြောသည်။`,
+    contentEn: `The next morning Dorothy kissed the pretty green girl good-bye, and they all shook hands with the soldier with the green whiskers, who had walked with them as far as the gate. When the Guardian of the Gate saw them again he wondered greatly that they could leave the beautiful City to get into new trouble. But he at once unlocked their spectacles, which he put back into the green box, and gave them many good wishes to carry with them.
+
+“You are now our ruler,” he said to the Scarecrow; “so you must come back to us as soon as possible.”
+
+“I certainly shall if I am able,” the Scarecrow replied; “but I must help Dorothy to get home, first.”
+
+As Dorothy bade the good-natured Guardian a last farewell she said:
+
+“I have been very kindly treated in your lovely City, and everyone has been good to me. I cannot tell you how grateful I am.”
+
+“Don’t try, my dear,” he answered. “We should like to keep you with us, but if it is your wish to return to Kansas, I hope you will find a way.” He then opened the gate of the outer wall, and they walked forth and started upon their journey.
+
+The sun shone brightly as our friends turned their faces toward the Land of the South. They were all in the best of spirits, and laughed and chatted together. Dorothy was once more filled with the hope of getting home, and the Scarecrow and the Tin Woodman were glad to be of use to her. As for the Lion, he sniffed the fresh air with delight and whisked his tail from side to side in pure joy at being in the country again, while Toto ran around them and chased the moths and butterflies, barking merrily all the time.
+
+“City life does not agree with me at all,” remarked the Lion, as they walked along at a brisk pace. “I have lost much flesh since I lived there, and now I am anxious for a chance to show the other beasts how courageous I have grown.”
+
+They now turned and took a last look at the Emerald City. All they could see was a mass of towers and steeples behind the green walls, and high up above everything the spires and dome of the Palace of Oz.
+
+“Oz was not such a bad Wizard, after all,” said the Tin Woodman, as he felt his heart rattling around in his breast.
+
+“He knew how to give me brains, and very good brains, too,” said the Scarecrow.
+
+“If Oz had taken a dose of the same courage he gave me,” added the Lion, “he would have been a brave man.”
+
+Dorothy said nothing. Oz had not kept the promise he made her, but he had done his best, so she forgave him. As he said, he was a good man, even if he was a bad Wizard.
+
+The first day’s journey was through the green fields and bright flowers that stretched about the Emerald City on every side. They slept that night on the grass, with nothing but the stars over them; and they rested very well indeed.
+
+In the morning they traveled on until they came to a thick wood. There was no way of going around it, for it seemed to extend to the right and left as far as they could see; and, besides, they did not dare change the direction of their journey for fear of getting lost. So they looked for the place where it would be easiest to get into the forest.
+
+The Scarecrow, who was in the lead, finally discovered a big tree with such wide-spreading branches that there was room for the party to pass underneath. So he walked forward to the tree, but just as he came under the first branches they bent down and twined around him, and the next minute he was raised from the ground and flung headlong among his fellow travelers.
+
+This did not hurt the Scarecrow, but it surprised him, and he looked rather dizzy when Dorothy picked him up.
+
+“Here is another space between the trees,” called the Lion.
+
+“Let me try it first,” said the Scarecrow, “for it doesn’t hurt me to get thrown about.” He walked up to another tree, as he spoke, but its branches immediately seized him and tossed him back again.
+
+“This is strange,” exclaimed Dorothy. “What shall we do?”
+
+“The trees seem to have made up their minds to fight us, and stop our journey,” remarked the Lion.
+
+“I believe I will try it myself,” said the Woodman, and he went up to the first tree. When a big branch bent down to seize him, he used his axe to clear a way. At once the tree began shaking all its branches as if in pain, and the Tin Woodman passed safely under it.
+
+“Come on!” he shouted to the others. “Be quick!” They all ran forward and passed under the tree without injury, except Toto, who was caught by a small branch and shaken until he howled. But the Woodman promptly freed the little dog.
+
+The other trees of the forest did nothing to keep them back, so they made up their minds that only the first row of trees could bend down their branches, and that probably these were the policemen of the forest, given this wonderful power in order to keep strangers out of it.
+
+The four travelers walked with ease through the trees until they came to the farther edge of the wood. Then, to their surprise, they found before them a high wall which seemed to be made of white china. It was smooth, like the surface of a dish, and higher than their heads.
+
+“What shall we do now?” asked Dorothy.
+
+“I will make a ladder,” said the Tin Woodman, “for we certainly must climb over the wall.”`,
+  },
 ] as const;
