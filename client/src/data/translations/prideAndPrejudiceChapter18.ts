@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter18My = [
     number: 18,
     title: "အခန်း (၁၈)",
     titleEn: "Chapter XVIII",
+    readingType: "summary",
     contentEn: `The evening of the Netherfield ball arrived, and the Bennet family prepared to attend. Mrs. Bennet was full of excitement, especially because she hoped Jane and Mr. Bingley would spend much of the evening together.
 
 When they arrived, the house was already filled with guests. The rooms were bright with candles, music, and conversation. Mr. Bingley welcomed the Bennets warmly and soon asked Jane to dance.
