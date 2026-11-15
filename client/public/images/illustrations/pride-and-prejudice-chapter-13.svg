@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Mr Collins arrives at Longbourn</title>
+<desc id="desc">Mr Collins greets Mr and Mrs Bennet in the Longbourn drawing room, with the Bennet sisters observing.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eadcc6"/><stop offset="1" stop-color="#c7b18e"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="80" y="90" width="230" height="270" fill="#a6bdb6" stroke="#806d55" stroke-width="11"/><path d="M195 90v270M80 225h230" stroke="#f0e7d6" stroke-width="8"/>
+<!-- Mr Collins -->
+<circle cx="460" cy="280" r="36" fill="#e4c2a1"/><path d="M424 270q10-48 40-44q31 5 35 44" fill="#71604d"/><path d="M420 330h80l25 155H395Z" fill="#4a5968" stroke="#293d4a" stroke-width="7"/><path d="M445 340l15 45 15-45" fill="#e8dfd1"/>
+<!-- Mr Bennet -->
+<circle cx="650" cy="290" r="35" fill="#e4c2a1"/><path d="M615 280q10-46 39-42q30 5 34 42" fill="#665849"/><path d="M610 340h80l25 145H585Z" fill="#38495a" stroke="#273544" stroke-width="7"/>
+<!-- Mrs Bennet -->
+<circle cx="850" cy="290" r="34" fill="#e8c6a7"/><path d="M817 280q8-45 37-41q28 4 32 41" fill="#8c5d4d"/><path d="M810 340h80l25 145H785Z" fill="#9d5862" stroke="#6f3c49" stroke-width="7"/>
+<!-- daughters observing -->
+<circle cx="1030" cy="430" r="25" fill="#e8c6a7"/><path d="M1005 420q6-34 28-30q22 3 24 30" fill="#654634"/><path d="M1000 465h60l15 100h-90Z" fill="#7f9b8c"/>
+<text x="70" y="60" fill="#65513e" font-family="Georgia,serif" font-size="34">A formal new visitor at Longbourn</text><text x="70" y="690" fill="#65513e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER XIII</text>
+</svg>

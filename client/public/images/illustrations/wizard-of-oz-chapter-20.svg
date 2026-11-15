@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Dainty China Country</title>
+<desc id="desc">Dorothy and her companions look over a white wall into a tiny colorful village made of delicate china houses and figures.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b9d8e2"/><stop offset="1" stop-color="#f0dfbb"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 500h1200v220H0Z" fill="#f4f0df"/>
+<!-- porcelain village -->
+<g stroke="#8c9fa3" stroke-width="5"><path d="M90 510V370h130v140Z" fill="#f7d4d8"/><path d="M75 370l80-70 80 70Z" fill="#e99fae"/><path d="M280 510V410h120v100Z" fill="#d8e9f2"/><path d="M265 410l75-60 75 60Z" fill="#8ab8d1"/><path d="M860 510V390h140v120Z" fill="#f7e3a6"/><path d="M845 390l85-70 85 70Z" fill="#d6b56c"/><path d="M1030 510V420h110v90Z" fill="#e6d2f0"/><path d="M1015 420l70-55 70 55Z" fill="#a88bbf"/></g>
+<g fill="#fff" stroke="#91a5a8" stroke-width="4"><rect x="125" y="405" width="28" height="35"/><rect x="165" y="405" width="28" height="35"/><rect x="310" y="440" width="24" height="30"/><rect x="350" y="440" width="24" height="30"/><rect x="895" y="425" width="26" height="34"/><rect x="940" y="425" width="26" height="34"/></g>
+<!-- white wall -->
+<path d="M0 560h1200v160H0Z" fill="#f9f8ee" stroke="#b8c3c2" stroke-width="8"/>
+<!-- Dorothy -->
+<circle cx="420" cy="390" r="28" fill="#f0c99d"/><path d="M392 380q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M395 435h55l18 100h-91Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/>
+<!-- Scarecrow -->
+<circle cx="530" cy="390" r="26" fill="#d5bb84"/><path d="M504 381q26-29 52 0" fill="#526b83"/><path d="M500 430h60l16 100h-92Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- Tin Woodman -->
+<circle cx="650" cy="390" r="28" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M618 430h64l18 100h-100Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<!-- Lion -->
+<circle cx="780" cy="405" r="62" fill="#b97d42" stroke="#70452b" stroke-width="6"/><circle cx="780" cy="405" r="40" fill="#e7b66d" stroke="#9a683b" stroke-width="4"/>
+<text x="70" y="90" fill="#425b66" font-family="Georgia,serif" font-size="36">A tiny world of porcelain</text><text x="70" y="135" fill="#425b66" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XX · COMPLETE TRANSLATION</text>
+</svg>

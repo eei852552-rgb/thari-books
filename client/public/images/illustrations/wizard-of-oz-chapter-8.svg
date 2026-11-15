@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The poppy field</title>
+<desc id="desc">Dorothy rests among scarlet poppies while the Scarecrow and Tin Woodman carefully carry her toward a green riverbank.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b9d9d1"/><stop offset="1" stop-color="#f2e3bd"/></linearGradient><linearGradient id="meadow" x2="0" y2="1"><stop stop-color="#89a36d"/><stop offset="1" stop-color="#49694f"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 380Q260 320 560 390T1200 375V720H0Z" fill="url(#meadow)"/>
+<path d="M0 600Q250 530 500 610T1000 590T1200 610V720H0Z" fill="#41634b"/>
+<!-- poppies -->
+<g fill="#c94e4d" stroke="#8d393b" stroke-width="4">
+<circle cx="80" cy="470" r="27"/><circle cx="160" cy="555" r="22"/><circle cx="270" cy="450" r="30"/><circle cx="370" cy="540" r="25"/><circle cx="475" cy="455" r="28"/><circle cx="610" cy="500" r="24"/><circle cx="750" cy="455" r="30"/><circle cx="880" cy="525" r="25"/><circle cx="1010" cy="455" r="28"/><circle cx="1120" cy="545" r="25"/>
+</g>
+<g fill="#f4d17a"><circle cx="80" cy="470" r="8"/><circle cx="160" cy="555" r="7"/><circle cx="270" cy="450" r="8"/><circle cx="370" cy="540" r="7"/><circle cx="475" cy="455" r="8"/><circle cx="610" cy="500" r="7"/><circle cx="750" cy="455" r="8"/><circle cx="880" cy="525" r="7"/><circle cx="1010" cy="455" r="8"/><circle cx="1120" cy="545" r="7"/></g>
+<!-- river and safe bank -->
+<path d="M0 315Q180 285 350 325T700 315T1200 300V390Q950 420 700 385T300 395T0 390Z" fill="#6ea9ad" opacity=".9"/>
+<!-- Dorothy resting -->
+<circle cx="575" cy="440" r="28" fill="#f0c99d"/><path d="M547 432q7-40 33-35q26 4 31 35" fill="#d7a3a0"/><path d="M548 475h60l45 75h-130Z" fill="#dce7ed" stroke="#60737c" stroke-width="5"/>
+<!-- Scarecrow -->
+<circle cx="430" cy="420" r="28" fill="#d5bb84"/><path d="M402 411q28-31 56 0" fill="#526b83"/><path d="M398 455h64l20 100h-104Z" fill="#55728a" stroke="#344f67" stroke-width="5"/><path d="M405 470l-30 48M455 470l45 40" stroke="#b49a64" stroke-width="13" stroke-linecap="round"/>
+<!-- Tin Woodman -->
+<circle cx="720" cy="420" r="30" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M685 460h70l20 110H665Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M690 480l-40 48M750 480l42 48" stroke="#9eafb0" stroke-width="16" stroke-linecap="round"/>
+<text x="70" y="100" fill="#315b55" font-family="Georgia,serif" font-size="36">A field of scarlet flowers</text><text x="70" y="145" fill="#315b55" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER VIII · COMPLETE TRANSLATION</text>
+</svg>

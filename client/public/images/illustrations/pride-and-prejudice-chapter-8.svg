@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Elizabeth stays with Jane at Netherfield</title>
+<desc id="desc">Elizabeth sits beside Jane's bed at Netherfield while the household gathers in the adjoining drawing room.</desc>
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eee0c8"/><stop offset="1" stop-color="#c9b494"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#wall)"/>
+<rect x="80" y="90" width="220" height="250" fill="#a6bdb6" stroke="#806d55" stroke-width="11"/><path d="M190 90v250M80 215h220" stroke="#f0e7d6" stroke-width="8"/>
+<!-- bed -->
+<rect x="300" y="370" width="550" height="190" rx="18" fill="#8b684e" stroke="#614832" stroke-width="9"/><rect x="330" y="390" width="490" height="130" rx="18" fill="#f0e8d9"/><rect x="350" y="405" width="160" height="85" rx="20" fill="#d5c4a9"/>
+<!-- Jane -->
+<circle cx="570" cy="390" r="34" fill="#e8c6a7"/><path d="M536 380q10-48 40-44q30 5 34 44" fill="#9b7257"/><path d="M530 430h90l45 100H500Z" fill="#e8d8b5" stroke="#a48b6c" stroke-width="7"/>
+<!-- Elizabeth -->
+<circle cx="900" cy="350" r="36" fill="#e8c6a7"/><path d="M864 340q10-50 42-45q32 5 36 45" fill="#654634"/><path d="M855 400h90l28 160H827Z" fill="#7f9b8c" stroke="#4e6c5f" stroke-width="7"/>
+<!-- chair -->
+<path d="M850 520h190v28H850Z" fill="#8a6047"/><path d="M870 548v85M1020 548v85" stroke="#8a6047" stroke-width="12"/>
+<text x="70" y="60" fill="#65513e" font-family="Georgia,serif" font-size="34">A sister's care at Netherfield</text><text x="70" y="690" fill="#65513e" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER VIII</text>
+</svg>

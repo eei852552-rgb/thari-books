@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Jane and Elizabeth return to Longbourn</title>
+<desc id="desc">Jane and Elizabeth arrive home at Longbourn, where Mrs Bennet welcomes them in the family sitting room.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b4d0d5"/><stop offset="1" stop-color="#efe0bd"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 470Q280 370 560 460T1200 450V720H0Z" fill="#81966b"/>
+<!-- Longbourn house -->
+<path d="M760 455V250h330v205Z" fill="#d7c7a8" stroke="#806f55" stroke-width="9"/><path d="M720 255l205-145 205 145Z" fill="#8b634c" stroke="#654b3a" stroke-width="10"/><rect x="890" y="330" width="70" height="125" fill="#6a4939"/><rect x="790" y="295" width="55" height="55" fill="#b8d7dc" stroke="#806f55" stroke-width="6"/><rect x="1000" y="295" width="55" height="55" fill="#b8d7dc" stroke="#806f55" stroke-width="6"/>
+<!-- carriage -->
+<circle cx="380" cy="590" r="60" fill="#55463a"/><circle cx="540" cy="590" r="60" fill="#55463a"/><circle cx="380" cy="590" r="32" fill="#c7b18e"/><circle cx="540" cy="590" r="32" fill="#c7b18e"/><path d="M330 500h270v90H330Z" fill="#7c5540" stroke="#4c372a" stroke-width="8"/>
+<!-- Jane -->
+<circle cx="420" cy="410" r="30" fill="#e8c6a7"/><path d="M390 400q8-42 34-38q27 4 30 38" fill="#9b7257"/><path d="M390 455h60l18 110h-96Z" fill="#e8d8b5" stroke="#a48b6c" stroke-width="5"/>
+<!-- Elizabeth -->
+<circle cx="520" cy="410" r="30" fill="#e8c6a7"/><path d="M490 400q8-42 34-38q27 4 30 38" fill="#654634"/><path d="M490 455h60l18 110h-96Z" fill="#7f9b8c" stroke="#4e6c5f" stroke-width="5"/>
+<text x="70" y="80" fill="#425b66" font-family="Georgia,serif" font-size="36">Home again at Longbourn</text><text x="70" y="125" fill="#425b66" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER XII</text>
+</svg>

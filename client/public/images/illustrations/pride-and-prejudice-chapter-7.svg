@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Elizabeth walks to Netherfield</title>
+<desc id="desc">Elizabeth walks along a country lane toward Netherfield after receiving news that Jane is unwell.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#a9c4ce"/><stop offset="1" stop-color="#e6d9bd"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 410Q250 340 520 420T980 400T1200 420V720H0Z" fill="#81936c"/>
+<path d="M0 560Q300 470 600 560T1200 540V720H0Z" fill="#8b8064"/>
+<path d="M430 720Q500 590 600 520Q700 590 790 720Z" fill="#b2a18a"/>
+<!-- trees -->
+<g fill="#496b4f"><circle cx="120" cy="180" r="120"/><circle cx="280" cy="150" r="100"/><circle cx="1010" cy="160" r="140"/><circle cx="1140" cy="220" r="110"/></g>
+<g stroke="#6b523d" stroke-width="18"><path d="M120 220v280M280 210v280M1010 220v280M1140 260v250"/></g>
+<!-- Netherfield house -->
+<path d="M820 420V270h280v150Z" fill="#d6c5a6" stroke="#806f55" stroke-width="8"/><path d="M790 275l170-120 170 120Z" fill="#8c6952" stroke="#654b3a" stroke-width="8"/><rect x="940" y="320" width="50" height="100" fill="#604735"/><rect x="850" y="300" width="42" height="50" fill="#b8d7dc" stroke="#806f55" stroke-width="5"/><rect x="1020" y="300" width="42" height="50" fill="#b8d7dc" stroke="#806f55" stroke-width="5"/>
+<!-- Elizabeth -->
+<circle cx="520" cy="410" r="30" fill="#e8c6a7"/><path d="M490 400q8-44 36-40q28 4 32 40" fill="#654634"/><path d="M485 455h70l20 150h-110Z" fill="#7f9b8c" stroke="#4e6c5f" stroke-width="6"/><path d="M500 605l-8 62M540 605l8 62" stroke="#e8c6a7" stroke-width="14"/><path d="M485 670h30M535 670h30" stroke="#6b4d3b" stroke-width="12"/>
+<text x="70" y="85" fill="#425b66" font-family="Georgia,serif" font-size="36">A walk through the country lanes</text><text x="70" y="130" fill="#425b66" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · PRIDE AND PREJUDICE · CHAPTER VII</text>
+</svg>

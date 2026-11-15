@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Winged Monkeys carry the travelers</title>
+<desc id="desc">Dorothy and her companions travel through the bright sky with the Winged Monkeys toward the Emerald City.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#8bc4dc"/><stop offset="1" stop-color="#e8e3c4"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><circle cx="1020" cy="125" r="65" fill="#f9dc91"/>
+<g fill="#fff" opacity=".65"><ellipse cx="220" cy="230" rx="110" ry="30"/><ellipse cx="280" cy="220" rx="70" ry="25"/><ellipse cx="850" cy="180" rx="130" ry="35"/></g>
+<path d="M0 600Q240 510 460 600T900 580T1200 600V720H0Z" fill="#76a36e"/>
+<g fill="#4b5554">
+<!-- monkey 1 -->
+<ellipse cx="350" cy="300" rx="26" ry="21"/><circle cx="350" cy="275" r="18"/><path d="M330 300q-65-70-100-20q45-10 95 40M370 300q65-70 100-20q-45-10-95 40"/><path d="M340 320l-10 35M360 320l10 35" stroke="#4b5554" stroke-width="10" stroke-linecap="round"/>
+<!-- monkey 2 -->
+<ellipse cx="790" cy="270" rx="24" ry="19"/><circle cx="790" cy="247" r="17"/><path d="M770 270q-55-60-85-15q40-8 80 35M810 270q55-60 85-15q-40-8-80 35"/><path d="M780 290l-8 30M800 290l8 30" stroke="#4b5554" stroke-width="9" stroke-linecap="round"/>
+<!-- monkey 3 -->
+<ellipse cx="980" cy="350" rx="22" ry="18"/><circle cx="980" cy="328" r="16"/><path d="M962 350q-50-55-75-15q34-5 70 30M998 350q50-55 75-15q-34-5-70 30"/>
+</g>
+<!-- Dorothy seated safely -->
+<circle cx="575" cy="330" r="28" fill="#f0c99d"/><path d="M547 320q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M545 370h60l18 95h-96Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/>
+<!-- Toto -->
+<ellipse cx="610" cy="420" rx="24" ry="14" fill="#292b2b"/><circle cx="628" cy="409" r="12" fill="#292b2b"/>
+<!-- Scarecrow -->
+<circle cx="700" cy="370" r="24" fill="#d5bb84"/><path d="M676 362q24-28 48 0" fill="#526b83"/><path d="M670 405h60l14 75h-88Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- Tin Woodman -->
+<circle cx="455" cy="390" r="27" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M425 425h60l14 75h-88Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<!-- Lion -->
+<circle cx="850" cy="415" r="62" fill="#b97d42" stroke="#70452b" stroke-width="6"/><circle cx="850" cy="415" r="40" fill="#e7b66d" stroke="#9a683b" stroke-width="4"/><circle cx="837" cy="405" r="5" fill="#3b342e"/><circle cx="863" cy="405" r="5" fill="#3b342e"/>
+<text x="70" y="95" fill="#315b68" font-family="Georgia,serif" font-size="36">A journey through the open sky</text><text x="70" y="140" fill="#315b68" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XIV · COMPLETE TRANSLATION</text>
+</svg>

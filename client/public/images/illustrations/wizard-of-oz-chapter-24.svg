@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Home Again</title>
+<desc id="desc">Dorothy returns to the Kansas farmhouse and embraces Aunt Em in the warm sunlight, with Toto beside them.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#88bcd8"/><stop offset="1" stop-color="#f4e2b5"/></linearGradient><linearGradient id="field" x2="0" y2="1"><stop stop-color="#b3a36c"/><stop offset="1" stop-color="#7a8d58"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><circle cx="1030" cy="120" r="70" fill="#f8df99"/>
+<path d="M0 400Q300 330 600 410T1200 390V720H0Z" fill="url(#field)"/>
+<!-- farmhouse -->
+<path d="M760 430V255h330v175Z" fill="#d8c7a4" stroke="#806f55" stroke-width="9"/><path d="M720 260l205-145 205 145Z" fill="#8b634c" stroke="#654b3a" stroke-width="10"/><rect x="890" y="320" width="70" height="110" fill="#6a4939"/><rect x="790" y="300" width="55" height="55" fill="#b8d7dc" stroke="#806f55" stroke-width="6"/><rect x="1000" y="300" width="55" height="55" fill="#b8d7dc" stroke="#806f55" stroke-width="6"/>
+<!-- Aunt Em -->
+<circle cx="470" cy="405" r="35" fill="#e7c6a7"/><path d="M435 395q10-48 43-44q33 5 36 44" fill="#9b8269"/><path d="M425 450h90l25 160H400Z" fill="#8b9b82" stroke="#5c6d5b" stroke-width="6"/>
+<!-- Dorothy -->
+<circle cx="590" cy="405" r="31" fill="#f0c99d"/><path d="M560 395q8-44 36-39q28 4 31 39" fill="#d6a2a0"/><path d="M560 450h60l20 155h-100Z" fill="#f3f1e8" stroke="#60737c" stroke-width="6"/>
+<!-- embrace arms -->
+<path d="M445 470q70 85 135 10M610 470q-55 75-120 20" fill="none" stroke="#e7c6a7" stroke-width="20" stroke-linecap="round"/>
+<!-- Toto -->
+<ellipse cx="680" cy="620" rx="34" ry="20" fill="#292b2b"/><circle cx="705" cy="605" r="16" fill="#292b2b"/><path d="M700 590l-5-20 20 14" fill="#292b2b"/>
+<text x="70" y="90" fill="#315b68" font-family="Georgia,serif" font-size="38">There is no place like home</text><text x="70" y="140" fill="#315b68" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XXIV · COMPLETE TRANSLATION</text>
+</svg>

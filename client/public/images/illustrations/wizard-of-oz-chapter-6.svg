@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Cowardly Lion joins the travelers</title>
+<desc id="desc">Dorothy, Toto, the Scarecrow and the Tin Woodman meet a large but gentle-looking lion on the yellow brick road in a forest clearing.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8d7c8"/><stop offset="1" stop-color="#f4dfb2"/></linearGradient><linearGradient id="mane" x2="0" y2="1"><stop stop-color="#d69a4d"/><stop offset="1" stop-color="#8f5932"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><circle cx="1010" cy="115" r="62" fill="#f8dc91"/>
+<path d="M0 390Q260 330 530 400T980 390T1200 410V720H0Z" fill="#6f8c60"/>
+<g fill="#3f684f"><circle cx="80" cy="125" r="155"/><circle cx="270" cy="80" r="125"/><circle cx="1090" cy="120" r="175"/></g>
+<path d="M410 720Q500 570 600 470Q700 570 790 720Z" fill="#e6c56f"/><path d="M525 650h150M550 590h100M575 535h50" stroke="#fff0bd" stroke-width="12"/>
+<!-- lion -->
+<circle cx="760" cy="410" r="150" fill="url(#mane)" stroke="#70452b" stroke-width="9"/>
+<circle cx="760" cy="410" r="100" fill="#e7b66d" stroke="#9a683b" stroke-width="7"/>
+<path d="M690 375q-35-48-65-18q-10 45 38 55M830 375q35-48 65-18q10 45-38 55" fill="#e7b66d" stroke="#9a683b" stroke-width="7"/>
+<circle cx="725" cy="395" r="10" fill="#3b342e"/><circle cx="795" cy="395" r="10" fill="#3b342e"/>
+<path d="M748 425q12-12 24 0q-12 18-24 0" fill="#75503a"/><path d="M760 442q-20 25-42 4M760 442q20 25 42 4" fill="none" stroke="#75503a" stroke-width="6" stroke-linecap="round"/>
+<path d="M680 515q-40 90 5 145h150q45-55 5-145" fill="#c58b4d" stroke="#8b5b35" stroke-width="7"/>
+<!-- Dorothy -->
+<circle cx="320" cy="450" r="28" fill="#f0c99d"/><path d="M292 440q8-40 34-35q26 4 30 35" fill="#d6a2a0"/><path d="M295 485h52l18 120h-90Z" fill="#dbe7ed" stroke="#596f7b" stroke-width="5"/><path d="M310 605l-8 55M335 605l8 55" stroke="#f0c99d" stroke-width="14"/><path d="M296 660h28M333 660h28" stroke="#76533e" stroke-width="12"/>
+<!-- Toto -->
+<ellipse cx="395" cy="620" rx="35" ry="20" fill="#292b2b"/><circle cx="420" cy="605" r="17" fill="#292b2b"/><path d="M425 590l10-18 8 24" fill="#292b2b"/>
+<!-- Scarecrow -->
+<circle cx="475" cy="465" r="28" fill="#d5bb84"/><path d="M447 455q28-32 56 0" fill="#526b83"/><path d="M445 500h60l15 115h-90Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- Tin Woodman -->
+<circle cx="570" cy="460" r="30" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M535 500h70l16 115h-102Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<text x="70" y="100" fill="#315b55" font-family="Georgia,serif" font-size="36">A new companion on the road</text><text x="70" y="145" fill="#315b55" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER VI · COMPLETE TRANSLATION</text>
+</svg>

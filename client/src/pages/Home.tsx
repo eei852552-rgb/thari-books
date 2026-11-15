@@ -20,16 +20,54 @@ import {
 } from "lucide-react";
 import { openBooks, openBookCategories, type OpenBook } from "../data/openBooks";
 import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejudice";
+import { prideAndPrejudiceChapter2My } from "../data/translations/prideAndPrejudiceChapter2";
+import { prideAndPrejudiceChapter3My } from "../data/translations/prideAndPrejudiceChapter3";
+import { prideAndPrejudiceChapter4My } from "../data/translations/prideAndPrejudiceChapter4";
+import { prideAndPrejudiceChapter5My } from "../data/translations/prideAndPrejudiceChapter5";
+import { prideAndPrejudiceChapter6My } from "../data/translations/prideAndPrejudiceChapter6";
+import { prideAndPrejudiceChapter7My } from "../data/translations/prideAndPrejudiceChapter7";
+import { prideAndPrejudiceChapter8My } from "../data/translations/prideAndPrejudiceChapter8";
+import { prideAndPrejudiceChapter9My } from "../data/translations/prideAndPrejudiceChapter9";
+import { prideAndPrejudiceChapter10My } from "../data/translations/prideAndPrejudiceChapter10";
+import { prideAndPrejudiceChapter11My } from "../data/translations/prideAndPrejudiceChapter11";
+import { prideAndPrejudiceChapter12My } from "../data/translations/prideAndPrejudiceChapter12";
+import { prideAndPrejudiceChapter13My } from "../data/translations/prideAndPrejudiceChapter13";
+import { prideAndPrejudiceChapter14My } from "../data/translations/prideAndPrejudiceChapter14";
+import { prideAndPrejudiceChapter15My } from "../data/translations/prideAndPrejudiceChapter15";
+import { prideAndPrejudiceChapter16My } from "../data/translations/prideAndPrejudiceChapter16";
+import { prideAndPrejudiceChapter17My } from "../data/translations/prideAndPrejudiceChapter17";
 import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
+import { wizardOfOzChapter3My } from "../data/translations/wizardOfOzChapter3";
+import { wizardOfOzChapter4My } from "../data/translations/wizardOfOzChapter4";
+import { wizardOfOzChapter5My } from "../data/translations/wizardOfOzChapter5";
+import { wizardOfOzChapter6My } from "../data/translations/wizardOfOzChapter6";
+import { wizardOfOzChapter7My } from "../data/translations/wizardOfOzChapter7";
+import { wizardOfOzChapter8My } from "../data/translations/wizardOfOzChapter8";
+import { wizardOfOzChapter9My } from "../data/translations/wizardOfOzChapter9";
+import { wizardOfOzChapter10My } from "../data/translations/wizardOfOzChapter10";
+import { wizardOfOzChapter11My } from "../data/translations/wizardOfOzChapter11";
+import { wizardOfOzChapter12My } from "../data/translations/wizardOfOzChapter12";
+import { wizardOfOzChapter13My } from "../data/translations/wizardOfOzChapter13";
+import { wizardOfOzChapter14My } from "../data/translations/wizardOfOzChapter14";
+import { wizardOfOzChapter15My } from "../data/translations/wizardOfOzChapter15";
+import { wizardOfOzChapter16My } from "../data/translations/wizardOfOzChapter16";
+import { wizardOfOzChapter17My } from "../data/translations/wizardOfOzChapter17";
+import { wizardOfOzChapter18My } from "../data/translations/wizardOfOzChapter18";
+import { wizardOfOzChapter19My } from "../data/translations/wizardOfOzChapter19";
+import { wizardOfOzChapter20My } from "../data/translations/wizardOfOzChapter20";
+import { wizardOfOzChapter21My } from "../data/translations/wizardOfOzChapter21";
+import { wizardOfOzChapter22My } from "../data/translations/wizardOfOzChapter22";
+import { wizardOfOzChapter23My } from "../data/translations/wizardOfOzChapter23";
+import { wizardOfOzChapter24My } from "../data/translations/wizardOfOzChapter24";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
 const readingProgressKey = "thari-books:last-reading";
 
 const readerChaptersByBookId = {
-  "pride-and-prejudice": prideAndPrejudiceChaptersMy,
-  "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My],
+  "pride-and-prejudice": [...prideAndPrejudiceChaptersMy, ...prideAndPrejudiceChapter2My, ...prideAndPrejudiceChapter3My, ...prideAndPrejudiceChapter4My, ...prideAndPrejudiceChapter5My, ...prideAndPrejudiceChapter6My, ...prideAndPrejudiceChapter7My, ...prideAndPrejudiceChapter8My, ...prideAndPrejudiceChapter9My, ...prideAndPrejudiceChapter10My, ...prideAndPrejudiceChapter11My, ...prideAndPrejudiceChapter12My, ...prideAndPrejudiceChapter13My, ...prideAndPrejudiceChapter14My, ...prideAndPrejudiceChapter15My, ...prideAndPrejudiceChapter16My, ...prideAndPrejudiceChapter17My],
+  "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapter3My, ...wizardOfOzChapter4My, ...wizardOfOzChapter5My, ...wizardOfOzChapter6My, ...wizardOfOzChapter7My, ...wizardOfOzChapter8My, ...wizardOfOzChapter9My, ...wizardOfOzChapter10My, ...wizardOfOzChapter11My, ...wizardOfOzChapter12My, ...wizardOfOzChapter13My, ...wizardOfOzChapter14My, ...wizardOfOzChapter15My, ...wizardOfOzChapter16My, ...wizardOfOzChapter17My, ...wizardOfOzChapter18My, ...wizardOfOzChapter19My, ...wizardOfOzChapter20My, ...wizardOfOzChapter21My, ...wizardOfOzChapter22My, ...wizardOfOzChapter23My, ...wizardOfOzChapter24My],
 } as const;
 
 type ReaderChapter = {

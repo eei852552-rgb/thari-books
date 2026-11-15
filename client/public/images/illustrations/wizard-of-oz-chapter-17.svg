@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The balloon rises above the Emerald City</title>
+<desc id="desc">A colorful balloon rises over the Emerald City while Dorothy stands below with Toto and her friends watch.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#85c1d8"/><stop offset="1" stop-color="#f4e4b9"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><circle cx="1020" cy="110" r="62" fill="#f9dc92"/>
+<!-- balloon -->
+<path d="M600 70C480 70 425 175 445 280Q470 390 600 430Q730 390 755 280C775 175 720 70 600 70Z" fill="#48a76f" stroke="#276c4b" stroke-width="9"/>
+<path d="M600 75V420M455 200h290M465 300h270" stroke="#d9e8a4" stroke-width="9" opacity=".9"/>
+<path d="M540 420h120l-12 22h-96Z" fill="#9b7045" stroke="#63472e" stroke-width="6"/>
+<path d="M540 442h120v80H540Z" fill="#a87d4c" stroke="#63472e" stroke-width="6"/>
+<!-- city skyline -->
+<path d="M0 520h1200v200H0Z" fill="#28744f"/>
+<g fill="#4ca76e" stroke="#d2edc8" stroke-width="5"><path d="M90 520V330h130v190Z"/><path d="M250 520V390h100v130Z"/><path d="M390 520V300h145v220Z"/><path d="M700 520V360h120v160Z"/><path d="M860 520V310h150v210Z"/><path d="M1050 520V385h95v135Z"/></g>
+<g fill="#d7f0c6"><rect x="120" y="370" width="25" height="40"/><rect x="165" y="370" width="25" height="40"/><rect x="425" y="345" width="28" height="40"/><rect x="470" y="345" width="28" height="40"/><rect x="900" y="350" width="28" height="40"/><rect x="950" y="350" width="28" height="40"/></g>
+<!-- Dorothy and Toto below -->
+<circle cx="260" cy="565" r="25" fill="#f0c99d"/><path d="M235 555q8-38 32-33q24 4 27 33" fill="#d6a2a0"/><path d="M235 600h50l15 80h-80Z" fill="#f3f1e8" stroke="#60737c" stroke-width="5"/>
+<ellipse cx="330" cy="670" rx="27" ry="15" fill="#292b2b"/><circle cx="350" cy="658" r="13" fill="#292b2b"/>
+<text x="70" y="85" fill="#315b68" font-family="Georgia,serif" font-size="36">Good-bye, Great Oz</text><text x="70" y="130" fill="#315b68" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER XVII · COMPLETE TRANSLATION</text>
+</svg>

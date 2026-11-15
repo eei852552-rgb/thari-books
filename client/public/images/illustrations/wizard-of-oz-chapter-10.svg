@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">The Guardian of the Gate</title>
+<desc id="desc">Dorothy and her companions meet the green-clad Guardian beside the emerald-studded gate of the Emerald City.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b7d9d0"/><stop offset="1" stop-color="#f1e2bb"/></linearGradient><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#63a978"/><stop offset="1" stop-color="#24664f"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><path d="M0 250h1200v470H0Z" fill="url(#wall)"/>
+<!-- city wall and gate -->
+<path d="M330 720V220Q600 40 870 220V720Z" fill="#2c7657" stroke="#1f563f" stroke-width="16"/>
+<path d="M410 720V310Q600 150 790 310V720Z" fill="#173f35" stroke="#8ac79a" stroke-width="12"/>
+<g fill="#70d7a0" stroke="#d2f2d7" stroke-width="4"><path d="M365 250l20-18 20 18-20 18Z"/><path d="M805 250l20-18 20 18-20 18Z"/><path d="M360 365l20-18 20 18-20 18Z"/><path d="M820 365l20-18 20 18-20 18Z"/><path d="M360 490l20-18 20 18-20 18Z"/><path d="M820 490l20-18 20 18-20 18Z"/><path d="M365 615l20-18 20 18-20 18Z"/><path d="M805 615l20-18 20 18-20 18Z"/></g>
+<!-- guardian -->
+<circle cx="950" cy="365" r="31" fill="#e8c39d"/><path d="M920 355q10-38 33-34q26 5 28 34" fill="#7c8b5b"/><path d="M918 405h65l20 155h-105Z" fill="#34865e" stroke="#1c6046" stroke-width="6"/><path d="M930 560l-8 85M970 560l8 85" stroke="#34865e" stroke-width="20"/><path d="M915 645h30M965 645h30" stroke="#394d3e" stroke-width="13"/>
+<!-- Dorothy -->
+<circle cx="180" cy="425" r="27" fill="#f0c99d"/><path d="M153 415q8-40 33-35q27 4 29 35" fill="#d6a2a0"/><path d="M155 460h52l18 110h-88Z" fill="#dbe7ed" stroke="#596f7b" stroke-width="5"/>
+<!-- Toto -->
+<ellipse cx="260" cy="590" rx="28" ry="16" fill="#292b2b"/><circle cx="280" cy="577" r="14" fill="#292b2b"/>
+<!-- scarecrow -->
+<circle cx="330" cy="415" r="26" fill="#d5bb84"/><path d="M304 406q26-30 52 0" fill="#526b83"/><path d="M300 450h60l18 110h-96Z" fill="#55728a" stroke="#344f67" stroke-width="5"/>
+<!-- tin woodman -->
+<circle cx="460" cy="410" r="30" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/><path d="M425 450h70l18 110h-106Z" fill="#bac9c9" stroke="#637b7e" stroke-width="5"/>
+<!-- lion -->
+<circle cx="600" cy="420" r="68" fill="#b97d42" stroke="#70452b" stroke-width="6"/><circle cx="600" cy="420" r="44" fill="#e7b66d" stroke="#9a683b" stroke-width="4"/><circle cx="585" cy="410" r="5" fill="#3b342e"/><circle cx="615" cy="410" r="5" fill="#3b342e"/>
+<text x="70" y="90" fill="#285947" font-family="Georgia,serif" font-size="36">The Emerald City gate</text><text x="70" y="135" fill="#285947" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">THARi BOOKS · CHAPTER X · COMPLETE TRANSLATION</text>
+</svg>
