@@ -416,7 +416,8 @@ export default function Home() {
     setReaderLanguage(savedForBook?.language ?? "my");
     setReaderStarted(true);
     setReaderIntroPage(0);
-    setReaderIntroComplete(Boolean(savedForBook));
+    const hasForeword = Boolean(book.authorForewordMy?.trim() || book.editorialForewordMy?.trim());
+    setReaderIntroComplete(Boolean(savedForBook) || !hasForeword);
     setReaderFinished(false);
     setResumeAtSavedPage(Boolean(savedForBook));
   };
