@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter11My = [
     number: 11,
     title: "အခန်း (၁၁)",
     titleEn: "Chapter XI",
+    readingType: "summary",
     contentEn: `Jane's health gradually improved, and Elizabeth was relieved to see her sister looking stronger. The two sisters spent much of their time together, talking quietly and enjoying the comfort of one another's company.
 
 The Bingley sisters continued to visit Jane and were pleased that she was recovering. They were always polite, though Elizabeth sometimes felt that their kindness was mixed with a sense of superiority.
