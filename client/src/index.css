@@ -1062,3 +1062,52 @@ body { background: var(--paper); }
   .reader-turning-sheet.turn-forward,
   .reader-turning-sheet.turn-backward { animation-duration: .01ms; }
 }
+
+
+/* Dedicated book detail pages */
+.book-detail-page { min-height: 72vh; padding-top: 38px; padding-bottom: 82px; background: #fffefa; }
+.detail-back-link { display: inline-flex; align-items: center; gap: 8px; margin-bottom: 30px; color: #66717e; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 11px; }
+.detail-back-link svg { transform: rotate(180deg); color: #a88748; }
+.detail-back-link:hover { color: var(--navy); }
+.book-detail-hero { display: grid; max-width: 1050px; margin: 0 auto; grid-template-columns: minmax(210px, 310px) 1fr; align-items: center; gap: clamp(28px, 6vw, 76px); padding: 34px clamp(20px, 5vw, 58px); border: 1px solid var(--line); background: linear-gradient(135deg, #fbfaf6, #fff); }
+.book-detail-cover { position: relative; width: 100%; max-width: 270px; aspect-ratio: 3 / 4.15; margin: 0 auto; padding: 9px; border: 1px solid #e8e0d0; background: #fff; box-shadow: 0 18px 38px rgba(20,41,71,.13); }
+.book-detail-cover::after { position: absolute; inset: 0 auto 0 9px; width: 3px; background: rgba(20,41,71,.12); content: ''; }
+.book-detail-cover img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.book-detail-summary h1 { margin: 15px 0 8px; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: clamp(27px, 4vw, 39px); font-weight: 600; line-height: 1.6; }
+.book-detail-author { margin: 0 0 20px; color: #927842; font-size: 13px; font-weight: 600; }
+.book-detail-description { max-width: 590px; margin: 0; color: #66717e; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 13px; line-height: 2.05; }
+.book-detail-facts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
+.book-detail-facts span { padding: 7px 10px; border: 1px solid #e9e5dc; color: #697481; background: #fff; font-size: 10px; }
+.book-detail-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 18px; margin-top: 25px; }
+.detail-read-button { cursor: pointer; font: inherit; }
+.detail-source-link { display: inline-flex; align-items: center; gap: 6px; color: #5f6b79; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 11px; }
+.detail-source-link:hover { color: #927842; }
+.detail-resume-note { display: inline-flex; align-items: center; gap: 8px; margin-top: 18px; padding: 9px 12px; border: 1px solid #e8e1d2; color: #6e6249; background: #fbf8ef; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 10px; cursor: pointer; }
+.book-detail-content { display: grid; max-width: 1050px; margin: 35px auto 0; grid-template-columns: 1.05fr .95fr; gap: 22px; }
+.detail-overview, .detail-chapters { min-width: 0; padding: 27px clamp(18px, 3vw, 32px); border: 1px solid var(--line); background: #fff; }
+.detail-overview h2, .detail-chapters h2 { margin: 10px 0 14px; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 20px; font-weight: 600; line-height: 1.7; }
+.detail-overview > p:not(.detail-rights-note) { margin: 0; color: #5f6976; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 12px; line-height: 2.1; white-space: pre-line; }
+.detail-overview h3 { margin: 24px 0 10px; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 13px; }
+.detail-key-ideas { margin: 0; padding-left: 21px; color: #687381; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 11px; line-height: 2.1; }
+.detail-rights-note { display: flex; align-items: flex-start; gap: 8px; margin: 25px 0 0; padding-top: 15px; border-top: 1px solid #efede8; color: #858b91; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px; line-height: 1.9; }
+.detail-rights-note svg { flex: 0 0 auto; margin-top: 3px; color: #a58a51; }
+.detail-chapter-list { display: grid; gap: 8px; }
+.detail-chapter-item { display: flex; width: 100%; min-height: 58px; align-items: center; gap: 13px; padding: 10px 12px; border: 1px solid #eeeae2; color: var(--ink); background: #fdfcf9; text-align: left; cursor: pointer; transition: border-color .18s, background .18s; }
+.detail-chapter-item:hover { border-color: #d8c79d; background: #fbf8ef; }
+.detail-chapter-number { display: grid; width: 34px; height: 34px; flex: 0 0 auto; place-items: center; color: #927842; background: #f3eedf; font-family: 'Inter', sans-serif; font-size: 11px; }
+.detail-chapter-item > span:nth-child(2) { display: grid; min-width: 0; gap: 3px; }
+.detail-chapter-item strong { overflow: hidden; color: var(--navy); font-family: 'Noto Sans Myanmar', sans-serif; font-size: 11px; font-weight: 600; text-overflow: ellipsis; }
+.detail-chapter-item small { color: #96999c; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 9px; }
+.detail-chapter-item > svg { flex: 0 0 auto; margin-left: auto; color: #a88748; }
+.detail-external-note { display: flex; align-items: flex-start; gap: 12px; padding: 15px; border: 1px solid #eeeae2; color: #687381; background: #fdfcf9; }
+.detail-external-note svg { flex: 0 0 auto; color: #a88748; }
+.detail-external-note p { margin: 0; font-family: 'Noto Sans Myanmar', sans-serif; font-size: 11px; line-height: 1.9; }
+@media (max-width: 720px) {
+  .book-detail-page { padding-top: 24px; padding-bottom: 48px; }
+  .detail-back-link { margin-bottom: 20px; }
+  .book-detail-hero { grid-template-columns: minmax(0, 1fr); gap: 25px; padding: 24px 18px; }
+  .book-detail-cover { width: min(66%, 230px); }
+  .book-detail-summary h1 { font-size: 27px; }
+  .book-detail-content { grid-template-columns: minmax(0, 1fr); margin-top: 18px; gap: 14px; }
+  .detail-overview, .detail-chapters { padding: 22px 18px; }
+}
