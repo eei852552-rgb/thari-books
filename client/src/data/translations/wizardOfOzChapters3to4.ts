@@ -3908,4 +3908,167 @@ Thanking the good woman, they started afresh and walked by the fields and across
 
 “Let me have your name, and I will ask Glinda if she will receive you.” They told who they were, and the girl soldier went into the Castle. After a few moments she came back to say that Dorothy and the others were to be admitted at once.`,
   },
+  {
+    number: 23,
+    title: "အခန်း (၂၃) — မိန်းမကောင်းစုန်းမ ဂလင်ဒါက ဒေါ်ရသီ၏ ဆန္ဒကို ဖြည့်ဆည်းပေးခြင်း",
+    titleEn: "Chapter 23 — Glinda The Good Witch Grants Dorothy’s Wish",
+    content: `ဂလင်ဒါကို မတွေ့ဆုံမီ ရဲတိုက်အတွင်းရှိ အခန်းတစ်ခန်းသို့ သူတို့ကို ခေါ်ဆောင်သွားကြသည်။ ထိုနေရာတွင် ဒေါ်ရသီသည် မျက်နှာသစ်ပြီး ဆံပင်ကို ဖြီးသင်လိုက်သည်။ ခြင်္သေ့ကြီးကလည်း သူ့လည်ဆံမွေးများမှ ဖုန်မှုန့်များကို ခါချလိုက်ပြီး ကောက်ရိုးလူက သူ့ကိုယ်ပုံစံကို သပ်ရပ်အောင် ပြင်ဆင်လိုက်သည်။ သံခုတ်သမားကလည်း သူ၏ သံကိုယ်ထည်ကို ပွတ်တိုက်သန့်စင်ကာ အဆစ်များကို ဆီထည့်လိုက်သည်။
+
+အားလုံး သပ်ရပ်သွားသောအခါ စစ်သည်မလေးနောက်သို့ လိုက်ကာ အခန်းကျယ်ကြီးတစ်ခန်းထဲသို့ ဝင်သွားကြသည်။ ထိုအခန်းတွင် စုန်းမဂလင်ဒါသည် ပတ္တမြားများဖြင့် ပြုလုပ်ထားသော ရာဇပလ္လင်ပေါ်၌ ထိုင်နေသည်။
+
+သူတို့၏ အမြင်တွင် ဂလင်ဒါသည် လှပပြီး နုပျိုသူတစ်ဦး ဖြစ်သည်။ သူမ၏ ဆံပင်မှာ နီရဲတောက်ပပြီး ပခုံးပေါ်သို့ လှိုင်းတွန့်လေးများအဖြစ် ဝဲကျနေသည်။ ဝတ်စုံမှာ ဖြူစင်ပြီး မျက်လုံးများမှာ အပြာရောင်ဖြစ်သည်။ သူမ၏ မျက်လုံးများက ဒေါ်ရသီလေးကို ကြင်နာစွာ ကြည့်နေသည်။
+
+“ကလေးရေ၊ ငါ မင်းအတွက် ဘာလုပ်ပေးရမလဲ” ဟု သူမက မေးသည်။
+
+ဒေါ်ရသီသည် လေဝဲမုန်တိုင်းကြောင့် အော့ဇ်နိုင်ငံသို့ ရောက်လာခဲ့ပုံ၊ မိတ်ဆွေများနှင့် တွေ့ဆုံခဲ့ပုံ၊ သူတို့အတူ ကြုံတွေ့ခဲ့ရသော ထူးဆန်းအံ့ဩဖွယ် စွန့်စားခန်းများအကြောင်းကို အစအဆုံး ပြောပြလိုက်သည်။
+
+“အခု ကျွန်မရဲ့ အကြီးမားဆုံးဆန္ဒကတော့ ကန်ဆတ်ကို ပြန်သွားချင်တာပါပဲ” ဟု သူမက ဆက်ပြောသည်။ “အဒေါ်အမ်က ကျွန်မအပေါ် ကြောက်စရာကောင်းတဲ့ အဖြစ်တစ်ခုခု ဖြစ်သွားပြီလို့ ထင်ပြီး ဝမ်းနည်းပူဆွေးနေမှာ သေချာပါတယ်။ ဒီနှစ် သီးနှံအထွက်က မနှစ်ကထက် ပိုမကောင်းဘူးဆိုရင် ဦးလေးဟင်နရီအနေနဲ့ အဲဒီအတွက် ကုန်ကျစရိတ်ကိုတောင် မတတ်နိုင်လောက်ပါဘူး။”
+
+ဂလင်ဒါသည် ရှေ့သို့ ကိုင်းညွတ်ကာ ချစ်ခင်ကြင်နာတတ်သော ကလေးမလေး၏ မော့ကြည့်နေသည့် မျက်နှာလေးကို နမ်းလိုက်သည်။
+
+“ချစ်စရာကလေးရေ၊ မင်း ကန်ဆတ်ကို ပြန်နိုင်မယ့် နည်းလမ်းတစ်ခုကို ငါ ပြောပြနိုင်မယ်ဆိုတာ သေချာပါတယ်” ဟု သူမက ပြောသည်။ ထို့နောက် “ဒါပေမဲ့ ငါ အဲဒီနည်းလမ်းကို ပြောပြပေးမယ်ဆိုရင် မင်းရဲ့ ရွှေဦးထုပ်ကို ငါ့ကို ပေးရမယ်” ဟု ထပ်ပြောသည်။
+
+“ဝမ်းမြောက်ဝမ်းသာ ပေးပါ့မယ်” ဟု ဒေါ်ရသီက ချက်ချင်း ပြန်ဖြေသည်။ “အခုတော့ အဲဒီဦးထုပ်က ကျွန်မအတွက် အသုံးမဝင်တော့ပါဘူး။ ရှင်ရသွားရင် တောင်ပံပါ မျောက်တွေကို သုံးကြိမ် အမိန့်ပေးနိုင်ပါတယ်။”
+
+“အဲဒီသုံးကြိမ်ကိုတော့ ငါ တကယ်လိုအပ်မယ်လို့ ထင်ပါတယ်” ဟု ဂလင်ဒါက ပြုံး၍ ပြန်ဖြေသည်။
+
+ထို့နောက် ဒေါ်ရသီသည် ရွှေဦးထုပ်ကို ဂလင်ဒါအား ပေးလိုက်သည်။ ဂလင်ဒါက ကောက်ရိုးလူကို လှည့်ကြည့်ပြီး “ဒေါ်ရသီ ထွက်သွားပြီးတဲ့နောက် မင်း ဘာလုပ်မလဲ” ဟု မေးသည်။
+
+“မြစိမ်းရောင်မြို့တော်ကို ပြန်သွားပါမယ်” ဟု ကောက်ရိုးလူက ပြန်ဖြေသည်။ “အော့ဇ်က ကျွန်တော့်ကို အဲဒီမြို့ရဲ့ အုပ်ချုပ်သူအဖြစ် ခန့်ထားပြီး မြို့သူမြို့သားတွေကလည်း ကျွန်တော့်ကို သဘောကျကြပါတယ်။ ကျွန်တော် စိုးရိမ်တာ တစ်ခုကတော့ ဟမ်းမာဟက်တွေရဲ့ တောင်ကုန်းကို ဘယ်လိုဖြတ်ကျော်ရမလဲဆိုတာပါပဲ။”
+
+“ရွှေဦးထုပ်ကို အသုံးပြုပြီး တောင်ပံပါ မျောက်တွေကို မင်းအား မြစိမ်းရောင်မြို့တော်ရဲ့ တံခါးဝအထိ ပို့ဆောင်ပေးဖို့ ငါ အမိန့်ပေးမယ်” ဟု ဂလင်ဒါက ပြောသည်။ “ဒီလောက်ကောင်းမွန်တဲ့ အုပ်ချုပ်သူတစ်ဦးကို သူ့ပြည်သူတွေ ဆုံးရှုံးရတာ မသင့်တော်ဘူးလေ။”
+
+“ကျွန်တော် တကယ်ပဲ ကောင်းမွန်တဲ့ အုပ်ချုပ်သူတစ်ဦးလား” ဟု ကောက်ရိုးလူက မေးသည်။
+
+“မင်းက ထူးခြားတဲ့သူတစ်ဦးပါ” ဟု ဂလင်ဒါက ပြန်ဖြေသည်။
+
+ထို့နောက် သူမသည် သံခုတ်သမားဘက်သို့ လှည့်ကာ “ဒေါ်ရသီ ဒီနိုင်ငံက ထွက်သွားတဲ့အခါ မင်းက ဘာလုပ်မလဲ” ဟု မေးသည်။
+
+သံခုတ်သမားသည် သူ၏ ပုဆိန်ကို မှီထားရင်း ခဏစဉ်းစားသည်။ ထို့နောက် “ဝင်ကီလူမျိုးတွေက ကျွန်တော့်အပေါ် အလွန်ကြင်နာခဲ့ကြပါတယ်။ မကောင်းတဲ့ စုန်းမ သေဆုံးသွားပြီးနောက် သူတို့က ကျွန်တော့်ကို အုပ်ချုပ်သူအဖြစ် နေစေချင်ခဲ့ကြတယ်။ ကျွန်တော်လည်း ဝင်ကီလူမျိုးတွေကို ချစ်ခင်ပါတယ်။ အနောက်ဘက်နိုင်ငံကို ပြန်သွားနိုင်မယ်ဆိုရင် သူတို့ကို တစ်သက်လုံး အုပ်ချုပ်ပေးရတာထက် ပိုပြီး လိုချင်တဲ့အရာ မရှိတော့ပါဘူး” ဟု ပြောသည်။
+
+“တောင်ပံပါ မျောက်တွေကို ပေးမယ့် ငါ့ရဲ့ ဒုတိယအမိန့်ကတော့ မင်းကို ဝင်ကီလူမျိုးတို့ရဲ့ နယ်မြေသို့ ဘေးကင်းစွာ ပို့ဆောင်ပေးဖို့ပဲ” ဟု ဂလင်ဒါက ပြောသည်။ “မင်းရဲ့ ဦးနှောက်က ကောက်ရိုးလူရဲ့ ဦးနှောက်လောက် ကြီးမားပုံမပေါ်ပေမဲ့ မင်းက သူ့ထက် တကယ် ပိုတော်ပါတယ်။ အထူးသဖြင့် ကောင်းကောင်း ပွတ်တိုက်သန့်စင်ထားတဲ့အခါပေါ့။ မင်းဟာ ဝင်ကီလူမျိုးတွေကို ပညာရှိရှိနဲ့ ကောင်းမွန်စွာ အုပ်ချုပ်နိုင်မယ်လို့ ငါ ယုံကြည်ပါတယ်။”
+
+ထို့နောက် စုန်းမသည် အမွေးထူထူရှိသော ခြင်္သေ့ကြီးဘက်သို့ လှည့်ကာ “ဒေါ်ရသီ သူ့အိမ်ကို ပြန်ရောက်သွားတဲ့အခါ မင်းက ဘာလုပ်မလဲ” ဟု မေးသည်။
+
+“ဟမ်းမာဟက်တွေရဲ့ တောင်ကုန်းကို ကျော်သွားရင် သစ်တောကြီးတစ်ခု ရှိပါတယ်။ အဲဒီမှာ နေထိုင်ကြတဲ့ တိရစ္ဆာန်အားလုံးက ကျွန်တော့်ကို သူတို့ရဲ့ ဘုရင်အဖြစ် ရွေးချယ်ထားကြတယ်။ အဲဒီသစ်တောကို ပြန်သွားနိုင်မယ်ဆိုရင် ကျွန်တော့်ဘဝကို အဲဒီမှာ ပျော်ရွှင်စွာ ဖြတ်သန်းချင်ပါတယ်” ဟု ခြင်္သေ့ကြီးက ပြန်ဖြေသည်။
+
+“တောင်ပံပါ မျောက်တွေကို ပေးမယ့် ငါ့ရဲ့ တတိယအမိန့်ကတော့ မင်းကို မင်းရဲ့ သစ်တောဆီ ပို့ဆောင်ပေးဖို့ပဲ” ဟု ဂလင်ဒါက ပြောသည်။ “ရွှေဦးထုပ်ရဲ့ တန်ခိုးကို သုံးပြီးသွားတဲ့အခါ အဲဒီဦးထုပ်ကို မျောက်ဘုရင်ဆီ ပြန်ပေးမယ်။ ဒါမှ သူနဲ့ သူ့အဖွဲ့သားတွေဟာ နောင်ကာလတစ်လျှောက်လုံး လွတ်လပ်စွာ နေထိုင်နိုင်ကြမှာပါ။”
+
+ကောက်ရိုးလူ၊ သံခုတ်သမားနှင့် ခြင်္သေ့ကြီးတို့သည် မိမိတို့အပေါ် ဂလင်ဒါ၏ ကြင်နာမှုအတွက် အလွန်ကျေးဇူးတင်ကြောင်း ပြောကြသည်။ ဒေါ်ရသီကလည်း “ရှင်ဟာ လှပသလို စိတ်ထားလည်း အလွန်ကောင်းမွန်ပါတယ်။ ဒါပေမဲ့ ကျွန်မ ကန်ဆတ်ကို ဘယ်လိုပြန်ရမလဲဆိုတာတော့ မပြောပြရသေးပါဘူး” ဟု ပြောလိုက်သည်။
+
+“မင်းရဲ့ ငွေရောင်ဖိနပ်တွေက သဲကန္တာရကို ဖြတ်ကျော်ပို့ဆောင်ပေးနိုင်တယ်” ဟု ဂလင်ဒါက ပြန်ဖြေသည်။ “အဲဒီဖိနပ်တွေရဲ့ တန်ခိုးကို မင်းသာ သိခဲ့မယ်ဆိုရင် ဒီနိုင်ငံကို ရောက်လာတဲ့ ပထမဆုံးနေ့မှာပဲ အဒေါ်အမ်ဆီ ပြန်သွားနိုင်ခဲ့မှာပါ။”
+
+“ဒါဆို ကျွန်တော် ရရှိခဲ့တဲ့ အံ့ဩဖွယ် ဦးနှောက်တွေကို မရခဲ့ဘူးပေါ့” ဟု ကောက်ရိုးလူက ဝမ်းသာစွာ ပြောသည်။ “လယ်သမားရဲ့ ပြောင်းခင်းထဲမှာ တစ်သက်လုံး နေခဲ့ရနိုင်တယ်။”
+
+“ကျွန်တော်လည်း အခုလို လှပတဲ့ နှလုံးသားကို ရခဲ့မှာ မဟုတ်ဘူး” ဟု သံခုတ်သမားက ပြောသည်။ “ဒီလိုဆိုရင် သစ်တောထဲမှာ ကမ္ဘာဆုံးတဲ့အထိ သံချေးတက်ပြီး ရပ်နေခဲ့ရနိုင်တယ်။”
+
+“ကျွန်တော်လည်း တစ်သက်လုံး ကြောက်တတ်သူအဖြစ်ပဲ နေခဲ့ရမှာပါ” ဟု ခြင်္သေ့ကြီးက ပြောသည်။ “သစ်တောထဲက တိရစ္ဆာန်တစ်ကောင်မှ ကျွန်တော့်အကြောင်း ကောင်းကောင်းပြောမှာ မဟုတ်ဘူး။”
+
+“ဒါတွေအားလုံး မှန်ပါတယ်” ဟု ဒေါ်ရသီက ပြောသည်။ “ဒီလို မိတ်ဆွေကောင်းတွေကို အကူအညီပေးနိုင်ခဲ့တာ ကျွန်မ ဝမ်းသာပါတယ်။ အခုတော့ တစ်ယောက်စီတိုင်းက သူတို့ အလိုချင်ဆုံးအရာကို ရရှိခဲ့ကြပြီ။ ကိုယ်ပိုင်နိုင်ငံတွေကိုလည်း အုပ်ချုပ်ရတော့မှာဖြစ်လို့ အားလုံး ပျော်ရွှင်နေကြပါပြီ။ ကျွန်မလည်း ကန်ဆတ်ကို ပြန်ချင်ပါပြီ။”
+
+“ငွေရောင်ဖိနပ်တွေမှာ အံ့ဩဖွယ် တန်ခိုးတွေ ရှိတယ်” ဟု မိန်းမကောင်းစုန်းမက ပြောသည်။ “အဲဒီဖိနပ်တွေရဲ့ အထူးခြားဆုံး အစွမ်းတစ်ခုကတော့ ကမ္ဘာပေါ်က ဘယ်နေရာကိုမဆို ခြေလှမ်းသုံးလှမ်းအတွင်း ပို့ဆောင်ပေးနိုင်တာပဲ။ ခြေလှမ်းတစ်လှမ်းစီတိုင်းဟာ မျက်စိတစ်မှိတ်အတွင်း ပြီးဆုံးသွားမယ်။ မင်းလုပ်ရမှာက ဖိနပ်နှစ်ဖက်ရဲ့ ဖနောင့်တွေကို သုံးကြိမ် ထိခတ်ပြီး ကိုယ်သွားချင်တဲ့ နေရာကို ပို့ပေးဖို့ အမိန့်ပေးရုံပါပဲ။”
+
+“အဲဒီလိုဆိုရင် ကျွန်မကို ကန်ဆတ်ကို ချက်ချင်း ပြန်ပို့ပေးဖို့ ဖိနပ်တွေကို တောင်းဆိုပါမယ်” ဟု ဒေါ်ရသီက ဝမ်းသာအားရ ပြောသည်။
+
+သူမသည် ခြင်္သေ့ကြီး၏ လည်ပင်းကို လက်နှစ်ဖက်ဖြင့် ဖက်ကာ နမ်းလိုက်ပြီး သူ၏ ဦးခေါင်းကြီးကိုလည်း နူးညံ့စွာ ပွတ်သပ်ပေးသည်။ ထို့နောက် သံခုတ်သမားကို နမ်းလိုက်ရာ သူသည်လည်း အဆစ်များအတွက် အနည်းငယ် စိုးရိမ်ရလောက်အောင် မျက်ရည်ကျနေသည်။ ကောက်ရိုးလူ၏ ဆေးခြယ်ထားသော မျက်နှာကို နမ်းမည့်အစား သူ၏ ပျော့ပျောင်းသော ကောက်ရိုးကိုယ်ထည်ကိုသာ ရင်ခွင်ထဲ ထည့်ဖက်လိုက်သည်။ မိတ်ဆွေကောင်းများနှင့် ခွဲခွာရမည့်အချိန်တွင် ဒေါ်ရသီကိုယ်တိုင်လည်း မျက်ရည်ကျလာသည်။
+
+မိန်းမကောင်းဂလင်ဒါသည် ပတ္တမြားရာဇပလ္လင်ပေါ်မှ ဆင်းလာပြီး ဒေါ်ရသီကို နှုတ်ဆက်အနမ်း ပေးလိုက်သည်။ ဒေါ်ရသီသည် သူမနှင့် မိမိ၏ မိတ်ဆွေများအပေါ် ပြသခဲ့သော ကြင်နာမှုအားလုံးအတွက် ဂလင်ဒါကို ကျေးဇူးတင်လိုက်သည်။
+
+ထို့နောက် ဒေါ်ရသီသည် တိုတိုကို လက်ထဲတွင် သေချာချီထားပြီး နောက်ဆုံးအကြိမ် နှုတ်ဆက်စကား ပြောလိုက်သည်။ ထို့နောက် ဖိနပ်နှစ်ဖက်၏ ဖနောင့်များကို သုံးကြိမ် ထိခတ်ကာ—
+
+“ကျွန်မကို အဒေါ်အမ်ဆီ အိမ်ပြန်ပို့ပေးပါ” ဟု ပြောလိုက်သည်။
+
+ချက်ချင်းပင် သူမသည် လေထဲတွင် အလွန်လျင်မြန်စွာ လှည့်ပတ်သွားသည်။ နားဘေးမှ လေတိုးသံကိုသာ ကြားရပြီး အခြားအရာများကို မမြင်နိုင်၊ မခံစားနိုင်လောက်အောင် မြန်ဆန်နေသည်။
+
+ငွေရောင်ဖိနပ်များသည် ခြေလှမ်းသုံးလှမ်းသာ လှမ်းလိုက်ရပြီးနောက် ဒေါ်ရသီသည် ရုတ်တရက် ရပ်တန့်သွားသည်။ သူမသည် ဘယ်နေရာသို့ ရောက်နေသည်ကို မသိသေးမီ မြက်ခင်းပေါ်တွင် အကြိမ်အနည်းငယ် လိမ့်သွားခဲ့သည်။
+
+နောက်ဆုံးတွင် သူမသည် ထိုင်လိုက်ပြီး ပတ်ဝန်းကျင်ကို ကြည့်လိုက်သည်။
+
+“အို… ဘုရားရေ” ဟု သူမက အံ့ဩစွာ အော်လိုက်သည်။
+
+အကြောင်းမှာ သူမသည် ကန်ဆတ်၏ ကျယ်ပြန့်သော မြက်ခင်းလွင်ပြင်ပေါ်တွင် ထိုင်နေခြင်း ဖြစ်သည်။ သူမရှေ့တွင်လည်း လေဝဲမုန်တိုင်းကြောင့် အိမ်ဟောင်း ပျက်စီးသွားပြီးနောက် ဦးလေးဟင်နရီ အသစ်ဆောက်ထားသော လယ်ယာအိမ်ကြီး ရှိနေသည်။ ဦးလေးဟင်နရီသည် နွားတင်းကုပ်ခြံဝင်းထဲတွင် နွားများကို နို့ညှစ်နေသည်။ တိုတိုကလည်း သူမ၏ လက်ထဲမှ ခုန်ဆင်းကာ အားရပါးရ ဟောင်ရင်း တင်းကုပ်ဘက်သို့ ပြေးသွားသည်။
+
+ဒေါ်ရသီသည် မတ်တတ်ရပ်လိုက်သောအခါ သူမ၏ ခြေထောက်တွင် ခြေအိတ်များသာ ရှိနေကြောင်း သတိထားမိသည်။ အကြောင်းမှာ လေထဲသို့ ပျံသန်းသွားစဉ် ငွေရောင်ဖိနပ်များသည် ခြေထောက်မှ ပြုတ်ကျသွားပြီး သဲကန္တာရထဲတွင် ထာဝရ ပျောက်ဆုံးသွားခဲ့သောကြောင့် ဖြစ်သည်။`,
+    contentEn: `Before they went to see Glinda, however, they were taken to a room of the Castle, where Dorothy washed her face and combed her hair, and the Lion shook the dust out of his mane, and the Scarecrow patted himself into his best shape, and the Woodman polished his tin and oiled his joints.
+
+When they were all quite presentable they followed the soldier girl into a big room where the Witch Glinda sat upon a throne of rubies.
+
+She was both beautiful and young to their eyes. Her hair was a rich red in color and fell in flowing ringlets over her shoulders. Her dress was pure white but her eyes were blue, and they looked kindly upon the little girl.
+
+“What can I do for you, my child?” she asked.
+
+Dorothy told the Witch all her story: how the cyclone had brought her to the Land of Oz, how she had found her companions, and of the wonderful adventures they had met with.
+
+“My greatest wish now,” she added, “is to get back to Kansas, for Aunt Em will surely think something dreadful has happened to me, and that will make her put on mourning; and unless the crops are better this year than they were last, I am sure Uncle Henry cannot afford it.”
+
+Glinda leaned forward and kissed the sweet, upturned face of the loving little girl.
+
+“Bless your dear heart,” she said, “I am sure I can tell you of a way to get back to Kansas.” Then she added, “But, if I do, you must give me the Golden Cap.”
+
+“Willingly!” exclaimed Dorothy; “indeed, it is of no use to me now, and when you have it you can command the Winged Monkeys three times.”
+
+“And I think I shall need their service just those three times,” answered Glinda, smiling.
+
+Dorothy then gave her the Golden Cap, and the Witch said to the Scarecrow, “What will you do when Dorothy has left us?”
+
+“I will return to the Emerald City,” he replied, “for Oz has made me its ruler and the people like me. The only thing that worries me is how to cross the hill of the Hammer-Heads.”
+
+“By means of the Golden Cap I shall command the Winged Monkeys to carry you to the gates of the Emerald City,” said Glinda, “for it would be a shame to deprive the people of so wonderful a ruler.”
+
+“Am I really wonderful?” asked the Scarecrow.
+
+“You are unusual,” replied Glinda.
+
+Turning to the Tin Woodman, she asked, “What will become of you when Dorothy leaves this country?”
+
+He leaned on his axe and thought a moment. Then he said, “The Winkies were very kind to me, and wanted me to rule over them after the Wicked Witch died. I am fond of the Winkies, and if I could get back again to the Country of the West, I should like nothing better than to rule over them forever.”
+
+“My second command to the Winged Monkeys,” said Glinda “will be that they carry you safely to the land of the Winkies. Your brain may not be so large to look at as those of the Scarecrow, but you are really brighter than he is—when you are well polished—and I am sure you will rule the Winkies wisely and well.”
+
+Then the Witch looked at the big, shaggy Lion and asked, “When Dorothy has returned to her own home, what will become of you?”
+
+“Over the hill of the Hammer-Heads,” he answered, “lies a grand old forest, and all the beasts that live there have made me their King. If I could only get back to this forest, I would pass my life very happily there.”
+
+“My third command to the Winged Monkeys,” said Glinda, “shall be to carry you to your forest. Then, having used up the powers of the Golden Cap, I shall give it to the King of the Monkeys, that he and his band may thereafter be free for evermore.”
+
+The Scarecrow and the Tin Woodman and the Lion now thanked the Good Witch earnestly for her kindness; and Dorothy exclaimed:
+
+“You are certainly as good as you are beautiful! But you have not yet told me how to get back to Kansas.”
+
+“Your Silver Shoes will carry you over the desert,” replied Glinda. “If you had known their power you could have gone back to your Aunt Em the very first day you came to this country.”
+
+“But then I should not have had my wonderful brains!” cried the Scarecrow. “I might have passed my whole life in the farmer’s cornfield.”
+
+“And I should not have had my lovely heart,” said the Tin Woodman. “I might have stood and rusted in the forest till the end of the world.”
+
+“And I should have lived a coward forever,” declared the Lion, “and no beast in all the forest would have had a good word to say to me.”
+
+“This is all true,” said Dorothy, “and I am glad I was of use to these good friends. But now that each of them has had what he most desired, and each is happy in having a kingdom to rule besides, I think I should like to go back to Kansas.”
+
+“The Silver Shoes,” said the Good Witch, “have wonderful powers. And one of the most curious things about them is that they can carry you to any place in the world in three steps, and each step will be made in the wink of an eye. All you have to do is to knock the heels together three times and command the shoes to carry you wherever you wish to go.”
+
+“If that is so,” said the child joyfully, “I will ask them to carry me back to Kansas at once.”
+
+She threw her arms around the Lion’s neck and kissed him, patting his big head tenderly. Then she kissed the Tin Woodman, who was weeping in a way most dangerous to his joints. But she hugged the soft, stuffed body of the Scarecrow in her arms instead of kissing his painted face, and found she was crying herself at this sorrowful parting from her loving comrades.
+
+Glinda the Good stepped down from her ruby throne to give the little girl a good-bye kiss, and Dorothy thanked her for all the kindness she had shown to her friends and herself.
+
+Dorothy now took Toto up solemnly in her arms, and having said one last good-bye she clapped the heels of her shoes together three times, saying:
+
+“Take me home to Aunt Em!”
+
+* * *
+
+Instantly she was whirling through the air, so swiftly that all she could see or feel was the wind whistling past her ears.
+
+The Silver Shoes took but three steps, and then she stopped so suddenly that she rolled over upon the grass several times before she knew where she was.
+
+At length, however, she sat up and looked about her.
+
+“Good gracious!” she cried.
+
+For she was sitting on the broad Kansas prairie, and just before her was the new farmhouse Uncle Henry built after the cyclone had carried away the old one. Uncle Henry was milking the cows in the barnyard, and Toto had jumped out of her arms and was running toward the barn, barking furiously.
+
+Dorothy stood up and found she was in her stocking-feet. For the Silver Shoes had fallen off in her flight through the air, and were lost forever in the desert.`,
+  },
 ] as const;
