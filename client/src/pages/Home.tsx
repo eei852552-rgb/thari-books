@@ -275,6 +275,7 @@ export default function Home() {
   const [readerIntroPage, setReaderIntroPage] = useState(0);
   const [readerIntroComplete, setReaderIntroComplete] = useState(false);
   const [readerFinished, setReaderFinished] = useState(false);
+  const [resumeAtSavedPage, setResumeAtSavedPage] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [resumeProgress, setResumeProgress] = useState<ReaderProgress | null>(() => readProgress());
   const readerDialogRef = useRef<HTMLElement | null>(null);
@@ -365,7 +366,7 @@ export default function Home() {
   }, [selectedBook]);
 
   useEffect(() => {
-    if (!selectedBook) return;
+    if (!selectedBook || !readerStarted || !readerIntroComplete) return;
     const nextProgress: ReaderProgress = {
       bookId: selectedBook.id,
       chapterIndex: readerChapterIndex,
@@ -375,7 +376,7 @@ export default function Home() {
     };
     saveProgress(nextProgress);
     setResumeProgress(nextProgress);
-  }, [selectedBook, readerChapterIndex, readerPage, readerLanguage]);
+  }, [selectedBook, readerChapterIndex, readerPage, readerLanguage, readerStarted, readerIntroComplete]);
 
   const turnReaderPage = (direction: "forward" | "backward") => {
     if (pageTurnDirection || pendingPage !== null || readerPages.length < 2) return;
@@ -417,6 +418,7 @@ export default function Home() {
     setReaderIntroPage(0);
     setReaderIntroComplete(false);
     setReaderFinished(false);
+    setResumeAtSavedPage(Boolean(savedForBook));
   };
 
   return (
@@ -613,7 +615,7 @@ export default function Home() {
                   <p className="reader-cover-kicker">THARi BOOKS · CLASSIC LIBRARY</p>
                   <h1 id="reader-title">{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h1>
                   <p className="reader-cover-author">{selectedBook.author}</p>
-                  <button className="reader-start-button" type="button" onClick={() => { setReaderStarted(true); setReaderIntroComplete(readerForewordPages.length === 0); setReaderFinished(false); }}>{siteLanguage === "my" ? (detailProgress ? "ဆက်ဖတ်မယ်" : "ဖတ်မယ်") : (detailProgress ? "Continue reading" : "Start reading")} <BookOpen size={18} /></button>
+                  <button className="reader-start-button" type="button" onClick={() => { setReaderStarted(true); setReaderIntroComplete(resumeAtSavedPage || readerForewordPages.length === 0); setReaderFinished(false); }}>{siteLanguage === "my" ? (detailProgress ? "ဆက်ဖတ်မယ်" : "ဖတ်မယ်") : (detailProgress ? "Continue reading" : "Start reading")} <BookOpen size={18} /></button>
                   <p className="reader-cover-hint">{siteLanguage === "my" ? "စာအုပ်ကို စာမျက်နှာတစ်မျက်နှာချင်း ဖတ်ရှုနိုင်ပါသည်" : "Read one page at a time"}</p>
                 </section>
               ) : readerFinished ? (
