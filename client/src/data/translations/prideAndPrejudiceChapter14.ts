@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter14My = [
     number: 14,
     title: "အခန်း (၁၄)",
     titleEn: "Chapter XIV",
+    readingType: "summary",
     contentEn: `During the evening Mr. Collins spoke at length about Lady Catherine de Bourgh, his wealthy patroness. He described her house, her family, and the many kindnesses she had shown him.
 
 He explained that Lady Catherine lived at Rosings Park, a grand estate near his parish. Her daughter, Miss de Bourgh, also lived there. Mr. Collins praised them both and seemed proud that he was allowed to visit their home regularly.
