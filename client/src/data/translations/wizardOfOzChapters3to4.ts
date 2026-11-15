@@ -3181,4 +3181,197 @@ And that was the last any of them ever saw of Oz, the Wonderful Wizard, though h
 
 Still, for many days they grieved over the loss of the Wonderful Wizard, and would not be comforted.`,
   },
+  {
+    number: 18,
+    title: "အခန်း (၁၈) — တောင်ဘက်သို့ ခရီးထွက်ခြင်း",
+    titleEn: "Chapter 18 — Away to the South",
+    content: `ကန်ဆတ်ပြည်သို့ ပြန်ရောက်နိုင်မည့် မျှော်လင့်ချက် ပျောက်ကွယ်သွားသည့်အတွက် ဒေါ်ရသီသည် အလွန်ဝမ်းနည်းစွာ ငိုကြွေးခဲ့သည်။ သို့သော် ဖြစ်ပျက်ခဲ့သမျှကို ပြန်စဉ်းစားကြည့်သောအခါ မိုးပျံပူဖောင်းပေါ် မလိုက်သွားခဲ့ခြင်းက ကောင်းသည်ဟု သူမ တွေးမိလာသည်။ အော့ဇ်ကို ဆုံးရှုံးလိုက်ရသည့်အတွက်လည်း သူမနှင့်အတူ မိတ်ဆွေများပါ ဝမ်းနည်းကြသည်။
+
+သံလူသည် ဒေါ်ရသီထံ လာပြီး ပြောသည်။
+
+“ကျွန်တော့်ကို လှပတဲ့ နှလုံးသားလေး ပေးခဲ့တဲ့သူအတွက် ဝမ်းမနည်းဘူးဆိုရင် ကျွန်တော်ဟာ ကျေးဇူးကန်းသူ ဖြစ်သွားပါလိမ့်မယ်။ အော့ဇ် ထွက်သွားတဲ့အတွက် ကျွန်တော်လည်း နည်းနည်းလောက် ငိုချင်ပါတယ်။ ဒါပေမဲ့ သံချေးမတက်အောင် ကျွန်တော့်မျက်ရည်တွေကို သုတ်ပေးပါဦး။”
+
+“ဝမ်းမြောက်စွာ သုတ်ပေးပါမယ်” ဟု ဒေါ်ရသီက ပြောပြီး ချက်ချင်းပင် မျက်နှာသုတ်ပဝါတစ်ထည် ယူလာသည်။ သံလူသည် မိနစ်အနည်းငယ်ကြာ ငိုကြွေးခဲ့ပြီး သူမက မျက်ရည်များကို သတိထားကာ ပဝါဖြင့် သုတ်ပေးသည်။ ငိုပြီးသွားသောအခါ သံလူက ကျေးဇူးတင်စကား ပြောပြီး ပြဿနာမဖြစ်စေရန် သူ၏ ရတနာစီခြယ်ထားသော ဆီဘူးဖြင့် ကိုယ်ကို သေသေချာချာ ဆီလိမ်းလိုက်သည်။
+
+ယခုအခါ ကောက်ရိုးလူသည် မြကျောက်စိမ်းမြို့တော်၏ အုပ်ချုပ်သူ ဖြစ်လာခဲ့သည်။ သူသည် မှော်ဆရာမဟုတ်သော်လည်း မြို့သူမြို့သားများက သူ့ကို ဂုဏ်ယူကြသည်။ အကြောင်းမှာ “ကောက်ရိုးဖြင့် ပြုလုပ်ထားသော လူတစ်ယောက်က အုပ်ချုပ်နေသည့် မြို့ဟာ ကမ္ဘာပေါ်မှာ တခြားမရှိနိုင်ဘူး” ဟု သူတို့ ယုံကြည်ကြသောကြောင့် ဖြစ်သည်။ သူတို့ သိထားသလောက်တော့ ထိုအချက်မှာ မှန်ကန်နေသည်။
+
+အော့ဇ် မိုးပျံပူဖောင်းဖြင့် ထွက်ခွာသွားပြီးနောက် နောက်တစ်နေ့ နံနက်တွင် ခရီးသွားလေးဦးသည် ပလ္လင်ခန်းထဲ၌ တွေ့ဆုံကာ နောက်ထပ် ဘာလုပ်ကြမည်ကို ဆွေးနွေးကြသည်။ ကောက်ရိုးလူသည် ပလ္လင်ကြီးပေါ်တွင် ထိုင်နေပြီး ကျန်သူများက သူ့ရှေ့တွင် လေးလေးစားစား ရပ်နေကြသည်။
+
+“ငါတို့က ကံမကောင်းလှဘူးလို့ မဆိုနိုင်ပါဘူး။ ဒီနန်းတော်နဲ့ မြကျောက်စိမ်းမြို့တော်ဟာ အခု ငါတို့ပိုင်သွားပြီ။ ငါတို့ စိတ်ကြိုက် လုပ်နိုင်ကြတယ်။ မကြာသေးခင်ကပဲ လယ်သမားတစ်ယောက်ရဲ့ ပြောင်းခင်းထဲက တိုင်ပေါ်မှာ ရပ်နေရတဲ့ ကောက်ရိုးလူတစ်ယောက်ပဲ ဖြစ်ခဲ့တာကို ပြန်တွေးကြည့်ရင် အခု ဒီလှပတဲ့မြို့ကို အုပ်ချုပ်နေရတာ ကျေနပ်စရာပါပဲ” ဟု အုပ်ချုပ်သူအသစ်က ပြောသည်။
+
+“ကျွန်တော်လည်း နှလုံးသားအသစ်ကို အလွန်ကျေနပ်ပါတယ်။ တကယ်တော့ ကမ္ဘာပေါ်မှာ ကျွန်တော် လိုချင်ခဲ့တာ အဲဒီတစ်ခုတည်းပါပဲ” ဟု သံလူက ပြောသည်။
+
+“ကျွန်တော်ကတော့ အသက်ရှင်ခဲ့ဖူးသမျှ တိရစ္ဆာန်တွေထဲမှာ အရဲရင့်ဆုံးဖြစ်နေပြီ၊ ဒါမှမဟုတ် အရဲရင့်ဆုံးနဲ့ မကွာဘူးဆိုတာ သိရလို့ ကျေနပ်ပါတယ်” ဟု ခြင်္သေ့ကြီးက နှိမ့်ချစွာ ပြောသည်။
+
+“ဒေါ်ရသီသာ မြကျောက်စိမ်းမြို့တော်မှာ နေဖို့ ကျေနပ်မယ်ဆိုရင် ငါတို့အားလုံး အတူတူ ပျော်ရွှင်နိုင်ကြမှာပဲ” ဟု ကောက်ရိုးလူက ဆက်ပြောသည်။
+
+“ဒါပေမဲ့ ကျွန်မ ဒီမှာ မနေချင်ဘူး” ဟု ဒေါ်ရသီက အော်ပြောသည်။ “ကျွန်မ ကန်ဆတ်ပြည်ကို ပြန်ချင်တယ်။ အန်တီအမ်နဲ့ ဦးလေးဟင်နရီတို့နဲ့အတူ နေချင်တယ်။”
+
+“ဒါဆို ဘယ်လိုလုပ်ကြမလဲ” ဟု သံလူက မေးသည်။
+
+ကောက်ရိုးလူသည် စဉ်းစားရန် ဆုံးဖြတ်လိုက်သည်။ သူ အလွန်အမင်း စဉ်းစားနေသဖြင့် ဦးနှောက်ထဲမှ အပ်များနှင့် တံသင်များပင် အပြင်သို့ ထွက်လာသည်။ နောက်ဆုံးတွင် သူက ပြောသည်။
+
+“တောင်ပံပါ မျောက်တွေကို ခေါ်ပြီး မင်းကို သဲကန္တာရကျော်အောင် သယ်ပို့ခိုင်းရင် ဘယ်လိုလဲ။”
+
+“အဲဒီအကြံကို ကျွန်မ မစဉ်းစားမိဘူး” ဟု ဒေါ်ရသီက ဝမ်းသာစွာ ပြောသည်။ “အဲဒါက အကောင်းဆုံးပဲ။ ရွှေဦးထုပ်ကို ချက်ချင်း သွားယူမယ်။”
+
+သူမသည် ရွှေဦးထုပ်ကို ပလ္လင်ခန်းထဲသို့ ယူလာပြီး မှော်စကားများကို ပြောလိုက်သည်။ မကြာမီ တောင်ပံပါ မျောက်အုပ်စုသည် ပြတင်းပေါက်မှတစ်ဆင့် ပျံဝင်လာပြီး သူမဘေးတွင် ရပ်လိုက်ကြသည်။
+
+“မင်းက ငါတို့ကို ဒုတိယအကြိမ် ခေါ်လိုက်တာပဲ” ဟု မျောက်ဘုရင်က ဒေါ်ရသီရှေ့တွင် ဦးညွှတ်ရင်း ပြောသည်။ “မင်း ဘာလိုချင်သလဲ။”
+
+“ကျွန်မကို ကန်ဆတ်ပြည်အထိ ပျံသန်းပို့ပေးစေချင်တယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+သို့သော် မျောက်ဘုရင်က ခေါင်းခါလိုက်သည်။
+
+“အဲဒါတော့ မဖြစ်နိုင်ဘူး” ဟု သူက ပြောသည်။ “ငါတို့ဟာ ဒီနိုင်ငံထဲမှာပဲ နေထိုင်ရတဲ့ သတ္တဝါတွေဖြစ်ပြီး ဒီနိုင်ငံရဲ့ နယ်နိမိတ်ကို ကျော်လွန်လို့ မရဘူး။ ကန်ဆတ်ပြည်မှာ တောင်ပံပါ မျောက်တစ်ကောင်မှ မရှိခဲ့ဖူးဘူး။ နောင်လည်း ရှိလာမယ်လို့ မထင်ဘူး။ ငါတို့ဟာ အဲဒီနေရာနဲ့ မသက်ဆိုင်လို့ပဲ။ ငါတို့ တတ်နိုင်သမျှ ကူညီပေးချင်ပေမဲ့ သဲကန္တာရကိုတော့ ဖြတ်ကျော်ပေးလို့ မရဘူး။ နှုတ်ဆက်ပါတယ်။”
+
+ထို့နောက် မျောက်ဘုရင်သည် နောက်တစ်ကြိမ် ဦးညွှတ်ပြီး တောင်ပံဖြန့်ကာ ပြတင်းပေါက်မှ ပျံထွက်သွားသည်။ သူ့နောက်တွင် မျောက်အုပ်စုအားလုံး လိုက်ပါသွားကြသည်။
+
+မျှော်လင့်ချက် ပျက်သွားသည့်အတွက် ဒေါ်ရသီသည် ငိုမိတော့မလို ဖြစ်သွားသည်။
+
+“ရွှေဦးထုပ်ရဲ့ မှော်အစွမ်းကို အလကား ဖြုန်းတီးလိုက်မိပြီ။ တောင်ပံပါ မျောက်တွေက ကျွန်မကို မကူညီနိုင်ဘူး” ဟု သူမက ပြောသည်။
+
+“တကယ်ကို စိတ်မကောင်းစရာပါပဲ” ဟု ကြင်နာတတ်သော သံလူက ပြောသည်။
+
+ကောက်ရိုးလူသည် ထပ်မံ စဉ်းစားနေပြန်သည်။ သူ၏ ဦးခေါင်းသည် အလွန်ဖောင်းလာသဖြင့် ဒေါ်ရသီက ပေါက်ကွဲသွားမည်ကိုပင် စိုးရိမ်မိသည်။
+
+“အစိမ်းရောင်မုတ်ဆိတ်နဲ့ စစ်သားကို ခေါ်ပြီး သူ့အကြံဉာဏ် မေးကြရအောင်” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+ထို့ကြောင့် စစ်သားကို ခေါ်လိုက်ရာ သူသည် ရှက်ရွံ့စွာ ပလ္လင်ခန်းထဲသို့ ဝင်လာသည်။ အော့ဇ် အသက်ရှင်နေစဉ်က သူ့ကို တံခါးဝထက် ပိုဝင်ခွင့် မပေးခဲ့ဖူးပေ။
+
+“ဒီကလေးမလေးက သဲကန္တာရကို ဖြတ်ကျော်ချင်တယ်။ ဘယ်လိုလုပ်ရမလဲ” ဟု ကောက်ရိုးလူက စစ်သားကို မေးသည်။
+
+“ကျွန်တော် မပြောတတ်ပါဘူး။ အော့ဇ်ကိုယ်တိုင်ကလွဲလို့ သဲကန္တာရကို ဖြတ်ကျော်ဖူးသူ မရှိဘူးလို့ သိထားပါတယ်” ဟု စစ်သားက ပြန်ဖြေသည်။
+
+“ကျွန်မကို ကူညီပေးနိုင်မယ့်သူ တစ်ယောက်မှ မရှိဘူးလား” ဟု ဒေါ်ရသီက စိတ်အားထက်သန်စွာ မေးသည်။
+
+“ဂလင်ဒါကတော့ ကူညီနိုင်လောက်ပါတယ်” ဟု စစ်သားက အကြံပေးသည်။
+
+“ဂလင်ဒါဆိုတာ ဘယ်သူလဲ” ဟု ကောက်ရိုးလူက မေးသည်။
+
+“သူက တောင်ပိုင်းရဲ့ စုန်းမပါ။ စုန်းမအားလုံးထဲမှာ အစွမ်းအထက်ဆုံးဖြစ်ပြီး ကွာဒလင်းလူမျိုးတွေကို အုပ်ချုပ်ပါတယ်။ သူ့ရဲတိုက်ကလည်း သဲကန္တာရအစွန်းမှာ တည်ရှိတာကြောင့် အဲဒီကို ဖြတ်ကျော်နိုင်မယ့် နည်းလမ်းကို သိချင်သိနိုင်ပါတယ်။”
+
+“ဂလင်ဒါက စုန်းမကောင်းတစ်ယောက် မဟုတ်လား” ဟု ဒေါ်ရသီက မေးသည်။
+
+“ကွာဒလင်းလူမျိုးတွေကတော့ သူ့ကို ကောင်းတဲ့သူလို့ ယုံကြည်ကြပါတယ်။ သူက လူတိုင်းအပေါ် ကြင်နာတတ်တယ်လို့လည်း သိရပါတယ်။ အသက်အရွယ် ကြီးလာပေမဲ့ နုပျိုနေအောင် ထိန်းသိမ်းနိုင်တဲ့ လှပတဲ့ အမျိုးသမီးတစ်ဦးလို့ ကျွန်တော် ကြားဖူးပါတယ်” ဟု စစ်သားက ပြောသည်။
+
+“သူ့ရဲတိုက်ကို ဘယ်လိုသွားရမလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“တောင်ဘက်ကို တည့်တည့်သွားရမယ့် လမ်းရှိပါတယ်။ ဒါပေမဲ့ ခရီးသွားတွေအတွက် အန္တရာယ်များတယ်လို့ ပြောကြပါတယ်။ တောထဲမှာ သားရဲတိရစ္ဆာန်တွေ ရှိသလို သူတို့နယ်မြေကို သူစိမ်းတွေ ဖြတ်သန်းတာ မကြိုက်တဲ့ ထူးဆန်းတဲ့ လူမျိုးစုတစ်စုလည်း ရှိပါတယ်။ အဲဒီအကြောင်းကြောင့် ကွာဒလင်းလူမျိုးတွေဟာ မြကျောက်စိမ်းမြို့တော်ကို ဘယ်တော့မှ မလာကြတာပါ” ဟု စစ်သားက ပြောသည်။
+
+ထို့နောက် စစ်သား ထွက်သွားခဲ့သည်။ ကောက်ရိုးလူက မိတ်ဆွေများကို ပြောသည်။
+
+“အန္တရာယ်တွေ ရှိပေမဲ့ ဒေါ်ရသီအတွက် အကောင်းဆုံးနည်းလမ်းက တောင်ပိုင်းပြည်ကို သွားပြီး ဂလင်ဒါဆီမှာ အကူအညီတောင်းဖို့ပဲ ထင်တယ်။ ဒေါ်ရသီ ဒီမှာပဲ နေမယ်ဆိုရင် ကန်ဆတ်ပြည်ကို ဘယ်တော့မှ ပြန်ရောက်နိုင်မှာ မဟုတ်ဘူးလေ။”
+
+“မင်း ထပ်ပြီး စဉ်းစားထားပြန်ပြီ ထင်တယ်” ဟု သံလူက ပြောသည်။
+
+“ဟုတ်ပါတယ်” ဟု ကောက်ရိုးလူက ပြန်ဖြေသည်။
+
+“ကျွန်တော်လည်း ဒေါ်ရသီနဲ့ လိုက်မယ်” ဟု ခြင်္သေ့ကြီးက ကြေညာသည်။ “ဒီမြို့မှာ နေရတာ ပျင်းလာပြီ။ တောနဲ့ သဘာဝပတ်ဝန်းကျင်ကို ပြန်လွမ်းနေတယ်။ ငါက တောရိုင်းတိရစ္ဆာန်တစ်ကောင်ပဲ မဟုတ်လား။ ဒါ့အပြင် ဒေါ်ရသီကို ကာကွယ်ပေးမယ့်သူ တစ်ယောက်လည်း လိုမှာပေါ့။”
+
+“အဲဒါ မှန်ပါတယ်။ ကျွန်တော့်ရဲ့ သံတူရိယာတွေထဲက အရေးကြီးတဲ့ ကိရိယာတစ်ခုက သူ့အတွက် အသုံးဝင်နိုင်ပါတယ်။ ဒါကြောင့် ကျွန်တော်လည်း တောင်ပိုင်းပြည်ကို လိုက်ခဲ့ပါမယ်” ဟု သံလူက ပြောသည်။
+
+“ဘယ်တော့ စကြမလဲ” ဟု ကောက်ရိုးလူက မေးသည်။
+
+“မင်းလည်း လိုက်မှာလား” ဟု ကျန်သူများက အံ့ဩစွာ မေးကြသည်။
+
+“လိုက်မှာပေါ့။ ဒေါ်ရသီသာ မရှိခဲ့ရင် ကျွန်တော် ဦးနှောက်ရခဲ့မှာ မဟုတ်ဘူး။ သူက ကျွန်တော့်ကို ပြောင်းခင်းထဲက တိုင်ပေါ်ကနေ ဖြုတ်ပေးခဲ့ပြီး မြကျောက်စိမ်းမြို့တော်ကိုလည်း ခေါ်လာပေးခဲ့တယ်။ ကျွန်တော့်ရဲ့ ကံကောင်းမှုအားလုံးဟာ သူ့ကြောင့်ပဲ ဖြစ်တယ်။ ဒါကြောင့် သူ ကန်ဆတ်ပြည်ကို အပြီးပြန်မသွားမချင်း ကျွန်တော် သူ့ကို ဘယ်တော့မှ မထားခဲ့ဘူး” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+“ကျေးဇူးတင်ပါတယ်။ အားလုံးက ကျွန်မအပေါ် အရမ်းကြင်နာကြပါတယ်။ ဒါပေမဲ့ ကျွန်မတို့ တတ်နိုင်သမျှ အမြန်ဆုံး စတင်ချင်ပါတယ်” ဟု ဒေါ်ရသီက ကျေးဇူးတင်စွာ ပြောသည်။
+
+“ဒါဆို မနက်ဖြန် မနက်မှာ ထွက်ကြမယ်။ အခုတော့ ခရီးရှည်ကြီးအတွက် အားလုံး ပြင်ဆင်ကြရအောင်” ဟု ကောက်ရိုးလူက ပြန်ဖြေသည်။`,
+    contentEn: `Dorothy wept bitterly at the passing of her hope to get home to Kansas again; but when she thought it all over she was glad she had not gone up in a balloon. And she also felt sorry at losing Oz, and so did her companions.
+
+The Tin Woodman came to her and said:
+
+“Truly I should be ungrateful if I failed to mourn for the man who gave me my lovely heart. I should like to cry a little because Oz is gone, if you will kindly wipe away my tears, so that I shall not rust.”
+
+“With pleasure,” she answered, and brought a towel at once. Then the Tin Woodman wept for several minutes, and she watched the tears carefully and wiped them away with the towel. When he had finished, he thanked her kindly and oiled himself thoroughly with his jeweled oil-can, to guard against mishap.
+
+The Scarecrow was now the ruler of the Emerald City, and although he was not a Wizard the people were proud of him. “For,” they said, “there is not another city in all the world that is ruled by a stuffed man.” And, so far as they knew, they were quite right.
+
+The morning after the balloon had gone up with Oz, the four travelers met in the Throne Room and talked matters over. The Scarecrow sat in the big throne and the others stood respectfully before him.
+
+“We are not so unlucky,” said the new ruler, “for this Palace and the Emerald City belong to us, and we can do just as we please. When I remember that a short time ago I was up on a pole in a farmer’s cornfield, and that now I am the ruler of this beautiful City, I am quite satisfied with my lot.”
+
+“I also,” said the Tin Woodman, “am well-pleased with my new heart; and, really, that was the only thing I wished in all the world.”
+
+“For my part, I am content in knowing I am as brave as any beast that ever lived, if not braver,” said the Lion modestly.
+
+“If Dorothy would only be contented to live in the Emerald City,” continued the Scarecrow, “we might all be happy together.”
+
+“But I don’t want to live here,” cried Dorothy. “I want to go to Kansas, and live with Aunt Em and Uncle Henry.”
+
+“Well, then, what can be done?” inquired the Woodman.
+
+The Scarecrow decided to think, and he thought so hard that the pins and needles began to stick out of his brains. Finally he said:
+
+“Why not call the Winged Monkeys, and ask them to carry you over the desert?”
+
+“I never thought of that!” said Dorothy joyfully. “It’s just the thing. I’ll go at once for the Golden Cap.”
+
+When she brought it into the Throne Room she spoke the magic words, and soon the band of Winged Monkeys flew in through the open window and stood beside her.
+
+“This is the second time you have called us,” said the Monkey King, bowing before the little girl. “What do you wish?”
+
+“I want you to fly with me to Kansas,” said Dorothy.
+
+But the Monkey King shook his head.
+
+“That cannot be done,” he said. “We belong to this country alone, and cannot leave it. There has never been a Winged Monkey in Kansas yet, and I suppose there never will be, for they don’t belong there. We shall be glad to serve you in any way in our power, but we cannot cross the desert. Good-bye.”
+
+And with another bow, the Monkey King spread his wings and flew away through the window, followed by all his band.
+
+Dorothy was ready to cry with disappointment. “I have wasted the charm of the Golden Cap to no purpose,” she said, “for the Winged Monkeys cannot help me.”
+
+“It is certainly too bad!” said the tender-hearted Woodman.
+
+The Scarecrow was thinking again, and his head bulged out so horribly that Dorothy feared it would burst.
+
+“Let us call in the soldier with the green whiskers,” he said, “and ask his advice.”
+
+So the soldier was summoned and entered the Throne Room timidly, for while Oz was alive he never was allowed to come farther than the door.
+
+“This little girl,” said the Scarecrow to the soldier, “wishes to cross the desert. How can she do so?”
+
+“I cannot tell,” answered the soldier, “for nobody has ever crossed the desert, unless it is Oz himself.”
+
+“Is there no one who can help me?” asked Dorothy earnestly.
+
+“Glinda might,” he suggested.
+
+“Who is Glinda?” inquired the Scarecrow.
+
+“The Witch of the South. She is the most powerful of all the Witches, and rules over the Quadlings. Besides, her castle stands on the edge of the desert, so she may know a way to cross it.”
+
+“Glinda is a Good Witch, isn’t she?” asked the child.
+
+“The Quadlings think she is good,” said the soldier, “and she is kind to everyone. I have heard that Glinda is a beautiful woman, who knows how to keep young in spite of the many years she has lived.”
+
+“How can I get to her castle?” asked Dorothy.
+
+“The road is straight to the South,” he answered, “but it is said to be full of dangers to travelers. There are wild beasts in the woods, and a race of queer men who do not like strangers to cross their country. For this reason none of the Quadlings ever come to the Emerald City.”
+
+The soldier then left them and the Scarecrow said:
+
+“It seems, in spite of dangers, that the best thing Dorothy can do is to travel to the Land of the South and ask Glinda to help her. For, of course, if Dorothy stays here she will never get back to Kansas.”
+
+“You must have been thinking again,” remarked the Tin Woodman.
+
+“I have,” said the Scarecrow.
+
+“I shall go with Dorothy,” declared the Lion, “for I am tired of your city and long for the woods and the country again. I am really a wild beast, you know. Besides, Dorothy will need someone to protect her.”
+
+“That is true,” agreed the Woodman. “My axe may be of service to her; so I also will go with her to the Land of the South.”
+
+“When shall we start?” asked the Scarecrow.
+
+“Are you going?” they asked, in surprise.
+
+“Certainly. If it wasn’t for Dorothy I should never have had brains. She lifted me from the pole in the cornfield and brought me to the Emerald City. So my good luck is all due to her, and I shall never leave her until she starts back to Kansas for good and all.”
+
+“Thank you,” said Dorothy gratefully. “You are all very kind to me. But I should like to start as soon as possible.”
+
+“We shall go tomorrow morning,” returned the Scarecrow. “So now let us all get ready, for it will be a long journey.”`,
+  },
 ] as const;
