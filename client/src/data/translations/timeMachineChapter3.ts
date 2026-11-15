@@ -30,21 +30,21 @@ The Editor wanted that explained to him, and the Psychologist volunteered a wood
 
 And the whole tableful turned towards the door.
 
-He was in an amazing plight. His coat was dusty and dirty, and smeared with green down the sleeves; his hair disordered, and as it seemed to me greyer—either with dust and dirt or because its colour had actually faded. His face was very pale; his chin had a brown cut on it—a cut half-healed; his expression was tired and drawn, as by intense hardship. For a moment he hesitated in the doorway, as if he had been dazzled by the light. Then he came into the room.
+He was in an amazing plight. His coat was dusty and dirty, and smeared with green down the sleeves; his hair disordered, and as it seemed to me greyer—either with dust and dirt or because its colour had actually faded. His face was ghastly pale; his chin had a brown cut on it—a cut half-healed; his expression was haggard and drawn, as by intense suffering. For a moment he hesitated in the doorway, as if he had been dazzled by the light. Then he came into the room.
 
 He walked with just such a limp as I have seen in footsore tramps. We stared at him in silence, expecting him to speak.
 
-He said not a word, but came painfully to the table, and made a motion towards the wine. The Editor filled a glass of champagne, and pushed it towards him. He drank it all, and it seemed to do him good: for he looked round the table, and the ghost of his old smile flickered across his face. “What on earth have you been up to, man?” said the Doctor. The Time Traveller did not seem to hear. “Don’t let me disturb you,” he said, with a certain faltering articulation.
+He said not a word, but came painfully to the table, and made a motion towards the wine. The Editor filled a glass of champagne, and pushed it towards him. He drained it, and it seemed to do him good: for he looked round the table, and the ghost of his old smile flickered across his face. “What on earth have you been up to, man?” said the Doctor. The Time Traveller did not seem to hear. “Don’t let me disturb you,” he said, with a certain faltering articulation.
 
-“I’m all right.” He stopped, held out his glass for more, and drank it quickly. “That’s good,” he said. His eyes grew brighter, and a faint colour came into his cheeks. His glance flickered over our faces with a certain dull approval, and then went round the warm and comfortable room. Then he spoke again, still as it were feeling his way among his words. “I’m going to wash and dress, and then I’ll come down and explain things.... Save me some of that mutton. I’m starving for a bit of meat.”
+“I’m all right.” He stopped, held out his glass for more, and took it off at a draught. “That’s good,” he said. His eyes grew brighter, and a faint colour came into his cheeks. His glance flickered over our faces with a certain dull approval, and then went round the warm and comfortable room. Then he spoke again, still as it were feeling his way among his words. “I’m going to wash and dress, and then I’ll come down and explain things.... Save me some of that mutton. I’m starving for a bit of meat.”
 
-He looked across at the Editor, who was a rare visitor, and asked if he was well. The Editor began a question. “Tell you presently,” said the Time Traveller. “I’m—funny! Be all right in a minute.”
+He looked across at the Editor, who was a rare visitor, and hoped he was all right. The Editor began a question. “Tell you presently,” said the Time Traveller. “I’m—funny! Be all right in a minute.”
 
-He put down his glass, and walked towards the staircase door. Again I remarked his limp and the soft padding sound of his footfall, and standing up in my place, I saw his feet as he went out. He had nothing on them but a pair of tattered, stained socks. Then the door closed upon him. I had half a mind to follow, till I remembered how he detested any fuss about himself. For a minute, perhaps, my mind was wool-gathering.
+He put down his glass, and walked towards the staircase door. Again I remarked his lameness and the soft padding sound of his footfall, and standing up in my place, I saw his feet as he went out. He had nothing on them but a pair of tattered, blood-stained socks. Then the door closed upon him. I had half a mind to follow, till I remembered how he detested any fuss about himself. For a minute, perhaps, my mind was wool-gathering.
 
 Then, “Remarkable Behaviour of an Eminent Scientist,” I heard the Editor say, thinking (after his wont) in headlines. And this brought my attention back to the bright dinner-table.
 
-“What’s the game?” said the Journalist. “Has he been doing the Amateur Cadger? I don’t follow.” I met the eye of the Psychologist, and read my own interpretation in his face. I thought of the Time Traveller limping painfully upstairs. I don’t think anyone else had noticed his limp.
+“What’s the game?” said the Journalist. “Has he been doing the Amateur Cadger? I don’t follow.” I met the eye of the Psychologist, and read my own interpretation in his face. I thought of the Time Traveller limping painfully upstairs. I don’t think anyone else had noticed his lameness.
 
 The first to recover completely from this surprise was the Medical Man, who rang the bell—the Time Traveller hated to have servants waiting at dinner—for a hot plate. At that the Editor turned to his knife and fork with a grunt, and the Silent Man followed suit. The dinner was resumed. Conversation was exclamatory for a little while with gaps of wonderment; and then the Editor got fervent in his curiosity.
 
@@ -52,7 +52,7 @@ The first to recover completely from this surprise was the Medical Man, who rang
 
 Hadn’t they any clothes-brushes in the Future? The Journalist too, would not believe at any price, and joined the Editor in the easy work of heaping ridicule on the whole thing. They were both the new kind of journalist—very joyous, irreverent young men. “Our Special Correspondent in the Day after Tomorrow reports,” the Journalist was saying—or rather shouting—when the Time Traveller came back.
 
-He was dressed in ordinary evening clothes, and nothing save his tired look remained of the change that had startled me.
+He was dressed in ordinary evening clothes, and nothing save his haggard look remained of the change that had startled me.
 
 “I say,” said the Editor hilariously, “these chaps here say you have been travelling into the middle of next week! Tell us all about little Rosebery, will you? What will you take for the lot?”
 
@@ -66,9 +66,9 @@ The Time Traveller came to the place reserved for him without a word. He smiled 
 
 “Yes,” said the Time Traveller, with his mouth full, nodding his head.
 
-“I’d give a shilling a line for a verbatim note,” said the Editor. The Time Traveller pushed his glass towards the Silent Man and rang it with his fingernail; at which the Silent Man, who had been staring at his face, started and poured him wine. The rest of the dinner was uncomfortable. For my own part, sudden questions kept on rising to my lips, and I dare say it was the same with the others. The Journalist tried to relieve the tension by telling anecdotes of Hettie Potter.
+“I’d give a shilling a line for a verbatim note,” said the Editor. The Time Traveller pushed his glass towards the Silent Man and rang it with his fingernail; at which the Silent Man, who had been staring at his face, started convulsively, and poured him wine. The rest of the dinner was uncomfortable. For my own part, sudden questions kept on rising to my lips, and I dare say it was the same with the others. The Journalist tried to relieve the tension by telling anecdotes of Hettie Potter.
 
-The Time Traveller devoted his attention to his dinner, and displayed the appetite of a very hungry man. The Medical Man smoked a cigarette, and watched the Time Traveller through his eyelashes. The Silent Man seemed even more clumsy than usual, and drank champagne with regularity and determination out of sheer nervousness. At last the Time Traveller pushed his plate away, and looked round us. “I suppose I must apologise,” he said. “I was simply starving.
+The Time Traveller devoted his attention to his dinner, and displayed the appetite of a tramp. The Medical Man smoked a cigarette, and watched the Time Traveller through his eyelashes. The Silent Man seemed even more clumsy than usual, and drank champagne with regularity and determination out of sheer nervousness. At last the Time Traveller pushed his plate away, and looked round us. “I suppose I must apologise,” he said. “I was simply starving.
 
 I’ve had a most amazing time.” He reached out his hand for a cigar, and cut the end. “But come into the smoking-room. It’s too long a story to tell over greasy plates.” And ringing the bell in passing, he led the way into the adjoining room.
 
@@ -109,7 +109,7 @@ After a time we ceased to do that, and looked only at the Time Traveller’s fac
 
 စားပွဲဝိုင်းတစ်ခုလုံး တံခါးဘက်သို့ လှည့်ကြည့်လိုက်ကြသည်။
 
-သူ့အခြေအနေမှာ အံ့ဩဖွယ်ကောင်းလောက်အောင် ဖြစ်နေသည်။ သူ၏ အင်္ကျီမှာ ဖုန်မှုန့်များ၊ အညစ်အကြေးများ ဖုံးလွှမ်းနေပြီး လက်မောင်းတစ်လျှောက်တွင် အစိမ်းရောင်အရာများ ပေကျံနေသည်။ ဆံပင်များလည်း ဖရိုဖရဲ ဖြစ်နေပြီး ဖုန်နှင့် အညစ်အကြေးများကြောင့်ဖြစ်စေ၊ အရောင်တကယ်မှိန်သွားခြင်းကြောင့်ဖြစ်စေ ယခင်ထက် ပိုမိုဖြူဖျော့နေသကဲ့သို့ ထင်ရသည်။ မျက်နှာမှာ အလွန်ဖြူဖျော့နေပြီး မေးစေ့တွင် မကြာသေးမီက ရရှိထားသည့် ဒဏ်ရာတစ်ခုလည်း ရှိနေသည်။ သူ၏ မျက်နှာအမူအရာမှာ အလွန်ပင်ပန်းနွမ်းနယ်နေသူတစ်ဦးကဲ့သို့ ဖြစ်နေသည်။ အလင်းရောင်ကြောင့် မျက်စိကျိန်းသွားသကဲ့သို့ တံခါးဝတွင် ခဏရပ်နေပြီးမှ အခန်းထဲသို့ ဝင်လာခဲ့သည်။
+သူ့အခြေအနေမှာ အံ့ဩဖွယ်ကောင်းလောက်အောင် ဖြစ်နေသည်။ သူ၏ အင်္ကျီမှာ ဖုန်မှုန့်များ၊ အညစ်အကြေးများ ဖုံးလွှမ်းနေပြီး လက်မောင်းတစ်လျှောက်တွင် အစိမ်းရောင်အရာများ ပေကျံနေသည်။ ဆံပင်များလည်း ဖရိုဖရဲ ဖြစ်နေပြီး ဖုန်နှင့် အညစ်အကြေးများကြောင့်ဖြစ်စေ၊ အရောင်တကယ်မှိန်သွားခြင်းကြောင့်ဖြစ်စေ ယခင်ထက် ပိုမိုဖြူဖျော့နေသကဲ့သို့ ထင်ရသည်။ မျက်နှာမှာ သရဲတစ်ကောင်ကဲ့သို့ ဖြူဖျော့နေပြီး မေးစေ့တွင် အညိုရောင်ဒဏ်ရာတစ်ခု ရှိနေကာ တစ်ဝက်ခန့် သက်သာလာပြီဖြစ်သည်။ သူ၏ မျက်နှာအမူအရာမှာ ပြင်းထန်သော ပင်ပန်းဆင်းရဲမှုကို ခံစားထားရသူတစ်ဦးကဲ့သို့ ဖြစ်နေသည်။ အလင်းရောင်ကြောင့် မျက်စိကျိန်းသွားသကဲ့သို့ တံခါးဝတွင် ခဏရပ်နေပြီးမှ အခန်းထဲသို့ ဝင်လာခဲ့သည်။
 
 ကျွန်ုပ်သည် ခြေထောက်နာ၍ လမ်းလျှောက်ရခက်နေသော ခရီးသွားသူများကို မြင်ဖူးသည်။ သူ၏ လမ်းလျှောက်ပုံမှာ ထိုသူများနှင့် တူနေသည်။ ကျွန်ုပ်တို့အားလုံး သူစကားပြောလာမည်ကို စောင့်မျှော်လျက် တိတ်ဆိတ်စွာ ကြည့်နေကြသည်။
 
@@ -123,7 +123,7 @@ After a time we ceased to do that, and looked only at the Time Traveller’s fac
 
 သူသည် မကြာခဏ မလာတတ်သော ဧည့်သည်ဖြစ်သည့် အယ်ဒီတာဘက်သို့ လှည့်ကြည့်ကာ အဆင်ပြေမပြေ မေးမြန်းသည်။ အယ်ဒီတာက မေးခွန်းတစ်ခု စတင်မေးမြန်းချိန်တွင် “ခဏနေရင် ပြောပြမယ်။ ကျွန်တော်… နည်းနည်း မူးဝေနေတယ်။ မကြာခင် အဆင်ပြေသွားမှာပါ” ဟု အချိန်ခရီးသွားသူက ပြောသည်။
 
-သူသည် ဖန်ခွက်ကို ချထားပြီး လှေကားတံခါးဘက်သို့ လျှောက်သွားသည်။ သူ၏ ခြေလှမ်းမမှန်မှုနှင့် ပျော့ပျောင်းသော ခြေသံကို ကျွန်ုပ် ထပ်မံသတိပြုမိသည်။ ကျွန်ုပ်ထိုင်နေရာမှ ထရပ်လိုက်သဖြင့် သူထွက်သွားစဉ် ခြေထောက်များကို မြင်လိုက်ရသည်။ သူဝတ်ထားသည်မှာ စုတ်ပြဲပြီး အစွန်းအထင်းများရှိနေသော ခြေအိတ်တစ်စုံသာ ဖြစ်သည်။ ထို့နောက် တံခါးပိတ်သွားသည်။ သူ့နောက်သို့ လိုက်သွားရန် စိတ်ကူးမိသော်လည်း သူသည် မိမိအကြောင်း အလွန်အမင်း စိတ်ဝင်စားပြသခြင်းကို မနှစ်သက်ကြောင်း သတိရသွားသည်။ ခဏမျှ ကျွန်ုပ်၏ စိတ်သည် အတွေးထဲ နစ်မြုပ်သွားခဲ့သည်။
+သူသည် ဖန်ခွက်ကို ချထားပြီး လှေကားတံခါးဘက်သို့ လျှောက်သွားသည်။ သူ၏ ခြေလှမ်းမမှန်မှုနှင့် ပျော့ပျောင်းသော ခြေသံကို ကျွန်ုပ် ထပ်မံသတိပြုမိသည်။ ကျွန်ုပ်ထိုင်နေရာမှ ထရပ်လိုက်သဖြင့် သူထွက်သွားစဉ် ခြေထောက်များကို မြင်လိုက်ရသည်။ သူဝတ်ထားသည်မှာ စုတ်ပြဲပြီး သွေးစွန်းနေသော ခြေအိတ်တစ်စုံသာ ဖြစ်သည်။ ထို့နောက် တံခါးပိတ်သွားသည်။ သူ့နောက်သို့ လိုက်သွားရန် စိတ်ကူးမိသော်လည်း သူသည် မိမိအကြောင်း အလွန်အမင်း စိတ်ဝင်စားပြသခြင်းကို မနှစ်သက်ကြောင်း သတိရသွားသည်။ ခဏမျှ ကျွန်ုပ်၏ စိတ်သည် အတွေးထဲ နစ်မြုပ်သွားခဲ့သည်။
 
 ထို့နောက် အယ်ဒီတာက “ထင်ရှားကျော်ကြားသော သိပ္ပံပညာရှင်တစ်ဦး၏ ထူးဆန်းသော အပြုအမူ” ဟု သတင်းခေါင်းစဉ်တစ်ခု စဉ်းစားနေသကဲ့သို့ ပြောသံကို ကြားလိုက်ရသည်။ ထိုအသံကြောင့် ကျွန်ုပ်၏ အာရုံသည် ညစာစားပွဲဘက်သို့ ပြန်ရောက်လာသည်။
 
