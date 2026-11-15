@@ -448,10 +448,25 @@ export default function Home() {
     const saved = readProgress(book.id);
     const chapters = (readerChaptersByBookId[book.id as keyof typeof readerChaptersByBookId] ?? []) as readonly ReaderChapter[];
     const savedForBook = saved?.bookId === book.id ? saved : null;
+    const initialChapterIndex = savedForBook
+      ? Math.min(savedForBook.chapterIndex, Math.max(0, chapters.length - 1))
+      : 0;
+    const initialLanguage = savedForBook?.language ?? "my";
+    const initialChapter = chapters[initialChapterIndex];
+    const initialContent = initialChapter
+      ? (initialLanguage === "my" ? initialChapter.content : initialChapter.contentEn)
+      : "";
+    const initialPageCount = splitReaderPages(
+      initialContent,
+      initialLanguage === "my" ? 650 : 1300
+    ).length;
+    const initialPage = savedForBook
+      ? Math.min(savedForBook.page, Math.max(0, initialPageCount - 1))
+      : 0;
     setSelectedBook(book);
-    setReaderChapterIndex(savedForBook ? Math.min(savedForBook.chapterIndex, Math.max(0, chapters.length - 1)) : 0);
-    setReaderPage(savedForBook?.page ?? 0);
-    setReaderLanguage(savedForBook?.language ?? "my");
+    setReaderChapterIndex(initialChapterIndex);
+    setReaderPage(initialPage);
+    setReaderLanguage(initialLanguage);
     setReaderStarted(true);
     setReaderIntroPage(0);
     const hasForeword = Boolean(book.authorForewordMy?.trim() || book.editorialForewordMy?.trim());
