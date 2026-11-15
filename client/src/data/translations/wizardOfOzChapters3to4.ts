@@ -1806,7 +1806,7 @@ Then the Guardian of the Gates put on his own glasses and told them he was ready
 
 “ငါ့မှာ နှလုံးသားမရှိပေမဲ့ စုန်းမတစ်ဦးကိုတောင် ထိခိုက်အောင် မလုပ်ချင်ဘူး။ ဒါပေမဲ့ မင်းတို့ သွားမယ်ဆိုရင် ငါလည်း သေချာပေါက် လိုက်ခဲ့မယ်” ဟု သံခုတ်သမားက ပြောသည်။
 
-ထို့ကြောင့် နောက်တစ်နေ့မနက်တွင် ခရီးစတင်ထွက်ခွာရန် ဆုံးဖြတ်လိုက်ကြသည်။ သံခုတ်သမားသည် မိမိ၏ ပုဆိန်ကို အစိမ်းရောင်သွေးကျောက်ပေါ်တွင် သေချာပြုပြင်ထားပြီး အဆစ်အမြစ်များကိုလည်း ဆီထည့်ကာ ကောင်းမွန်စွာ ပြုပြင်ထားသည်။ စာခြောက်ရုပ်သည် မိမိကိုယ်ထဲတွင် ကောက်ရိုးအသစ်များ ထပ်ဖြည့်လိုက်ပြီး ဒေါ်ရသီကလည်း သူ ပိုမိုမြင်နိုင်စေရန် သူ၏ မျက်လုံးများကို ဆေးအသစ် ထပ်သုတ်ပေးလိုက်သည်။ သူတို့အပေါ် အလွန်ကြင်နာသော အစိမ်းရောင်မိန်းကလေးသည် ဒေါ်ရသီ၏ ခြင်းတောင်းထဲတွင် စားစရာကောင်းများ ထည့်ပေးပြီး တိုတို၏ လည်ပင်းတွင်လည်း အစိမ်းရောင်ဖဲကြိုးနှင့် ခေါင်းလောင်းငယ်တစ်ခု ချည်ပေးလိုက်သည်။
+ထို့ကြောင့် နောက်တစ်နေ့မနက်တွင် ခရီးစတင်ထွက်ခွာရန် ဆုံးဖြတ်လိုက်ကြသည်။ သံခုတ်သမားသည် ခရီးအတွက် မိမိကိုယ်ကို အသင့်ပြင်ဆင်ပြီး အဆစ်အမြစ်များကိုလည်း ဆီထည့်ကာ ကောင်းမွန်စွာ ပြုပြင်ထားသည်။ စာခြောက်ရုပ်သည် မိမိကိုယ်ထဲတွင် ကောက်ရိုးအသစ်များ ထပ်ဖြည့်လိုက်ပြီး ဒေါ်ရသီကလည်း သူ ပိုမိုမြင်နိုင်စေရန် သူ၏ မျက်လုံးများကို ဆေးအသစ် ထပ်သုတ်ပေးလိုက်သည်။ သူတို့အပေါ် အလွန်ကြင်နာသော အစိမ်းရောင်မိန်းကလေးသည် ဒေါ်ရသီ၏ ခြင်းတောင်းထဲတွင် စားစရာကောင်းများ ထည့်ပေးပြီး တိုတို၏ လည်ပင်းတွင်လည်း အစိမ်းရောင်ဖဲကြိုးနှင့် ခေါင်းလောင်းငယ်တစ်ခု ချည်ပေးလိုက်သည်။
 
 သူတို့အားလုံးသည် စောစောအိပ်ရာဝင်ခဲ့ကြပြီး မိုးလင်းသည်အထိ အေးချမ်းစွာ အိပ်ပျော်ခဲ့ကြသည်။ နံနက်မိုးလင်းချိန်တွင် နန်းတော်နောက်ဖေး၌ နေထိုင်သော အစိမ်းရောင်ကြက်ဖ၏ တွန်သံနှင့် အစိမ်းရောင်ဥတစ်လုံး ဥထားသော ကြက်မ၏ ကွက်ကွက်မြည်သံတို့ကြောင့် နိုးလာကြသည်။`,
     contentEn: `Even with eyes protected by the green spectacles, Dorothy and her friends were at first dazzled by the brilliancy of the wonderful City. The streets were lined with beautiful houses all built of green marble and studded everywhere with sparkling emeralds. They walked over a pavement of the same green marble, and where the blocks were joined together were rows of emeralds, set closely, and glittering in the brightness of the sun.
@@ -2019,7 +2019,7 @@ So Dorothy dried her eyes and said, “I suppose we must try it; but I am sure I
 
 “I haven’t the heart to harm even a Witch,” remarked the Tin Woodman; “but if you go I certainly shall go with you.”
 
-Therefore it was decided to start upon their journey the next morning, and the Woodman sharpened his axe on a green grindstone and had all his joints properly oiled. The Scarecrow stuffed himself with fresh straw and Dorothy put new paint on his eyes that he might see better. The green girl, who was very kind to them, filled Dorothy’s basket with good things to eat, and fastened a little bell around Toto’s neck with a green ribbon.
+Therefore it was decided to start upon their journey the next morning, and the Woodman made his preparations and had all his joints properly oiled. The Scarecrow stuffed himself with fresh straw and Dorothy put new paint on his eyes that he might see better. The green girl, who was very kind to them, filled Dorothy’s basket with good things to eat, and fastened a little bell around Toto’s neck with a green ribbon.
 
 They went to bed quite early and slept soundly until daylight, when they were awakened by the crowing of a green cock that lived in the back yard of the Palace, and the cackling of a hen that had laid a green egg.`,
   },
