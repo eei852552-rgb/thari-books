@@ -25,6 +25,23 @@ import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
 import { wizardOfOzChapters3to4 } from "../data/translations/wizardOfOzChapters3to4";
 import { artOfLearningChapters } from "../data/artOfLearning";
+import { timeMachineChapter1My } from "../data/translations/timeMachineChapter1";
+import { timeMachineChapter2My } from "../data/translations/timeMachineChapter2";
+import { timeMachineChapter3My } from "../data/translations/timeMachineChapter3";
+import { timeMachineChapter4My } from "../data/translations/timeMachineChapter4";
+import { timeMachineChapter5My } from "../data/translations/timeMachineChapter5";
+import { timeMachineChapter6My } from "../data/translations/timeMachineChapter6";
+import { timeMachineChapter7My } from "../data/translations/timeMachineChapter7";
+import { timeMachineChapter8My } from "../data/translations/timeMachineChapter8";
+import { timeMachineChapter9My } from "../data/translations/timeMachineChapter9";
+import { timeMachineChapter10My } from "../data/translations/timeMachineChapter10";
+import { timeMachineChapter11My } from "../data/translations/timeMachineChapter11";
+import { timeMachineChapter12My } from "../data/translations/timeMachineChapter12";
+import { timeMachineChapter13My } from "../data/translations/timeMachineChapter13";
+import { timeMachineChapter14My } from "../data/translations/timeMachineChapter14";
+import { timeMachineChapter15My } from "../data/translations/timeMachineChapter15";
+import { timeMachineChapter16My } from "../data/translations/timeMachineChapter16";
+import { timeMachineEpilogueMy } from "../data/translations/timeMachineEpilogue";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
@@ -35,6 +52,7 @@ const readerChaptersByBookId = {
   "pride-and-prejudice": prideAndPrejudiceChaptersMy,
   "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapters3to4],
   "art-of-learning": artOfLearningChapters,
+  "time-machine": [...timeMachineChapter1My, ...timeMachineChapter2My, ...timeMachineChapter3My, ...timeMachineChapter4My, ...timeMachineChapter5My, ...timeMachineChapter6My, ...timeMachineChapter7My, ...timeMachineChapter8My, ...timeMachineChapter9My, ...timeMachineChapter10My, ...timeMachineChapter11My, ...timeMachineChapter12My, ...timeMachineChapter13My, ...timeMachineChapter14My, ...timeMachineChapter15My, ...timeMachineChapter16My, ...timeMachineEpilogueMy],
 } as const;
 
 type ReaderChapter = {
