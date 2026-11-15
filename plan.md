@@ -51,3 +51,7 @@
 - `coverImage` နှင့် `illustration` တို့သည် THARi project ထဲတွင် ရေးဆွဲထားသည့် SVG များ ဖြစ်ပြီး စာမျက်နှာပုံ၊ scan သို့မဟုတ် မူပိုင်ခွင့်ရှိသော full-book asset မဟုတ်ပါ။
 - External book links များသည် Project Gutenberg သို့သာ ချိတ်ဆက်ပြီး စာအုပ်ဖိုင်ကို THARi တွင် re-host မလုပ်ပါ။
 - Chapter II ကို ရှိပြီးသား `readingType: "summary"` အဖြစ် ဆက်လက် label လုပ်မည်။ Reader တွင် အပြည့်အစုံဘာသာပြန်ဟု မဖော်ပြပါ။
+
+## November 2026 visual refinement
+
+The approved reference direction is a classic luxury library: dark walnut and oxblood hero sections, parchment/antique-paper category surfaces, antique-gold borders, and richer three-dimensional book presentation. Implementation remains visual-only. Existing React content, search, category filtering, language switching, external source links, reader routes, progress storage, and chapter/page behavior remain unchanged. The hero frame uses a new clean library-room visual inspired by the supplied screenshot, while the generated cover art replaces the first three visible cover assets.

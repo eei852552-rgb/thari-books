@@ -573,7 +573,7 @@ export default function Home() {
             </div>
             <div className="hero-visual">
               <div className="hero-image-frame">
-                <img src={getAssetPath("images/library-hero.svg")} alt={siteLanguage === "my" ? "စာအုပ်စင်များနှင့် သဘာဝအလင်းရောင်ရှိသော စာဖတ်ခန်း" : "A sunlit reading room with shelves of books"} />
+                <img src={getAssetPath("images/library-hero-luxury.jpg")} alt={siteLanguage === "my" ? "စာအုပ်စင်များနှင့် သဘာဝအလင်းရောင်ရှိသော စာဖတ်ခန်း" : "A sunlit reading room with shelves of books"} />
                 <div className="hero-image-caption"><BookOpen size={17} /><span>{siteLanguage === "my" ? <>စာမျက်နှာတိုင်းတွင်<br /><strong>အခွင့်အလမ်းသစ်</strong></> : <>Every page opens<br /><strong>a new possibility</strong></>}</span></div>
               </div>
               <div className="hero-stamp" aria-hidden="true"><span>READ</span><BookOpen size={23} /><span>GROW</span></div>
