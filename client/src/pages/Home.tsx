@@ -230,6 +230,9 @@ export default function Home() {
   const [siteLanguage, setSiteLanguage] = useState<"my" | "en">("my");
   const [readerLanguage, setReaderLanguage] = useState<"my" | "en">("my");
   const [readerPage, setReaderPage] = useState(0);
+  const [pageTurnDirection, setPageTurnDirection] = useState<"forward" | "backward" | null>(null);
+  const [pendingPage, setPendingPage] = useState<number | null>(null);
+  const touchStartXRef = useRef<number | null>(null);
   const [readerChapterIndex, setReaderChapterIndex] = useState(0);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [resumeProgress, setResumeProgress] = useState<ReaderProgress | null>(() => readProgress());
@@ -313,6 +316,21 @@ export default function Home() {
     saveProgress(nextProgress);
     setResumeProgress(nextProgress);
   }, [selectedBook, readerChapterIndex, readerPage, readerLanguage]);
+
+  const turnReaderPage = (direction: "forward" | "backward") => {
+    if (pageTurnDirection || pendingPage !== null || readerPages.length < 2) return;
+    const targetPage = direction === "forward" ? readerPage + 1 : readerPage - 1;
+    if (targetPage < 0 || targetPage >= readerPages.length) return;
+    setPendingPage(targetPage);
+    setPageTurnDirection(direction);
+  };
+
+  const finishPageTurn = () => {
+    if (pendingPage === null) return;
+    setReaderPage(pendingPage);
+    setPendingPage(null);
+    setPageTurnDirection(null);
+  };
 
   const closeMobileMenu = () => setMobileMenuOpen(false);
   const selectCategory = (categoryId: string | null) => {
@@ -508,14 +526,37 @@ export default function Home() {
                     <button type="button" className={readerLanguage === "my" ? "is-active" : ""} aria-pressed={readerLanguage === "my"} onClick={() => { setReaderLanguage("my"); setReaderPage(0); }}>{ui.myanmar}</button>
                     <button type="button" className={readerLanguage === "en" ? "is-active" : ""} aria-pressed={readerLanguage === "en"} onClick={() => { setReaderLanguage("en"); setReaderPage(0); }}>{ui.english}</button>
                   </div>
-                  <section className="reader-page">
-                    <div className="reader-page-heading"><h3>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {readerPage + 1} / {readerPages.length}</span></div>
-                    <p className={`reader-chapter ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[readerPage] ?? ""}</p>
-                  </section>
+                  <div
+                    className={`reader-book-stage ${pageTurnDirection ? `is-turning-${pageTurnDirection}` : ""}`}
+                    onTouchStart={(event) => { touchStartXRef.current = event.changedTouches[0]?.clientX ?? null; }}
+                    onTouchEnd={(event) => {
+                      const startX = touchStartXRef.current;
+                      const endX = event.changedTouches[0]?.clientX;
+                      touchStartXRef.current = null;
+                      if (startX === null || endX === undefined || Math.abs(endX - startX) < 48) return;
+                      turnReaderPage(endX < startX ? "forward" : "backward");
+                    }}
+                  >
+                    <div className="reader-book-spine" aria-hidden="true" />
+                    <section className="reader-page reader-book-page">
+                      <div className="reader-page-heading"><h3>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {(pendingPage ?? readerPage) + 1} / {readerPages.length}</span></div>
+                      <p className={`reader-chapter ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[pendingPage ?? readerPage] ?? ""}</p>
+                      <span className="reader-page-number">{(pendingPage ?? readerPage) + 1}</span>
+                    </section>
+                    {pageTurnDirection && pendingPage !== null && (
+                      <section className={`reader-page reader-turning-sheet turn-${pageTurnDirection}`} onAnimationEnd={finishPageTurn} aria-hidden="true">
+                        <div className="reader-page-heading"><h3>{readerLanguage === "en" ? activeChapter.titleEn ?? `Chapter ${activeChapter.number}` : activeChapter.title}</h3><span>{readerLanguage === "my" ? ui.page : "Page"} {readerPage + 1} / {readerPages.length}</span></div>
+                        <p className={`reader-chapter ${readerLanguage === "en" ? "reader-chapter-en" : ""}`}>{readerPages[readerPage] ?? ""}</p>
+                        <span className="reader-page-number">{readerPage + 1}</span>
+                      </section>
+                    )}
+                    <button className="reader-page-corner corner-prev" type="button" aria-label={ui.previousPage} disabled={readerPage === 0 || Boolean(pageTurnDirection)} onClick={() => turnReaderPage("backward")}><ChevronRight size={18} /></button>
+                    <button className="reader-page-corner corner-next" type="button" aria-label={ui.nextPage} disabled={readerPage >= readerPages.length - 1 || Boolean(pageTurnDirection)} onClick={() => turnReaderPage("forward")}><ChevronRight size={18} /></button>
+                  </div>
                   <div className="reader-pagination">
-                    <button type="button" disabled={readerPage === 0} onClick={() => setReaderPage((page) => Math.max(0, page - 1))}>{ui.previousPage}</button>
+                    <button type="button" disabled={readerPage === 0 || Boolean(pageTurnDirection)} onClick={() => turnReaderPage("backward")}>{ui.previousPage}</button>
                     <span>{readerPage + 1} / {readerPages.length}</span>
-                    <button type="button" disabled={readerPage >= readerPages.length - 1} onClick={() => setReaderPage((page) => Math.min(readerPages.length - 1, page + 1))}>{ui.nextPage}</button>
+                    <button type="button" disabled={readerPage >= readerPages.length - 1 || Boolean(pageTurnDirection)} onClick={() => turnReaderPage("forward")}>{ui.nextPage}</button>
                   </div>
                   <p className="reader-note">{activeChapter.readingType === "summary" ? ui.abridgedNote : ui.translationNote} {siteLanguage === "my" ? `Source: ${selectedBook.source}.` : `Source: ${selectedBook.source}.`}</p>
                 </div>
