@@ -1111,3 +1111,234 @@ body { background: var(--paper); }
   .book-detail-content { grid-template-columns: minmax(0, 1fr); margin-top: 18px; gap: 14px; }
   .detail-overview, .detail-chapters { padding: 22px 18px; }
 }
+
+
+/* Immersive, full-viewport book reader: cover -> foreword -> one paper page at a time. */
+.reader-fullscreen-backdrop {
+  position: fixed;
+  z-index: 100;
+  inset: 0;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  background: #101f35;
+}
+.reader-fullscreen {
+  display: flex;
+  width: min(100%, 980px);
+  height: 100dvh;
+  min-height: 0;
+  flex-direction: column;
+  overflow: hidden;
+  color: #17263b;
+  background: #f4f0e7;
+}
+.reader-topbar {
+  display: flex;
+  min-height: 58px;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 13px;
+  padding: 0 18px;
+  border-bottom: 1px solid #e2dacb;
+  background: #fffefa;
+}
+.reader-topbar-button {
+  display: grid;
+  width: 38px;
+  height: 38px;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid #e8e1d5;
+  color: #23364d;
+  background: #fff;
+  cursor: pointer;
+}
+.reader-topbar-title {
+  display: flex;
+  min-width: 0;
+  flex: 1;
+  flex-direction: column;
+  gap: 3px;
+  overflow: hidden;
+}
+.reader-topbar-title strong { color: #a08040; font: 600 10px Inter, sans-serif; letter-spacing: .13em; }
+.reader-topbar-title span { overflow: hidden; color: #1b2e47; font: 500 11px 'Noto Sans Myanmar', sans-serif; text-overflow: ellipsis; white-space: nowrap; }
+.reader-cover-screen, .reader-finish-screen {
+  display: flex;
+  width: 100%;
+  min-height: 0;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow-y: auto;
+  padding: 28px 22px 34px;
+  text-align: center;
+  background: radial-gradient(ellipse at 50% 22%, #fffefa 0%, #f5f0e5 70%, #e9e1d1 100%);
+}
+.reader-cover-frame {
+  display: flex;
+  width: min(54vw, 270px);
+  max-height: 48dvh;
+  aspect-ratio: 2 / 3;
+  align-items: center;
+  justify-content: center;
+  padding: 9px;
+  border: 1px solid #d8caa9;
+  background: #fffefa;
+  box-shadow: 0 22px 48px rgba(25,35,48,.18), 7px 7px 0 #e5dccb;
+}
+.reader-cover-frame img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.reader-cover-kicker { margin: 24px 0 5px; color: #9a7a3d; font: 600 9px Inter, sans-serif; letter-spacing: .18em; }
+.reader-cover-screen h1, .reader-finish-screen h1 {
+  max-width: 680px;
+  margin: 8px 0;
+  color: #172b45;
+  font: 600 clamp(21px, 5vw, 34px)/1.8 'Noto Sans Myanmar', sans-serif;
+}
+.reader-cover-author { margin: 2px 0 22px; color: #8a7650; font: 500 12px Inter, sans-serif; }
+.reader-start-button {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 0 26px;
+  border: 1px solid #b99a59;
+  color: #192d46;
+  background: #e5cd8b;
+  font: 600 12px 'Noto Sans Myanmar', sans-serif;
+  text-decoration: none;
+  cursor: pointer;
+}
+.reader-cover-hint { margin: 13px 0 0; color: #8c8a82; font: 10px 'Noto Sans Myanmar', sans-serif; }
+.reader-page-screen {
+  display: flex;
+  width: 100%;
+  min-height: 0;
+  flex: 1;
+  flex-direction: column;
+  overflow-y: auto;
+  padding: clamp(12px, 3vw, 28px);
+  background: #f0ece3;
+}
+.reader-page-paper {
+  position: relative;
+  width: min(100%, 760px);
+  min-height: 0;
+  flex: 1;
+  align-self: center;
+  overflow-y: auto;
+  padding: clamp(23px, 5vw, 55px) clamp(22px, 7vw, 76px) 50px;
+  border: 1px solid #e4ddcf;
+  background: #fffefa;
+  box-shadow: 0 8px 28px rgba(32,39,47,.07);
+}
+.reader-page-running-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #eee8dc;
+  color: #a18b5d;
+  font: 600 8px Inter, sans-serif;
+  letter-spacing: .1em;
+}
+.reader-page-paper h1 {
+  margin: 23px 0 17px;
+  color: #20334b;
+  font: 600 clamp(17px, 3.6vw, 23px)/1.9 'Noto Sans Myanmar', sans-serif;
+}
+.reader-page-prose {
+  margin: 0;
+  color: #424d5a;
+  font: 400 clamp(14px, 2.6vw, 17px)/2.15 'Noto Sans Myanmar', sans-serif;
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+.reader-page-prose.reader-chapter-en { font: 400 clamp(17px, 2.7vw, 20px)/1.95 Georgia, 'Times New Roman', serif; }
+.reader-page-folio {
+  position: absolute;
+  right: 0;
+  bottom: 16px;
+  left: 0;
+  color: #aa956a;
+  font: 10px Inter, sans-serif;
+  text-align: center;
+}
+.reader-bottom-controls {
+  display: grid;
+  width: min(100%, 760px);
+  min-height: 54px;
+  flex: 0 0 auto;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 10px;
+  align-self: center;
+  padding-top: 12px;
+}
+.reader-bottom-controls button {
+  min-height: 42px;
+  padding: 0 12px;
+  border: 1px solid #d8cdb8;
+  color: #243951;
+  background: #fffefa;
+  font: 500 10px 'Noto Sans Myanmar', sans-serif;
+  cursor: pointer;
+}
+.reader-bottom-controls button:last-child { justify-self: end; border-color: #c5a45d; background: #f8f1df; }
+.reader-bottom-controls button:disabled { opacity: .35; cursor: not-allowed; }
+.reader-bottom-controls span { color: #8e784c; font: 10px Inter, sans-serif; white-space: nowrap; }
+.reader-reading-meta {
+  display: flex;
+  width: min(100%, 760px);
+  justify-content: space-between;
+  gap: 10px;
+  align-self: center;
+  padding: 0 2px 10px;
+  color: #8a7447;
+  font: 10px 'Noto Sans Myanmar', sans-serif;
+}
+.reader-illustration {
+  width: min(100%, 760px);
+  max-height: 23dvh;
+  flex: 0 0 auto;
+  align-self: center;
+  overflow: hidden;
+  margin: 0 auto 12px;
+  border: 1px solid #e0d7c5;
+  background: #fffefa;
+}
+.reader-illustration img { display: block; width: 100%; max-height: 18dvh; object-fit: contain; }
+.reader-illustration figcaption { padding: 5px 9px; color: #87734c; font: 9px 'Noto Sans Myanmar', sans-serif; }
+.reader-chapter-paper { width: min(100%, 760px); }
+.reader-bottom-note {
+  display: flex;
+  width: min(100%, 760px);
+  justify-content: space-between;
+  gap: 10px;
+  align-self: center;
+  padding-top: 9px;
+  color: #8b887f;
+  font: 9px/1.7 'Noto Sans Myanmar', sans-serif;
+}
+.reader-finish-screen > svg { color: #a88949; }
+.reader-finish-screen > p:not(.reader-cover-kicker) { margin: 4px 0 23px; color: #7b7d7c; font: 12px/1.9 'Noto Sans Myanmar', sans-serif; }
+@media (max-width: 600px) {
+  .reader-topbar { min-height: 53px; padding: 0 11px; }
+  .reader-page-screen { padding: 9px; }
+  .reader-page-paper { padding: 19px 17px 42px; }
+  .reader-page-running-head { font-size: 7px; }
+  .reader-page-paper h1 { margin: 17px 0 12px; }
+  .reader-page-prose { font-size: 13px; line-height: 2.05; }
+  .reader-page-prose.reader-chapter-en { font-size: 16px; }
+  .reader-bottom-controls { min-height: 49px; gap: 6px; padding-top: 8px; }
+  .reader-bottom-controls button { min-height: 39px; padding: 0 7px; font-size: 9px; }
+  .reader-bottom-controls span { font-size: 9px; }
+  .reader-cover-frame { width: min(58vw, 235px); max-height: 42dvh; }
+  .reader-cover-kicker { margin-top: 19px; }
+  .reader-cover-screen { padding: 18px 16px 24px; }
+  .reader-illustration { max-height: 19dvh; }
+  .reader-illustration img { max-height: 15dvh; }
+}
