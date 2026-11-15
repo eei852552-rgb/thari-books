@@ -283,7 +283,7 @@ export default function Home() {
   const readerChapters = selectedBook ? (readerChaptersByBookId[selectedBook.id as keyof typeof readerChaptersByBookId] ?? []) as readonly ReaderChapter[] : [];
   const activeChapter = readerChapters[readerChapterIndex] ?? null;
   const readerContent = activeChapter ? (readerLanguage === "my" ? activeChapter.content : activeChapter.contentEn) : "";
-  const readerPages = useMemo(() => splitReaderPages(readerContent), [readerContent]);
+  const readerPages = useMemo(() => splitReaderPages(readerContent, readerLanguage === "my" ? 650 : 1300), [readerContent, readerLanguage]);
   const readerForewordPages = useMemo(() => {
     if (!selectedBook) return [];
     const sections = [
@@ -296,11 +296,11 @@ export default function Home() {
         content: readerLanguage === "my" ? selectedBook.editorialForewordMy : selectedBook.editorialForewordEn,
       } : null,
     ].filter((section): section is { title: string; content: string } => Boolean(section?.content?.trim()));
-    return sections.flatMap((section) => splitReaderPages(section.content, 1500).map((content, pageIndex) => ({
+    return sections.flatMap((section) => splitReaderPages(section.content, readerLanguage === "my" ? 650 : 1300).map((content, pageIndex) => ({
       title: section.title,
       content,
       sectionPage: pageIndex + 1,
-      sectionPages: splitReaderPages(section.content, 1500).length,
+      sectionPages: splitReaderPages(section.content, readerLanguage === "my" ? 650 : 1300).length,
     })));
   }, [selectedBook, readerLanguage]);
   const normalizedQuery = query.normalize("NFC").trim().toLocaleLowerCase();
@@ -665,7 +665,7 @@ export default function Home() {
                       else if (readerChapterIndex > 0) {
                         const previousIndex = readerChapterIndex - 1;
                         setReaderChapterIndex(previousIndex);
-                        setReaderPage(splitReaderPages(readerLanguage === "my" ? readerChapters[previousIndex].content : readerChapters[previousIndex].contentEn).length - 1);
+                        setReaderPage(splitReaderPages(readerLanguage === "my" ? readerChapters[previousIndex].content : readerChapters[previousIndex].contentEn, readerLanguage === "my" ? 650 : 1300).length - 1);
                       } else if (readerForewordPages.length > 0) {
                         setReaderIntroComplete(false);
                         setReaderIntroPage(readerForewordPages.length - 1);
