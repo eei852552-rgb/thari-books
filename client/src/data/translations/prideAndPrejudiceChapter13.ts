@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter13My = [
     number: 13,
     title: "အခန်း (၁၃)",
     titleEn: "Chapter XIII",
+    readingType: "summary",
     contentEn: `The family at Longbourn was still discussing Mr. Bingley and the recent events when Mr. Bennet received a letter from a distant relative, Mr. Collins.
 
 Mr. Collins was the person who would inherit the Longbourn estate after Mr. Bennet's death, because the property could not pass to his daughters. His letter was written in a very formal style. He explained that he wished to make peace with the family and hoped to visit them soon.
