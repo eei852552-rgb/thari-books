@@ -177,8 +177,7 @@ const copy = {
 function splitReaderPages(content: string, maxCharacters = 1900): string[] {
   const paragraphs = content.split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
   const pages: string[] = [];
-  let currentPage: string[] = [];
-  let currentLength = 0;
+  let currentPage = "";
 
   const splitLongParagraph = (paragraph: string): string[] => {
     if (paragraph.length <= maxCharacters) return [paragraph];
@@ -217,19 +216,20 @@ function splitReaderPages(content: string, maxCharacters = 1900): string[] {
   };
 
   for (const paragraph of paragraphs) {
-    for (const part of splitLongParagraph(paragraph)) {
-      const extraLength = part.length + (currentPage.length ? 2 : 0);
-      if (currentPage.length && currentLength + extraLength > maxCharacters) {
-        pages.push(currentPage.join("\n\n"));
-        currentPage = [];
-        currentLength = 0;
+    const parts = splitLongParagraph(paragraph);
+    for (let partIndex = 0; partIndex < parts.length; partIndex += 1) {
+      const part = parts[partIndex];
+      const separator = currentPage ? (partIndex === 0 ? "\n\n" : " ") : "";
+      if (currentPage && currentPage.length + separator.length + part.length > maxCharacters) {
+        pages.push(currentPage);
+        currentPage = part;
+      } else {
+        currentPage += separator + part;
       }
-      currentPage.push(part);
-      currentLength += part.length + (currentPage.length > 1 ? 2 : 0);
     }
   }
 
-  if (currentPage.length) pages.push(currentPage.join("\n\n"));
+  if (currentPage) pages.push(currentPage);
   return pages;
 }
 
