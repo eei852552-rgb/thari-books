@@ -481,8 +481,14 @@ export default function Home() {
               <p className="dialog-subtitle">{selectedBook.title} · {selectedBook.author}</p>
               {selectedBook.authorForewordMy && (
                 <section className="reader-page reader-foreword">
-                  <h3>{siteLanguage === "my" ? "စာရေးသူ၏ အမှာစာ" : "Author’s Foreword"}</h3>
-                  <p className={siteLanguage === "en" ? "reader-chapter-en" : ""}>{readerLanguage === "my" ? selectedBook.authorForewordMy : selectedBook.authorForewordEn}</p>
+                  <h3>{readerLanguage === "my" ? "စာရေးသူ၏ အမှာစာ" : "Author’s Foreword"}</h3>
+                  <p className={readerLanguage === "en" ? "reader-chapter-en" : ""}>{readerLanguage === "my" ? selectedBook.authorForewordMy : selectedBook.authorForewordEn}</p>
+                </section>
+              )}
+              {selectedBook.editorialForewordMy && (
+                <section className="reader-page reader-foreword">
+                  <h3>{readerLanguage === "my" ? ui.editorialForeword : ui.editorialForeword}</h3>
+                  <p className={readerLanguage === "en" ? "reader-chapter-en" : ""}>{readerLanguage === "my" ? selectedBook.editorialForewordMy : selectedBook.editorialForewordEn}</p>
                 </section>
               )}
               {readerChapters.length > 0 && activeChapter ? (
@@ -515,12 +521,6 @@ export default function Home() {
                 </div>
               ) : (
                 <>
-                  {selectedBook.editorialForewordMy && (
-                    <>
-                      <h3>{ui.editorialForeword}</h3>
-                      <p className={siteLanguage === "en" ? "reader-chapter-en" : ""}>{siteLanguage === "my" ? selectedBook.editorialForewordMy : selectedBook.editorialForewordEn}</p>
-                    </>
-                  )}
                   <h3>{ui.aboutBook}</h3>
                   <p>{siteLanguage === "my" ? selectedBook.synopsisMy : selectedBook.descriptionEn}</p>
                   {siteLanguage === "my" && <>
