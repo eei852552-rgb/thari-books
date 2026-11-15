@@ -2023,5 +2023,4 @@ Therefore it was decided to start upon their journey the next morning, and the W
 
 They went to bed quite early and slept soundly until daylight, when they were awakened by the crowing of a green cock that lived in the back yard of the Palace, and the cackling of a hen that had laid a green egg.`,
   },
-]
- as const;
+] as const;
