@@ -177,8 +177,7 @@ const copy = {
 function splitReaderPages(content: string, maxCharacters = 1900): string[] {
   const paragraphs = content.split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
   const pages: string[] = [];
-  let currentPage: string[] = [];
-  let currentLength = 0;
+  let currentPage = "";
 
   const splitLongParagraph = (paragraph: string): string[] => {
     if (paragraph.length <= maxCharacters) return [paragraph];
@@ -217,19 +216,20 @@ function splitReaderPages(content: string, maxCharacters = 1900): string[] {
   };
 
   for (const paragraph of paragraphs) {
-    for (const part of splitLongParagraph(paragraph)) {
-      const extraLength = part.length + (currentPage.length ? 2 : 0);
-      if (currentPage.length && currentLength + extraLength > maxCharacters) {
-        pages.push(currentPage.join("\n\n"));
-        currentPage = [];
-        currentLength = 0;
+    const parts = splitLongParagraph(paragraph);
+    for (let partIndex = 0; partIndex < parts.length; partIndex += 1) {
+      const part = parts[partIndex];
+      const separator = currentPage ? (partIndex === 0 ? "\n\n" : " ") : "";
+      if (currentPage && currentPage.length + separator.length + part.length > maxCharacters) {
+        pages.push(currentPage);
+        currentPage = part;
+      } else {
+        currentPage += separator + part;
       }
-      currentPage.push(part);
-      currentLength += part.length + (currentPage.length > 1 ? 2 : 0);
     }
   }
 
-  if (currentPage.length) pages.push(currentPage.join("\n\n"));
+  if (currentPage) pages.push(currentPage);
   return pages;
 }
 
@@ -448,10 +448,25 @@ export default function Home() {
     const saved = readProgress(book.id);
     const chapters = (readerChaptersByBookId[book.id as keyof typeof readerChaptersByBookId] ?? []) as readonly ReaderChapter[];
     const savedForBook = saved?.bookId === book.id ? saved : null;
+    const initialChapterIndex = savedForBook
+      ? Math.min(savedForBook.chapterIndex, Math.max(0, chapters.length - 1))
+      : 0;
+    const initialLanguage = savedForBook?.language ?? "my";
+    const initialChapter = chapters[initialChapterIndex];
+    const initialContent = initialChapter
+      ? (initialLanguage === "my" ? initialChapter.content : initialChapter.contentEn)
+      : "";
+    const initialPageCount = splitReaderPages(
+      initialContent,
+      initialLanguage === "my" ? 650 : 1300
+    ).length;
+    const initialPage = savedForBook
+      ? Math.min(savedForBook.page, Math.max(0, initialPageCount - 1))
+      : 0;
     setSelectedBook(book);
-    setReaderChapterIndex(savedForBook ? Math.min(savedForBook.chapterIndex, Math.max(0, chapters.length - 1)) : 0);
-    setReaderPage(savedForBook?.page ?? 0);
-    setReaderLanguage(savedForBook?.language ?? "my");
+    setReaderChapterIndex(initialChapterIndex);
+    setReaderPage(initialPage);
+    setReaderLanguage(initialLanguage);
     setReaderStarted(true);
     setReaderIntroPage(0);
     const hasForeword = Boolean(book.authorForewordMy?.trim() || book.editorialForewordMy?.trim());

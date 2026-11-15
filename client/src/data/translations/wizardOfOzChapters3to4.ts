@@ -1,8 +1,8 @@
 import type { ReaderChapter } from "../artOfLearning";
 
 /**
- * THARi complete Burmese translations and editorial chapter content.
- * Chapters 3 and 4 are complete translations; other chapter entries are being completed.
+ * THARi Burmese translations and original English text for Chapters 3–24.
+ * The filename is retained for import compatibility; the array contains all remaining chapters.
  * Original source: L. Frank Baum, The Wonderful Wizard of Oz (1900).
  */
 export const wizardOfOzChapters3to4: readonly ReaderChapter[] = [
@@ -4081,15 +4081,13 @@ Dorothy stood up and found she was in her stocking-feet. For the Silver Shoes ha
 
 “အော့ဇ်နိုင်ငံက ပြန်လာတာပါ” ဟု ဒေါ်ရသီက တည်ငြိမ်စွာ ပြန်ဖြေသည်။ “တိုတိုလည်း ပါလာတယ် အဒေါ်အမ်ရေ။ အိမ်ကို ပြန်ရောက်လာလို့ ကျွန်မ ဘယ်လောက်ဝမ်းသာနေသလဲဆိုတာ ပြောမပြတတ်တော့ပါဘူး။”
 
----
-
-**THARi BOOKS မှ ကျေးဇူးတင်စကား**
+THARi BOOKS မှ ကျေးဇူးတင်စကား
 
 ဤစာအုပ်ကို အချိန်ပေးဖတ်ရှုပေးခဲ့တဲ့ စာဖတ်သူတစ်ဦးချင်းစီတိုင်းကို THARi BOOKS မှ အထူးကျေးဇူးတင်ရှိပါတယ်။ စာအုပ်ထဲက စိတ်ကူးအတွေးများ၊ သင်ခန်းစာများနဲ့ စွန့်စားခန်းများက သင့်ရဲ့နေ့ရက်တွေကို အဓိပ္ပာယ်ရှိစေပြီး အသိပညာအသစ်တွေ ရရှိစေမယ်လို့ မျှော်လင့်ပါတယ်။ နောက်ထပ်စာအုပ်ကောင်းများနဲ့လည်း ပြန်လည်ဆုံတွေ့ကြပါစေ။
 
-**THARi BOOKS ဆောင်ပုဒ်**
+THARi BOOKS ဆောင်ပုဒ်
 
-“စာမျက်နှာတိုင်းမှာ အသိပညာ၊ စာအုပ်တိုင်းမှာ အနာဂတ်အလင်း။”`,
+စာမျက်နှာတိုင်းမှာ အသိပညာ၊ စာအုပ်တိုင်းမှာ အနာဂတ်အလင်း။`,
     contentEn: `Aunt Em had just come out of the house to water the cabbages when she looked up and saw Dorothy running toward her.
 
 “My darling child!” she cried, folding the little girl in her arms and covering her face with kisses. “Where in the world did you come from?”
