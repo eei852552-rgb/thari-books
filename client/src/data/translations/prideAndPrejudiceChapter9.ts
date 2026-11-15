@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter9My = [
     number: 9,
     title: "အခန်း (၉)",
     titleEn: "Chapter IX",
+    readingType: "summary",
     contentEn: `Elizabeth spent most of the morning with Jane, who was still unwell. She was glad to remain beside her sister, although she knew that the Bingley household had its own opinions about the Bennet family.
 
 Later that morning Mrs. Bennet arrived with Kitty and Lydia. She was pleased to see Jane at Netherfield and seemed more interested in the attention Jane was receiving than in how uncomfortable her daughter felt.
