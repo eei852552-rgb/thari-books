@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter17My = [
     number: 17,
     title: "အခန်း (၁၇)",
     titleEn: "Chapter XVII",
+    readingType: "summary",
     contentEn: `The next day Elizabeth told Jane everything she had heard from Mr. Wickham. Jane listened with surprise and concern. She found it difficult to believe that Mr. Darcy could have behaved so unfairly toward someone who had been treated kindly by his father.
 
 Jane did not wish to accuse either man without knowing all the facts. She suggested that there might have been a misunderstanding, or that Wickham's account might not include every part of the story.
