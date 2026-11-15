@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter16My = [
     number: 16,
     title: "အခန်း (၁၆)",
     titleEn: "Chapter XVI",
+    readingType: "summary",
     contentEn: `The next day the Bennet family attended a gathering in Meryton. Elizabeth hoped to see Mr. Wickham again, because she wanted to understand why he and Darcy had reacted so strangely when they met.
 
 Mr. Wickham was present and soon joined the conversation. He spoke with Elizabeth in a friendly manner, and she found it easy to talk with him.
