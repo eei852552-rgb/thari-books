@@ -462,8 +462,10 @@ export default function Home() {
 
       <main>
       {detailBook ? (
+        <>
         <section className="book-cover-entry" aria-labelledby="book-detail-title">
           <a className="cover-entry-back" href={import.meta.env.BASE_URL}><ArrowRight size={17} /> {siteLanguage === "my" ? "စာအုပ်စာရင်းသို့ ပြန်သွားရန်" : "Back to the library"}</a>
+          <button className="cover-entry-language" type="button" onClick={() => setSiteLanguage((language) => language === "my" ? "en" : "my")} aria-label="မြန်မာနှင့် English ဘာသာစကား ပြောင်းရန်"><Languages size={16} /><span>{siteLanguage === "my" ? "EN" : "မြန်မာ"}</span></button>
           <div className="cover-entry-content">
             <div className="cover-entry-art">
               <img src={getAssetPath(detailBook.coverImage)} alt={`${detailBook.title} — ${detailBook.author}`} />
@@ -485,6 +487,23 @@ export default function Home() {
             )}
           </div>
         </section>
+        <section className="book-detail-content section-pad" aria-label={siteLanguage === "my" ? "စာအုပ်အသေးစိတ်" : "Book details"}>
+          <section className="detail-overview" id="book-overview">
+            <span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> {siteLanguage === "my" ? "စာအုပ်မိတ်ဆက်" : "BOOK OVERVIEW"}</span>
+            <h2>{siteLanguage === "my" ? "ဒီစာအုပ်အကြောင်း" : "About this book"}</h2>
+            <p>{siteLanguage === "my" ? detailBook.synopsisMy : detailBook.descriptionEn}</p>
+            {siteLanguage === "my" && detailBook.keyIdeasMy.length > 0 && <><h3>အဓိက မှတ်သားစရာများ</h3><ul className="detail-key-ideas">{detailBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul></>}
+            <p className="detail-rights-note"><ShieldCheck size={15} /> {detailBook.rightsNote}</p>
+            <div className="book-detail-facts"><span>{detailBook.language}</span><span>{detailBook.source}</span><span>{siteLanguage === "my" ? "အခမဲ့" : "Free access"}</span></div>
+            {detailBook.sourceUrl && <a className="detail-source-link" href={detailBook.sourceUrl} target="_blank" rel="noopener noreferrer">{siteLanguage === "my" ? "မူရင်းစာအုပ်ရင်းမြစ် ဖွင့်ရန်" : "Open original source"} <ArrowUpRight size={15} /></a>}
+          </section>
+          <section className="detail-chapters">
+            <span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> READING GUIDE</span>
+            <h2>{siteLanguage === "my" ? "အခန်းစာရင်း" : "Chapters"}</h2>
+            {detailChapters.length > 0 ? <div className="detail-chapter-list">{detailChapters.map((chapter, index) => <button type="button" className="detail-chapter-item" key={`${chapter.number}-${chapter.title}`} onClick={() => { openReader(detailBook); setReaderChapterIndex(index); setReaderPage(0); }}><span className="detail-chapter-number">{String(index + 1).padStart(2, "0")}</span><span><strong>{siteLanguage === "my" ? chapter.title : chapter.titleEn ?? `Chapter ${chapter.number}`}</strong><small>{siteLanguage === "my" ? `အခန်း ${index + 1}` : `Chapter ${index + 1}`}</small></span><ArrowUpRight size={17} /></button>)}</div> : <div className="detail-external-note"><BookOpen size={19} /><p>{siteLanguage === "my" ? "ဤစာအုပ်၏ အခန်းများကို THARi Reader ထဲတွင် မထည့်သွင်းရသေးပါ။ မူရင်းစာအုပ်ကို အခမဲ့ဖတ်ရှုရန် အပေါ်ရှိ မူရင်းရင်းမြစ်လင့်ခ်ကို အသုံးပြုနိုင်ပါတယ်။" : "Chapters for this title are not yet available in the THARi reader. Use the original-source link above to read the book."}</p></div>}
+          </section>
+        </section>
+        </>
       ) : (<>
         <section className="hero-section" aria-labelledby="hero-title">
           <div className="hero-backdrop" aria-hidden="true" />
