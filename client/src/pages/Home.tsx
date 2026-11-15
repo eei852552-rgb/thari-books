@@ -378,7 +378,7 @@ export default function Home() {
   const openBookDetails = (book: OpenBook) => {
     setSelectedBook(null);
     navigate(`/book/${encodeURIComponent(book.id)}`);
-    window.scrollTo({ top: 0, behavior: "instant" });
+    window.scrollTo({ top: 0, behavior: "auto" });
   };
 
   const openReader = (book: OpenBook) => {
@@ -401,9 +401,9 @@ export default function Home() {
             <span className="brand-wordmark"><strong>THARi BOOKS</strong><small>အသိပညာ · စာဖတ်ခြင်း · တိုးတက်မှု</small></span>
           </a>
           <nav className="desktop-nav" aria-label={siteLanguage === "my" ? "အဓိက လမ်းညွှန်" : "Main navigation"}>
-            <a href="#general">{ui.navCategories}</a>
-            <a href="#featured">{ui.navBooks}</a>
-            <a href="#about">{ui.navAbout}</a>
+            <a href={detailBook ? `${import.meta.env.BASE_URL}#general` : "#general"}>{ui.navCategories}</a>
+            <a href={detailBook ? `${import.meta.env.BASE_URL}#featured` : "#featured"}>{ui.navBooks}</a>
+            <a href={detailBook ? `${import.meta.env.BASE_URL}#about` : "#about"}>{ui.navAbout}</a>
           </nav>
           <div className="header-actions">
             <label className="search-box">
@@ -419,16 +419,16 @@ export default function Home() {
           </div>
         </div>
         <nav className={`mobile-nav ${mobileMenuOpen ? "is-open" : ""}`} aria-label="Mobile navigation">
-          <a href="#general" onClick={closeMobileMenu}>{ui.navCategories}<ChevronRight size={15} /></a>
-          <a href="#featured" onClick={closeMobileMenu}>{ui.navBooks}<ChevronRight size={15} /></a>
-          <a href="#about" onClick={closeMobileMenu}>{ui.navAbout}<ChevronRight size={15} /></a>
+          <a href={detailBook ? `${import.meta.env.BASE_URL}#general` : "#general"} onClick={closeMobileMenu}>{ui.navCategories}<ChevronRight size={15} /></a>
+          <a href={detailBook ? `${import.meta.env.BASE_URL}#featured` : "#featured"} onClick={closeMobileMenu}>{ui.navBooks}<ChevronRight size={15} /></a>
+          <a href={detailBook ? `${import.meta.env.BASE_URL}#about` : "#about"} onClick={closeMobileMenu}>{ui.navAbout}<ChevronRight size={15} /></a>
         </nav>
       </header>
 
       <main>
       {detailBook ? (
         <section className="book-detail-page section-pad" aria-labelledby="book-detail-title">
-          <a className="detail-back-link" href="/"><ArrowRight size={16} /> {siteLanguage === "my" ? "စာအုပ်စာရင်းသို့ ပြန်သွားရန်" : "Back to the library"}</a>
+          <a className="detail-back-link" href={import.meta.env.BASE_URL}><ArrowRight size={16} /> {siteLanguage === "my" ? "စာအုပ်စာရင်းသို့ ပြန်သွားရန်" : "Back to the library"}</a>
           <div className="book-detail-hero">
             <div className="book-detail-cover"><img src={getAssetPath(detailBook.coverImage)} alt={`${detailBook.title} — ${detailBook.author}`} /></div>
             <div className="book-detail-summary">
