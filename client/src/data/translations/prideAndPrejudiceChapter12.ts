@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter12My = [
     number: 12,
     title: "အခန်း (၁၂)",
     titleEn: "Chapter XII",
+    readingType: "summary",
     contentEn: `Jane's recovery continued, and after several days she was well enough to return to Longbourn. Elizabeth was pleased, because she had missed her family and wanted to be home again.
 
 The Bingley sisters said that they would be sorry to lose Jane and Elizabeth. They invited them to visit again and spoke warmly about Jane's health. Mr. Bingley also hoped that Jane would return to Netherfield soon.
