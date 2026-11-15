@@ -2476,4 +2476,407 @@ As the Monkey King finished his story Dorothy looked down and saw the green, shi
 
 “Yes, and a quick way out of our troubles,” replied the Lion. “How lucky it was you brought away that wonderful Cap!”`,
   },
+  {
+    number: 15,
+    title: "အခန်း (၁၅) — ကြောက်မက်ဖွယ်ကောင်းသော အော့ဇ်၏ အမှန်တရားကို ဖော်ထုတ်ခြင်း",
+    titleEn: "Chapter 15 — The Discovery of Oz, the Terrible",
+    content: `ခရီးသွားလေးဦးသည် မြစိမ်းရောင်မြို့တော်၏ ကြီးမားသော တံခါးပေါက်ဆီသို့ လျှောက်လာကြပြီး ခေါင်းလောင်းကို တီးလိုက်ကြသည်။ အကြိမ်ကြိမ် တီးပြီးနောက် တံခါးပွင့်လာကာ ယခင်က သူတို့နှင့် တွေ့ဖူးသော တံခါးစောင့်ကြီး ပေါ်လာသည်။
+
+“ဟင်… မင်းတို့ ပြန်ရောက်လာကြပြီလား” ဟု သူက အံ့ဩစွာ မေးသည်။
+
+“ကျွန်တော်တို့ကို မမြင်ဘူးလား” ဟု ကောက်ရိုးလူက ပြန်မေးသည်။
+
+“မင်းတို့ အနောက်ဘက်က မကောင်းသော စုန်းမဆီ သွားလည်ကြမယ်လို့ ထင်ထားတာလေ။”
+
+“ကျွန်တော်တို့ သွားခဲ့ပါတယ်” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+“ဒါဆို သူက မင်းတို့ကို ပြန်လွှတ်လိုက်တာလား” ဟု တံခါးစောင့်က မယုံနိုင်သကဲ့သို့ မေးသည်။
+
+“သူ ဘာမှ မတတ်နိုင်တော့ဘူး။ သူဟာ အရည်ပျော်သွားပြီ” ဟု ကောက်ရိုးလူက ရှင်းပြသည်။
+
+“အရည်ပျော်သွားတယ် ဟုတ်လား။ ဒါဆို သတင်းကောင်းပဲ။ ဘယ်သူက သူ့ကို အရည်ပျော်စေတာလဲ” ဟု ထိုသူက မေးသည်။
+
+“ဒေါ်ရသီပါ” ဟု ခြင်္သေ့ကြီးက လေးနက်စွာ ပြောသည်။
+
+“အလိုလေး…!” ဟု တံခါးစောင့်က အံ့ဩပြီး ဒေါ်ရသီရှေ့တွင် အလွန်နိမ့်ညွတ်စွာ ဦးညွှတ်လိုက်သည်။
+
+ထို့နောက် သူသည် သူတို့ကို မိမိ၏ အခန်းငယ်ထဲသို့ ခေါ်သွားပြီး ယခင်တစ်ခေါက်ကဲ့သို့ပင် သေတ္တာကြီးထဲမှ အစိမ်းရောင်မျက်မှန်များကို ထုတ်ကာ လူတိုင်းအား တပ်ဆင်ပေးသည်။ ထို့နောက် သူတို့သည် မြို့တံခါးကို ဖြတ်ဝင်လာကြသည်။ ဒေါ်ရသီက အနောက်ဘက်စုန်းမကို အရည်ပျော်စေခဲ့ကြောင်း တံခါးစောင့်ထံမှ ကြားသိရသောအခါ မြို့သူမြို့သားများသည် ခရီးသွားလေးဦးကို ဝိုင်းအုံလာကြပြီး အော့ဇ်၏ နန်းတော်ဆီသို့ လူအုပ်ကြီးဖြင့် လိုက်ပါလာကြသည်။
+
+အစိမ်းရောင်မုတ်ဆိတ်ရှိသော စစ်သားသည် နန်းတော်တံခါးရှေ့တွင် ယခင်အတိုင်း စောင့်နေဆဲဖြစ်သည်။ သူသည် သူတို့ကို ချက်ချင်း ဝင်ခွင့်ပြုလိုက်သည်။ ထို့နောက် လှပသော အစိမ်းရောင်မိန်းကလေးတစ်ဦး ထွက်လာပြီး အော့ဇ်က လက်ခံတွေ့ဆုံရန် အဆင်သင့်မဖြစ်မီ အနားယူနိုင်ရန် သူတို့တစ်ဦးစီကို ယခင်အခန်းများဆီသို့ လိုက်ပို့ပေးသည်။
+
+စစ်သားသည် ဒေါ်ရသီနှင့် သူမ၏ မိတ်ဆွေများ စုန်းမကို အနိုင်ယူပြီး ပြန်ရောက်လာကြောင်း အော့ဇ်ထံ ချက်ချင်း သတင်းပို့လိုက်သည်။ သို့သော် အော့ဇ်က ဘာမျှ ပြန်မပြောခဲ့ပေ။ မဟာမှော်ဆရာသည် သူတို့ကို ချက်ချင်း ခေါ်တွေ့လိမ့်မည်ဟု ထင်ခဲ့ကြသော်လည်း ထိုနေ့တွင် မခေါ်ခဲ့ပေ။ နောက်တစ်နေ့တွင်လည်း သတင်းမရ၊ ထို့နောက်တစ်နေ့နှင့် နောက်တစ်နေ့တွင်လည်း ဘာသတင်းမျှ မရခဲ့ကြပေ။ စောင့်ဆိုင်းရသည်မှာ ပင်ပန်းငြီးငွေ့စရာ ဖြစ်လာသည်။ အခက်အခဲများနှင့် ကျွန်ဘဝကိုပင် ကြုံတွေ့စေခဲ့ပြီးနောက် အော့ဇ်က ယခုလို လျစ်လျူရှုနေခြင်းအပေါ် သူတို့ စိတ်ဆိုးလာကြသည်။
+
+နောက်ဆုံးတွင် ကောက်ရိုးလူက အစိမ်းရောင်မိန်းကလေးကို အော့ဇ်ထံ နောက်ထပ်သတင်းတစ်စောင် ပို့ပေးရန် တောင်းဆိုလိုက်သည်။ အော့ဇ်က ချက်ချင်း လက်မခံပါက တောင်ပံပါသော မျောက်များကို ခေါ်ပြီး သူပေးထားသော ကတိများကို တကယ်တည်မတည် စစ်ဆေးမည်ဟု ပြောခိုင်းလိုက်သည်။ ထိုသတင်းကို ကြားသောအခါ အော့ဇ်သည် အလွန်ကြောက်လန့်သွားသည်။ သူသည် အနောက်ဘက်နယ်မြေတွင် တောင်ပံပါသော မျောက်များနှင့် တစ်ကြိမ် တွေ့ကြုံခဲ့ဖူးပြီး နောက်တစ်ကြိမ် ထပ်မတွေ့လိုတော့ပေ။ ထို့ကြောင့် နောက်တစ်နေ့ နံနက် ကိုးနာရီနှင့် လေးမိနစ်တိတိတွင် ပလ္လင်ခန်းသို့ လာရောက်တွေ့ဆုံရန် အကြောင်းပြန်လိုက်သည်။
+
+ခရီးသွားလေးဦးသည် အော့ဇ်က ကတိပေးထားသော လက်ဆောင်များကို တစ်ယောက်တစ်မျိုး စဉ်းစားရင်း ထိုညကို အိပ်မပျော်ဘဲ ကုန်ဆုံးခဲ့ကြသည်။ ဒေါ်ရသီသည် တစ်ကြိမ်သာ ခဏအိပ်ပျော်ခဲ့ပြီး ထိုအချိန်တွင် ကန်ဆတ်ပြည်၌ မိမိအိမ်သို့ ပြန်ရောက်နေကာ အန်တီအမ်က သူမကို ပြန်တွေ့ရသည့်အတွက် မည်မျှ ဝမ်းသာကြောင်း ပြောနေသည်ဟု အိပ်မက်မက်ခဲ့သည်။
+
+နောက်တစ်နေ့ နံနက် ကိုးနာရီတိတိတွင် အစိမ်းရောင်မုတ်ဆိတ်ရှိသော စစ်သားသည် သူတို့ထံ ရောက်လာသည်။ လေးမိနစ်အကြာတွင် သူတို့အားလုံး မဟာအော့ဇ်၏ ပလ္လင်ခန်းထဲသို့ ဝင်သွားကြသည်။
+
+ယခင်တစ်ကြိမ်က အော့ဇ်ပြသခဲ့သော ပုံစံအတိုင်း တွေ့ရမည်ဟု တစ်ယောက်စီ မျှော်လင့်ထားကြသည်။ သို့သော် အခန်းထဲသို့ ဝင်ကြည့်လိုက်သောအခါ မည်သူမျှ မရှိသည်ကို တွေ့ရသဖြင့် အားလုံး အလွန်အံ့ဩသွားကြသည်။ သူတို့သည် တံခါးအနီးတွင် အချင်းချင်း ပိုမိုကပ်လျက် ရပ်နေကြသည်။ အခန်းကြီးထဲတွင် တိတ်ဆိတ်နေခြင်းက ယခင်က အော့ဇ်ပြခဲ့သော ကြောက်မက်ဖွယ်ပုံစံများထက်ပင် ပို၍ စိုးရိမ်ဖွယ်ကောင်းနေသည်။
+
+ခဏအကြာတွင် အမိုးခုံးကြီး၏ အပေါ်ဘက်တစ်နေရာမှ ထွက်ပေါ်လာသကဲ့သို့ လေးနက်သော အသံတစ်သံကို ကြားလိုက်ရသည်။
+
+“ငါသည် မဟာအော့ဇ်၊ ကြောက်မက်ဖွယ်ကောင်းသော အော့ဇ် ဖြစ်သည်။ သင်တို့သည် ငါ့ကို အဘယ်ကြောင့် ရှာဖွေလာကြသနည်း။”
+
+သူတို့သည် အခန်း၏ နေရာအနှံ့ကို ထပ်မံကြည့်ကြသော်လည်း မည်သူ့ကိုမျှ မတွေ့ရပေ။ ထို့နောက် ဒေါ်ရသီက “အော့ဇ်ရေ၊ ရှင် ဘယ်မှာလဲ” ဟု မေးလိုက်သည်။
+
+“ငါသည် နေရာတိုင်း၌ ရှိနေသည်။ သာမန်လူတို့၏ မျက်စိဖြင့်မူ ငါ့ကို မမြင်နိုင်ကြ။ ယခု ငါသည် ပလ္လင်ပေါ်တွင် ထိုင်မည်။ ထိုအခါ သင်တို့နှင့် စကားပြောနိုင်မည်” ဟု အသံက ပြန်ဖြေသည်။
+
+ထိုအချိန်တွင် အသံသည် ပလ္လင်ပေါ်မှ တိုက်ရိုက် ထွက်လာသကဲ့သို့ ကြားရသည်။ ထို့ကြောင့် သူတို့သည် ပလ္လင်အနီးသို့ လျှောက်သွားပြီး တန်းစီရပ်လိုက်ကြသည်။ ဒေါ်ရသီက စတင်ပြောသည်။
+
+“အော့ဇ်ရေ၊ ရှင်ပေးထားတဲ့ ကတိတွေကို လာတောင်းဆိုဖို့ ကျွန်မတို့ ရောက်လာတာပါ။”
+
+“ဘယ်လိုကတိတွေလဲ” ဟု အော့ဇ်က မေးသည်။
+
+“မကောင်းတဲ့ စုန်းမကို အနိုင်ယူပြီးရင် ကျွန်မကို ကန်ဆတ်ပြည်ကို ပြန်ပို့ပေးမယ်လို့ ကတိပေးခဲ့တယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ကျွန်တော့်ကို ဉာဏ်ပညာ ပေးမယ်လို့လည်း ကတိပေးခဲ့ပါတယ်” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+“ကျွန်တော့်ကို နှလုံးသား ပေးမယ်လို့ ကတိပေးခဲ့ပါတယ်” ဟု သံဖြင့်ပြုလုပ်ထားသော လူက ပြောသည်။
+
+“ကျွန်တော့်ကို သတ္တိ ပေးမယ်လို့လည်း ကတိပေးခဲ့ပါတယ်” ဟု ကြောက်တတ်သော ခြင်္သေ့ကြီးက ပြောသည်။
+
+“မကောင်းတဲ့ စုန်းမ တကယ်ပဲ အဆုံးသတ်သွားပြီလား” ဟု အသံက မေးသည်။ ဒေါ်ရသီက ထိုအသံ အနည်းငယ် တုန်ယင်သွားသည်ဟု ထင်မိသည်။
+
+“ဟုတ်ပါတယ်။ ရေပုံးထဲက ရေနဲ့ သူ့ကို အရည်ပျော်စေခဲ့တာပါ” ဟု သူမက ပြန်ဖြေသည်။
+
+“အလိုလေး၊ ဘယ်လောက်တောင် ရုတ်တရက် ဖြစ်သွားတာလဲ။ ကောင်းပြီ။ ဒီကိစ္စကို စဉ်းစားဖို့ အချိန်လိုသေးတယ်။ မနက်ဖြန်မှ ပြန်လာခဲ့ကြပါ” ဟု အသံက ပြောသည်။
+
+“ခင်ဗျား စဉ်းစားဖို့ အချိန်အများကြီး ရခဲ့ပြီးပါပြီ” ဟု သံလူက စိတ်ဆိုးစွာ ပြောသည်။
+
+“ကျွန်တော်တို့ နောက်ထပ် တစ်ရက်တောင် မစောင့်နိုင်တော့ဘူး” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+“ရှင်တို့ပေးထားတဲ့ ကတိတွေကို တည်ရပါမယ်” ဟု ဒေါ်ရသီက အခိုင်အမာ ပြောသည်။
+
+အော့ဇ်ကို ကြောက်အောင် လုပ်ပေးလျှင် ကောင်းမည်ဟု ခြင်္သေ့ကြီးက တွေးမိသည်။ ထို့ကြောင့် အလွန်ကျယ်လောင်ပြီး ကြောက်မက်ဖွယ်ကောင်းသော ဟိန်းဟောက်သံကြီးကို ပြုလိုက်သည်။ ထိုအသံကြောင့် တိုတိုပင် လန့်ပြီး ခုန်ရှောင်သွားရာ အခန်းထောင့်တွင် ထောင်ထားသော အကာအကွယ်ပြားကြီးကို တိုက်မိသွားသည်။ ပြားကြီးသည် မြည်ဟည်းသံနှင့်အတူ လဲကျသွားသည်။ သူတို့အားလုံး ထိုဘက်သို့ လှည့်ကြည့်လိုက်ကြပြီး နောက်တစ်ခဏတွင် အံ့အားသင့်သွားကြသည်။ အကာအကွယ်ပြားနောက်တွင် ပုန်းနေခဲ့သော ဦးခေါင်းပြောင်ပြီး မျက်နှာတွန့်ကြေနေသည့် အသက်ကြီးသူ အမျိုးသားငယ်တစ်ဦးကို တွေ့လိုက်ရသည်။ ထိုသူကိုယ်တိုင်လည်း သူတို့လိုပင် အံ့ဩနေသည်။
+
+သံလူသည် လက်ထဲတွင် ကိုင်ထားသော ပုဆိန်ကို မြှောက်ကိုင်လျက် ထိုလူငယ်ဆီသို့ လှမ်းလာပြီး “ခင်ဗျား ဘယ်သူလဲ” ဟု မေးလိုက်သည်။
+
+“ငါက မဟာအော့ဇ်၊ ကြောက်မက်ဖွယ်ကောင်းသော အော့ဇ်ပါ။ ဒါပေမဲ့ ကျေးဇူးပြုပြီး ငါ့ကို မထိခိုက်ပါနဲ့။ မင်းတို့ လိုချင်တာ အားလုံးကို လုပ်ပေးပါ့မယ်” ဟု ထိုလူက တုန်လှုပ်သော အသံဖြင့် ပြောသည်။
+
+ကျွန်ုပ်တို့၏ မိတ်ဆွေများသည် အံ့ဩမှုနှင့် စိတ်ပျက်မှုတို့ဖြင့် သူ့ကို ကြည့်နေကြသည်။
+
+“အော့ဇ်က ကြီးမားတဲ့ ဦးခေါင်းကြီးတစ်လုံးလို့ ကျွန်မ ထင်ခဲ့တာ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ကျွန်တော်ကတော့ လှပတဲ့ အမျိုးသမီးတစ်ဦးလို့ ထင်ခဲ့တာ” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+“ကျွန်တော်က ကြောက်မက်ဖွယ်ကောင်းတဲ့ သားရဲကြီးတစ်ကောင်လို့ ထင်ခဲ့တာ” ဟု သံလူက ပြောသည်။
+
+“ကျွန်တော်က မီးလုံးကြီးတစ်လုံးလို့ ထင်ခဲ့တာပဲ” ဟု ခြင်္သေ့ကြီးက အံ့ဩစွာ ပြောသည်။
+
+“မဟုတ်ဘူး။ မင်းတို့အားလုံး မှားနေကြတယ်။ ငါက အဲဒီလို ဟန်ဆောင်ပြခဲ့တာပါ” ဟု လူငယ်က နှိမ့်ချသော အသံဖြင့် ပြန်ဖြေသည်။
+
+“ဟန်ဆောင်တာ ဟုတ်လား။ ရှင်က မဟာမှော်ဆရာ မဟုတ်ဘူးလား” ဟု ဒေါ်ရသီက အော်မေးသည်။
+
+“တိတ်တိတ်နေပါ သမီးရေ။ အသံကျယ်ကျယ် မပြောပါနဲ့။ တခြားသူတွေ ကြားသွားရင် ငါ့အခြေအနေ ပျက်စီးသွားလိမ့်မယ်။ လူတိုင်းက ငါ့ကို မဟာမှော်ဆရာလို့ ထင်နေကြတာ” ဟု သူက ပြောသည်။
+
+“ဒါဆို ရှင်က တကယ် မဟုတ်ဘူးလား” ဟု ဒေါ်ရသီက မေးသည်။
+
+“လုံးဝ မဟုတ်ပါဘူး။ ငါက သာမန်လူတစ်ယောက်ပဲ” ဟု သူက ပြန်ဖြေသည်။
+
+“သာမန်လူထက် ပိုဆိုးသေးတယ်။ ရှင်က လူတွေကို လှည့်စားနေတဲ့ ဟန်ဆောင်သူတစ်ယောက်ပဲ” ဟု ကောက်ရိုးလူက ဝမ်းနည်းစွာ ပြောသည်။
+
+“အတိအကျပဲ။ ငါဟာ ဟန်ဆောင်သူတစ်ယောက်ပါ” ဟု လူငယ်က လက်နှစ်ဖက်ကို ပွတ်ရင်း ဝန်ခံလိုက်သည်။ ထိုအကြောင်းကို ပြောရသည်မှာပင် သူ့အတွက် ကျေနပ်စရာ ဖြစ်နေသကဲ့သို့ပင်။
+
+“ဒါကတော့ တကယ်ကို စိတ်ပျက်စရာပါပဲ။ ဒါဆို ကျွန်တော့်နှလုံးသားကို ဘယ်လိုရနိုင်တော့မှာလဲ” ဟု သံလူက ပြောသည်။
+
+“ကျွန်တော့်ရဲ့ သတ္တိကရော” ဟု ခြင်္သေ့ကြီးက မေးသည်။
+
+“ကျွန်တော့်ရဲ့ ဉာဏ်ပညာကရော” ဟု ကောက်ရိုးလူက မေးရင်း မျက်ရည်များကို အင်္ကျီလက်ဖြင့် သုတ်လိုက်သည်။
+
+“ချစ်ခင်ရတဲ့ မိတ်ဆွေတို့ရေ၊ ဒီအသေးအဖွဲကိစ္စတွေကို ခဏမပြောကြပါနဲ့။ ငါ့အကြောင်းကိုသာ စဉ်းစားပေးကြပါဦး။ ငါ့ရဲ့ လှည့်စားမှုကို လူတွေ သိသွားတော့မယ်ဆိုတာ ဘယ်လောက်တောင် ဒုက္ခရောက်စရာကောင်းသလဲ” ဟု အော့ဇ်က ပြောသည်။
+
+“ရှင်က လှည့်စားသူတစ်ယောက်ဆိုတာ တခြားဘယ်သူမှ မသိကြဘူးလား” ဟု ဒေါ်ရသီက မေးသည်။
+
+“မင်းတို့လေးယောက်နဲ့ ငါကိုယ်တိုင်ကလွဲရင် ဘယ်သူမှ မသိကြဘူး။ ငါ ဒီလောက်ကြာကြာ လူတိုင်းကို လှည့်စားနိုင်ခဲ့တာကြောင့် ဘယ်တော့မှ အမှန်ပေါ်လာမှာ မဟုတ်ဘူးလို့ ထင်ခဲ့တာ။ မင်းတို့ကို ပလ္လင်ခန်းထဲ ဝင်ခွင့်ပေးခဲ့တာဟာ ငါ့အမှားကြီးပဲ။ ပုံမှန်ဆိုရင် ငါ့ပြည်သူတွေကိုတောင် မတွေ့ဘူး။ ဒါကြောင့် သူတို့က ငါ့ကို ကြောက်မက်ဖွယ် အစွမ်းရှိသူတစ်ဦးလို့ ယုံကြည်နေကြတာ” ဟု အော့ဇ်က ရှင်းပြသည်။
+
+“ဒါပေမဲ့ ကျွန်မ နားမလည်သေးဘူး။ ရှင်က ကျွန်မဆီမှာ ကြီးမားတဲ့ ဦးခေါင်းကြီးအဖြစ် ဘယ်လို ပေါ်လာခဲ့တာလဲ” ဟု ဒေါ်ရသီက အံ့ဩစွာ မေးသည်။
+
+“အဲဒါလည်း ငါ့ရဲ့ လှည့်ကွက်တစ်ခုပဲ။ ဒီဘက်ကို လာပါ။ အားလုံးကို ရှင်းပြမယ်” ဟု အော့ဇ်က ပြောသည်။
+
+သူသည် ပလ္လင်ခန်း၏ နောက်ဘက်ရှိ အခန်းငယ်တစ်ခန်းဆီသို့ လမ်းပြခေါ်သွားပြီး သူတို့အားလုံး လိုက်ပါသွားကြသည်။ ထိုအခန်းထောင့်တစ်နေရာတွင် စက္ကူအလွှာများစွာဖြင့် ပြုလုပ်ထားပြီး မျက်နှာကို သေသေချာချာ ဆေးခြယ်ထားသော ဦးခေါင်းကြီးတစ်လုံး ရှိနေသည်။
+
+“ဒီဦးခေါင်းကို မျက်နှာကျက်ကနေ ကြိုးတစ်ချောင်းနဲ့ ချိတ်ထားတာ။ ငါက အကာအကွယ်ပြားနောက်မှာ ရပ်ပြီး ကြိုးကို ဆွဲလိုက်တဲ့အခါ မျက်လုံးတွေ လှုပ်ရှားလာပြီး ပါးစပ်လည်း ပွင့်လာတာပေါ့” ဟု အော့ဇ်က ရှင်းပြသည်။
+
+“ဒါဆို အသံကရော ဘယ်က ထွက်လာတာလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“ငါက အသံကို နေရာတစ်ခုကနေ တစ်နေရာသို့ ထွက်လာသလို လုပ်ပြနိုင်တဲ့ အသံပညာရှင်တစ်ယောက်ပါ။ ဒါကြောင့် မင်းတို့က ဦးခေါင်းကြီးဆီက အသံထွက်လာတယ်လို့ ထင်ခဲ့ကြတာ။ မင်းတို့ကို လှည့်စားဖို့ အသုံးပြုခဲ့တဲ့ တခြားပစ္စည်းတွေကိုလည်း ကြည့်လိုက်ကြဦး” ဟု အော့ဇ်က ပြောသည်။
+
+သူသည် ကောက်ရိုးလူအား မိမိက လှပသော အမျိုးသမီးပုံစံဖြင့် ပေါ်လာစဉ် ဝတ်ဆင်ခဲ့သော အဝတ်အစားနှင့် မျက်နှာဖုံးကို ပြသသည်။ သံလူကလည်း ကြောက်မက်ဖွယ် သားရဲကြီးမှာ အရေခွံများကို ချုပ်ဆက်ထားပြီး အတွင်းဘက်တွင် ပုံသဏ္ဌာန်ထိန်းရန် အထောက်အကူများ ထည့်ထားသည့် အရာသာ ဖြစ်ကြောင်း သိလိုက်ရသည်။ မီးလုံးကြီးမှာလည်း မျက်နှာကျက်မှ ချိတ်ဆွဲထားသော အတုတစ်ခုသာ ဖြစ်သည်။
+
+“တကယ်တော့ အဲဒါက ဝါဂွမ်းလုံးတစ်လုံးပါ။ ဆီလောင်းလိုက်တဲ့အခါ မီးတောက်လာတာပဲ” ဟု အော့ဇ်က ပြောသည်။
+
+“ဒီလောက်တောင် လူတွေကို လှည့်စားခဲ့တာအတွက် ရှက်သင့်တယ်” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+“ဟုတ်ပါတယ်။ ငါ ရှက်မိပါတယ်။ တကယ်လည်း ရှက်သင့်ပါတယ်။ ဒါပေမဲ့ ငါလုပ်နိုင်ခဲ့တာ ဒီနည်းလမ်းတစ်ခုပဲ ရှိခဲ့လို့ပါ။ ကဲ၊ ထိုင်ကြပါဦး။ ဒီမှာ ထိုင်ခုံတွေ အများကြီး ရှိတယ်။ ငါ့အကြောင်းကို ပြောပြမယ်” ဟု လူငယ်က ဝမ်းနည်းစွာ ပြန်ဖြေသည်။
+
+ထို့နောက် သူတို့အားလုံး ထိုင်ကြပြီး သူ၏ ဇာတ်ကြောင်းကို နားထောင်ကြသည်။
+
+“ငါဟာ အိုမာဟာမြို့မှာ မွေးဖွားခဲ့တာပါ” ဟု သူက စတင်ပြောသည်။
+
+“အဲဒီမြို့က ကန်ဆတ်နဲ့ သိပ်မဝေးဘူးနော်” ဟု ဒေါ်ရသီက အံ့ဩစွာ ပြောသည်။
+
+“ဟုတ်ပါတယ်။ ဒါပေမဲ့ ဒီနေရာနဲ့တော့ အတော်ဝေးတယ်” ဟု သူက ခေါင်းယမ်းရင်း ပြန်ဖြေသည်။ “အရွယ်ရောက်လာတဲ့အခါ ငါဟာ အသံအတုလုပ်ပြနိုင်သူတစ်ယောက် ဖြစ်လာခဲ့တယ်။ အဲဒီပညာကို ဆရာကြီးတစ်ဦးဆီမှာ ကောင်းကောင်း လေ့ကျင့်သင်ယူခဲ့တယ်။ ငှက်သံ၊ သားရဲသံ အမျိုးမျိုးကို တုပနိုင်တယ်။”
+
+ထိုသို့ ပြောပြီးနောက် သူသည် ကြောင်ကလေးတစ်ကောင်၏ မြည်သံကို အလွန်တူညီအောင် ပြုလုပ်ပြလိုက်သည်။ တိုတိုသည် နားရွက်ထောင်ကာ အသံထွက်ရာကို ရှာဖွေကြည့်နေသည်။
+
+“အချိန်တစ်ခုကြာတော့ အဲဒီအလုပ်ကို ငြီးငွေ့လာတယ်။ ဒါကြောင့် မိုးပျံပူဖောင်းနဲ့ လေထဲတက်ပြသတဲ့ အလုပ်ကို လုပ်ခဲ့တယ်” ဟု အော့ဇ်က ဆက်ပြောသည်။
+
+“အဲဒါက ဘာအလုပ်လဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“ပွဲတော်နေ့တွေမှာ လူအုပ်ကြီး စုဝေးလာအောင် မိုးပျံပူဖောင်းနဲ့ အပေါ်တက်ပြပြီး လူတွေကို ပွဲကြည့်ဖို့ ဆွဲဆောင်တဲ့ အလုပ်ပါ” ဟု သူက ရှင်းပြသည်။
+
+“အော်… နားလည်ပြီ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“တစ်နေ့မှာ ငါ မိုးပျံပူဖောင်းနဲ့ အပေါ်တက်ခဲ့တယ်။ ဒါပေမဲ့ ကြိုးတွေ ရှုပ်ထွေးကုန်လို့ ပြန်ဆင်းလို့ မရတော့ဘူး။ ပူဖောင်းက တိမ်တွေ အပေါ်အထိ တက်သွားပြီး လေစီးကြောင်းတစ်ခုနဲ့ တွေ့ကာ မိုင်ပေါင်းများစွာ ဝေးတဲ့နေရာဆီ သယ်ဆောင်သွားတယ်။ တစ်နေ့တစ်ညလုံး လေထဲမှာ ခရီးသွားခဲ့ရတယ်။ ဒုတိယနေ့ မနက်မှာ နိုးလာတော့ ထူးဆန်းပြီး လှပတဲ့ နိုင်ငံတစ်ခုအပေါ်မှာ ပူဖောင်းက မျောနေတယ်။
+
+“ပူဖောင်းဟာ တဖြည်းဖြည်း အောက်သို့ ဆင်းလာပြီး ငါလည်း ဘာမှ မဖြစ်ခဲ့ဘူး။ ဒါပေမဲ့ ငါ့ကို မြင်လိုက်တဲ့ ထိုနိုင်ငံသားတွေက ငါဟာ မိုးတိမ်တွေကနေ ဆင်းသက်လာတဲ့ မဟာမှော်ဆရာကြီးလို့ ထင်ခဲ့ကြတယ်။ သူတို့က ငါ့ကို ကြောက်နေကြတာကြောင့် အဲဒီလိုပဲ ထင်မြင်နေစေခဲ့တယ်။ သူတို့က ငါ့ရဲ့ ဆန္ဒအားလုံးကို ဖြည့်ဆည်းပေးမယ်လို့ ကတိပြုခဲ့ကြတယ်။
+
+“လူတွေ အလုပ်များနေစေဖို့နဲ့ ငါ့ကိုယ်ငါလည်း ပျော်ရွှင်စေဖို့ ဒီမြို့နဲ့ နန်းတော်ကို ဆောက်လုပ်ခိုင်းခဲ့တယ်။ သူတို့ကလည်း ဝမ်းမြောက်စွာနဲ့ အလွန်ကောင်းမွန်အောင် ဆောက်လုပ်ပေးခဲ့ကြတယ်။ နိုင်ငံတစ်ဝန်းလုံး စိမ်းလန်းလှပနေတာကြောင့် မြစိမ်းရောင်မြို့တော်လို့ အမည်ပေးလိုက်တယ်။ အဲဒီအမည်နဲ့ ပိုကိုက်ညီစေဖို့ လူတိုင်းကို အစိမ်းရောင်မျက်မှန်တွေ တပ်စေခဲ့တယ်။ ဒါကြောင့် သူတို့မြင်သမျှ အရာအားလုံးဟာ အစိမ်းရောင်လို ဖြစ်နေခဲ့တယ်။”
+
+“ဒါပေမဲ့ ဒီနေရာမှာ အရာအားလုံးက အစိမ်းရောင်ပဲ မဟုတ်ဘူးလား” ဟု ဒေါ်ရသီက မေးသည်။
+
+“မဟုတ်ပါဘူး။ တခြားမြို့တွေလိုပဲ အရောင်အမျိုးမျိုး ရှိတာပါ။ ဒါပေမဲ့ အစိမ်းရောင်မျက်မှန်တပ်ထားရင် မြင်သမျှ အစိမ်းရောင်လို ဖြစ်နေမှာပေါ့။ ဒီမြို့ကို ဆောက်ခဲ့တာ နှစ်ပေါင်းများစွာ ကြာခဲ့ပြီ။ ပူဖောင်းနဲ့ ဒီကို ရောက်လာတုန်းက ငါဟာ လူငယ်တစ်ယောက်ပဲ ရှိသေးတယ်။ အခုတော့ အသက်အလွန်ကြီးနေပြီ။
+
+“လူတွေဟာ အစိမ်းရောင်မျက်မှန်ကို အချိန်အကြာကြီး တပ်လာကြတဲ့အတွက် ဒီမြို့ဟာ တကယ်ပဲ မြစိမ်းရောင်မြို့တော် ဖြစ်တယ်လို့ အများစုက ယုံကြည်နေကြတယ်။ တကယ်တော့ ဒီနေရာဟာ လှပတဲ့ မြို့တစ်မြို့ပါ။ ရတနာတွေ၊ အဖိုးတန်သတ္တုတွေ၊ လူတွေ ပျော်ရွှင်စွာ နေထိုင်ဖို့ လိုအပ်တဲ့ အရာအားလုံးလည်း ရှိတယ်။ ငါဟာ ပြည်သူတွေကို ကောင်းကောင်း ဆက်ဆံခဲ့လို့ သူတို့က ငါ့ကို ချစ်ခင်ကြတယ်။ ဒါပေမဲ့ နန်းတော်ကြီး ဆောက်ပြီးကတည်းက ငါဟာ အထဲမှာပဲ ပိတ်နေပြီး ဘယ်သူ့ကိုမှ မတွေ့ချင်ခဲ့ဘူး။
+
+“ငါ့ရဲ့ အကြီးမားဆုံး ကြောက်ရွံ့မှုတွေထဲမှာ စုန်းမတွေ ပါတယ်။ ငါ့မှာ မှော်အစွမ်း လုံးဝမရှိပေမဲ့ စုန်းမတွေက တကယ်ပဲ ထူးခြားတဲ့ အရာတွေ လုပ်နိုင်ကြောင်း မကြာခင် သိလာခဲ့တယ်။ ဒီနိုင်ငံမှာ စုန်းမလေးဦး ရှိပြီး မြောက်၊ တောင်၊ အရှေ့နဲ့ အနောက်ဘက်ဒေသတွေကို အုပ်ချုပ်ခဲ့ကြတယ်။
+
+“ကံကောင်းတာက မြောက်ဘက်နဲ့ တောင်ဘက်က စုန်းမတွေဟာ စိတ်ကောင်းရှိကြလို့ ငါ့ကို ဘာမှ မလုပ်ကြဘူး။ ဒါပေမဲ့ အရှေ့ဘက်နဲ့ အနောက်ဘက်က စုန်းမတွေက အလွန်ဆိုးရွားကြတယ်။ သူတို့က ငါ့ကို သူတို့ထက် ပိုအစွမ်းရှိသူလို့ မထင်ခဲ့ရင် ငါ့ကို အန္တရာယ်ပေးခဲ့ကြမှာ သေချာတယ်။ အဲဒီလိုနဲ့ နှစ်ပေါင်းများစွာ သူတို့ကို ကြောက်လန့်နေရတယ်။ ဒါကြောင့် မင်းတို့အိမ်က အရှေ့ဘက်စုန်းမအပေါ် ကျသွားတယ်ဆိုတဲ့ သတင်းကို ကြားရတဲ့အခါ ငါ ဘယ်လောက်တောင် ဝမ်းသာခဲ့သလဲဆိုတာ မင်းတို့ စဉ်းစားကြည့်နိုင်ပါတယ်။
+
+“မင်းတို့ ငါ့ဆီ ရောက်လာတုန်းကလည်း အခြားစုန်းမကို အနိုင်ယူပေးမယ်ဆိုရင် ဘာမဆို လုပ်ပေးမယ်လို့ ကတိပေးခဲ့တယ်။ ဒါပေမဲ့ အခု သူမလည်း အရည်ပျော်သွားပြီဆိုတော့ ငါပေးထားတဲ့ ကတိတွေကို မတည်နိုင်တော့ဘူးဆိုတာ ဝန်ခံရတာ ရှက်စရာပါပဲ” ဟု အော့ဇ်က ပြောသည်။
+
+“ကျွန်မထင်တာတော့ ရှင်ဟာ လူဆိုးတစ်ယောက်ပါပဲ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“မဟုတ်ပါဘူး သမီးရေ။ ငါက တကယ်တော့ လူကောင်းတစ်ယောက်ပါ။ ဒါပေမဲ့ မှော်ဆရာအဖြစ်တော့ အလွန်ညံ့ဖျင်းသူတစ်ယောက် ဖြစ်တယ်ဆိုတာ ဝန်ခံရပါမယ်” ဟု အော့ဇ်က ပြန်ဖြေသည်။
+
+“ဒါဆို ကျွန်တော့်ကို ဉာဏ်ပညာ မပေးနိုင်ဘူးလား” ဟု ကောက်ရိုးလူက မေးသည်။
+
+“မင်းမှာ ဉာဏ်ပညာ ရှိပြီးသားပါ။ နေ့တိုင်းလည်း အသစ်အသစ်တွေ သင်ယူနေတယ်။ ကလေးငယ်တစ်ဦးမှာ ဦးနှောက်ရှိပေမဲ့ အတွေ့အကြုံ များများစားစား မရှိသေးဘူး။ အသိပညာဆိုတာ အတွေ့အကြုံကနေ ရလာတာပါ။ ကမ္ဘာပေါ်မှာ အသက်ရှင်နေထိုင်လာတဲ့ အချိန် ပိုကြာလာလေလေ အတွေ့အကြုံ ပိုများလာလေလေပါပဲ” ဟု အော့ဇ်က ရှင်းပြသည်။
+
+“အဲဒါတွေက မှန်နိုင်ပါတယ်။ ဒါပေမဲ့ ကျွန်တော့်ကို ဉာဏ်ပညာ မပေးဘူးဆိုရင် ကျွန်တော် အလွန်ဝမ်းနည်းနေမှာပါ” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+အော့ဇ်သည် သူ့ကို သေချာကြည့်လိုက်သည်။
+
+“ကောင်းပြီ။ ငါဟာ မှော်ဆရာကောင်းတစ်ယောက် မဟုတ်ဘူးလို့ ပြောခဲ့ပြီးပြီ။ ဒါပေမဲ့ မနက်ဖြန် နံနက် ငါ့ဆီ လာခဲ့ရင် မင်းရဲ့ ခေါင်းထဲကို ဉာဏ်ပညာ ဖြည့်ပေးမယ်။ အဲဒီဉာဏ်ပညာကို ဘယ်လို အသုံးချရမယ်ဆိုတာတော့ ငါ မပြောနိုင်ဘူး။ မင်းကိုယ်တိုင် ရှာဖွေသိရှိရလိမ့်မယ်” ဟု သူက ပြောသည်။
+
+“ကျေးဇူးတင်ပါတယ်။ အများကြီး ကျေးဇူးတင်ပါတယ်။ ဘယ်လိုအသုံးချရမလဲဆိုတာ ကျွန်တော် ရှာတွေ့မှာပါ” ဟု ကောက်ရိုးလူက ဝမ်းသာအားရ ပြောသည်။
+
+“ဒါဆို ကျွန်တော့်ရဲ့ သတ္တိကရော” ဟု ခြင်္သေ့ကြီးက စိုးရိမ်စွာ မေးသည်။
+
+“မင်းမှာ သတ္တိ အများကြီး ရှိပြီးသားလို့ ငါ ယုံကြည်တယ်။ မင်းလိုအပ်နေတာက ကိုယ့်ကိုယ်ကိုယ် ယုံကြည်မှုပါပဲ။ အန္တရာယ်နဲ့ ရင်ဆိုင်ရတဲ့အခါ မကြောက်တဲ့ သက်ရှိဆိုတာ မရှိပါဘူး။ တကယ့်သတ္တိဆိုတာ ကြောက်ရွံ့နေသော်လည်း အန္တရာယ်ကို ရင်ဆိုင်နိုင်ခြင်းပါ။ အဲဒီသတ္တိမျိုး မင်းမှာ အများကြီး ရှိနေပြီးသားပါ” ဟု အော့ဇ်က ပြောသည်။
+
+“ဖြစ်နိုင်ပါတယ်။ ဒါပေမဲ့ ကျွန်တော်ကတော့ ကြောက်နေတုန်းပါပဲ။ ကြောက်စိတ်ကို မေ့သွားစေမယ့် သတ္တိမျိုး မပေးနိုင်ရင် ကျွန်တော် တကယ်ဝမ်းနည်းနေမှာပါ” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“ကောင်းပြီ။ မနက်ဖြန် မင်းကို အဲဒီလို သတ္တိမျိုး ပေးမယ်” ဟု အော့ဇ်က ပြန်ဖြေသည်။
+
+“ဒါဆို ကျွန်တော့်နှလုံးသားကရော” ဟု သံလူက မေးသည်။
+
+“အဲဒီကိစ္စနဲ့ ပတ်သက်ပြီးတော့ မင်းက နှလုံးသားကို လိုချင်တာ မှားနေတယ်လို့ ငါထင်တယ်။ နှလုံးသားရှိခြင်းက လူအများကို ဝမ်းနည်းစေတတ်တယ်။ မင်းသာ သိခဲ့မယ်ဆိုရင် နှလုံးသားမရှိတာက မင်းအတွက် ကံကောင်းတာပဲ” ဟု အော့ဇ်က ပြောသည်။
+
+“အဲဒါကတော့ တစ်ယောက်နဲ့တစ်ယောက် အမြင်မတူနိုင်တဲ့ ကိစ္စပါ။ ကျွန်တော့်အနေနဲ့တော့ ဝမ်းနည်းမှုအားလုံးကို ငြီးငြူခြင်းမရှိဘဲ ခံယူပါ့မယ်။ ကျွန်တော့်ကို နှလုံးသားတစ်ခုသာ ပေးနိုင်မယ်ဆိုရင်ပေါ့” ဟု သံလူက ပြန်ဖြေသည်။
+
+“ကောင်းပါပြီ။ မနက်ဖြန် ငါ့ဆီ လာခဲ့ပါ။ မင်းကို နှလုံးသားတစ်ခု ပေးမယ်။ ငါဟာ နှစ်ပေါင်းများစွာ မှော်ဆရာအဖြစ် သရုပ်ဆောင်ခဲ့ပြီးပြီဆိုတော့ ဒီအခန်းကဏ္ဍကို နည်းနည်းလောက် ဆက်ကစားပေးလိုက်တာလည်း မဆိုးပါဘူး” ဟု အော့ဇ်က နှိမ့်ချစွာ ပြောသည်။
+
+“ဒါဆို ကျွန်မက ကန်ဆတ်ကို ဘယ်လို ပြန်ရမလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“အဲဒီကိစ္စကိုတော့ စဉ်းစားရဦးမယ်။ နှစ်ရက်၊ သုံးရက်လောက် အချိန်ပေးပါ။ မင်းကို သဲကန္တာရကို ဖြတ်ကျော်ပြီး ပို့နိုင်မယ့် နည်းလမ်းတစ်ခု ရှာကြည့်မယ်။ အဲဒီအချိန်အတွင်း မင်းတို့အားလုံးကို ငါ့ဧည့်သည်တွေအဖြစ် ဆက်ဆံပေးမယ်။ နန်းတော်မှာ နေထိုင်နေသမျှ ငါ့လူတွေက မင်းတို့လိုအပ်သမျှကို ဖြည့်ဆည်းပေးကြလိမ့်မယ်။ ငါ့ရဲ့ အကူအညီအတွက် ပြန်လည်တောင်းဆိုချင်တဲ့ တစ်ခုတည်းသော အရာကတော့ ငါ့ရဲ့ လျှို့ဝှက်ချက်ကို ထိန်းသိမ်းပေးဖို့ပါပဲ။ ငါဟာ ဟန်ဆောင်သူတစ်ယောက်ဆိုတာ ဘယ်သူ့ကိုမှ မပြောပါနဲ့” ဟု အော့ဇ်က ပြောသည်။
+
+သူတို့သည် သိရှိခဲ့ရသော အမှန်တရားကို မည်သူ့ကိုမျှ မပြောရန် သဘောတူလိုက်ကြပြီး မိမိတို့၏ အခန်းများသို့ စိတ်အားတက်ကြွစွာ ပြန်သွားကြသည်။ ဒေါ်ရသီပင်လျှင် “ကြောက်မက်ဖွယ်ကောင်းသော ဟန်ဆောင်သူကြီး” ဟု သူမ အမည်ပေးထားသည့် အော့ဇ်သည် မိမိကို ကန်ဆတ်ပြည်သို့ ပြန်ပို့ပေးနိုင်မည့် နည်းလမ်းတစ်ခုကို ရှာတွေ့လိမ့်မည်ဟု မျှော်လင့်နေခဲ့သည်။ ထိုသို့သာ လုပ်ပေးနိုင်မည်ဆိုလျှင် သူမသည် အော့ဇ်၏ အမှားအားလုံးကို ခွင့်လွှတ်ပေးရန်ပင် အသင့်ရှိနေခဲ့သည်။`,
+    contentEn: `The four travelers walked up to the great gate of Emerald City and rang the bell. After ringing several times, it was opened by the same Guardian of the Gates they had met before.
+
+“What! are you back again?” he asked, in surprise.
+
+“Do you not see us?” answered the Scarecrow.
+
+“But I thought you had gone to visit the Wicked Witch of the West.”
+
+“We did visit her,” said the Scarecrow.
+
+“And she let you go again?” asked the man, in wonder.
+
+“She could not help it, for she is melted,” explained the Scarecrow.
+
+“Melted! Well, that is good news, indeed,” said the man. “Who melted her?”
+
+“It was Dorothy,” said the Lion gravely.
+
+“Good gracious!” exclaimed the man, and he bowed very low indeed before her.
+
+Then he led them into his little room and locked the spectacles from the great box on all their eyes, just as he had done before. Afterward they passed on through the gate into the Emerald City. When the people heard from the Guardian of the Gates that Dorothy had melted the Wicked Witch of the West, they all gathered around the travelers and followed them in a great crowd to the Palace of Oz.
+
+The soldier with the green whiskers was still on guard before the door, but he let them in at once, and they were again met by the beautiful green girl, who showed each of them to their old rooms at once, so they might rest until the Great Oz was ready to receive them.
+
+The soldier had the news carried straight to Oz that Dorothy and the other travelers had come back again, after destroying the Wicked Witch; but Oz made no reply. They thought the Great Wizard would send for them at once, but he did not. They had no word from him the next day, nor the next, nor the next. The waiting was tiresome and wearing, and at last they grew vexed that Oz should treat them in so poor a fashion, after sending them to undergo hardships and slavery.
+
+So the Scarecrow at last asked the green girl to take another message to Oz, saying if he did not let them in to see him at once they would call the Winged Monkeys to help them, and find out whether he kept his promises or not. When the Wizard was given this message he was so frightened that he sent word for them to come to the Throne Room at four minutes after nine o’clock the next morning. He had once met the Winged Monkeys in the Land of the West, and he did not wish to meet them again.
+
+The four travelers passed a sleepless night, each thinking of the gift Oz had promised to bestow on him. Dorothy fell asleep only once, and then she dreamed she was in Kansas, where Aunt Em was telling her how glad she was to have her little girl at home again.
+
+Promptly at nine o’clock the next morning the green-whiskered soldier came to them, and four minutes later they all went into the Throne Room of the Great Oz.
+
+Of course each one of them expected to see the Wizard in the shape he had taken before, and all were greatly surprised when they looked about and saw no one at all in the room. They kept close to the door and closer to one another, for the stillness of the empty room was more dreadful than any of the forms they had seen Oz take.
+
+Presently they heard a solemn Voice, that seemed to come from somewhere near the top of the great dome, and it said:
+
+“I am Oz, the Great and Terrible. Why do you seek me?”
+
+They looked again in every part of the room, and then, seeing no one, Dorothy asked, “Where are you?”
+
+“I am everywhere,” answered the Voice, “but to the eyes of common mortals I am invisible. I will now seat myself upon my throne, that you may converse with me.” Indeed, the Voice seemed just then to come straight from the throne itself; so they walked toward it and stood in a row while Dorothy said:
+
+“We have come to claim our promise, O Oz.”
+
+“What promise?” asked Oz.
+
+“You promised to send me back to Kansas when the Wicked Witch was destroyed,” said the girl.
+
+“And you promised to give me brains,” said the Scarecrow.
+
+“And you promised to give me a heart,” said the Tin Woodman.
+
+“And you promised to give me courage,” said the Cowardly Lion.
+
+“Is the Wicked Witch really destroyed?” asked the Voice, and Dorothy thought it trembled a little.
+
+“Yes,” she answered, “I melted her with a bucket of water.”
+
+“Dear me,” said the Voice, “how sudden! Well, come to me tomorrow, for I must have time to think it over.”
+
+“You’ve had plenty of time already,” said the Tin Woodman angrily.
+
+“We shan’t wait a day longer,” said the Scarecrow.
+
+“You must keep your promises to us!” exclaimed Dorothy.
+
+The Lion thought it might be as well to frighten the Wizard, so he gave a large, loud roar, which was so fierce and dreadful that Toto jumped away from him in alarm and tipped over the screen that stood in a corner. As it fell with a crash they looked that way, and the next moment all of them were filled with wonder. For they saw, standing in just the spot the screen had hidden, a little old man, with a bald head and a wrinkled face, who seemed to be as much surprised as they were.
+
+The Tin Woodman, raising his axe, rushed toward the little man and cried out, “Who are you?”
+
+“I am Oz, the Great and Terrible,” said the little man, in a trembling voice. “But don’t strike me—please don’t—and I’ll do anything you want me to.”
+
+Our friends looked at him in surprise and dismay.
+
+“I thought Oz was a great Head,” said Dorothy.
+
+“And I thought Oz was a lovely Lady,” said the Scarecrow.
+
+“And I thought Oz was a terrible Beast,” said the Tin Woodman.
+
+“And I thought Oz was a Ball of Fire,” exclaimed the Lion.
+
+“No, you are all wrong,” said the little man meekly. “I have been making believe.”
+
+“Making believe!” cried Dorothy. “Are you not a Great Wizard?”
+
+“Hush, my dear,” he said. “Don’t speak so loud, or you will be overheard—and I should be ruined. I’m supposed to be a Great Wizard.”
+
+“And aren’t you?” she asked.
+
+“Not a bit of it, my dear; I’m just a common man.”
+
+“You’re more than that,” said the Scarecrow, in a grieved tone; “you’re a humbug.”
+
+“Exactly so!” declared the little man, rubbing his hands together as if it pleased him. “I am a humbug.”
+
+“But this is terrible,” said the Tin Woodman. “How shall I ever get my heart?”
+
+“Or I my courage?” asked the Lion.
+
+“Or I my brains?” wailed the Scarecrow, wiping the tears from his eyes with his coat sleeve.
+
+“My dear friends,” said Oz, “I pray you not to speak of these little things. Think of me, and the terrible trouble I’m in at being found out.”
+
+“Doesn’t anyone else know you’re a humbug?” asked Dorothy.
+
+“No one knows it but you four—and myself,” replied Oz. “I have fooled everyone so long that I thought I should never be found out. It was a great mistake my ever letting you into the Throne Room. Usually I will not see even my subjects, and so they believe I am something terrible.”
+
+“But, I don’t understand,” said Dorothy, in bewilderment. “How was it that you appeared to me as a great Head?”
+
+“That was one of my tricks,” answered Oz. “Step this way, please, and I will tell you all about it.”
+
+He led the way to a small chamber in the rear of the Throne Room, and they all followed him. He pointed to one corner, in which lay the great Head, made out of many thicknesses of paper, and with a carefully painted face.
+
+“This I hung from the ceiling by a wire,” said Oz. “I stood behind the screen and pulled a thread, to make the eyes move and the mouth open.”
+
+“But how about the voice?” she inquired.
+
+“Oh, I am a ventriloquist,” said the little man. “I can throw the sound of my voice wherever I wish, so that you thought it was coming out of the Head. Here are the other things I used to deceive you.” He showed the Scarecrow the dress and the mask he had worn when he seemed to be the lovely Lady. And the Tin Woodman saw that his terrible Beast was nothing but a lot of skins, sewn together, with slats to keep their sides out. As for the Ball of Fire, the false Wizard had hung that also from the ceiling.
+
+It was really a ball of cotton, but when oil was poured upon it the ball burned fiercely.
+
+“Really,” said the Scarecrow, “you ought to be ashamed of yourself for being such a humbug.”
+
+“I am—I certainly am,” answered the little man sorrowfully; “but it was the only thing I could do. Sit down, please, there are plenty of chairs; and I will tell you my story.”
+
+So they sat down and listened while he told the following tale.
+
+“I was born in Omaha—”
+
+“Why, that isn’t very far from Kansas!” cried Dorothy.
+
+“No, but it’s farther from here,” he said, shaking his head at her sadly. “When I grew up I became a ventriloquist, and at that I was very well trained by a great master. I can imitate any kind of a bird or beast.” Here he mewed so like a kitten that Toto pricked up his ears and looked everywhere to see where she was. “After a time,” continued Oz, “I tired of that, and became a balloonist.”
+
+“What is that?” asked Dorothy.
+
+“A man who goes up in a balloon on circus day, so as to draw a crowd of people together and get them to pay to see the circus,” he explained.
+
+“Oh,” she said, “I know.”
+
+“Well, one day I went up in a balloon and the ropes got twisted, so that I couldn’t come down again. It went way up above the clouds, so far that a current of air struck it and carried it many, many miles away. For a day and a night I traveled through the air, and on the morning of the second day I awoke and found the balloon floating over a strange and beautiful country.
+
+“It came down gradually, and I was not hurt a bit. But I found myself in the midst of a strange people, who, seeing me come from the clouds, thought I was a great Wizard. Of course I let them think so, because they were afraid of me, and promised to do anything I wished them to.
+
+“Just to amuse myself, and keep the good people busy, I ordered them to build this City, and my Palace; and they did it all willingly and well. Then I thought, as the country was so green and beautiful, I would call it the Emerald City; and to make the name fit better I put green spectacles on all the people, so that everything they saw was green.”
+
+“But isn’t everything here green?” asked Dorothy.
+
+“No more than in any other city,” replied Oz; “but when you wear green spectacles, why of course everything you see looks green to you. The Emerald City was built a great many years ago, for I was a young man when the balloon brought me here, and I am a very old man now.
+
+“But my people have worn green glasses on their eyes so long that most of them think it really is an Emerald City, and it certainly is a beautiful place, abounding in jewels and precious metals, and every good thing that is needed to make one happy. I have been good to the people, and they like me; but ever since this Palace was built, I have shut myself up and would not see any of them.
+
+“One of my greatest fears was the Witches, for while I had no magical powers at all I soon found out that the Witches were really able to do wonderful things. There were four of them in this country, and they ruled the people who live in the North and South and East and West.
+
+“Fortunately, the Witches of the North and South were good, and I knew they would do me no harm; but the Witches of the East and West were terribly wicked, and had they not thought I was more powerful than they themselves, they would surely have destroyed me. As it was, I lived in deadly fear of them for many years; so you can imagine how pleased I was when I heard your house had fallen on the Wicked Witch of the East.
+
+“When you came to me, I was willing to promise anything if you would only do away with the other Witch; but, now that you have melted her, I am ashamed to say that I cannot keep my promises.”
+
+“I think you are a very bad man,” said Dorothy.
+
+“Oh, no, my dear; I’m really a very good man, but I’m a very bad Wizard, I must admit.”
+
+“Can’t you give me brains?” asked the Scarecrow.
+
+“You don’t need them. You are learning something every day. A baby has brains, but it doesn’t know much. Experience is the only thing that brings knowledge, and the longer you are on earth the more experience you are sure to get.”
+
+“That may all be true,” said the Scarecrow, “but I shall be very unhappy unless you give me brains.”
+
+The false Wizard looked at him carefully.
+
+“Well,” he said with a sigh, “I’m not much of a magician, as I said; but if you will come to me tomorrow morning, I will stuff your head with brains. I cannot tell you how to use them, however; you must find that out for yourself.”
+
+“Oh, thank you—thank you!” cried the Scarecrow. “I’ll find a way to use them, never fear!”
+
+“But how about my courage?” asked the Lion anxiously.
+
+“You have plenty of courage, I am sure,” answered Oz. “All you need is confidence in yourself. There is no living thing that is not afraid when it faces danger. The True courage is in facing danger when you are afraid, and that kind of courage you have in plenty.”
+
+“Perhaps I have, but I’m scared just the same,” said the Lion. “I shall really be very unhappy unless you give me the sort of courage that makes one forget he is afraid.”
+
+“Very well, I will give you that sort of courage tomorrow,” replied Oz.
+
+“How about my heart?” asked the Tin Woodman.
+
+“Why, as for that,” answered Oz, “I think you are wrong to want a heart. It makes most people unhappy. If you only knew it, you are in luck not to have a heart.”
+
+“That must be a matter of opinion,” said the Tin Woodman. “For my part, I will bear all the unhappiness without a murmur, if you will give me the heart.”
+
+“Very well,” answered Oz meekly. “Come to me tomorrow and you shall have a heart. I have played Wizard for so many years that I may as well continue the part a little longer.”
+
+“And now,” said Dorothy, “how am I to get back to Kansas?”
+
+“We shall have to think about that,” replied the little man. “Give me two or three days to consider the matter and I’ll try to find a way to carry you over the desert. In the meantime you shall all be treated as my guests, and while you live in the Palace my people will wait upon you and obey your slightest wish. There is only one thing I ask in return for my help—such as it is. You must keep my secret and tell no one I am a humbug.”
+
+They agreed to say nothing of what they had learned, and went back to their rooms in high spirits. Even Dorothy had hope that “The Great and Terrible Humbug,” as she called him, would find a way to send her back to Kansas, and if he did she was willing to forgive him everything.`,
+  },
 ] as const;
