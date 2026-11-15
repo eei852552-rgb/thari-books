@@ -26,7 +26,8 @@ import { artOfLearningChapters } from "../data/artOfLearning";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
-const readingProgressKey = "thari-books:last-reading";
+const readingProgressKey = "thari-books:reading-progress:v2";
+const legacyReadingProgressKey = "thari-books:last-reading";
 
 const readerChaptersByBookId = {
   "pride-and-prejudice": prideAndPrejudiceChaptersMy,
@@ -196,27 +197,56 @@ function getAssetPath(relativePath: string) {
   return `${import.meta.env.BASE_URL}${relativePath}`;
 }
 
-function readProgress(): ReaderProgress | null {
+function normalizeProgress(value: Partial<ReaderProgress>, bookId?: string): ReaderProgress | null {
+  const id = typeof value.bookId === "string" ? value.bookId : bookId;
+  if (!id || !openBooks.some((book) => book.id === id)) return null;
+  if (typeof value.chapterIndex !== "number" || !Number.isFinite(value.chapterIndex) || !Number.isInteger(value.chapterIndex)) return null;
+  if (typeof value.page !== "number" || !Number.isFinite(value.page) || !Number.isInteger(value.page)) return null;
+  return {
+    bookId: id,
+    chapterIndex: Math.max(0, value.chapterIndex),
+    page: Math.max(0, value.page),
+    language: value.language === "en" ? "en" : "my",
+    updatedAt: typeof value.updatedAt === "number" && Number.isFinite(value.updatedAt) ? value.updatedAt : Date.now(),
+  };
+}
+
+function readAllProgress(): Record<string, ReaderProgress> {
   try {
     const raw = window.localStorage.getItem(readingProgressKey);
-    if (!raw) return null;
-    const value = JSON.parse(raw) as Partial<ReaderProgress>;
-    if (!value.bookId || typeof value.chapterIndex !== "number" || !Number.isFinite(value.chapterIndex) || !Number.isInteger(value.chapterIndex) || typeof value.page !== "number" || !Number.isFinite(value.page) || !Number.isInteger(value.page)) return null;
-    if (!openBooks.some((book) => book.id === value.bookId)) return null;
-    return {
-      bookId: value.bookId,
-      chapterIndex: Math.max(0, value.chapterIndex),
-      page: Math.max(0, value.page),
-      language: value.language === "en" ? "en" : "my",
-      updatedAt: typeof value.updatedAt === "number" && Number.isFinite(value.updatedAt) ? value.updatedAt : Date.now(),
-    };
+    if (raw) {
+      const parsed = JSON.parse(raw) as Record<string, Partial<ReaderProgress>>;
+      const progress: Record<string, ReaderProgress> = {};
+      for (const [bookId, value] of Object.entries(parsed)) {
+        const normalized = normalizeProgress(value, bookId);
+        if (normalized) progress[bookId] = normalized;
+      }
+      return progress;
+    }
+
+    // Migrate the previous single-book bookmark without losing the reader's place.
+    const legacyRaw = window.localStorage.getItem(legacyReadingProgressKey);
+    if (!legacyRaw) return {};
+    const legacy = normalizeProgress(JSON.parse(legacyRaw) as Partial<ReaderProgress>);
+    if (!legacy) return {};
+    const migrated = { [legacy.bookId]: legacy };
+    window.localStorage.setItem(readingProgressKey, JSON.stringify(migrated));
+    return migrated;
   } catch {
-    return null;
+    return {};
   }
 }
 
-function saveProgress(progress: ReaderProgress) {
+function readProgress(bookId?: string): ReaderProgress | null {
+  const progress = readAllProgress();
+  if (bookId) return progress[bookId] ?? null;
+  return Object.values(progress).sort((a, b) => b.updatedAt - a.updatedAt)[0] ?? null;
+}
+
+function saveProgress(nextProgress: ReaderProgress) {
   try {
+    const progress = readAllProgress();
+    progress[nextProgress.bookId] = nextProgress;
     window.localStorage.setItem(readingProgressKey, JSON.stringify(progress));
   } catch {
     // Private browsing and restricted webviews can deny localStorage. Reading remains usable.
@@ -340,7 +370,7 @@ export default function Home() {
   };
 
   const openReader = (book: OpenBook) => {
-    const saved = readProgress();
+    const saved = readProgress(book.id);
     const chapters = (readerChaptersByBookId[book.id as keyof typeof readerChaptersByBookId] ?? []) as readonly ReaderChapter[];
     const savedForBook = saved?.bookId === book.id ? saved : null;
     setSelectedBook(book);
@@ -453,7 +483,7 @@ export default function Home() {
           {lastReadBook && readerChaptersByBookId[lastReadBook.id as keyof typeof readerChaptersByBookId] && (
             <button className="resume-card" type="button" onClick={() => openReader(lastReadBook)}>
               <span className="resume-card-icon"><Bookmark size={17} /></span>
-              <span><small>{ui.lastRead}</small><strong>{ui.continueReading}</strong><em>{lastReadBook.titleMy} · {ui.chapter} {(resumeProgress?.chapterIndex ?? 0) + 1}</em></span>
+              <span><small>{ui.lastRead}</small><strong>{ui.continueReading}</strong><em>{lastReadBook.titleMy} · {ui.chapter} {(resumeProgress?.chapterIndex ?? 0) + 1} · {ui.page} {(resumeProgress?.page ?? 0) + 1}</em></span>
               <ArrowRight size={18} />
             </button>
           )}
