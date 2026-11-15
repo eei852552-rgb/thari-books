@@ -517,10 +517,155 @@ Review your daily schedule and see whether you can leave one period unassigned. 
 
 ---
 
+
+---
+
+# အခန်း ၉။ ရေရှည်ရည်မှန်းချက်နှင့် နေ့စဉ်ခြေလှမ်း
+## Chapter 9. Long-Term Goals and Daily Steps
+
+### မြန်မာစာ
+
+ရေရှည်ရည်မှန်းချက်တစ်ခုသည် အနာဂတ်တွင် မိမိရောက်ရှိလိုသော နေရာကို ပြသပေးသည်။ သို့သော် ရည်မှန်းချက်တစ်ခုတည်းဖြင့် ထိုနေရာသို့ မရောက်နိုင်ပါ။ နေ့စဉ်လုပ်ဆောင်နိုင်သော ခြေလှမ်းများနှင့် ချိတ်ဆက်ရန် လိုအပ်သည်။ အိပ်မက်တစ်ခုသည် ကြီးမားနိုင်သော်လည်း ယနေ့လုပ်နိုင်သည့် အရာသည် သေးငယ်နိုင်သည်။ ထိုသေးငယ်သော လုပ်ဆောင်ချက်များကို ဆက်တိုက်ပြုလုပ်ခြင်းက အချိန်ကြာလာသည်နှင့်အမျှ တိုးတက်မှုကို ဖြစ်စေနိုင်သည်။
+
+ရည်မှန်းချက်တစ်ခုကို အကောင်အထည်ဖော်ရာတွင် အဆုံးရလဒ်တစ်ခုတည်းကိုသာ အာရုံစိုက်မနေသင့်ပါ။ သင်ယူရမည့်အရာ၊ လေ့ကျင့်ရမည့်အရာ၊ လိုအပ်သောအရင်းအမြစ်နှင့် အကူအညီတို့ကိုလည်း စဉ်းစားရသည်။ ဥပမာ၊ စာရေးဆရာဖြစ်လိုသူတစ်ဦးသည် စာအုပ်တစ်အုပ် ထုတ်ဝေရန်သာ မစဉ်းစားဘဲ စာဖတ်ခြင်း၊ အကြောင်းအရာစီစဉ်ခြင်း၊ ပုံမှန်ရေးသားခြင်းနှင့် ပြန်လည်ပြင်ဆင်ခြင်းတို့ကို လေ့ကျင့်ရမည်။
+
+**ဥပမာ — ဘာသာစကားတစ်ခုကို လေ့လာခြင်း**
+
+မောင်ထက်သည် အင်္ဂလိပ်စာကို ပိုမိုနားလည်လိုသည်။ အချိန်တိုအတွင်း ကျွမ်းကျင်သူဖြစ်ရန် မမျှော်လင့်ဘဲ နေ့စဉ် စကားလုံးအနည်းငယ်ကို လေ့လာခြင်း၊ စာပိုဒ်တိုတစ်ခုဖတ်ခြင်းနှင့် မိမိသင်ယူထားသည့်အရာကို ပြန်လည်အသုံးပြုခြင်းတို့ကို စတင်သည်။ တစ်နေ့တွင် အချိန်မရပါက လေ့ကျင့်မှုကို လုံးဝစွန့်ပစ်မည့်အစား အချိန်တိုသော ပြန်လည်သုံးသပ်မှုတစ်ခု ပြုလုပ်နိုင်သည်။ သူ၏တိုးတက်မှုကို တစ်နေ့တည်းဖြင့် မဆုံးဖြတ်ဘဲ အချိန်အတိုင်းအတာတစ်ခုအတွင်း ပြန်လည်ကြည့်ရှုသည်။
+
+ရေရှည်ရည်မှန်းချက်များသည် အခြေအနေပြောင်းလဲလာသည့်အခါ ပြန်လည်စဉ်းစားရန် လိုအပ်နိုင်သည်။ မိမိ၏စိတ်ဝင်စားမှု၊ တာဝန်နှင့် အရင်းအမြစ်တို့ ပြောင်းလဲနိုင်သည်။ ရည်မှန်းချက်ကို ပြင်ဆင်ခြင်းသည် အားနည်းခြင်းမဟုတ်ပါ။ အချက်အလက်အသစ်များနှင့် မိမိ၏အတွေ့အကြုံကို အခြေခံ၍ ပိုမိုသင့်တော်သောလမ်းကြောင်း ရွေးချယ်ခြင်းဖြစ်နိုင်သည်။
+
+တိုးတက်မှုကို တိုင်းတာရာတွင် အခြားသူများနှင့် နှိုင်းယှဉ်ခြင်းထက် မိမိ၏ယခင်အခြေအနေနှင့် နှိုင်းယှဉ်ခြင်းက ပိုမိုအသုံးဝင်နိုင်သည်။ မည်သည့်အရာကို ယခင်က မသိခဲ့သလဲ၊ ယခု ဘာကို လုပ်နိုင်လာသလဲ၊ နောက်တစ်ဆင့်အတွက် ဘာလိုအပ်သလဲဆိုသည်ကို ပြန်လည်သုံးသပ်ပါ။ အချိန်တိုင်း တိုးတက်မှုမြင်ရမည်ဟု မမျှော်လင့်ပါနှင့်။ တစ်ခါတစ်ရံ အနားယူခြင်း၊ အမှားမှ သင်ယူခြင်းနှင့် လမ်းကြောင်းပြင်ဆင်ခြင်းတို့သည်လည်း တိုးတက်မှု၏ အစိတ်အပိုင်းများဖြစ်သည်။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — ရည်မှန်းချက်မှ နောက်တစ်ဆင့်သို့
+
+မိမိအတွက် အရေးကြီးသော ရေရှည်ရည်မှန်းချက်တစ်ခုကို ရွေးပါ။ ထိုရည်မှန်းချက်အတွက် လိုအပ်သော ကျွမ်းကျင်မှု သို့မဟုတ် အသိပညာသုံးခုကို ချရေးပါ။ ယခုအပတ်အတွင်း စတင်နိုင်သည့် လုပ်ဆောင်ချက်တစ်ခုကို ရွေးပြီး အချိန်သတ်မှတ်ပါ။ ပြီးမြောက်မှုကိုသာမက သင်ယူခဲ့သည့်အရာကိုလည်း မှတ်သားပါ။
+
+### စဉ်းစားရန်
+- ရေရှည်ရည်မှန်းချက်တစ်ခုကို နေ့စဉ်လုပ်ဆောင်ချက်နှင့် ဘယ်လိုချိတ်ဆက်နိုင်သလဲ။
+- ရည်မှန်းချက်ကို ပြင်ဆင်ခြင်းသည် ဘယ်အချိန်တွင် သင့်တော်နိုင်သလဲ။
+- မိမိ၏တိုးတက်မှုကို မိမိနှင့်သာ နှိုင်းယှဉ်ခြင်းက ဘာကြောင့် အထောက်အကူဖြစ်နိုင်သလဲ။
+
+### English
+
+A long-term goal gives us a picture of where we hope to go. But a goal alone cannot take us there. It needs to be connected to actions we can take in everyday life. A dream may be large while today's action is small. Repeating meaningful small actions can create progress over time.
+
+When working towards a goal, do not focus only on the final result. Consider what you need to learn, what you need to practise, and which resources or support may be necessary. Someone who hopes to become a writer, for example, needs more than the ambition to publish a book. Reading, planning ideas, writing regularly, and revising are all part of the process.
+
+**Example — Learning a language**
+
+Maung Htet wants to understand English better. Rather than expecting to become fluent in a short period, he begins by learning a few words each day, reading a short passage, and using what he has learned. On a day when time is limited, he may do a brief review instead of abandoning the practice entirely. He evaluates progress over a period of time rather than judging it by one day.
+
+Long-term goals may need to be reconsidered when circumstances change. Interests, responsibilities, and available resources can shift. Revising a goal is not necessarily a weakness. It may be a more suitable direction based on new information and experience.
+
+When measuring progress, comparing yourself with your own earlier position may be more useful than comparing yourself with other people. Ask what you did not know before, what you can do now, and what the next step requires. Do not expect visible progress every day. Rest, learning from mistakes, and adjusting direction can also be part of progress.
+
+### Practical exercise — From a goal to the next step
+
+Choose one long-term goal that matters to you. List three skills or areas of knowledge it may require. Select one action you can begin this week and give it a place in your schedule. Record not only what you completed but also what you learned.
+
+### Reflection
+- How can you connect a long-term goal with daily action?
+- When might revising a goal be appropriate?
+- Why can it help to compare your progress with your own earlier experience?
+
+---
+
+# အခန်း ၁၀။ အချိန်ကို သတိရှိစွာ နေထိုင်ခြင်း
+## Chapter 10. Living with Awareness of Time
+
+### မြန်မာစာ
+
+အချိန်ကို သတိရှိစွာ နေထိုင်ခြင်းသည် နာရီကို အမြဲကြည့်နေခြင်း မဟုတ်ပါ။ မိမိ၏အချိန်ကို ဘယ်အရာများက ဖြည့်ဆည်းနေသည်၊ ဘယ်အရာများက အရေးကြီးသည်၊ မိမိ၏ရွေးချယ်မှုများသည် အခြားသူများနှင့် မိမိအပေါ် ဘယ်လိုသက်ရောက်မှုရှိသည်ကို သတိပြုခြင်းဖြစ်သည်။ အချိန်ကို စီမံခန့်ခွဲခြင်းသည် နေ့စဉ်ဘဝကို အပြည့်အဝ ထိန်းချုပ်နိုင်ရန် မဟုတ်ဘဲ မိမိ၏ရွေးချယ်မှုများကို ပိုမိုရှင်းလင်းစေရန် ဖြစ်သည်။
+
+တစ်နေ့တာ၏ အဓိပ္ပာယ်ကို အလုပ်ပြီးမြောက်မှုအရေအတွက်ဖြင့်သာ မတိုင်းတာသင့်ပါ။ တစ်စုံတစ်ဦးကို ကူညီပေးခဲ့ခြင်း၊ မိသားစုနှင့် အချိန်ပေးခဲ့ခြင်း၊ အသစ်တစ်ခု သင်ယူခဲ့ခြင်း၊ မိမိ၏အမှားကို နားလည်ခဲ့ခြင်း သို့မဟုတ် လိုအပ်သည့်အချိန်တွင် အနားယူခဲ့ခြင်းတို့သည်လည်း တန်ဖိုးရှိသောနေ့တစ်နေ့ကို ဖြစ်စေနိုင်သည်။
+
+**ဥပမာ — အောင်မြင်သောနေ့တစ်နေ့၏ အဓိပ္ပာယ်**
+
+ခင်မောင်သည် တစ်နေ့တာအဆုံးတွင် မိမိစီစဉ်ထားသော အလုပ်အားလုံး မပြီးခဲ့ကြောင်း သတိပြုမိသည်။ သို့သော် သူသည် အရေးကြီးသောတာဝန်တစ်ခုကို ပြီးမြောက်ခဲ့သည်၊ မိသားစုဝင်တစ်ဦးကို ကူညီခဲ့သည်၊ လေ့လာမှုအသစ်တစ်ခု ပြုလုပ်ခဲ့ပြီး လုံလောက်စွာ အနားယူခဲ့သည်။ သူသည် မပြီးခဲ့သောအလုပ်များကို နောက်နေ့အတွက် ပြန်လည်စီစဉ်ပြီး ထိုနေ့ကို အချည်းနှီးဟု မသတ်မှတ်တော့ပါ။ အောင်မြင်မှုကို အလုပ်အရေအတွက်တစ်ခုတည်းဖြင့် မဆုံးဖြတ်သင့်ကြောင်း သူနားလည်လာသည်။
+
+အချိန်ကို သတိရှိစွာ အသုံးပြုနိုင်ရန် မိမိ၏တန်ဖိုးထားမှုကို သိရန် လိုအပ်သည်။ မိမိအတွက် အရေးကြီးသောအရာများကို မသိပါက အခြားသူများ၏တောင်းဆိုမှုနှင့် နေ့စဉ်အနှောင့်အယှက်များက အချိန်ကို အလွယ်တကူ ဖြည့်သွင်းသွားနိုင်သည်။ မိမိ၏တန်ဖိုးထားမှုကို သိရှိခြင်းက အရာအားလုံးကို ငြင်းပယ်ရန် မဟုတ်ပါ။ မည်သည့်အရာကို လက်ခံမည်၊ ဘယ်အရာကို နောက်သို့ရွှေ့မည်၊ ဘယ်အရာကို အကူအညီတောင်းမည်ဆိုသည်ကို ပိုမိုကောင်းမွန်စွာ ဆုံးဖြတ်နိုင်စေသည်။
+
+အချိန်နှင့်ပတ်သက်၍ အခြားသူများကိုလည်း လေးစားပါ။ တွေ့ဆုံရန် သဘောတူထားသောအချိန်ကို လိုက်နာခြင်း၊ နောက်ကျမည်ဆိုလျှင် အသိပေးခြင်း၊ စကားပြောနေသူကို အာရုံစိုက်နားထောင်ခြင်းနှင့် မိမိ၏တာဝန်ကို အချိန်မီဆောင်ရွက်ရန် ကြိုးစားခြင်းတို့သည် အချိန်ကို လေးစားသည့် နေ့စဉ်အပြုအမူများဖြစ်သည်။
+
+နောက်ဆုံးတွင် အချိန်ကို သတိရှိစွာ နေထိုင်ခြင်းသည် ပြီးပြည့်စုံသောအချိန်ဇယားတစ်ခု ရရှိခြင်းမဟုတ်ပါ။ မိမိ၏နေ့ရက်များကို အဓိပ္ပာယ်ရှိစေမည့် ရွေးချယ်မှုများကို တဖြည်းဖြည်း သင်ယူခြင်းဖြစ်သည်။ တစ်နေ့တာ အဆင်မပြေခဲ့လျှင် နောက်တစ်နေ့တွင် ပြန်စနိုင်သည်။ မိမိ၏အခြေအနေကို နားလည်ပြီး အရေးကြီးသောအရာများအတွက် နေရာပေးနိုင်ခြင်းက အချိန်ကို တန်ဖိုးထားသည့် နည်းလမ်းတစ်ခုဖြစ်သည်။
+
+### လက်တွေ့လေ့ကျင့်ခန်း — တစ်နေ့တာကို ပြန်လည်ကြည့်ရှုခြင်း
+
+ညနေခင်းတွင် မေးခွန်းလေးခုကို ဖြေပါ။
+1. ဒီနေ့ မိမိအတွက် အရေးကြီးခဲ့သောအရာက ဘာလဲ။
+2. ဘယ်အရာက မိမိ၏အချိန်ကို မမျှော်လင့်ဘဲ ပြောင်းလဲစေခဲ့သလဲ။
+3. ဘယ်အချိန်တွင် အနားယူရန် သို့မဟုတ် အကူအညီတောင်းရန် လိုအပ်ခဲ့သလဲ။
+4. မနက်ဖြန်အတွက် ပြောင်းလဲလိုသည့် အချက်တစ်ခုက ဘာလဲ။
+
+အဖြေများကို မိမိကိုယ်ကို အကဲဖြတ်ရန်မဟုတ်ဘဲ သင်ယူရန် အသုံးပြုပါ။
+
+### စဉ်းစားရန်
+- အချိန်ကို သတိရှိစွာ နေထိုင်ခြင်းသည် အမြဲအလုပ်လုပ်နေခြင်းနှင့် ဘယ်လိုကွာခြားသလဲ။
+- မိမိ၏တန်ဖိုးထားမှုက နေ့စဉ်ရွေးချယ်မှုများကို ဘယ်လိုလမ်းညွှန်ပေးသလဲ။
+- မိမိနှင့် အခြားသူများ၏အချိန်ကို လေးစားရန် ဘယ်လိုအပြုအမူများ လိုအပ်သလဲ။
+
+### English
+
+Living with awareness of time does not mean constantly watching the clock. It means noticing what fills our days, what matters to us, and how our choices affect ourselves and other people. Managing time is not about gaining complete control over daily life; it is about making our choices clearer.
+
+The meaning of a day should not be measured only by the number of tasks completed. Helping someone, spending time with family, learning something new, understanding a mistake, or resting when needed can all contribute to a valuable day.
+
+**Example — What makes a successful day**
+
+At the end of the day, Khin Maung notices that he did not finish every task he had planned. Yet he completed one important responsibility, helped a family member, learned something new, and rested adequately. He moves the unfinished tasks to a more realistic plan for tomorrow instead of deciding that the day was worthless. He begins to understand that success cannot be measured by the number of tasks alone.
+
+Using time consciously requires an understanding of our values. If we do not know what matters to us, other people's requests and daily interruptions can easily fill our schedules. Knowing our values does not mean refusing everything. It helps us decide what to accept, what to postpone, and when to ask for help.
+
+Respect other people's time as well. Keeping agreed appointments, giving notice when delayed, listening attentively, and trying to meet responsibilities on time are everyday ways of showing respect.
+
+Ultimately, living with awareness of time does not mean achieving a perfect schedule. It means gradually learning to make choices that give our days meaning. If one day does not go as planned, we can begin again the next day. Understanding our circumstances and making room for what matters are ways of valuing time.
+
+### Practical exercise — Review your day
+
+In the evening, answer four questions:
+1. What mattered to me today?
+2. What unexpectedly changed how I used my time?
+3. When did I need rest or help?
+4. What is one thing I would like to adjust tomorrow?
+
+Use your answers to learn, not to judge yourself.
+
+### Reflection
+- How is living consciously different from always being busy?
+- How can your values guide everyday choices?
+- What behaviours show respect for your time and the time of others?
+
+---
+
+# နိဂုံး | Conclusion
+
+အချိန်ကို ပြန်လည်ရယူ၍ မရသော်လည်း အချိန်ကို အသုံးပြုသည့်ပုံစံကို ပြန်လည်စဉ်းစားနိုင်သည်။ တစ်နေ့တာကို အလုပ်များဖြင့် ပြည့်စေရန်ထက် မိမိအတွက် အရေးကြီးသောအရာများကို သိရှိပြီး ထိုအရာများအတွက် နေရာပေးခြင်းက ပိုမိုအဓိပ္ပာယ်ရှိနိုင်သည်။ အချိန်ကို တန်ဖိုးထားခြင်းသည် အလုပ်နှင့် အနားယူမှု၊ ကိုယ်ပိုင်ရည်မှန်းချက်နှင့် အခြားသူများအပေါ် တာဝန်၊ အစီအစဉ်နှင့် မမျှော်လင့်ထားသောအရာတို့အကြား မျှတမှုကို ရှာဖွေခြင်းဖြစ်သည်။
+
+ဤစာအုပ်တွင် လေ့လာခဲ့သည့် နည်းလမ်းများအားလုံးကို တစ်ပြိုင်နက်တည်း လိုက်နာရန် မလိုပါ။ မိမိအတွက် အသုံးဝင်မည့် အချက်တစ်ခုကို ရွေးချယ်ပြီး စမ်းသပ်ပါ။ အချိန်အသုံးပြုမှုကို ပြန်လည်သုံးသပ်ပါ။ အဆင်မပြေသည့်နည်းလမ်းကို ပြင်ဆင်ပါ။ အခြားသူများ၏ဘဝနှင့် မိမိဘဝကို မနှိုင်းယှဉ်ဘဲ မိမိ၏အခြေအနေကို နားလည်ပါ။
+
+နေ့စဉ်ဘဝတွင် အရေးကြီးသောအရာများသည် အမြဲကြီးမားသောအောင်မြင်မှုများ မဟုတ်ပါ။ မိသားစုနှင့် အချိန်ပေးခြင်း၊ သင်ယူမှုတစ်ခုကို ဆက်လက်လုပ်ဆောင်ခြင်း၊ တာဝန်တစ်ခုကို ရိုးသားစွာ ပြီးမြောက်ခြင်း၊ မိမိကိုယ်ကို အနားပေးခြင်းနှင့် အမှားတစ်ခုမှ သင်ခန်းစာယူခြင်းတို့သည်လည်း တန်ဖိုးရှိသည်။ အချိန်၏တန်ဖိုးသည် နာရီအရေအတွက်ထဲတွင်သာ မဟုတ်ဘဲ ထိုအချိန်အတွင်း မည်သည့်အရာကို ဂရုစိုက်ရွေးချယ်ခဲ့သည်ဆိုသည့် အဓိပ္ပာယ်ထဲတွင်လည်း ရှိသည်။
+
+## Conclusion
+
+We cannot recover time that has passed, but we can reconsider how we use the time ahead. Rather than filling every day with tasks, it may be more meaningful to understand what matters and make room for it. Valuing time involves seeking balance between work and rest, personal goals and responsibilities to others, planning and unexpected events.
+
+You do not need to apply every idea in this book at once. Choose one approach that may be useful and test it. Review how you use your time. Adjust methods that do not work. Understand your own circumstances instead of measuring your life against someone else's.
+
+What matters in everyday life is not always a major achievement. Spending time with family, continuing to learn, completing a responsibility honestly, allowing yourself to rest, and learning from a mistake can all be valuable. The value of time is found not only in the number of hours, but also in what we choose to care for during them.
+
+---
+
+## စာဖတ်သူအတွက် နောက်ဆုံးမှတ်စု | A Final Note for Readers
+
+ဤစာအုပ်ပါ ဥပမာများသည် ရှင်းလင်းချက်အတွက် ဖန်တီးထားသော ဥပမာများဖြစ်သည်။ အချိန်စီမံခန့်ခွဲမှုနည်းလမ်းတစ်ခုသည် လူတိုင်းနှင့် အခြေအနေတိုင်းအတွက် တူညီစွာ မသင့်တော်နိုင်ပါ။ မိမိ၏တာဝန်၊ ကျန်းမာရေး၊ မိသားစုအခြေအနေနှင့် ရရှိနိုင်သောအရင်းအမြစ်များကို ထည့်သွင်းစဉ်းစားပြီး သင့်တော်သည့်နည်းလမ်းကို ရွေးချယ်ပါ။
+
+The examples in this book are illustrative. No single time-management approach will suit every person or circumstance. Consider your responsibilities, wellbeing, family situation, and available resources when choosing what works for you.
+
 ## စာမူတိုးတက်မှု | Manuscript progress
 
-**ရေးသားပြီး / Drafted:** အမှာစာ၊ မာတိကာ၊ နိဒါန်းနှင့် အခန်း ၁–၈ ကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ရေးသားထားသည်။
+**ရေးသားပြီး / Drafted:** အမှာစာ၊ မာတိကာ၊ နိဒါန်းနှင့် အခန်း ၁–၁၀ နှင့် နိဂုံးကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ရေးသားထားသည်။
 
-**ကျန်ရှိ / Pending:** အခန်း ၉–၁၀၊ နိဂုံး၊ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာစစ်ဆေးမှု၊ ဥပမာနှင့် အကြောင်းအရာထပ်နေမှုစစ်ဆေးခြင်း၊ သရုပ်ဖော်ပုံများ။
+**ကျန်ရှိ / Pending:** ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာစစ်ဆေးမှု၊ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာစစ်ဆေးမှု၊ ဥပမာနှင့် အကြောင်းအရာထပ်နေမှုစစ်ဆေးခြင်း၊ သရုပ်ဖော်ပုံများ။
 
 **Status:** Early manuscript — not complete and not publication-ready.
