@@ -4071,4 +4071,29 @@ For she was sitting on the broad Kansas prairie, and just before her was the new
 
 Dorothy stood up and found she was in her stocking-feet. For the Silver Shoes had fallen off in her flight through the air, and were lost forever in the desert.`,
   },
+  {
+    number: 24,
+    title: "အခန်း (၂၄) — အိမ်ပြန်ရောက်ခြင်း",
+    titleEn: "Chapter 24 — Home Again",
+    content: `အဒေါ်အမ်သည် ဂေါ်ဖီပင်များကို ရေလောင်းရန် အိမ်ထဲမှ ထွက်လာခါစတွင် ဒေါ်ရသီလေး သူမဆီသို့ ပြေးလာနေသည်ကို မော့ကြည့်ပြီး မြင်လိုက်သည်။
+
+“ချစ်ရတဲ့ ကလေးလေးရေ!” ဟု သူမက အော်ခေါ်လိုက်ပြီး ဒေါ်ရသီကို ရင်ခွင်ထဲ ဆွဲဖက်ကာ မျက်နှာအနှံ့ အနမ်းများ ပေးလိုက်သည်။ “ဘယ်ကနေ ရောက်လာတာလဲ ကလေးရယ်။”
+
+“အော့ဇ်နိုင်ငံက ပြန်လာတာပါ” ဟု ဒေါ်ရသီက တည်ငြိမ်စွာ ပြန်ဖြေသည်။ “တိုတိုလည်း ပါလာတယ် အဒေါ်အမ်ရေ။ အိမ်ကို ပြန်ရောက်လာလို့ ကျွန်မ ဘယ်လောက်ဝမ်းသာနေသလဲဆိုတာ ပြောမပြတတ်တော့ပါဘူး။”
+
+---
+
+**THARi BOOKS မှ ကျေးဇူးတင်စကား**
+
+ဤစာအုပ်ကို အချိန်ပေးဖတ်ရှုပေးခဲ့တဲ့ စာဖတ်သူတစ်ဦးချင်းစီတိုင်းကို THARi BOOKS မှ အထူးကျေးဇူးတင်ရှိပါတယ်။ စာအုပ်ထဲက စိတ်ကူးအတွေးများ၊ သင်ခန်းစာများနဲ့ စွန့်စားခန်းများက သင့်ရဲ့နေ့ရက်တွေကို အဓိပ္ပာယ်ရှိစေပြီး အသိပညာအသစ်တွေ ရရှိစေမယ်လို့ မျှော်လင့်ပါတယ်။ နောက်ထပ်စာအုပ်ကောင်းများနဲ့လည်း ပြန်လည်ဆုံတွေ့ကြပါစေ။
+
+**THARi BOOKS ဆောင်ပုဒ်**
+
+“စာမျက်နှာတိုင်းမှာ အသိပညာ၊ စာအုပ်တိုင်းမှာ အနာဂတ်အလင်း။”`,
+    contentEn: `Aunt Em had just come out of the house to water the cabbages when she looked up and saw Dorothy running toward her.
+
+“My darling child!” she cried, folding the little girl in her arms and covering her face with kisses. “Where in the world did you come from?”
+
+“From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I’m so glad to be at home again!”`,
+  },
 ] as const;
