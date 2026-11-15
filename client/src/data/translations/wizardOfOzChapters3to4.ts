@@ -2023,4 +2023,149 @@ Therefore it was decided to start upon their journey the next morning, and the W
 
 They went to bed quite early and slept soundly until daylight, when they were awakened by the crowing of a green cock that lived in the back yard of the Palace, and the cackling of a hen that had laid a green egg.`,
   },
+  {
+    number: 12,
+    title: "အခန်း (၁၂) — ဆိုးယုတ်သော စုန်းမကို ရှာဖွေခြင်း",
+    titleEn: "Chapter 12 — The Search for the Wicked Witch",
+    content: `အစိမ်းရောင်မုတ်ဆိတ်ရှိသော စစ်သားသည် ဒေါ်ရသီနှင့် သူမ၏ မိတ်ဆွေများကို မြို့တော်လမ်းများအတိုင်း ခေါ်ဆောင်လာပြီး တံခါးစောင့်နေထိုင်ရာ အခန်းသို့ ပို့ပေးသည်။ တံခါးစောင့်သည် သူတို့၏ အစိမ်းရောင်မျက်မှန်များကို ဖြုတ်ကာ သေတ္တာကြီးထဲ ပြန်ထည့်ပြီး မြို့တံခါးကို ယဉ်ကျေးစွာ ဖွင့်ပေးလိုက်သည်။
+
+“အနောက်ဘက်က ဆိုးယုတ်တဲ့ စုန်းမဆီကို ဘယ်လမ်းက သွားရမလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“အဲဒီဘက်ကို သွားတဲ့လမ်း မရှိပါဘူး။ ဘယ်သူမှ အဲဒီနေရာကို မသွားချင်ကြပါဘူး” ဟု တံခါးစောင့်က ဖြေသည်။
+
+“ဒါဆို သူမကို ဘယ်လို ရှာရမလဲ” ဟု ဒေါ်ရသီက ထပ်မေးသည်။
+
+“ဝင်ကီလူမျိုးတွေရဲ့ နယ်မြေထဲ ရောက်နေကြောင်း သူမ သိသွားတာနဲ့ သူမကိုယ်တိုင် လာရှာပါလိမ့်မယ်။ ပြီးရင် ခင်ဗျားတို့အားလုံးကို သူ့အမိန့်အောက်မှာ နေခိုင်းပါလိမ့်မယ်” ဟု သူက ပြောသည်။
+
+“ဒီတစ်ခါတော့ အဲဒီလို ဖြစ်မှာ မဟုတ်ဘူး။ ကျွန်တော်တို့က သူမရဲ့ အုပ်ချုပ်မှုကို အဆုံးသတ်ဖို့ လာတာပါ” ဟု စာခြောက်ရုပ်က ပြောလိုက်သည်။
+
+“အော်၊ ဒါဆိုလည်း တခြားကိစ္စပေါ့။ အရင်က ဘယ်သူမှ သူမကို မတားဆီးနိုင်ခဲ့လို့ ကျွန်တော်က ခင်ဗျားတို့ကို သူမက အုပ်ချုပ်သွားမယ်လို့ ထင်ခဲ့တာပါ။ သတိတော့ထားကြပါ။ သူမဟာ အလွန်ရက်စက်ပြီး အန္တရာယ်များသူပါ။ နေဝင်ရာ အနောက်ဘက်ကိုသာ တည့်တည့်သွားကြပါ။ သူမရဲ့ နယ်မြေကို မကြာခင် ရောက်ပါလိမ့်မယ်” ဟု တံခါးစောင့်က သတိပေးသည်။
+
+သူတို့သည် တံခါးစောင့်ကို ကျေးဇူးတင်နှုတ်ဆက်ပြီး အနောက်ဘက်သို့ ခရီးစတင်ကြသည်။ လမ်းတစ်လျှောက်တွင် ဒေစီပန်းနှင့် အဝါရောင်ပန်းငယ်များ ပွင့်နေသော မြက်ခင်းပြင်များကို ဖြတ်သန်းသွားကြသည်။ နန်းတော်တွင် ဒေါ်ရသီ ဝတ်ဆင်ခဲ့သော ပိုးဝတ်စုံသည် ယခုအခါ အစိမ်းရောင်မဟုတ်တော့ဘဲ ဖြူဖွေးနေသည်။ တိုတို၏ လည်ပင်းတွင် ချည်ထားသော ဖဲကြိုးလည်း ဖြူသွားသည်။
+
+မြမြို့တော်သည် မကြာမီ အဝေးတွင် ကျန်ရစ်ခဲ့သည်။ အနောက်ဘက်သို့ ပိုမိုဝင်ရောက်လာသည်နှင့် မြေပြင်သည် ကြမ်းတမ်းပြီး တောင်ကုန်းများ ပိုများလာသည်။ ထိုဒေသတွင် လယ်ယာများ၊ အိမ်များ မရှိကြသလို မြေယာများကိုလည်း စိုက်ပျိုးထားခြင်း မရှိပေ။
+
+နေ့လယ်ပိုင်းတွင် သစ်ပင်ရိပ်မရှိသောကြောင့် နေရောင်သည် သူတို့အပေါ် တိုက်ရိုက်ကျနေသည်။ ညနေမရောက်မီ ဒေါ်ရသီ၊ တိုတိုနှင့် ခြင်္သေ့ကြီးတို့ ပင်ပန်းလာကြသဖြင့် မြက်ခင်းပေါ်တွင် အိပ်ပျော်သွားကြသည်။ သံခုတ်သမားနှင့် စာခြောက်ရုပ်တို့ကတော့ သူတို့ကို စောင့်ကြည့်နေကြသည်။
+
+အနောက်ဘက်စုန်းမတွင် မျက်လုံးတစ်လုံးသာ ရှိသော်လည်း အဝေးကြီးကို မှန်ပြောင်းကဲ့သို့ မြင်နိုင်သည်။ သူမသည် ရဲတိုက်တံခါးဝတွင် ထိုင်နေစဉ် ခရီးသွားများကို တွေ့လိုက်ရပြီး သူမ၏ နယ်မြေထဲသို့ ဝင်လာကြသဖြင့် အလွန်ဒေါသထွက်သွားသည်။ ထို့နောက် လည်ပင်းတွင် ချိတ်ထားသော ငွေရောင်ဝီစီကို မှုတ်လိုက်သည်။
+
+ချက်ချင်းပင် ဝံပုလွေအုပ်ကြီးတစ်အုပ် သူမဆီသို့ ပြေးလာသည်။ သူမက ခရီးသွားများကို သွားတားဆီးရန် အမိန့်ပေးလိုက်သည်။ ဝံပုလွေခေါင်းဆောင်က သူတို့ကို ကျွန်အဖြစ် ဖမ်းခေါ်ရမလားဟု မေးရာ စုန်းမက မလိုကြောင်း၊ သူတို့ကို အနိုင်ယူပြီး ပြန်လာရန်သာ ပြောလိုက်သည်။
+
+စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့သည် ဝံပုလွေများ ချဉ်းကပ်လာသည့်အသံကို ကြားလိုက်ကြသည်။ သံခုတ်သမားက မိတ်ဆွေများကို နောက်တွင် နေစေပြီး သူတို့ကို ကာကွယ်ရန် ရှေ့ထွက်လိုက်သည်။ သူ၏ သတ္တိနှင့် ခိုင်မာသော ကိုယ်ထည်ကြောင့် ဝံပုလွေများသည် အနားမကပ်နိုင်ဘဲ နောက်ဆုံးတွင် အုပ်စုလိုက် ပြန်လည်ဆုတ်ခွာသွားကြသည်။ မနက်ခင်း ဒေါ်ရသီ နိုးလာသောအခါ သံခုတ်သမားက ဖြစ်ပျက်ခဲ့သမျှကို ပြောပြသည်။ ဒေါ်ရသီက သူတို့ကို ကာကွယ်ပေးခဲ့သည့်အတွက် ကျေးဇူးတင်ပြီး ခရီးဆက်ကြသည်။
+
+နောက်တစ်နေ့မနက်တွင် စုန်းမသည် သူမ၏ ဝံပုလွေများ မအောင်မြင်ခဲ့ကြောင်း သိရသဖြင့် ပို၍ ဒေါသထွက်လာသည်။ သူမသည် ဝီစီကို နှစ်ကြိမ် မှုတ်လိုက်ရာ ကောင်းကင်တစ်ခုလုံး မည်းမှောင်သွားလောက်အောင် ကျီးကန်းအုပ်ကြီး ပျံသန်းရောက်လာသည်။ သူမက ကျီးကန်းခေါင်းဆောင်ကို ခရီးသွားများကို တားဆီးရန် အမိန့်ပေးလိုက်သည်။
+
+ကျီးကန်းများ ပျံသန်းလာသည်ကို ဒေါ်ရသီ မြင်သောအခါ ကြောက်လန့်သွားသည်။ သို့သော် စာခြောက်ရုပ်က သူ့အနားတွင် အားလုံး လဲလျောင်းနေကြရန် ပြောသည်။ စာခြောက်ရုပ်သည် မတ်တတ်ရပ်ပြီး လက်နှစ်ဖက်ကို ဖြန့်လိုက်ရာ ကျီးကန်းများက သူ့ကို စာခြောက်ရုပ်မှန်း သိသွားပြီး အနားမကပ်ရဲကြပေ။ ကျီးကန်းခေါင်းဆောင်ကတော့ သူ့ကို ခြိမ်းခြောက်ရန် ကြိုးစားသော်လည်း စာခြောက်ရုပ်က မိမိကိုယ်ကို ကာကွယ်နိုင်ခဲ့သည်။ နောက်ဆုံး ကျီးကန်းအုပ်ကြီးသည် အောင်မြင်မှုမရဘဲ ထွက်ပြေးသွားကြသည်။ မိတ်ဆွေများလည်း ခရီးဆက်ကြသည်။
+
+ကျီးကန်းများလည်း မအောင်မြင်ကြောင်း သိရသောအခါ စုန်းမသည် တတိယအကြိမ် ဝီစီမှုတ်လိုက်သည်။ မကြာမီ ပျားအုပ်ကြီးတစ်အုပ် ပျံသန်းလာသည်။ စုန်းမက သူတို့ကို ခရီးသွားများဆီ သွားရန် အမိန့်ပေးလိုက်သည်။
+
+ပျားများ လာနေသည်ကို သံခုတ်သမားက မြင်လိုက်ပြီး စာခြောက်ရုပ်ကလည်း အကြံတစ်ခု ရသွားသည်။ စာခြောက်ရုပ်၏ ကောက်ရိုးများကို ထုတ်ယူကာ ဒေါ်ရသီ၊ တိုတိုနှင့် ခြင်္သေ့ကြီးတို့ကို ဖုံးအုပ်ပေးလိုက်သည်။ ပျားများသည် သံခုတ်သမားကိုသာ တွေ့သဖြင့် သူ့အပေါ် ပျံဝဲလာကြသော်လည်း သူ၏ သံကိုယ်ထည်ကြောင့် မည်သို့မျှ မထိခိုက်စေနိုင်ခဲ့ကြပေ။ ပျားများလည်း မကြာမီ ပျံသန်းနိုင်စွမ်း မရှိတော့ဘဲ မြေပြင်ပေါ်သို့ ကျသွားကြသည်။ ထို့နောက် ဒေါ်ရသီနှင့် ခြင်္သေ့ကြီးတို့ ထလာကြပြီး စာခြောက်ရုပ်၏ ကောက်ရိုးများကို ပြန်ထည့်ပေးကြသည်။ အားလုံး ပြန်လည်ပြင်ဆင်ပြီး ခရီးဆက်ကြသည်။
+
+စုန်းမသည် သူမ၏ အစီအစဉ်များ မအောင်မြင်သဖြင့် အလွန်စိတ်ဆိုးလာသည်။ ထို့နောက် ဝင်ကီကျွန်တစ်ဒါဇင်ခန့်ကို ခေါ်ပြီး ခရီးသွားများကို တားဆီးရန် လွှတ်လိုက်သည်။ ဝင်ကီများသည် စုန်းမကို ကြောက်သဖြင့် အမိန့်အတိုင်း လိုက်လာကြသည်။ သို့သော် ခြင်္သေ့ကြီးက အားပါးတရ ဟိန်းဟောက်လိုက်သောအခါ သူတို့အားလုံး ကြောက်လန့်ပြီး နောက်ပြန်ပြေးသွားကြသည်။ ရဲတိုက်သို့ ပြန်ရောက်သောအခါ စုန်းမက သူတို့ကို ပြင်းပြင်းထန်ထန် ဆူပူပြီး အလုပ်ပြန်လုပ်ခိုင်းသည်။
+
+စုန်းမသည် ဘာလုပ်ရမည်ကို စဉ်းစားနေစဉ် သူမ၏ သေတ္တာထဲတွင် စိန်နှင့် ပတ္တမြားများ ဝိုင်းစီထားသော ရွှေဦးထုပ်တစ်လုံး ရှိကြောင်း သတိရသွားသည်။ ထိုဦးထုပ်တွင် မှော်အစွမ်းတစ်ခု ရှိသည်။ ပိုင်ဆိုင်သူသည် တောင်ပံပါသော မျောက်များကို သုံးကြိမ်အထိ ခေါ်နိုင်ပြီး သူတို့က အမိန့်ကို လိုက်နာကြရသည်။ စုန်းမသည် ထိုအစွမ်းကို ယခင်က နှစ်ကြိမ် အသုံးပြုခဲ့ပြီးဖြစ်သည်။ တစ်ကြိမ်မှာ ဝင်ကီလူမျိုးများကို သူမ၏ အုပ်ချုပ်မှုအောက်သို့ သွင်းရန် ဖြစ်ပြီး နောက်တစ်ကြိမ်မှာ အော့ဇ်ကို အနောက်ဘက်နယ်မြေမှ ထွက်ခွာစေရန် ဖြစ်သည်။ ယခုအခါ တတိယအကြိမ်သာ ကျန်တော့သည်။
+
+ဝံပုလွေများ၊ ကျီးကန်းများနှင့် ပျားများ မအောင်မြင်ခဲ့သဖြင့် စုန်းမသည် နောက်ဆုံးကျန်သော မှော်အစွမ်းကို အသုံးပြုရန် ဆုံးဖြတ်လိုက်သည်။ သူမသည် ရွှေဦးထုပ်ကို ဆောင်းပြီး မှော်စကားများကို ရွတ်ဆိုလိုက်သည်။ ကောင်းကင်သည် မှောင်မိုက်လာပြီး တောင်ပံခတ်သံများ၊ ရယ်မောသံများနှင့် ဆူညံသံများ ကြားလာရသည်။ မကြာမီ တောင်ပံကြီးများ ပါသော မျောက်အုပ်တစ်အုပ် ပေါ်လာပြီး သူတို့၏ ခေါင်းဆောင်က စုန်းမထံသို့ ပျံလာကာ ဘာအမိန့်ရှိသလဲဟု မေးသည်။
+
+စုန်းမက သူမ၏ နယ်မြေထဲရှိ ခရီးသွားများကို ဖမ်းဆီးရန် အမိန့်ပေးလိုက်သည်။ မျောက်များသည် ချက်ချင်း ပျံသန်းထွက်ခွာသွားကြသည်။ အချို့က သံခုတ်သမားကို ချီယူကာ ကျောက်ဆောင်များရှိရာသို့ ပို့ဆောင်ပြီး ထိုနေရာတွင် ထားခဲ့ကြသည်။ အခြားမျောက်များက စာခြောက်ရုပ်၏ အဝတ်အစားထဲမှ ကောက်ရိုးများကို ထုတ်ယူကာ သူ့အဝတ်အစားများနှင့်အတူ သစ်ပင်မြင့်ကြီးပေါ်သို့ တင်ထားခဲ့ကြသည်။ ကျန်မျောက်များက ခြင်္သေ့ကြီးကို ဖမ်းဆီးပြီး စုန်းမ၏ ရဲတိုက်အတွင်းရှိ ခြံဝင်းငယ်တစ်ခုတွင် ထိန်းသိမ်းထားလိုက်ကြသည်။
+
+ဒေါ်ရသီနှင့် တိုတိုကိုတော့ မျောက်များက မထိခိုက်စေခဲ့ကြပေ။ မျောက်ခေါင်းဆောင်သည် ဒေါ်ရသီ၏ နဖူးပေါ်တွင် မြောက်ဘက်ကောင်းသော စုန်းမ၏ အနမ်းအမှတ်အသားကို မြင်လိုက်သဖြင့် သူမကို ထိခိုက်စေရန် မဖြစ်နိုင်ကြောင်း သိသွားသည်။ ထို့ကြောင့် ဒေါ်ရသီနှင့် တိုတိုကိုသာ ဂရုတစိုက် ချီယူကာ စုန်းမ၏ ရဲတိုက်သို့ ပို့ဆောင်ပေးလိုက်သည်။ ထို့နောက် မျောက်များသည် သူတို့၏ တာဝန်ပြီးဆုံးသွားပြီဖြစ်ကြောင်း ပြောကာ ပျံသန်းထွက်ခွာသွားကြသည်။
+
+စုန်းမသည် ဒေါ်ရသီ၏ နဖူးပေါ်ရှိ အမှတ်အသားနှင့် ငွေရောင်ဖိနပ်များကို မြင်သောအခါ စိုးရိမ်သွားသည်။ သို့သော် ဒေါ်ရသီသည် ထိုဖိနပ်များ၏ မှော်အစွမ်းကို မသိသေးကြောင်း သတိထားမိသဖြင့် သူမကို ကျွန်အဖြစ် ခိုင်းစေနိုင်မည်ဟု တွေးလိုက်သည်။ ထို့နောက် ဒေါ်ရသီကို ရဲတိုက်ထဲသို့ ခေါ်သွားပြီး မီးဖိုချောင်ရှိ အိုးခွက်များကို ဆေးကြောရန်၊ ကြမ်းပြင်ကို သန့်ရှင်းရန်နှင့် မီးဖိုအတွက် ထင်းထည့်ရန် အမိန့်ပေးသည်။
+
+ဒေါ်ရသီသည် မိမိကိုယ်ကို ထိခိုက်စေမည် မဟုတ်ကြောင်း သိရသဖြင့် အလုပ်ကို တိတ်တဆိတ် စတင်လုပ်ကိုင်သည်။ စုန်းမသည် ခြံဝင်းထဲသို့ သွားပြီး ခြင်္သေ့ကြီးကို မိမိအလိုအတိုင်း ခိုင်းစေရန် ကြိုးစားသည်။ သို့သော် ခြင်္သေ့ကြီးက အားပါးတရ ဟိန်းဟောက်လိုက်သဖြင့် စုန်းမသည် ကြောက်လန့်ပြီး တံခါးကို ပြန်ပိတ်လိုက်ရသည်။
+
+“မင်းကို ငါ့အလိုအတိုင်း မလုပ်ခိုင်းနိုင်ရင် အစာမကျွေးဘဲ ထားမယ်” ဟု စုန်းမက ပြောသည်။ ထို့နောက် နေ့တိုင်း နေ့လယ်အချိန်တွင် ခြံတံခါးသို့ လာပြီး သူမ၏ အမိန့်ကို လိုက်နာမလားဟု မေးတတ်သည်။ ခြင်္သေ့ကြီးကလည်း ဘယ်တော့မှ လိုက်နာမည် မဟုတ်ကြောင်း ပြန်ဖြေသည်။
+
+သို့သော် ညတိုင်း စုန်းမ အိပ်ပျော်သွားသောအခါ ဒေါ်ရသီသည် မီးဖိုချောင်မှ အစားအစာများကို ယူကာ ခြင်္သေ့ကြီးထံ တိတ်တဆိတ် ယူသွားပေးသည်။ အစာစားပြီးနောက် ခြင်္သေ့ကြီးသည် ကောက်ရိုးအိပ်ရာပေါ်တွင် လှဲနေပြီး ဒေါ်ရသီက သူ့ဘေးတွင် ထိုင်ကာ မိတ်ဆွေများအကြောင်းနှင့် လွတ်မြောက်နိုင်မည့် နည်းလမ်းများကို ဆွေးနွေးကြသည်။ သို့သော် ရဲတိုက်ကို ဝင်ကီစောင့်များက အမြဲစောင့်ကြပ်နေကြသဖြင့် ထွက်ပြေးရန် လမ်းမတွေ့ကြပေ။
+
+ဒေါ်ရသီသည် နေ့ဘက်တွင် အလုပ်များစွာ လုပ်ရသည်။ စုန်းမကလည်း သူမကို အမြဲခြိမ်းခြောက်တတ်သော်လည်း နဖူးပေါ်ရှိ အမှတ်အသားကြောင့် တကယ်တမ်း ထိခိုက်စေရန် မဝံ့ပေ။ ဒေါ်ရသီကတော့ ထိုအကြောင်းကို မသိသဖြင့် မိမိနှင့် တိုတိုအတွက် စိုးရိမ်နေခဲ့သည်။ တစ်နေ့တွင် စုန်းမက တိုတိုကို အနှောင့်အယှက်ပေးလိုက်ရာ တိုတိုက မိမိကိုယ်ကို ကာကွယ်ရန် ပြန်တုံ့ပြန်လိုက်သည်။ ထိုအချိန်မှစ၍ စုန်းမသည် တိုတိုကိုလည်း သတိထားလာသည်။
+
+ဒေါ်ရသီသည် ကန်ဆပ်ပြည်နယ်ရှိ အဒေါ်အမ်နှင့် ဦးလေးဟင်နရီထံ ပြန်မရောက်နိုင်တော့မည်ကို တွေးမိတိုင်း ဝမ်းနည်းတတ်သည်။ တိုတိုသည် သူမဘယ်နေရာမှာ ရှိနေသည်ဖြစ်စေ သူမနှင့်အတူ ရှိနေရလျှင် ပျော်ရွှင်သော်လည်း ဒေါ်ရသီ ဝမ်းနည်းနေသည်ကို မြင်ရသောအခါ သူလည်း စိတ်မကောင်းဖြစ်နေတတ်သည်။
+
+စုန်းမသည် ဒေါ်ရသီ၏ ငွေရောင်ဖိနပ်များကို အလွန်လိုချင်နေသည်။ ထိုဖိနပ်များတွင် အစွမ်းထက်သော မှော်အင်အား ရှိကြောင်း သူမ သိထားသည်။ ဒေါ်ရသီကတော့ ညအိပ်ချိန်နှင့် ရေချိုးချိန်မှလွဲ၍ ဖိနပ်များကို မချွတ်တတ်ပေ။ စုန်းမသည် အမှောင်ကိုလည်း ကြောက်ပြီး ရေကိုလည်း အလွန်ကြောက်သဖြင့် ထိုအချိန်များတွင် ဖိနပ်ကို ခိုးယူရန် မလာရဲပေ။
+
+နောက်ဆုံးတွင် စုန်းမသည် လှည့်ကွက်တစ်ခုကို စဉ်းစားမိသည်။ မီးဖိုချောင်ကြမ်းပြင်အလယ်တွင် သံတုံးတစ်ခုကို ထားပြီး မှော်အစွမ်းဖြင့် မမြင်ရအောင် ဖုံးကွယ်လိုက်သည်။ ဒေါ်ရသီသည် ထိုနေရာကို ဖြတ်လျှောက်စဉ် မမြင်ရသော အရာနှင့် တိုက်မိကာ လဲကျသွားသည်။ သူမ၏ ငွေရောင်ဖိနပ်တစ်ဖက်လည်း ချွတ်ကျသွားပြီး စုန်းမက အမြန်ကောက်ယူကာ မိမိခြေထောက်တွင် စီးလိုက်သည်။
+
+ဒေါ်ရသီသည် မိမိဖိနပ်ကို ပြန်ပေးရန် စုန်းမကို တောင်းဆိုသည်။ သို့သော် စုန်းမက မပေးနိုင်ကြောင်း ပြန်ပြောပြီး နောက်တစ်ဖက်ကိုပါ ယူမည်ဟု ခြိမ်းခြောက်သည်။ ဒေါ်ရသီသည် အလွန်စိတ်ဆိုးသွားပြီး အနီးရှိ ရေပုံးထဲမှ ရေကို စုန်းမအပေါ် လောင်းချလိုက်သည်။
+
+ရေထိသွားသည်နှင့် စုန်းမသည် ကြောက်လန့်စွာ အော်ဟစ်လိုက်သည်။ သူမ၏ မှော်အစွမ်းသည် ရေကို မခံနိုင်သဖြင့် ခန္ဓာကိုယ်သည် တဖြည်းဖြည်း ပျောက်ကွယ်သွားတော့သည်။ “မင်း ဘာလုပ်လိုက်တာလဲ။ ရေက ငါ့ကို အဆုံးသတ်စေလိမ့်မယ်ဆိုတာ မသိဘူးလား” ဟု သူမက အော်ပြောသည်။
+
+“ကျွန်မ မသိခဲ့ပါဘူး” ဟု ဒေါ်ရသီက အံ့ဩကြောက်လန့်စွာ ပြန်ဖြေသည်။
+
+ခဏအကြာတွင် စုန်းမသည် လုံးဝ ပျောက်ကွယ်သွားပြီး သူမ၏ ရက်စက်သော အုပ်ချုပ်မှုလည်း အဆုံးသတ်သွားသည်။ ဒေါ်ရသီသည် ကျန်ရှိနေသော ငွေရောင်ဖိနပ်ကို ပြန်ကောက်ယူကာ သန့်ရှင်းပြီး မိမိခြေထောက်တွင် ပြန်စီးလိုက်သည်။ နောက်ဆုံးတွင် သူမသည် လွတ်လပ်သွားပြီဖြစ်ကြောင်းနှင့် မိတ်ဆွေများလည်း ထိုထူးဆန်းသော နယ်မြေတွင် အကျဉ်းသားများအဖြစ် ဆက်မနေရတော့ကြောင်း ခြင်္သေ့ကြီးထံ သွားပြောရန် ခြံဝင်းဆီသို့ အမြန်ပြေးသွားသည်။`,
+    contentEn: `The soldier with the green whiskers led them through the streets of the Emerald City until they reached the room where the Guardian of the Gates lived. The Guardian unlocked their spectacles, placed them back in his great box, and politely opened the gate.
+
+“Which road leads to the Wicked Witch of the West?” Dorothy asked.
+
+“There is no road,” answered the Guardian. “No one ever wishes to go that way.”
+
+“How, then, are we to find her?” asked Dorothy.
+
+“That will be easy,” the man replied. “When she learns that you are in the country of the Winkies, she will come looking for you and try to make you her servants.”
+
+“Perhaps not,” said the Scarecrow, “for we have come to put an end to her rule.”
+
+“Oh, that is different,” said the Guardian. “No one has ever stopped her before. Be careful, for she is wicked and fierce. Keep going west, toward the setting sun, and you will find her country.”
+
+They thanked him and turned westward, walking over soft fields dotted with daisies and buttercups. Dorothy's pretty palace dress, which had been green, now appeared pure white. The ribbon around Toto's neck had also turned white.
+
+The Emerald City soon disappeared behind them. The land grew rough and hilly. There were no farms or houses, and the fields had not been cultivated.
+
+The afternoon sun beat down on them, for there were no trees to provide shade. Before night, Dorothy, Toto, and the Lion were tired. They lay on the grass and fell asleep while the Woodman and the Scarecrow kept watch.
+
+The Wicked Witch of the West had only one eye, but it could see as far as a telescope. As she sat at the door of her castle, she looked across her country and noticed Dorothy sleeping with her friends nearby. Angry that strangers had entered her land, she blew a silver whistle hanging around her neck.
+
+A pack of great wolves came running from every direction. The Witch ordered them to stop the travelers. Their leader asked whether the strangers should be captured as servants, but the Witch said she wanted them defeated and sent away.
+
+The Scarecrow and the Woodman were awake and heard the wolves approaching. The Woodman stepped forward to protect his friends. His sturdy tin body and brave stand kept the wolves from reaching the others, and at last the pack retreated. When Dorothy awoke the next morning, the Woodman told her what had happened. She thanked him, and they continued their journey.
+
+The next morning the Witch saw that the wolves had failed. She grew angrier and blew her whistle twice. A great flock of wild crows appeared, darkening the sky. She ordered their King to stop the travelers.
+
+Dorothy was frightened when she saw the birds approaching. The Scarecrow told everyone to stay low while he stood up and spread his arms. The crows recognized him as a scarecrow and hesitated to come near. Their King tried to frighten him, but the Scarecrow stood firm and protected his friends. At last the flock gave up and flew away, and the travelers continued west.
+
+When the Witch discovered that the crows had also failed, she blew her whistle a third time. A swarm of black bees came buzzing through the air. She ordered them to stop the strangers.
+
+The Woodman saw the bees coming, and the Scarecrow quickly thought of a plan. He asked the Woodman to take some of his straw and cover Dorothy, Toto, and the Lion. The bees could find no one to bother except the Woodman. They could not harm his tin body, and soon the swarm scattered and fell away. Dorothy and the Lion helped put the straw back into the Scarecrow, and the friends set off again.
+
+The Witch was furious. She called a dozen Winkies, who were her servants, and ordered them to stop the travelers. The Winkies were afraid of her and obeyed, but when they came near, the Lion gave a mighty roar. They were so frightened that they hurried back to the castle. The Witch scolded them harshly and sent them back to work.
+
+The Witch wondered what she could do next. In her cupboard was a Golden Cap set with a circle of diamonds and rubies. It held a charm that allowed its owner to call the Winged Monkeys three times. The Monkeys had to obey the commands given to them. The Witch had already used the charm twice: once to bring the Winkies under her rule, and once to drive the Great Oz from the western country. Only one use remained.
+
+With the wolves, crows, and bees unable to stop the travelers, the Witch decided to use the last power of the Cap. She placed it on her head and spoke the magic words. The sky darkened, and the sound of wings and chattering filled the air. A crowd of Monkeys with great wings appeared. Their leader flew close and asked what she commanded.
+
+The Witch ordered them to capture the strangers. The Winged Monkeys flew away at once. Some carried the Tin Woodman to a distant rocky place and left him there. Others took the Scarecrow's straw from his clothes and placed his empty clothing high in a tree. The remaining Monkeys carried the Lion to the Witch's castle and kept him in a fenced yard.
+
+They did not harm Dorothy or Toto. The leader saw the mark of the Good Witch's kiss on Dorothy's forehead and knew they must not hurt her. The Monkeys carefully carried Dorothy and Toto to the castle and left them at the entrance. Then they told the Witch that they had done all they could, and flew away. Their service to her was now finished.
+
+The Witch was surprised and worried when she saw the mark on Dorothy's forehead and the Silver Shoes on her feet. She knew the shoes had a powerful charm. At first she considered running away, but then she realized Dorothy did not know how to use the shoes' magic. She decided she could still make the girl serve her.
+
+The Witch led Dorothy into the castle kitchen and ordered her to wash the pots, clean the floor, and keep the fire supplied. Dorothy obeyed quietly, relieved that the Witch had not harmed her.
+
+The Witch went into the courtyard and tried to make the Cowardly Lion obey her. But the Lion roared so loudly that she became frightened and shut the gate again.
+
+“If I cannot make you do as I wish, I can keep food from you,” the Witch told him. “You shall have nothing to eat until you obey.”
+
+Each day she came to the gate and asked whether he was ready to serve her. The Lion always refused. At night, while the Witch slept, Dorothy secretly carried food from the kitchen to him. After eating, the Lion rested on his bed of straw while Dorothy sat beside him. They talked about their troubles and tried to think of a way to escape.
+
+But the castle was guarded by the yellow Winkies, who were too frightened of the Witch to disobey her. Dorothy worked hard during the day. The Witch often threatened her, but the mark on Dorothy's forehead protected her, though Dorothy did not know it. Once the Witch bothered Toto, and the brave little dog quickly defended himself. After that, the Witch was more careful around him.
+
+Dorothy grew sad as she thought about how difficult it would be to return to Kansas and see Aunt Em and Uncle Henry again. Sometimes she cried for hours. Toto stayed beside her, understanding that she was unhappy and sharing her sadness.
+
+The Witch wanted Dorothy's Silver Shoes more than anything. She knew they held great power. Dorothy was proud of the shoes and rarely took them off. The Witch was afraid of the dark and of water, so she never dared to enter Dorothy's room at night or approach her while she was bathing.
+
+At last the Witch thought of a trick. She placed an iron bar in the middle of the kitchen floor and used magic to make it invisible. When Dorothy walked across the room, she stumbled over it and fell. One of her Silver Shoes slipped off, and before she could pick it up, the Witch snatched it and put it on her own foot.
+
+Dorothy was angry and demanded that the Witch return her shoe. The Witch refused and said she would take the other one someday, too.
+
+Dorothy became so angry that she picked up a nearby bucket of water and threw it over the Witch.
+
+The Witch cried out in fear. Water was the one thing her magic could not withstand, and she began to disappear.
+
+“What have you done?” she cried. “The water will be the end of me!”
+
+“I did not know,” Dorothy replied, frightened and astonished.
+
+A short time later the Witch had vanished, and her cruel rule was over. Dorothy picked up the remaining Silver Shoe, cleaned it, and put it back on. At last she was free. She hurried into the courtyard to tell the Lion that the Wicked Witch of the West was gone, and that they were no longer prisoners in a strange land.`,
+  },
 ] as const;
