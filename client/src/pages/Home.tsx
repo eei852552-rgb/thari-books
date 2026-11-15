@@ -180,15 +180,53 @@ function splitReaderPages(content: string, maxCharacters = 1900): string[] {
   let currentPage: string[] = [];
   let currentLength = 0;
 
-  for (const paragraph of paragraphs) {
-    const extraLength = paragraph.length + (currentPage.length ? 2 : 0);
-    if (currentPage.length && currentLength + extraLength > maxCharacters) {
-      pages.push(currentPage.join("\n\n"));
-      currentPage = [];
-      currentLength = 0;
+  const splitLongParagraph = (paragraph: string): string[] => {
+    if (paragraph.length <= maxCharacters) return [paragraph];
+    const sentences = paragraph.match(/[^။!?]+[။!?]?/g)?.map((part) => part.trim()).filter(Boolean) ?? [paragraph];
+    const chunks: string[] = [];
+    let chunk = "";
+    for (const sentence of sentences) {
+      if (sentence.length > maxCharacters) {
+        if (chunk) { chunks.push(chunk); chunk = ""; }
+        const words = sentence.split(/\s+/).filter(Boolean);
+        let wordChunk = "";
+        for (const word of words) {
+          if (word.length > maxCharacters) {
+            if (wordChunk) { chunks.push(wordChunk); wordChunk = ""; }
+            const characters = Array.from(word);
+            for (let index = 0; index < characters.length; index += maxCharacters) {
+              chunks.push(characters.slice(index, index + maxCharacters).join(""));
+            }
+          } else if (wordChunk && wordChunk.length + word.length + 1 > maxCharacters) {
+            chunks.push(wordChunk);
+            wordChunk = word;
+          } else {
+            wordChunk = wordChunk ? wordChunk + " " + word : word;
+          }
+        }
+        if (wordChunk) chunks.push(wordChunk);
+      } else if (chunk && chunk.length + sentence.length + 1 > maxCharacters) {
+        chunks.push(chunk);
+        chunk = sentence;
+      } else {
+        chunk = chunk ? chunk + " " + sentence : sentence;
+      }
     }
-    currentPage.push(paragraph);
-    currentLength += paragraph.length + (currentPage.length > 1 ? 2 : 0);
+    if (chunk) chunks.push(chunk);
+    return chunks;
+  };
+
+  for (const paragraph of paragraphs) {
+    for (const part of splitLongParagraph(paragraph)) {
+      const extraLength = part.length + (currentPage.length ? 2 : 0);
+      if (currentPage.length && currentLength + extraLength > maxCharacters) {
+        pages.push(currentPage.join("\n\n"));
+        currentPage = [];
+        currentLength = 0;
+      }
+      currentPage.push(part);
+      currentLength += part.length + (currentPage.length > 1 ? 2 : 0);
+    }
   }
 
   if (currentPage.length) pages.push(currentPage.join("\n\n"));
