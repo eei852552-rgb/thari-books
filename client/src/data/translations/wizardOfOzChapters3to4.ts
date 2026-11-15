@@ -2168,4 +2168,113 @@ The Witch cried out in fear. Water was the one thing her magic could not withsta
 
 A short time later the Witch had vanished, and her cruel rule was over. Dorothy picked up the remaining Silver Shoe, cleaned it, and put it back on. At last she was free. She hurried into the courtyard to tell the Lion that the Wicked Witch of the West was gone, and that they were no longer prisoners in a strange land.`,
   },
+  {
+    number: 13,
+    title: "အခန်း (၁၃) — မိတ်ဆွေများကို ကယ်တင်ခြင်း",
+    titleEn: "Chapter 13 — The Rescue",
+    content: `အနောက်ဘက်စုန်းမသည် ရေကြောင့် ပျောက်ကွယ်သွားပြီဟု ကြားသိရသောအခါ ခြင်္သေ့ကြီးသည် အလွန်ဝမ်းသာသွားသည်။ ဒေါ်ရသီသည် သူ့ကို ပိတ်လှောင်ထားသော ခြံတံခါးကို ချက်ချင်းဖွင့်ပေးပြီး လွတ်မြောက်စေသည်။ ထို့နောက် သူတို့နှစ်ဦးသည် ရဲတိုက်ထဲသို့ အတူဝင်သွားကြသည်။ ဒေါ်ရသီ၏ ပထမဆုံးလုပ်ရပ်မှာ ဝင်ကီလူမျိုးအားလုံးကို စုဝေးစေပြီး သူတို့သည် ယခုမှစ၍ ကျွန်များ မဟုတ်တော့ကြောင်း ပြောပြခြင်း ဖြစ်သည်။
+
+ဝင်ကီလူမျိုးများသည် နှစ်ပေါင်းများစွာ စုန်းမ၏ အုပ်ချုပ်မှုအောက်တွင် ပင်ပန်းစွာ အလုပ်လုပ်ခဲ့ကြရသည်။ ယခု လွတ်လပ်သွားပြီဖြစ်သဖြင့် အားလုံး အလွန်ဝမ်းသာကြသည်။ ထိုနေ့ကို သူတို့သည် အားလပ်ရက်အဖြစ် သတ်မှတ်ကာ စားသောက်ပျော်ရွှင်ပြီး ကခုန်ကြသည်။
+
+“စာခြောက်ရုပ်နဲ့ သံခုတ်သမားတို့သာ ငါတို့နဲ့အတူ ရှိနေကြရင် ငါ ပိုပြီးပျော်မှာပဲ” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“သူတို့ကို ပြန်ကယ်လို့ မရဘူးလား” ဟု ဒေါ်ရသီက စိုးရိမ်စွာ မေးသည်။
+
+“ကြိုးစားကြည့်ကြတာပေါ့” ဟု ခြင်္သေ့ကြီးက ဖြေသည်။
+
+သူတို့သည် ဝင်ကီလူမျိုးများကို ခေါ်ပြီး မိတ်ဆွေများကို ကယ်တင်ရာတွင် ကူညီပေးနိုင်မလားဟု မေးကြသည်။ ဝင်ကီများက ဒေါ်ရသီကြောင့် လွတ်လပ်ခွင့် ရခဲ့သဖြင့် ဝမ်းမြောက်စွာ ကူညီမည်ဟု ပြောကြသည်။ ထို့နောက် အတွေ့အကြုံရှိပုံရသော ဝင်ကီအချို့ကို ရွေးချယ်ကာ ခရီးထွက်ကြသည်။ ထိုနေ့တစ်နေ့လုံးနှင့် နောက်တစ်နေ့၏ တစ်စိတ်တစ်ပိုင်းကို ခရီးသွားပြီးနောက် သံခုတ်သမား ရှိနေသော ကျောက်ဆောင်များပြည့်နေသည့် လွင်ပြင်သို့ ရောက်လာကြသည်။
+
+သံခုတ်သမားသည် ခရီးစဉ်အတွင်း ကြုံတွေ့ခဲ့ရသည့် အဖြစ်အပျက်များကြောင့် ပုံပန်းသဏ္ဌာန် ပျက်စီးနေပြီး မလှုပ်ရှားနိုင်တော့ပေ။ သူ၏ အနီးတွင် သူအသုံးပြုခဲ့သော ပစ္စည်းများလည်း ပျက်စီးနေသည်။ ဝင်ကီများသည် သူ့ကို ဂရုတစိုက် မ,ယူကာ အဝါရောင်ရဲတိုက်သို့ ပြန်သယ်လာကြသည်။ ဒေါ်ရသီသည် မိတ်ဆွေဟောင်း၏ အခြေအနေကို မြင်ရသဖြင့် မျက်ရည်ကျမိပြီး ခြင်္သေ့ကြီးလည်း စိတ်မကောင်းဖြစ်နေသည်။
+
+ရဲတိုက်သို့ ရောက်သောအခါ ဒေါ်ရသီက ဝင်ကီများကို “ရှင်တို့ထဲမှာ သံဖြူပစ္စည်းတွေ ပြုပြင်တတ်တဲ့ ပညာရှင်တွေ ရှိကြသလား” ဟု မေးသည်။
+
+“ရှိပါတယ်။ ကျွန်တော်တို့ထဲမှာ အဲဒီအလုပ်ကို ကျွမ်းကျင်သူတွေ အများကြီး ရှိပါတယ်” ဟု ဝင်ကီများက ဖြေကြသည်။
+
+“ဒါဆို သူတို့ကို ခေါ်ပေးကြပါ။ သံခုတ်သမားကို အရင်ပုံစံအတိုင်း ပြန်ပြုပြင်ပေးနိုင်မလား သိချင်ပါတယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+ပညာရှင်များ ရောက်လာသောအခါ သံခုတ်သမားကို သေချာစွာ စစ်ဆေးကြည့်ရှုပြီး ပြန်လည်ပြုပြင်နိုင်မည်ဟု ပြောကြသည်။ ထို့နောက် ရဲတိုက်ရှိ အခန်းကြီးတစ်ခန်းတွင် သုံးရက်နှင့် လေးညတိုင်တိုင် အလုပ်လုပ်ကြသည်။ နောက်ဆုံးတွင် သံခုတ်သမား၏ ကိုယ်ထည်သည် မူလပုံစံအတိုင်း ပြန်ဖြစ်လာပြီး အဆစ်အမြစ်များလည်း ကောင်းစွာ လှုပ်ရှားနိုင်လာသည်။ အချို့နေရာများတွင် ဖာထေးထားရသော်လည်း သံခုတ်သမားသည် ထိုအရာကို စိတ်မဝင်စားပေ။
+
+နောက်ဆုံးတွင် သူသည် ဒေါ်ရသီ၏ အခန်းထဲသို့ ကိုယ်တိုင်လမ်းလျှောက်ဝင်လာပြီး မိမိကို ကယ်တင်ပြုပြင်ပေးခဲ့သည့်အတွက် ကျေးဇူးတင်ကြောင်း ပြောသည်။ သူသည် ဝမ်းသာလွန်းသဖြင့် မျက်ရည်ကျလာသည်။ ဒေါ်ရသီက သူ၏ မျက်နှာပေါ်မှ မျက်ရည်များကို သံချေးမတက်စေရန် သတိထားပြီး သုတ်ပေးရသည်။ တစ်ချိန်တည်းမှာပင် သူမလည်း မိတ်ဆွေဟောင်းကို ပြန်တွေ့ရသဖြင့် ဝမ်းသာမျက်ရည်များ ကျလာသည်။ ခြင်္သေ့ကြီးကလည်း မျက်ရည်များကို အမြီးဖျားဖြင့် ခဏခဏ သုတ်နေသဖြင့် အမြီးပင် စိုစွတ်သွားသည်။ ထို့ကြောင့် နေရောင်အောက်တွင် အမြီးကို ခဏထားပြီး ခြောက်အောင် လုပ်ရသည်။
+
+“စာခြောက်ရုပ်လည်း ငါတို့နဲ့ ပြန်ရှိနေမယ်ဆိုရင် ငါ တကယ်ပျော်တော့မှာပဲ” ဟု သံခုတ်သမားက ပြောသည်။
+
+“သူ့ကိုလည်း ရှာကြရမယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+သူတို့သည် ဝင်ကီများကို ထပ်မံအကူအညီတောင်းပြီး စာခြောက်ရုပ်၏ အဝတ်အစားများ ရှိနေသော သစ်ပင်မြင့်ကြီးဆီသို့ သွားကြသည်။ သစ်ပင်သည် အလွန်မြင့်ပြီး ပင်စည်မှာလည်း ချောမွေ့နေသဖြင့် မည်သူမျှ အပေါ်သို့ မတက်နိုင်ကြပေ။ ဝင်ကီများက အားလုံးပူးပေါင်းကာ သစ်ပင်ပေါ်ရှိ အဝတ်အစားများကို ဘေးကင်းစွာ ပြန်ယူနိုင်မည့် နည်းလမ်းကို ရှာဖွေကြသည်။ နောက်ဆုံးတွင် သစ်ပင်သည် လဲကျလာပြီး စာခြောက်ရုပ်၏ ဦးထုပ်၊ ဖိနပ်နှင့် အဝတ်အစားများ မြေပြင်ပေါ်သို့ ကျလာသည်။
+
+ဒေါ်ရသီသည် အဝတ်အစားများကို ကောက်ယူပြီး ဝင်ကီများနှင့်အတူ ရဲတိုက်သို့ ပြန်လာသည်။ ထို့နောက် အဝတ်အစားများထဲသို့ သန့်ရှင်းသော ကောက်ရိုးများ ပြန်ဖြည့်ပေးလိုက်ရာ စာခြောက်ရုပ်သည် မူလအတိုင်း ပြန်လည်အသက်ဝင်လာသည်။ သူသည် မိမိကို ကယ်တင်ပေးခဲ့ကြသူအားလုံးကို အကြိမ်ကြိမ် ကျေးဇူးတင်စကား ပြောသည်။
+
+မိတ်ဆွေများ ပြန်လည်ဆုံစည်းသွားကြပြီဖြစ်သဖြင့် ဒေါ်ရသီနှင့် သူမ၏ အဖော်များသည် အဝါရောင်ရဲတိုက်တွင် ပျော်ရွှင်စွာ ရက်အနည်းငယ် နေထိုင်ကြသည်။ သူတို့အတွက် လိုအပ်သမျှ အရာအားလုံး ရှိနေသည်။
+
+တစ်နေ့တွင် ဒေါ်ရသီသည် အဒေါ်အမ်ကို သတိရသွားပြီး “ငါတို့ အော့ဇ်ဆီ ပြန်သွားပြီး သူပေးထားတဲ့ ကတိကို တောင်းရမယ်” ဟု ပြောသည်။
+
+“ဟုတ်တယ်။ အဲဒီအခါ ငါ့နှလုံးသားကို ရတော့မယ်” ဟု သံခုတ်သမားက ပြောသည်။
+
+“ငါလည်း ဉာဏ်ရည်ကို ရတော့မယ်” ဟု စာခြောက်ရုပ်က ဝမ်းသာစွာ ထပ်ပြောသည်။
+
+“ငါလည်း သတ္တိကို ရတော့မယ်” ဟု ခြင်္သေ့ကြီးက စဉ်းစားရင်း ပြောသည်။
+
+“ငါလည်း ကန်ဆပ်ကို ပြန်ရတော့မယ်။ မနက်ဖြန်ပဲ မြမြို့တော်ကို သွားကြရအောင်” ဟု ဒေါ်ရသီက လက်ခုပ်တီးကာ ပြောသည်။
+
+အားလုံးက သဘောတူကြသည်။ နောက်တစ်နေ့တွင် ဝင်ကီများကို နှုတ်ဆက်ကြသည်။ ဝင်ကီများသည် သူတို့ ထွက်ခွာသွားမည်ကို စိတ်မကောင်းဖြစ်ကြသည်။ အထူးသဖြင့် သံခုတ်သမားကို အလွန်ခင်မင်သွားကြသဖြင့် သူတို့နှင့်အတူ နေထိုင်ပြီး အနောက်ဘက် အဝါရောင်နယ်မြေကို အုပ်ချုပ်ပေးရန် တောင်းဆိုကြသည်။
+
+သို့သော် ခရီးဆက်ရန် ဆုံးဖြတ်ထားကြောင်း သိရသောအခါ ဝင်ကီများသည် တိုတိုနှင့် ခြင်္သေ့ကြီးတို့ကို ရွှေလည်ပတ်တစ်ခုစီ ပေးကြသည်။ ဒေါ်ရသီကို စိန်များစီခြယ်ထားသော လက်ကောက်လှတစ်ခု ပေးကြပြီး စာခြောက်ရုပ်ကိုလည်း လမ်းလျှောက်ရာတွင် အထောက်အကူဖြစ်စေရန် ရွှေခေါင်းပါသော တောင်ဝှေးတစ်ချောင်း ပေးကြသည်။ သံခုတ်သမားကိုတော့ ရွှေနှင့် အဖိုးတန်ကျောက်များဖြင့် အလှဆင်ထားသော ငွေရောင်ဆီလောင်းဘူးတစ်ဘူး ပေးကြသည်။
+
+ခရီးသွားသူတိုင်းသည် ဝင်ကီများကို ကျေးဇူးတင်စကား ပြောကြပြီး နှုတ်ဆက်လက်ဆွဲကြသည်။ ဒေါ်ရသီသည် ခရီးအတွက် အစားအစာများ ထည့်ရန် စုန်းမ၏ သိုလှောင်ခန်းသို့ သွားရာ ရွှေဦးထုပ်ကို တွေ့လိုက်ရသည်။ သူမက ဦးထုပ်ကို စမ်းဆောင်းကြည့်သောအခါ မိမိနှင့် အံကိုက်ဖြစ်နေသည်။ ထိုဦးထုပ်တွင် မှော်အစွမ်းရှိကြောင်းကို သူမ မသိသေးပေ။ လှပသော ဦးထုပ်ဖြစ်သဖြင့် ဆောင်းထားရန် ဆုံးဖြတ်လိုက်ပြီး နေရောင်ကာဦးထုပ်ကိုတော့ ခြင်းတောင်းထဲ ထည့်လိုက်သည်။
+
+ခရီးအတွက် အားလုံးပြင်ဆင်ပြီးသောအခါ သူတို့သည် မြမြို့တော်သို့ ပြန်လည်ထွက်ခွာကြသည်။ ဝင်ကီများကလည်း သူတို့အတွက် သုံးကြိမ်တိုင်တိုင် အားပေးအော်ဟစ်ကာ ကောင်းမွန်သော ခရီးဖြစ်ပါစေကြောင်း ဆုတောင်းပေးလိုက်ကြသည်။`,
+    contentEn: `The Cowardly Lion was delighted to hear that the Wicked Witch had vanished. Dorothy at once unlocked the gate of his prison and set him free. They went together into the castle, where Dorothy's first act was to call all the Winkies and tell them they were no longer slaves.
+
+The yellow Winkies rejoiced. For many years they had been forced to work hard for the Witch, who had treated them cruelly. They declared that day a holiday and celebrated with feasting and dancing.
+
+“If our friends the Scarecrow and the Tin Woodman were only with us, I should be quite happy,” said the Lion.
+
+“Do you suppose we could rescue them?” Dorothy asked anxiously.
+
+“We can try,” answered the Lion.
+
+They called the Winkies and asked for help. The Winkies gladly agreed, for Dorothy had helped set them free. She chose several who seemed especially knowledgeable, and they set out. They traveled that day and part of the next before reaching the rocky plain where the Tin Woodman had been left.
+
+The Woodman was badly bent and could not move. His belongings nearby had also been damaged. The Winkies carefully lifted him and carried him back to the Yellow Castle. Dorothy was saddened by the condition of her old friend, and the Lion looked solemn and sorry.
+
+At the castle Dorothy asked the Winkies whether any of them were skilled tinsmiths.
+
+“Oh, yes,” they replied. “Some of us are very good at that work.”
+
+“Then please bring them to me,” she said. “I want to know whether they can restore the Tin Woodman to his former shape.”
+
+When the tinsmiths arrived, they examined the Woodman carefully and said they believed they could repair him. They worked in one of the great yellow rooms for three days and four nights. At last the Tin Woodman was restored to his old shape, and all his joints moved as well as before. He had several patches, but he did not mind them.
+
+When he was able to walk again, he entered Dorothy's room and thanked her for rescuing him. He was so happy that he wept with joy. Dorothy carefully wiped the tears from his face so that his joints would not rust. She too wept with happiness at seeing her old friend again. The Lion wiped his eyes so often with the tip of his tail that it became quite wet, and he had to let it dry in the sunshine.
+
+“If only we had the Scarecrow with us again,” said the Tin Woodman, “I should be quite happy.”
+
+“We must try to find him,” said Dorothy.
+
+They asked the Winkies to help once more and traveled to the tall tree where the Winged Monkeys had left the Scarecrow's clothes. The tree was very high, and its smooth trunk made it impossible to climb. The Winkies worked together to find a safe way to bring down the tree. At last it fell, and the Scarecrow's hat, boots, and clothes came down from the branches.
+
+Dorothy gathered the clothes, and the Winkies carried them back to the castle. They filled them with clean straw, and there was the Scarecrow, restored just as he had been before. He thanked everyone again and again for saving him.
+
+Now that the friends were together once more, Dorothy and her companions spent several happy days at the Yellow Castle. They had everything they needed to be comfortable.
+
+One day Dorothy thought of Aunt Em and said, “We must go back to Oz and ask him to keep his promise.”
+
+“Yes,” said the Woodman. “At last I shall receive my heart.”
+
+“And I shall receive my brains,” added the Scarecrow joyfully.
+
+“And I shall receive my courage,” said the Lion thoughtfully.
+
+“And I shall get back to Kansas!” cried Dorothy. “Let us start for the Emerald City tomorrow!”
+
+They all agreed. The next day they said goodbye to the Winkies. The Winkies were sorry to see them leave. They had grown especially fond of the Tin Woodman and begged him to stay and rule over them and the Yellow Land of the West.
+
+When they learned that the travelers were determined to go, the Winkies gave Toto and the Lion a golden collar each. Dorothy received a beautiful bracelet set with diamonds. The Scarecrow was given a walking stick with a gold head, and the Tin Woodman received a silver oil-can decorated with gold and precious jewels.
+
+Each traveler made a kind speech in return, and they shook hands with the Winkies until their arms were tired.
+
+Dorothy went to the Witch's cupboard to fill her basket with food for the journey. There she saw the Golden Cap. She tried it on and found that it fitted her perfectly. She knew nothing of its magic, but she thought it was pretty and decided to wear it, carrying her sunbonnet in the basket instead.
+
+When everything was ready, they set out for the Emerald City. The Winkies cheered them three times and sent them on their way with many good wishes.`,
+  },
 ] as const;
