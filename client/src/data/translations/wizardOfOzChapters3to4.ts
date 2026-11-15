@@ -1359,4 +1359,239 @@ Then the mice were unharnessed from the truck and scampered away through the gra
 
 After this they sat down beside the Lion until he should awaken; and the Scarecrow brought Dorothy some fruit from a tree near by, which she ate for her dinner.`
   },
+  {
+    number: 10,
+    title: "အခန်း (၁၀) — တံခါးစောင့်သူ",
+    titleEn: "Chapter 10 — The Guardian of the Gate",
+    content: `ခြင်္သေ့ကြီးသည် ဘိန်းပန်းခင်းအတွင်း အချိန်အတော်ကြာ အိပ်ပျော်နေခဲ့သဖြင့် နိုးလာရန် အချိန်ယူခဲ့ရသည်။ နောက်ဆုံး မျက်လုံးဖွင့်လာပြီး လှည်းပေါ်မှ ဆင်းလိုက်သောအခါ မိမိ အသက်ရှင်လျက် ရှိနေသေးကြောင်း သိရသဖြင့် အလွန်ဝမ်းသာသွားသည်။
+
+“ငါ အတတ်နိုင်ဆုံး မြန်မြန် ပြေးခဲ့ပေမဲ့ ပန်းရနံ့က အရမ်းပြင်းလွန်းတယ်။ ငါ့ကို ဘယ်လို ကယ်ထုတ်ခဲ့ကြတာလဲ” ဟု သူက ထိုင်ချရင်း သမ်းဝေကာ မေးသည်။
+
+ထို့နောက် သူတို့က ကြွက်ကလေးများအကြောင်းနှင့် ထိုကြွက်ကလေးများက ရက်ရောစွာ ကယ်တင်ပေးခဲ့ပုံကို ပြောပြကြသည်။ ခြင်္သေ့ကြီးက ရယ်မောပြီး “ငါဟာ ကိုယ့်ကိုယ်ကို အလွန်ကြီးမားပြီး ကြောက်စရာကောင်းတယ်လို့ အမြဲထင်ခဲ့တာ။ ဒါပေမဲ့ ပန်းပွင့်လေးတွေလို သေးငယ်တဲ့အရာတွေက ငါ့ကို ဒုက္ခရောက်စေခဲ့ပြီး ကြွက်ကလေးတွေလို သတ္တဝါငယ်လေးတွေက ငါ့အသက်ကို ကယ်ခဲ့ကြတယ်။ အံ့ဩစရာပဲ။ ဒါပေမဲ့ မိတ်ဆွေတို့၊ အခု ဘာဆက်လုပ်ကြမလဲ” ဟု ပြောသည်။
+
+“အဝါရောင်အုတ်ခင်းလမ်းကို ပြန်ရှာတွေ့တဲ့အထိ ဆက်သွားကြရမယ်။ ပြီးရင် မြစိမ်းရောင်မြို့တော်ဆီ ဆက်သွားကြမယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+ထို့ကြောင့် ခြင်္သေ့ကြီး အားပြည့်လာပြီး ပုံမှန်အတိုင်း ပြန်လည်လန်းဆန်းလာသောအခါ သူတို့အားလုံး ခရီးဆက်ကြသည်။ စိမ်းလန်းနူးညံ့သော မြက်ခင်းပြင်ပေါ်တွင် လမ်းလျှောက်ရသည်မှာ ပျော်စရာကောင်းလှသည်။ မကြာမီ အဝါရောင်အုတ်ခင်းလမ်းကို ပြန်တွေ့ကြပြီး မဟာမှော်ဆရာ အော့ဇ် နေထိုင်ရာ မြစိမ်းရောင်မြို့တော်ဘက်သို့ ပြန်လှည့်ခဲ့ကြသည်။
+
+ယခုလမ်းသည် ညီညာချောမွေ့ပြီး ကောင်းစွာ ခင်းထားသည်။ ပတ်ဝန်းကျင်တစ်လျှောက်လည်း လှပနေသဖြင့် ခရီးသွားများသည် မှောင်မိုက်သော တောအုပ်နှင့် ထိုနေရာတွင် ကြုံတွေ့ခဲ့ရသည့် အခက်အခဲများကို ကျော်ဖြတ်လာနိုင်ပြီဖြစ်၍ ဝမ်းသာနေကြသည်။ လမ်းဘေးတွင် ခြံစည်းရိုးများကို ထပ်မံတွေ့ရသော်လည်း ယခုအခါ အစိမ်းရောင် ဆေးသုတ်ထားကြသည်။ လယ်သမားတစ်ဦး နေထိုင်ပုံရသော အိမ်ငယ်တစ်လုံးကိုလည်း တွေ့ရပြီး ထိုအိမ်ကိုပါ အစိမ်းရောင် ဆေးသုတ်ထားသည်။
+
+မွန်းလွဲပိုင်းတစ်လျှောက် ထိုအိမ်မျိုးများစွာကို ဖြတ်သန်းသွားကြသည်။ တစ်ခါတစ်ရံ အိမ်ထဲမှ လူများ ထွက်လာပြီး မေးခွန်းမေးချင်သကဲ့သို့ သူတို့ကို ကြည့်နေကြသော်လည်း ခြင်္သေ့ကြီးကို အလွန်ကြောက်ရွံ့ကြသဖြင့် အနားသို့ မလာကြ၊ စကားလည်း မပြောကြပေ။ ထိုဒေသခံအားလုံးသည် လှပသော မြစိမ်းရောင်အဝတ်အစားများ ဝတ်ဆင်ထားကြပြီး မန်ချ်ကင်များကဲ့သို့ ချွန်ထွက်သော ဦးထုပ်များကို ဆောင်းထားကြသည်။
+
+“ဒါက အော့ဇ်နယ်မြေ ဖြစ်ရမယ်။ မြစိမ်းရောင်မြို့တော်နဲ့လည်း နီးလာပြီ ထင်တယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ဟုတ်တယ်” ဟု စာခြောက်ရုပ်က ပြန်ဖြေသည်။ “မန်ချ်ကင်နယ်မြေမှာ အပြာရောင်ကို အကြိုက်ဆုံးထားကြပေမဲ့ ဒီနေရာမှာတော့ အရာအားလုံးနီးပါး အစိမ်းရောင်ပဲ။ ဒါပေမဲ့ ဒီလူတွေက မန်ချ်ကင်တွေလို ဖော်ရွေကြပုံ မရဘူး။ ညအိပ်ဖို့ နေရာတစ်ခု ရှာရခက်မယ်ထင်တယ်။”
+
+“အသီးတွေအပြင် တခြားအစားအစာလည်း စားချင်လာပြီ။ တိုတိုလည်း အရမ်းဆာနေပြီထင်တယ်။ နောက်အိမ်တစ်အိမ်ရောက်ရင် ရပ်ပြီး လူတွေကို စကားပြောကြည့်ရအောင်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+ထို့ကြောင့် အရွယ်အစားကောင်းသော လယ်အိမ်တစ်အိမ်သို့ ရောက်သောအခါ ဒေါ်ရသီသည် ရဲရဲဝံ့ဝံ့ တံခါးဝသို့ သွားပြီး ခေါက်လိုက်သည်။
+
+အမျိုးသမီးတစ်ဦးက တံခါးကို အနည်းငယ်သာ ဖွင့်ကာ အပြင်သို့ ကြည့်ပြီး “ကလေးမ၊ ဘာလိုချင်လို့လဲ။ အဲဒီခြင်္သေ့ကြီးကလည်း မင်းနဲ့ ဘာလို့ လိုက်လာတာလဲ” ဟု မေးသည်။
+
+“ရှင်တို့ ခွင့်ပြုမယ်ဆိုရင် ဒီည ဒီမှာ အိပ်ခွင့်ရချင်ပါတယ်။ ခြင်္သေ့ကြီးက ကျွန်မရဲ့ မိတ်ဆွေပါ။ သူက ဘယ်သူ့ကိုမှ မထိခိုက်စေပါဘူး” ဟု ဒေါ်ရသီက ဖြေသည်။
+
+“သူက လူယဉ်လား” ဟု အမျိုးသမီးက တံခါးကို အနည်းငယ် ပိုဖွင့်ရင်း မေးသည်။
+
+“ယဉ်ပါတယ်။ ဒါ့အပြင် သူက အလွန်ကြောက်တတ်သူပါ။ ရှင်က သူ့ကို ကြောက်တာထက် သူက ရှင့်ကို ပိုကြောက်နေပါလိမ့်မယ်” ဟု ကလေးမလေးက ပြောသည်။
+
+အမျိုးသမီးသည် ခဏစဉ်းစားပြီး ခြင်္သေ့ကြီးကို နောက်တစ်ကြိမ် လှမ်းကြည့်သည်။ ထို့နောက် “အဲဒီလိုဆိုရင် ဝင်လာခဲ့ကြပါ။ ညစာကျွေးပြီး အိပ်ဖို့ နေရာလည်း ပေးပါမယ်” ဟု ပြောလိုက်သည်။
+
+သူတို့အားလုံး အိမ်ထဲသို့ ဝင်သွားကြသည်။ အိမ်ထဲတွင် အမျိုးသမီးအပြင် ကလေးနှစ်ဦးနှင့် အမျိုးသားတစ်ဦးလည်း ရှိနေသည်။ ထိုအမျိုးသားမှာ ခြေထောက်တစ်ဖက် နာကျင်နေသဖြင့် အခန်းထောင့်ရှိ ဆိုဖာပေါ်တွင် လဲလျောင်းနေသည်။ အိမ်သားများသည် ထူးဆန်းသော ခရီးသွားအုပ်စုကို တွေ့ရ၍ အလွန်အံ့ဩနေကြသည်။ အမျိုးသမီးက စားပွဲပြင်ဆင်နေစဉ် အမျိုးသားက “ခင်ဗျားတို့ ဘယ်ကို သွားနေကြတာလဲ” ဟု မေးသည်။
+
+“မြစိမ်းရောင်မြို့တော်ကို သွားပြီး မဟာမှော်ဆရာ အော့ဇ်ကို တွေ့ဖို့ပါ” ဟု ဒေါ်ရသီက ဖြေသည်။
+
+“အော်၊ ဟုတ်လား။ အော့ဇ်က ခင်ဗျားတို့ကို တွေ့ခွင့်ပေးမယ်ဆိုတာ သေချာရဲ့လား” ဟု အမျိုးသားက အံ့ဩစွာ မေးသည်။
+
+“ဘာလို့ မတွေ့ခွင့်ပေးရမှာလဲ” ဟု ဒေါ်ရသီက ပြန်မေးသည်။
+
+“သူဟာ ဘယ်သူ့ကိုမှ သူ့ရှေ့မှောက် လာခွင့်မပေးဘူးလို့ ပြောကြတယ်။ ကျွန်တော် မြစိမ်းရောင်မြို့တော်ကို အကြိမ်ကြိမ် ရောက်ဖူးတယ်။ အဲဒီမြို့က အလွန်လှပပြီး အံ့ဩစရာကောင်းတယ်။ ဒါပေမဲ့ မဟာမှော်ဆရာ အော့ဇ်ကိုတော့ တစ်ခါမှ တွေ့ခွင့်မရခဲ့ဘူး။ သူ့ကို ကိုယ်တိုင်မြင်ဖူးတဲ့ အသက်ရှင်နေသူတစ်ဦးဦးကိုလည်း ကျွန်တော် မသိဘူး” ဟု သူက ပြောသည်။
+
+“သူက အပြင်ကို လုံးဝ မထွက်ဘူးလား” ဟု စာခြောက်ရုပ်က မေးသည်။
+
+“ဘယ်တော့မှ မထွက်ဘူး။ သူ့နန်းတော်ကြီးထဲက ပလ္လင်ခန်းမမှာ နေ့တိုင်း ထိုင်နေတယ်။ သူ့ကို အလုပ်အကျွေးပြုနေသူတွေတောင် မျက်နှာချင်းဆိုင် မတွေ့ဖူးကြဘူး” ဟု အမျိုးသားက ပြန်ဖြေသည်။
+
+“သူက ဘယ်လိုပုံစံရှိလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“အဲဒါ ပြောရခက်တယ်” ဟု အမျိုးသားက စဉ်းစားဟန်ဖြင့် ပြောသည်။ “အော့ဇ်ဟာ မဟာမှော်ဆရာတစ်ဦးဖြစ်ပြီး သူနှစ်သက်တဲ့ ပုံစံမျိုးစုံကို ပြောင်းလဲနိုင်တယ်လို့ ဆိုကြတယ်။ တချို့က သူ့ကို ငှက်တစ်ကောင်လို မြင်ရတယ်လို့ ပြောကြတယ်။ တချို့က ဆင်တစ်ကောင်လို၊ တချို့က ကြောင်တစ်ကောင်လို မြင်ရတယ်လို့ ဆိုကြတယ်။ အခြားသူတွေကတော့ လှပတဲ့ နတ်သမီးတစ်ဦး၊ နတ်ကလေးတစ်ဦး ဒါမှမဟုတ် သူနှစ်သက်ရာ ပုံစံတစ်မျိုးမျိုးအဖြစ် မြင်ရတယ်လို့ ပြောကြတယ်။ သူ့ရဲ့ မူလပုံစံက ဘယ်လိုလဲဆိုတာတော့ ဘယ်သူမှ မသိကြဘူး။”
+
+“အဲဒါ အရမ်းထူးဆန်းတာပဲ။ ဒါပေမဲ့ ငါတို့ ခရီးထွက်လာတာ အလကားမဖြစ်အောင် သူ့ကို တစ်နည်းနည်းနဲ့ တွေ့ဖို့ ကြိုးစားရမယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ကြောက်စရာကောင်းတဲ့ အော့ဇ်ကို ဘာလို့ တွေ့ချင်ကြတာလဲ” ဟု အမျိုးသားက မေးသည်။
+
+“ဦးနှောက်တစ်ခု ပေးဖို့ပါ” ဟု စာခြောက်ရုပ်က စိတ်အားထက်သန်စွာ ပြောသည်။
+
+“အော်၊ အော့ဇ်အတွက် အဲဒါက လွယ်ပါတယ်။ သူ့မှာ လိုအပ်တာထက်တောင် ဦးနှောက်တွေ အများကြီး ရှိတယ်” ဟု အမျိုးသားက ပြောသည်။
+
+“ကျွန်တော်ကတော့ နှလုံးသားတစ်ခု လိုချင်ပါတယ်” ဟု သံခုတ်သမားက ပြောသည်။
+
+“အဲဒါလည်း သူ့အတွက် အခက်အခဲမရှိပါဘူး။ အော့ဇ်မှာ အရွယ်အစားနဲ့ ပုံစံမျိုးစုံရှိတဲ့ နှလုံးသားတွေ အများကြီး စုထားတယ်” ဟု အမျိုးသားက ပြန်ဖြေသည်။
+
+“ကျွန်တော်ကတော့ သတ္တိရချင်ပါတယ်” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“အော့ဇ်ရဲ့ ပလ္လင်ခန်းမထဲမှာ သတ္တိတွေ အပြည့်ထည့်ထားတဲ့ အိုးကြီးတစ်လုံး ရှိတယ်။ အပေါ်က ရွှေပြားနဲ့ ဖုံးထားရတယ်။ မဟုတ်ရင် သတ္တိတွေ ပြည့်လျှံထွက်လာမှာပေါ့။ သူက မင်းကိုလည်း ဝမ်းသာအားရ ပေးပါလိမ့်မယ်” ဟု အမျိုးသားက ပြောသည်။
+
+“ကျွန်မကတော့ ကန်ဆတ်ကို ပြန်ပို့ပေးဖို့ တောင်းဆိုချင်ပါတယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ကန်ဆတ်ဆိုတာ ဘယ်နေရာလဲ” ဟု အမျိုးသားက အံ့ဩစွာ မေးသည်။
+
+“ကျွန်မလည်း မသိပါဘူး။ ဒါပေမဲ့ အဲဒါ ကျွန်မရဲ့ အိမ်ပါ။ တစ်နေရာရာမှာတော့ ရှိနေမှာ သေချာပါတယ်” ဟု ဒေါ်ရသီက ဝမ်းနည်းစွာ ဖြေသည်။
+
+“ဖြစ်နိုင်ပါတယ်။ အော့ဇ်က အရာအားလုံး လုပ်နိုင်တယ်လို့ ဆိုကြတာပဲ။ ဒါကြောင့် မင်းအတွက် ကန်ဆတ်ကို ရှာပေးနိုင်မယ် ထင်ပါတယ်။ ဒါပေမဲ့ အရင်ဆုံး သူ့ကို တွေ့ခွင့်ရဖို့ လိုတယ်။ အဲဒါကတော့ ခက်ခဲပါလိမ့်မယ်။ မဟာမှော်ဆရာဟာ ဘယ်သူ့ကိုမှ တွေ့ချင်သူ မဟုတ်ဘူး။ သူ့သဘောအတိုင်းပဲ အမြဲလုပ်တတ်တယ်” ဟု အမျိုးသားက ပြောပြီး တိုတိုဘက်သို့ လှည့်ကာ “ဒါနဲ့ မင်းကရော ဘာလိုချင်လဲ” ဟု မေးသည်။ တိုတိုက အမြီးသာ ယမ်းပြခဲ့သည်။ ထူးဆန်းစွာပင် သူက စကားမပြောနိုင်ခဲ့ပေ။
+
+ထိုအချိန်တွင် အမျိုးသမီးက ညစာအသင့်ဖြစ်ပြီဟု လှမ်းခေါ်သည်။ သူတို့အားလုံး စားပွဲဝိုင်းတွင် စုဝေးကြသည်။ ဒေါ်ရသီသည် အရသာရှိသော ဆန်ပြုတ်တစ်ပန်းကန်၊ ကြက်ဥမွှေကြော်တစ်ပန်းကန်နှင့် ပေါင်မုန့်ဖြူတစ်ပန်းကန်ကို စားသောက်ပြီး အလွန်ကျေနပ်သွားသည်။ ခြင်္သေ့ကြီးလည်း ဆန်ပြုတ်အနည်းငယ် စားကြည့်သော်လည်း မကြိုက်ပေ။ ၎င်းကို အုတ်စ်သီးမှ ပြုလုပ်ထားသဖြင့် မြင်းများစားသည့် အစာဖြစ်ပြီး ခြင်္သေ့များအတွက် မဟုတ်ဟု ပြောသည်။ စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့ကတော့ ဘာမျှမစားကြပေ။ တိုတိုက အစားအစာအမျိုးမျိုးကို အနည်းငယ်စီ စားပြီး ညစာကောင်းကောင်း ရသဖြင့် ပျော်ရွှင်နေသည်။
+
+အမျိုးသမီးက ဒေါ်ရသီအတွက် အိပ်ရာတစ်ခု ပြင်ပေးသည်။ တိုတိုကလည်း သူမဘေးတွင် လှဲအိပ်သည်။ ခြင်္သေ့ကြီးကတော့ ဒေါ်ရသီ အနှောင့်အယှက်မဖြစ်စေရန် အခန်းတံခါးဝတွင် စောင့်ရှောက်ပေးနေသည်။ စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့သည် အိပ်စက်ရန် မလိုအပ်ကြသဖြင့် တစ်ညလုံး အခန်းထောင့်တွင် မတ်တတ်ရပ်ကာ ငြိမ်သက်စွာ နေခဲ့ကြသည်။
+
+နောက်တစ်နေ့ နံနက် နေရောင်ထွက်လာသည်နှင့် သူတို့သည် ခရီးပြန်စကြသည်။ မကြာမီ သူတို့ရှေ့ရှိ ကောင်းကင်တွင် လှပသော အစိမ်းရောင်အလင်းတန်းတစ်ခုကို မြင်လိုက်ကြသည်။
+
+“အဲဒါ မြစိမ်းရောင်မြို့တော် ဖြစ်ရမယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+သူတို့ ဆက်လျှောက်လာသည်နှင့်အမျှ အစိမ်းရောင်အလင်းသည် ပိုမိုတောက်ပလာသည်။ နောက်ဆုံးတွင် ခရီးဆုံးသို့ နီးကပ်လာပြီဟု ထင်ရသည်။ သို့သော် မြို့တော်ကို ဝန်းရံထားသော မြို့ရိုးကြီးဆီသို့ ရောက်ရန် မွန်းလွဲပိုင်းအထိ အချိန်ယူခဲ့ရသည်။ မြို့ရိုးသည် အလွန်မြင့်မားပြီး ထူထဲကာ တောက်ပသော အစိမ်းရောင်ဖြစ်သည်။
+
+သူတို့ရှေ့တွင် အဝါရောင်အုတ်ခင်းလမ်း၏ အဆုံး၌ မြို့တော်၏ တံခါးကြီးတစ်ခု ရှိနေသည်။ ထိုတံခါးတစ်ခုလုံးတွင် နေရောင်အောက်၌ တလက်လက် တောက်ပနေသော မြကျောက်များကို စီခြယ်ထားသည်။ အလင်းရောင်သည် အလွန်ပြင်းထန်သဖြင့် စာခြောက်ရုပ်၏ ဆေးခြယ်ထားသော မျက်လုံးများပင် မခံနိုင်လောက်အောင် ဖြစ်နေသည်။
+
+တံခါးဘေးတွင် ခေါင်းလောင်းခလုတ်တစ်ခု ရှိသည်။ ဒေါ်ရသီက ခလုတ်ကို နှိပ်လိုက်ရာ အတွင်းမှ ငွေရောင်သံစဉ်ကဲ့သို့ အသံလေးတစ်ခု မြည်လာသည်။ ထို့နောက် တံခါးကြီးသည် ဖြည်းဖြည်းချင်း ပွင့်လာပြီး သူတို့အားလုံး ဝင်သွားကြသည်။ အတွင်းတွင် မြင့်မားသော မုခ်ခုံးပါသည့် အခန်းကြီးတစ်ခန်း ရှိသည်။ နံရံများတစ်လျှောက်တွင် မြကျောက်များ အမြောက်အမြား စီခြယ်ထားသဖြင့် တောက်ပနေသည်။
+
+သူတို့ရှေ့တွင် မန်ချ်ကင်များနှင့် အရွယ်အစားတူညီလောက်သော လူပုလေးတစ်ဦး ရပ်နေသည်။ သူသည် ခေါင်းမှ ခြေဖျားအထိ အစိမ်းရောင်အဝတ်များ ဝတ်ဆင်ထားပြီး အသားအရေမှာလည်း အစိမ်းရောင်သန်းနေသည်။ သူ့ဘေးတွင် အစိမ်းရောင်သေတ္တာကြီးတစ်လုံး ရှိသည်။
+
+ဒေါ်ရသီနှင့် သူမ၏ မိတ်ဆွေများကို မြင်သောအခါ ထိုလူက “မြစိမ်းရောင်မြို့တော်မှာ ဘာကိစ္စရှိလို့ လာကြတာလဲ” ဟု မေးသည်။
+
+“ကျွန်မတို့ မဟာမှော်ဆရာ အော့ဇ်ကို တွေ့ဖို့ လာကြတာပါ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+ထိုအဖြေကို ကြားသောအခါ လူပုလေးသည် အလွန်အံ့ဩသွားပြီး စဉ်းစားရန် ထိုင်ချလိုက်သည်။
+
+“ကျွန်တော်က အော့ဇ်ကို တွေ့ခွင့်ပေးပါလို့ တောင်းဆိုတဲ့သူကို မတွေ့ရတာ နှစ်ပေါင်းများစွာ ကြာခဲ့ပြီ။ သူဟာ တန်ခိုးကြီးပြီး ကြောက်မက်ဖွယ်ကောင်းတဲ့ မှော်ဆရာတစ်ဦးပါ။ အရေးမကြီးတဲ့ ကိစ္စ ဒါမှမဟုတ် မိုက်မဲတဲ့ အကြောင်းပြချက်နဲ့ သူ့ရဲ့ တိတ်ဆိတ်စွာ စဉ်းစားနေမှုကို နှောင့်ယှက်မိရင် သူ စိတ်ဆိုးပြီး ခဏအတွင်းမှာပဲ ခင်ဗျားတို့အားလုံးကို ဖျက်ဆီးပစ်နိုင်တယ်” ဟု သူက ပြောသည်။
+
+“ဒါက အရေးမကြီးတဲ့ ကိစ္စလည်း မဟုတ်ပါဘူး။ အလကားလာတာလည်း မဟုတ်ပါဘူး။ အလွန်အရေးကြီးတဲ့ ကိစ္စပါ။ အော့ဇ်ဟာ ကြင်နာတတ်တဲ့ မှော်ဆရာတစ်ဦးလို့လည်း ကျွန်တော်တို့ကို ပြောထားပါတယ်” ဟု စာခြောက်ရုပ်က ပြန်ဖြေသည်။
+
+“အဲဒါ မှန်ပါတယ်။ သူဟာ မြစိမ်းရောင်မြို့တော်ကို ပညာရှိရှိနဲ့ ကောင်းမွန်စွာ အုပ်ချုပ်နေသူပါ။ ဒါပေမဲ့ မရိုးသားသူတွေ၊ သိချင်စိတ်သက်သက်နဲ့ သူ့ဆီလာသူတွေကိုတော့ အလွန်ကြောက်စရာကောင်းတဲ့သူ ဖြစ်တတ်တယ်။ သူ့မျက်နှာကို တွေ့ခွင့်တောင်းဖို့တောင် လူအနည်းငယ်သာ သတ္တိရှိကြတယ်။ ကျွန်တော်က တံခါးစောင့်ပါ။ ခင်ဗျားတို့က မဟာမှော်ဆရာကို တွေ့ချင်တယ်လို့ တောင်းဆိုလာတဲ့အတွက် နန်းတော်ဆီ ခေါ်သွားပေးရပါမယ်။ ဒါပေမဲ့ အရင်ဆုံး မျက်မှန်တွေ တပ်ရမယ်” ဟု အစိမ်းရောင်လူက ပြောသည်။
+
+“ဘာကြောင့်လဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“မျက်မှန်မတပ်ရင် မြစိမ်းရောင်မြို့တော်ရဲ့ တောက်ပမှုနဲ့ ခမ်းနားမှုကြောင့် မျက်စိထိခိုက်နိုင်လို့ပါ။ မြို့ထဲမှာ နေထိုင်သူတွေတောင် နေ့ရောညပါ မျက်မှန်တပ်ထားရတယ်။ အဲဒီမျက်မှန်တွေကို သော့ခတ်ထားကြတာပါ။ မြို့တော်ကို စတင်တည်ဆောက်ချိန်မှာ အော့ဇ်က အဲဒီလို အမိန့်ပေးခဲ့တာဖြစ်ပြီး သော့ဖွင့်နိုင်တဲ့ သော့တစ်ချောင်းတည်းကို ကျွန်တော်ပဲ ကိုင်ထားပါတယ်” ဟု သူက ရှင်းပြသည်။
+
+ထို့နောက် သူသည် သေတ္တာကြီးကို ဖွင့်လိုက်သည်။ ဒေါ်ရသီသည် အတွင်းတွင် အရွယ်အစားနှင့် ပုံစံမျိုးစုံရှိသော မျက်မှန်များကို တွေ့လိုက်ရသည်။ မျက်မှန်အားလုံးတွင် အစိမ်းရောင်မှန်များ တပ်ထားကြသည်။ တံခါးစောင့်သည် ဒေါ်ရသီနှင့် အံကိုက်ဖြစ်မည့် မျက်မှန်တစ်လက်ကို ရှာပြီး သူမအား တပ်ပေးလိုက်သည်။ မျက်မှန်တွင် ရွှေရောင်ကြိုးနှစ်ချောင်း ပါရှိပြီး ခေါင်းနောက်ဘက်တွင် ပတ်ကာ သော့ခတ်နိုင်သည်။ သော့ငယ်လေးမှာ တံခါးစောင့်၏ လည်ပင်းတွင် ချိတ်ထားသော ကြိုး၏ အဆုံး၌ ရှိနေသည်။
+
+မျက်မှန်တပ်ပြီးသောအခါ ဒေါ်ရသီသည် ပြန်ချွတ်ချင်လျှင်ပင် ချွတ်၍မရတော့ပေ။ သို့သော် မြို့တော်၏ အလင်းရောင်ကြောင့် မျက်စိထိခိုက်မည်ကို သူမ မလိုလားသဖြင့် ဘာမျှ မပြောခဲ့ပေ။
+
+ထို့နောက် အစိမ်းရောင်လူသည် စာခြောက်ရုပ်၊ သံခုတ်သမားနှင့် ခြင်္သေ့ကြီးတို့အတွက်လည်း မျက်မှန်များကို တပ်ပေးသည်။ တိုတိုလေးအတွက်ပင် မျက်မှန်တစ်လက် ရှာပေးပြီး သော့ခတ်ပေးလိုက်သည်။
+
+နောက်ဆုံးတွင် တံခါးစောင့်သည် မိမိ၏ မျက်မှန်ကိုလည်း တပ်လိုက်ပြီး နန်းတော်သို့ လိုက်ပြရန် အသင့်ဖြစ်ပြီဟု ပြောသည်။ နံရံရှိ ချိတ်တစ်ခုမှ ရွှေရောင်သော့ကြီးကို ယူကာ အခြားတံခါးတစ်ခုကို ဖွင့်လိုက်သည်။ ထို့နောက် သူတို့အားလုံးသည် ထိုတံခါးမှတစ်ဆင့် မြစိမ်းရောင်မြို့တော်၏ လမ်းမများပေါ်သို့ လိုက်ပါဝင်ရောက်သွားကြသည်။`,
+    contentEn: `It was some time before the Cowardly Lion awakened, for he had lain among the poppies a long while, breathing in their deadly fragrance; but when he did open his eyes and roll off the truck he was very glad to find himself still alive.
+
+“I ran as fast as I could,” he said, sitting down and yawning, “but the flowers were too strong for me. How did you get me out?”
+
+Then they told him of the field mice, and how they had generously saved him from death; and the Cowardly Lion laughed, and said:
+
+“I have always thought myself very big and terrible; yet such little things as flowers came near to killing me, and such small animals as mice have saved my life. How strange it all is! But, comrades, what shall we do now?”
+
+“We must journey on until we find the road of yellow brick again,” said Dorothy, “and then we can keep on to the Emerald City.”
+
+So, the Lion being fully refreshed, and feeling quite himself again, they all started upon the journey, greatly enjoying the walk through the soft, fresh grass; and it was not long before they reached the road of yellow brick and turned again toward the Emerald City where the Great Oz dwelt.
+
+The road was smooth and well paved, now, and the country about was beautiful, so that the travelers rejoiced in leaving the forest far behind, and with it the many dangers they had met in its gloomy shades. Once more they could see fences built beside the road; but these were painted green, and when they came to a small house, in which a farmer evidently lived, that also was painted green.
+
+They passed by several of these houses during the afternoon, and sometimes people came to the doors and looked at them as if they would like to ask questions; but no one came near them nor spoke to them because of the great Lion, of which they were very much afraid. The people were all dressed in clothing of a lovely emerald-green color and wore peaked hats like those of the Munchkins.
+
+“This must be the Land of Oz,” said Dorothy, “and we are surely getting near the Emerald City.”
+
+“Yes,” answered the Scarecrow. “Everything is green here, while in the country of the Munchkins blue was the favorite color. But the people do not seem to be as friendly as the Munchkins, and I’m afraid we shall be unable to find a place to pass the night.”
+
+“I should like something to eat besides fruit,” said the girl, “and I’m sure Toto is nearly starved. Let us stop at the next house and talk to the people.”
+
+So, when they came to a good-sized farmhouse, Dorothy walked boldly up to the door and knocked.
+
+A woman opened it just far enough to look out, and said, “What do you want, child, and why is that great Lion with you?”
+
+“We wish to pass the night with you, if you will allow us,” answered Dorothy; “and the Lion is my friend and comrade, and would not hurt you for the world.”
+
+“Is he tame?” asked the woman, opening the door a little wider.
+
+“Oh, yes,” said the girl, “and he is a great coward, too. He will be more afraid of you than you are of him.”
+
+“Well,” said the woman, after thinking it over and taking another peep at the Lion, “if that is the case you may come in, and I will give you some supper and a place to sleep.”
+
+So they all entered the house, where there were, besides the woman, two children and a man. The man had hurt his leg, and was lying on the couch in a corner. They seemed greatly surprised to see so strange a company, and while the woman was busy laying the table the man asked:
+
+“Where are you all going?”
+
+“To the Emerald City,” said Dorothy, “to see the Great Oz.”
+
+“Oh, indeed!” exclaimed the man. “Are you sure that Oz will see you?”
+
+“Why not?” she replied.
+
+“Why, it is said that he never lets anyone come into his presence. I have been to the Emerald City many times, and it is a beautiful and wonderful place; but I have never been permitted to see the Great Oz, nor do I know of any living person who has seen him.”
+
+“Does he never go out?” asked the Scarecrow.
+
+“Never. He sits day after day in the great Throne Room of his Palace, and even those who wait upon him do not see him face to face.”
+
+“What is he like?” asked the girl.
+
+“That is hard to tell,” said the man thoughtfully. “You see, Oz is a Great Wizard, and can take on any form he wishes. So that some say he looks like a bird; and some say he looks like an elephant; and some say he looks like a cat. To others he appears as a beautiful fairy, or a brownie, or in any other form that pleases him. But who the real Oz is, when he is in his own form, no living person can tell.”
+
+“That is very strange,” said Dorothy, “but we must try, in some way, to see him, or we shall have made our journey for nothing.”
+
+“Why do you wish to see the terrible Oz?” asked the man.
+
+“I want him to give me some brains,” said the Scarecrow eagerly.
+
+“Oh, Oz could do that easily enough,” declared the man. “He has more brains than he needs.”
+
+“And I want him to give me a heart,” said the Tin Woodman.
+
+“That will not trouble him,” continued the man, “for Oz has a large collection of hearts, of all sizes and shapes.”
+
+“And I want him to give me courage,” said the Cowardly Lion.
+
+“Oz keeps a great pot of courage in his Throne Room,” said the man, “which he has covered with a golden plate, to keep it from running over. He will be glad to give you some.”
+
+“And I want him to send me back to Kansas,” said Dorothy.
+
+“Where is Kansas?” asked the man, with surprise.
+
+“I don’t know,” replied Dorothy sorrowfully, “but it is my home, and I’m sure it’s somewhere.”
+
+“Very likely. Well, Oz can do anything; so I suppose he will find Kansas for you. But first you must get to see him, and that will be a hard task; for the Great Wizard does not like to see anyone, and he usually has his own way. But what do YOU want?” he continued, speaking to Toto. Toto only wagged his tail; for, strange to say, he could not speak.
+
+The woman now called to them that supper was ready, so they gathered around the table and Dorothy ate some delicious porridge and a dish of scrambled eggs and a plate of nice white bread, and enjoyed her meal. The Lion ate some of the porridge, but did not care for it, saying it was made from oats and oats were food for horses, not for lions. The Scarecrow and the Tin Woodman ate nothing at all. Toto ate a little of everything, and was glad to get a good supper again.
+
+The woman now gave Dorothy a bed to sleep in, and Toto lay down beside her, while the Lion guarded the door of her room so she might not be disturbed. The Scarecrow and the Tin Woodman stood up in a corner and kept quiet all night, although of course they could not sleep.
+
+The next morning, as soon as the sun was up, they started on their way, and soon saw a beautiful green glow in the sky just before them.
+
+“That must be the Emerald City,” said Dorothy.
+
+As they walked on, the green glow became brighter and brighter, and it seemed that at last they were nearing the end of their travels. Yet it was afternoon before they came to the great wall that surrounded the City. It was high and thick and of a bright green color.
+
+In front of them, and at the end of the road of yellow brick, was a big gate, all studded with emeralds that glittered so in the sun that even the painted eyes of the Scarecrow were dazzled by their brilliancy.
+
+There was a bell beside the gate, and Dorothy pushed the button and heard a silvery tinkle sound within. Then the big gate swung slowly open, and they all passed through and found themselves in a high arched room, the walls of which glistened with countless emeralds.
+
+Before them stood a little man about the same size as the Munchkins. He was clothed all in green, from his head to his feet, and even his skin was of a greenish tint. At his side was a large green box.
+
+When he saw Dorothy and her companions the man asked, “What do you wish in the Emerald City?”
+
+“We came here to see the Great Oz,” said Dorothy.
+
+The man was so surprised at this answer that he sat down to think it over.
+
+“It has been many years since anyone asked me to see Oz,” he said, shaking his head in perplexity. “He is powerful and terrible, and if you come on an idle or foolish errand to bother the wise reflections of the Great Wizard, he might be angry and destroy you all in an instant.”
+
+“But it is not a foolish errand, nor an idle one,” replied the Scarecrow; “it is important. And we have been told that Oz is a good Wizard.”
+
+“So he is,” said the green man, “and he rules the Emerald City wisely and well. But to those who are not honest, or who approach him from curiosity, he is most terrible, and few have ever dared ask to see his face. I am the Guardian of the Gates, and since you demand to see the Great Oz I must take you to his Palace. But first you must put on the spectacles.”
+
+“Why?” asked Dorothy.
+
+“Because if you did not wear spectacles the brightness and glory of the Emerald City would blind you. Even those who live in the City must wear spectacles night and day. They are all locked on, for Oz so ordered it when the City was first built, and I have the only key that will unlock them.”
+
+He opened the big box, and Dorothy saw that it was filled with spectacles of every size and shape. All of them had green glasses in them. The Guardian of the Gates found a pair that would just fit Dorothy and put them over her eyes. There were two golden bands fastened to them that passed around the back of her head, where they were locked together by a little key that was at the end of a chain the Guardian of the Gates wore around his neck.
+
+When they were on, Dorothy could not take them off had she wished, but of course she did not wish to be blinded by the glare of the Emerald City, so she said nothing.
+
+Then the green man fitted spectacles for the Scarecrow and the Tin Woodman and the Lion, and even on little Toto; and all were locked fast with the key.
+
+Then the Guardian of the Gates put on his own glasses and told them he was ready to show them to the Palace. Taking a big golden key from a peg on the wall, he opened another gate, and they all followed him through the portal into the streets of the Emerald City.`
+  },
 ] as const;
