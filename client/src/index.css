@@ -1847,3 +1847,53 @@ body { background: var(--paper); }
 
 /* Keep the paper sheet scrollable if a viewport or font renders a page taller than expected. */
 .reader-page-paper { overflow-y: auto; }
+
+/* Approved warm literary-library polish: visual-only, preserving all existing icons and behavior. */
+.hero-section {
+  background: #102640;
+}
+.hero-backdrop {
+  background:
+    radial-gradient(ellipse at 78% 42%, rgba(137, 116, 76, .22), transparent 30%),
+    radial-gradient(ellipse at 68% 72%, rgba(58, 95, 116, .42), transparent 46%),
+    linear-gradient(120deg, #0b1b2e 0%, #102640 52%, #1d405c 100%);
+}
+.hero-image-frame {
+  border-color: rgba(231, 207, 145, .62);
+  border-radius: 16px 16px 9px 9px;
+  background: linear-gradient(145deg, rgba(255,255,255,.2), rgba(255,255,255,.045));
+  box-shadow: 12px 15px 0 -5px rgba(5,15,29,.22), 20px 28px 40px rgba(5,15,29,.3), inset 1px 1px 0 rgba(255,255,255,.5);
+}
+.hero-image-frame img { border-radius: 10px 10px 5px 5px; filter: saturate(.9) contrast(1.04) brightness(1.02); }
+.hero-image-caption { border: 1px solid rgba(194, 161, 87, .18); border-radius: 10px; box-shadow: 0 14px 30px rgba(5,15,29,.2); }
+.library-promise { background: linear-gradient(180deg, #fffefa, #fbf8f0); }
+.category-card {
+  border-color: #e5ddce;
+  border-radius: 16px;
+  background: linear-gradient(145deg, rgba(255,255,255,.96), rgba(250,247,239,.9));
+  box-shadow: 0 6px 18px rgba(25,42,58,.04), inset 0 1px 0 rgba(255,255,255,.9);
+}
+.category-card:hover { border-color: #cfb56e; box-shadow: 0 14px 30px rgba(25,42,58,.1); }
+.category-card.is-selected { box-shadow: 0 12px 26px rgba(145,111,45,.12), inset 0 1px 0 #fff; }
+.featured-section {
+  background:
+    radial-gradient(ellipse at 8% 12%, rgba(142, 113, 61, .12), transparent 25%),
+    radial-gradient(ellipse at 96% 82%, rgba(52, 93, 112, .28), transparent 30%),
+    linear-gradient(135deg, #102640 0%, #0c1e32 100%);
+}
+.book-card {
+  border-radius: 16px;
+  background: linear-gradient(145deg, rgba(255,255,255,.1), rgba(255,255,255,.045));
+  box-shadow: 0 16px 36px rgba(0,0,0,.13), inset 0 1px 0 rgba(255,255,255,.08);
+}
+.book-cover { border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,.14); }
+.book-cover-image { filter: saturate(.94) contrast(1.03); }
+.book-actions .read-button { border-radius: 9px; }
+
+@media (max-width: 640px) {
+  .hero-image-frame { border-radius: 13px 13px 8px 8px; }
+  .hero-image-frame img { border-radius: 8px 8px 4px 4px; }
+  .category-card { border-radius: 14px; padding: 15px 14px; }
+  .book-card { border-radius: 15px; }
+  .book-cover { border-radius: 9px; }
+}

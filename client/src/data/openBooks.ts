@@ -37,7 +37,7 @@ export const openBooks: readonly OpenBook[] = [
     author: "AUREN",
     categoryId: "personal-development",
     categoryMy: "ကိုယ်ရည်ကိုယ်သွေးနှင့် အတွေးအမြင်",
-    coverImage: "images/covers/meditations.svg",
+    coverImage: "images/covers/art-of-learning.jpg",
     descriptionMy: "ရည်မှန်းချက်ချမှတ်ခြင်း၊ နားလည်မှုတည်ဆောက်ခြင်းနှင့် လက်တွေ့လေ့ကျင့်ခြင်းတို့ဖြင့် သင်ယူမှုကို ပိုမိုထိရောက်စေမည့် မူရင်းလမ်းညွှန်။",
     descriptionEn: "An original guide to setting learning goals, building understanding, practising effectively and continuing to learn.",
     synopsisMy: "သင်ယူမှုကို မှတ်သားခြင်းတစ်ခုတည်းအဖြစ် မမြင်ဘဲ နားလည်ခြင်း၊ ပြန်လည်လေ့ကျင့်ခြင်း၊ အမှားမှသင်ယူခြင်းနှင့် လက်တွေ့အသုံးချခြင်းတို့ဖြင့် တည်ဆောက်ပုံကို ရှင်းပြထားသည်။",
