@@ -940,3 +940,125 @@ body { background: var(--paper); }
   .book-cover { min-height: 184px; }
   .book-meta h3 { font-size: 11px; }
 }
+
+
+/* THARi BOOKS — tactile page-turn reader */
+.reader-book-stage {
+  position: relative;
+  isolation: isolate;
+  perspective: 1500px;
+  margin: 16px 0 12px;
+  padding: 0 7px 9px;
+  touch-action: pan-y;
+}
+.reader-book-stage::before {
+  position: absolute;
+  z-index: -1;
+  inset: 5px 1px 1px;
+  border: 1px solid #d8cdb8;
+  border-radius: 4px 9px 9px 4px;
+  background: linear-gradient(90deg, #d8c9aa 0, #f2ead9 2%, #e8ddc7 4%, #d5c5a7 50%, #e8ddc7 96%, #f7f0e3 100%);
+  box-shadow: 0 15px 28px rgba(30, 35, 40, .14), 0 3px 6px rgba(30, 35, 40, .1);
+  content: "";
+}
+.reader-book-spine {
+  position: absolute;
+  z-index: 4;
+  top: 3px;
+  bottom: 11px;
+  left: 13px;
+  width: 12px;
+  pointer-events: none;
+  background: linear-gradient(90deg, rgba(83, 61, 32, .17), rgba(255,255,255,.45), rgba(83, 61, 32, .06));
+  border-radius: 50%;
+  opacity: .75;
+}
+.reader-book-page {
+  position: relative;
+  z-index: 1;
+  min-height: 390px;
+  overflow: hidden;
+  padding: 24px 25px 35px 34px;
+  border: 1px solid #e1d7c6;
+  border-left: 3px solid #d7c8aa;
+  border-radius: 3px 7px 7px 3px;
+  background: linear-gradient(90deg, #f0e8d9 0, #fffefa 5%, #fffefa 94%, #f4eee3 100%);
+  box-shadow: inset 9px 0 15px rgba(89, 67, 37, .07), 2px 4px 9px rgba(48, 41, 29, .08);
+}
+.reader-book-page .reader-page-heading { padding-bottom: 11px; border-bottom-color: #e7dfd2; }
+.reader-book-page .reader-chapter { margin-top: 16px; }
+.reader-page-number {
+  position: absolute;
+  right: 20px;
+  bottom: 11px;
+  color: #9a8b70;
+  font-family: Georgia, serif;
+  font-size: 10px;
+}
+.reader-turning-sheet {
+  position: absolute;
+  z-index: 3;
+  inset: 0 7px 9px;
+  min-height: 0;
+  overflow: hidden;
+  padding: 24px 25px 35px 34px;
+  border: 1px solid #e1d7c6;
+  border-left: 3px solid #d7c8aa;
+  border-radius: 3px 7px 7px 3px;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  pointer-events: none;
+}
+.reader-turning-sheet.turn-forward {
+  transform-origin: left center;
+  animation: thari-page-forward .68s cubic-bezier(.55,.08,.25,1) both;
+  background: linear-gradient(90deg, #fffefa 0%, #fffefa 78%, #e8decd 100%);
+  box-shadow: inset -13px 0 20px rgba(67, 49, 27, .12), 7px 5px 16px rgba(35, 29, 20, .12);
+}
+.reader-turning-sheet.turn-backward {
+  transform-origin: right center;
+  animation: thari-page-backward .68s cubic-bezier(.55,.08,.25,1) both;
+  background: linear-gradient(270deg, #fffefa 0%, #fffefa 78%, #e8decd 100%);
+  box-shadow: inset 13px 0 20px rgba(67, 49, 27, .12), -7px 5px 16px rgba(35, 29, 20, .12);
+}
+@keyframes thari-page-forward {
+  0% { transform: rotateY(0deg); filter: brightness(1); }
+  42% { filter: brightness(.88); }
+  100% { transform: rotateY(-178deg); filter: brightness(.96); }
+}
+@keyframes thari-page-backward {
+  0% { transform: rotateY(0deg); filter: brightness(1); }
+  42% { filter: brightness(.88); }
+  100% { transform: rotateY(178deg); filter: brightness(.96); }
+}
+.reader-page-corner {
+  position: absolute;
+  z-index: 5;
+  bottom: 10px;
+  display: grid;
+  width: 38px;
+  height: 38px;
+  place-items: center;
+  border: 1px solid #e6ddcc;
+  border-radius: 50%;
+  color: #8e7545;
+  background: rgba(255, 254, 250, .88);
+  box-shadow: 0 2px 7px rgba(50, 40, 25, .08);
+  cursor: pointer;
+}
+.reader-page-corner.corner-prev { left: 17px; transform: rotate(180deg); }
+.reader-page-corner.corner-next { right: 17px; }
+.reader-page-corner:disabled { opacity: .22; cursor: not-allowed; }
+@media (max-width: 640px) {
+  .reader-book-stage { margin: 11px -3px 10px; padding: 0 4px 7px; }
+  .reader-book-page { min-height: 330px; padding: 18px 14px 33px 23px; }
+  .reader-turning-sheet { inset: 0 4px 7px; padding: 18px 14px 33px 23px; }
+  .reader-book-spine { left: 8px; width: 9px; }
+  .reader-page-corner { bottom: 8px; width: 32px; height: 32px; }
+  .reader-page-corner.corner-prev { left: 10px; }
+  .reader-page-corner.corner-next { right: 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reader-turning-sheet.turn-forward,
+  .reader-turning-sheet.turn-backward { animation-duration: .01ms; }
+}
