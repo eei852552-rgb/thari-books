@@ -402,23 +402,221 @@ So the Scarecrow led her through the trees until they reached the cottage, and D
     number: 5,
     title: "အခန်း (၅) — သံခုတ်သမားကို ကယ်တင်ခြင်း",
     titleEn: "Chapter 5 — The Rescue of the Tin Woodman",
-    content: `ဒေါ်ရသီနှင့် စာခြောက်ရုပ်တို့သည် သံခုတ်သမားကို အနီးကပ်ကြည့်ရှုကြသည်။ သူ၏ ကိုယ်ခန္ဓာသည် သံပြားများဖြင့် ပြုလုပ်ထားပြီး လက်၊ ခြေ၊ လည်ပင်းနှင့် ခါးတို့တွင် အဆစ်များ ပါရှိသည်။ သို့သော် အဆစ်များအားလုံး သံချေးတက်နေသောကြောင့် လုံးဝ မလှုပ်ရှားနိုင်တော့ပေ။ သူ့လက်ထဲတွင် ပုဆိန်တစ်လက် ရှိနေပြီး အလုပ်လုပ်နေစဉ် ရပ်တန့်သွားခဲ့သကဲ့သို့ ဖြစ်နေသည်။
+    content: `မနက်မိုးလင်း၍ ဒေါ်ရသီ နိုးလာသောအခါ သစ်ပင်များကြားမှ နေရောင်ခြည်များ ဝင်ရောက်ထိုးကျနေသည်။ တိုတိုမှာလည်း အိပ်ရာက နိုးသည်မှာ ကြာပြီဖြစ်ပြီး သစ်ပင်များအနီးတွင် ငှက်များနှင့် ရှဉ့်ကလေးများကို လိုက်ကြည့်ကစားနေခဲ့သည်။ ဒေါ်ရသီသည် ထထိုင်ပြီး ပတ်ဝန်းကျင်ကို ကြည့်လိုက်သည်။ စာခြောက်ရုပ်ကတော့ သူ့ထောင့်နေရာတွင် မတ်တတ်ရပ်လျက် သူမနိုးလာမည့်အချိန်ကို စိတ်ရှည်စွာ စောင့်နေဆဲဖြစ်သည်။
 
-ဒေါ်ရသီသည် အနီးအနားရှိ သစ်သားအိမ်ငယ်တစ်ခုကို ရှာဖွေကြည့်ရာ ဆီဘူးတစ်ဘူးကို တွေ့ရှိသည်။ သူမသည် ဆီဘူးကို ယူလာပြီး သံခုတ်သမား၏ အဆစ်များပေါ်သို့ တစ်ခုချင်းစီ လိမ်းပေးသည်။ ပထမဆုံး လည်ပင်းအဆစ်ကို ပြုပြင်ပေးသောအခါ သူသည် ခေါင်းကို အနည်းငယ် လှည့်နိုင်လာသည်။ ထို့နောက် လက်မောင်း၊ တံတောင်ဆစ်၊ ဒူးနှင့် ခြေထောက်အဆစ်များကို ဆက်လက်ဆီလိမ်းပေးသည်။ အချိန်အနည်းငယ်ကြာပြီးနောက် သံခုတ်သမားသည် ကိုယ်ကို ပြန်လည်လှုပ်ရှားနိုင်လာသည်။
+“ရေရှာဖို့ သွားကြရအောင်” ဟု ဒေါ်ရသီက ပြောသည်။
 
-သူသည် အလွန်ကျေးဇူးတင်ကြောင်း ပြောပြီး မိမိသည် အချိန်ကြာမြင့်စွာ ထိုနေရာတွင် တစ်ယောက်တည်း ရပ်နေခဲ့ရကြောင်း ရှင်းပြသည်။ မိုးရွာသည့်နေ့တွင် ဆီမလိမ်းထားသော အဆစ်များ သံချေးတက်သွားခဲ့ပြီး လှုပ်ရှားရန် မဖြစ်နိုင်တော့ခြင်းဖြစ်သည်။ သူသည် ဆီဘူးကို အမြဲတမ်း အနီးတွင် ထားသင့်ကြောင်းလည်း နားလည်သွားသည်။
+“ရေကို ဘာလုပ်ဖို့လဲ” ဟု စာခြောက်ရုပ်က မေးသည်။
 
-ထို့နောက် သံခုတ်သမားက သူ့အတိတ်အကြောင်းကို ပြောပြသည်။ ယခင်က သူသည် သစ်ခုတ်လုပ်ငန်းဖြင့် အသက်မွေးခဲ့သော သာမန်လူတစ်ဦးဖြစ်သည်။ တစ်နေ့တွင် သူ၏ ပုဆိန်ကြောင့် မတော်တဆမှုတစ်ခု ဖြစ်ပွားခဲ့ပြီး ကိုယ်ခန္ဓာအစိတ်အပိုင်းများကို သံဖြင့် အစားထိုးခဲ့ရသည်။ အချိန်ကြာလာသည်နှင့်အမျှ ကိုယ်ခန္ဓာအစိတ်အပိုင်းများ ပိုမိုများပြားလာပြီး နောက်ဆုံးတွင် သူသည် မိမိ၏ နှလုံးသားပင် မရှိတော့ဟု ယုံကြည်လာသည်။ သူ့အမြင်အရ နှလုံးသားမရှိတော့သည့်အတွက် ချစ်ခြင်းမေတ္တာနှင့် ကြင်နာမှုကိုလည်း မခံစားနိုင်တော့ပေ။
+“လမ်းခရီးက ဖုန်တွေကို မျက်နှာသစ်ပြီး သန့်ရှင်းချင်လို့ပါ။ ပြီးတော့ သောက်လည်း သောက်ရမယ်။ မဟုတ်ရင် ပေါင်မုန့်ခြောက်က လည်ချောင်းမှာ ကပ်နေမှာပေါ့” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။
 
-သို့သော် သူသည် ကြင်နာတတ်သူတစ်ဦး ဖြစ်ချင်နေဆဲဖြစ်သည်။ ထို့ကြောင့် အော့ဇ်မှော်ဆရာထံမှ နှလုံးသားတစ်ခု ရယူလိုကြောင်း ပြောပြသည်။ ဒေါ်ရသီက သူတို့သည် မြမြို့တော်သို့ သွားနေကြောင်း ရှင်းပြပြီး အော့ဇ်ထံမှ အကူအညီတောင်းရန် ရည်ရွယ်ထားကြောင်း ပြောသည်။ စာခြောက်ရုပ်ကလည်း သူ့တွင် ဦးနှောက်မရှိဟု ယုံကြည်နေကြောင်း ပြောပြသည်။ သံခုတ်သမားသည် သူတို့နှင့်အတူ ခရီးဆက်လိုကြောင်း တောင်းဆိုသည်။
+“လူ့အသားနဲ့ ဖွဲ့စည်းထားရတာ အဆင်မပြေဘူးနော်။ အိပ်ရတယ်၊ စားရတယ်၊ သောက်ရတယ်။ ဒါပေမဲ့ မင်းမှာ ဦးနှောက်ရှိတယ်။ မှန်မှန်ကန်ကန် စဉ်းစားနိုင်ဖို့ အဲဒီလို အလုပ်တွေ လုပ်ရတာ တန်ပါတယ်” ဟု စာခြောက်ရုပ်က စဉ်းစားသလို ပြောသည်။
 
-ဒေါ်ရသီက သံခုတ်သမားကို အဖွဲ့ထဲသို့ ကြိုဆိုလိုက်သည်။ ယခုအခါ သူတို့၏ အဖွဲ့တွင် အိမ်ပြန်ချင်သော ဒေါ်ရသီ၊ ဦးနှောက်လိုချင်သော စာခြောက်ရုပ်၊ နှလုံးသားလိုချင်သော သံခုတ်သမားနှင့် သစ္စာရှိသော တိုတိုတို့ ပါဝင်လာသည်။ သူတို့၏ ဆန္ဒများ မတူညီကြသော်လည်း တစ်ဦးချင်းစီ၏ အခက်အခဲကို နားလည်ပေးခြင်းနှင့် အတူတကွ ကူညီခြင်းက ခရီးကို ပိုမိုအဓိပ္ပာယ်ရှိစေသည်။
+သူတို့သည် တဲငယ်မှ ထွက်လာပြီး သစ်ပင်များကြားမှ လျှောက်သွားကြရာ ကြည်လင်သော ရေစမ်းလေးတစ်ခုကို တွေ့ကြသည်။ ဒေါ်ရသီသည် ရေသောက်၊ မျက်နှာသစ်ပြီး နံနက်စာ စားလိုက်သည်။ ခြင်းတောင်းထဲတွင် ပေါင်မုန့် အနည်းငယ်သာ ကျန်တော့ကြောင်း သူမ သတိထားမိသည်။ စာခြောက်ရုပ်က အစားမစားရသဖြင့် ကံကောင်းသည်ဟု သူမ တွေးမိသည်။ မဟုတ်လျှင် ထိုနေ့အတွက် သူမနှင့် တိုတို စားစရာပင် မလုံလောက်နိုင်တော့ပေ။
 
-သံခုတ်သမားသည် ပုဆိန်ကို ပြန်ယူပြီး အဖွဲ့နှင့်အတူ အဝါရောင်အုတ်ခင်းလမ်းပေါ်သို့ ပြန်တက်လာသည်။ တောအုပ်သည် ရှေ့တွင် ဆက်လက်ကျယ်ပြန့်နေပြီး မြမြို့တော်သို့ ရောက်ရန် ခရီးများစွာ ကျန်သေးသည်။ သို့သော် ယခုအခါ သူတို့သည် တစ်ယောက်တည်း ခရီးသွားနေကြသူများ မဟုတ်တော့ပေ။`,
-    contentEn: `Dorothy and the Scarecrow examine the Tin Woodman and realize that rust has locked all his joints. They find an oilcan in a nearby shelter. Dorothy carefully oils his neck, arms, elbows, knees, and legs until he can move again.
+စားသောက်ပြီး၍ အဝါရောင်အုတ်ခင်းလမ်းဘက်သို့ ပြန်သွားရန် ပြင်ဆင်နေစဉ် အနီးအနားမှ နက်ရှိုင်းသော ညည်းသံတစ်ခုကို ရုတ်တရက် ကြားလိုက်ရသည်။
 
-The Woodman thanks them and explains that he had been trapped in that position for a long time. He tells them that he was once an ordinary woodcutter. After a series of accidents, parts of his body were replaced with tin. He believes that he has lost his heart and therefore cannot feel love or kindness as he once did.
+“အဲဒါ ဘာသံလဲ” ဟု ဒေါ်ရသီက စိုးရိမ်သံဖြင့် မေးသည်။
 
-The Tin Woodman hopes the Wizard of Oz can give him a heart. When Dorothy explains that she and the Scarecrow are already travelling to the Emerald City, he asks to join them. The group welcomes him. Dorothy seeks a way home, the Scarecrow hopes for a brain, and the Tin Woodman hopes for a heart. Their different wishes bring them together as companions.`,
+“ကျွန်တော် မသိဘူး။ ဒါပေမဲ့ သွားကြည့်လို့တော့ ရတယ်” ဟု စာခြောက်ရုပ်က ပြန်ဖြေသည်။
+
+ထိုအချိန်တွင် နောက်ထပ် ညည်းသံတစ်ခု ထပ်မံကြားရပြီး သူတို့နောက်ဘက်မှ လာသကဲ့သို့ ထင်ရသည်။ သူတို့သည် လှည့်၍ သစ်တောအတွင်းသို့ ခြေလှမ်းအနည်းငယ် လျှောက်သွားကြသည်။ ထိုအခါ သစ်ပင်များကြားမှ နေရောင်ခြည်တန်းတစ်ခု ထိုးကျနေသည့်နေရာတွင် တစ်စုံတစ်ခု တောက်ပနေသည်ကို ဒေါ်ရသီ တွေ့လိုက်သည်။ သူမသည် ထိုနေရာသို့ အမြန်သွားပြီး အံ့အားသင့်စွာ ရပ်တန့်သွားသည်။
+
+သစ်ပင်ကြီးတစ်ပင်၏ အနီးတွင် သံဖြင့် ပြုလုပ်ထားသော လူတစ်ယောက် ရပ်နေသည်။ သူ့လက်ထဲတွင် ပုဆိန်တစ်လက်ကို မြှောက်ကိုင်ထားပြီး ကိုယ်ခန္ဓာ၊ ခေါင်း၊ လက်နှင့် ခြေထောက်တို့ကို အဆစ်များဖြင့် ဆက်ထားသည်။ သို့သော် သူသည် လုံးဝ မလှုပ်ရှားနိုင်ဘဲ ရပ်တန့်နေသည်။ ဒေါ်ရသီနှင့် စာခြောက်ရုပ်တို့က အံ့ဩစွာ ကြည့်နေကြပြီး တိုတိုက သံခြေထောက်ကို ကိုက်ကြည့်သော်လည်း သွားများသာ နာသွားသည်။
+
+“အခုနက ညည်းသံကို ရှင်ပေးတာလား” ဟု ဒေါ်ရသီက မေးသည်။
+
+“ဟုတ်ပါတယ်။ တစ်နှစ်ကျော်လောက် ညည်းနေခဲ့တာပါ။ ဒါပေမဲ့ အခုမှ တစ်ယောက်ယောက်က ကျွန်တော့်အသံကို ကြားပြီး လာကူညီတာပါ” ဟု သံလူက ပြန်ဖြေသည်။
+
+သူ၏ ဝမ်းနည်းဖွယ်အသံကို ကြားရသောအခါ ဒေါ်ရသီ စိတ်မကောင်းဖြစ်သွားသည်။ “ရှင့်ကို ဘာကူညီပေးရမလဲ” ဟု သူမက နူးညံ့စွာ မေးသည်။
+
+“ဆီဘူးတစ်ဘူး ရှာပေးပါ။ ကျွန်တော့်အဆစ်တွေကို ဆီလိမ်းပေးရမယ်။ သံချေးတွေ အရမ်းတက်နေလို့ လုံးဝ မလှုပ်နိုင်တော့ဘူး။ ဆီလိမ်းပေးနိုင်ရင် မကြာခင် ပြန်ကောင်းလာမှာပါ။ ကျွန်တော့်တဲထဲက စင်ပေါ်မှာ ဆီဘူးတစ်ဘူး ရှိတယ်” ဟု သံလူက ပြောသည်။
+
+ဒေါ်ရသီသည် ချက်ချင်းပင် တဲငယ်ဆီသို့ ပြန်ပြေးသွားပြီး ဆီဘူးကို ရှာယူလာသည်။ ထို့နောက် “ဘယ်အဆစ်တွေကို ဆီလိမ်းပေးရမလဲ” ဟု စိုးရိမ်စွာ မေးသည်။
+
+“အရင်ဆုံး လည်ပင်းကို ဆီလိမ်းပေးပါ” ဟု သံလူက ပြောသည်။ ဒေါ်ရသီက လည်ပင်းအဆစ်ကို ဆီလိမ်းပေးလိုက်သည်။ သံချေးအလွန်တက်နေသဖြင့် စာခြောက်ရုပ်က သံခေါင်းကို ညင်သာစွာ ကိုင်ကာ ဘယ်ညာ လှည့်ပေးသည်။ အဆစ်သည် တဖြည်းဖြည်း လွတ်လပ်လာပြီး နောက်ဆုံးတွင် သံလူသည် မိမိခေါင်းကို ကိုယ်တိုင် လှည့်နိုင်လာသည်။
+
+“အခု လက်မောင်းအဆစ်တွေကို ဆီလိမ်းပေးပါ” ဟု သူက ဆက်ပြောသည်။ ဒေါ်ရသီသည် လက်မောင်းနှင့် တံတောင်ဆစ်များကို ဆီလိမ်းပေးပြီး စာခြောက်ရုပ်ကလည်း အဆစ်များကို ဂရုတစိုက် လှုပ်ပေးသည်။ သံချေးများ ပြေလျော့သွားသောအခါ လက်များသည် အသစ်အတိုင်း လွတ်လပ်စွာ လှုပ်ရှားနိုင်လာသည်။
+
+သံလူသည် စိတ်သက်သာရာရသည့် သက်ပြင်းတစ်ချက် ချလိုက်ပြီး လက်ထဲက ပုဆိန်ကို အောက်ချကာ သစ်ပင်ဘေးတွင် ထောင်ထားလိုက်သည်။ “အခုမှပဲ စိတ်သက်သာသွားတော့တယ်။ သံချေးတက်သွားတဲ့အချိန်ကစပြီး ဒီပုဆိန်ကို မြှောက်ထားရတာပါ။ အခုတော့ အောက်ချနိုင်ပြီ။ ကျွန်တော့်ခြေထောက်အဆစ်တွေကိုလည်း ဆီလိမ်းပေးပါဦး။ ဒါဆို အားလုံး အဆင်ပြေသွားမှာပါ” ဟု ပြောသည်။
+
+သူတို့သည် ခြေထောက်အဆစ်များကိုလည်း ဆီလိမ်းပေးကြသည်။ မကြာမီ သံလူသည် လွတ်လပ်စွာ လှုပ်ရှားနိုင်လာသည်။ သူသည် အလွန်ယဉ်ကျေးပြီး ကျေးဇူးတင်တတ်သူဖြစ်သောကြောင့် ကယ်တင်ပေးခဲ့သည့်အတွက် ထပ်ခါထပ်ခါ ကျေးဇူးတင်စကား ပြောသည်။
+
+“ရှင်တို့ ဒီကို မရောက်လာခဲ့ရင် ကျွန်တော် ဒီအတိုင်းပဲ အမြဲရပ်နေရတော့မှာပါ။ ဒါကြောင့် ရှင်တို့က ကျွန်တော့်ကို ကယ်တင်ခဲ့တာပါပဲ။ ဒါနဲ့ ရှင်တို့ ဒီကို ဘယ်လိုရောက်လာကြတာလဲ” ဟု သူက မေးသည်။
+
+“ကျွန်မတို့က မြစိမ်းရောင်မြို့တော်ကို သွားပြီး မဟာမှော်ဆရာ အော့ဇ်နဲ့ တွေ့ဖို့ ခရီးထွက်လာကြတာပါ။ မနေ့ညက ဒီတဲမှာ တည်းခိုခဲ့ကြတာ” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။
+
+“အော့ဇ်ကို ဘာကြောင့် တွေ့ချင်ကြတာလဲ” ဟု သံလူက မေးသည်။
+
+“ကျွန်မကို ကန်ဆတ်ပြည်နယ်ဆီ ပြန်ပို့ပေးဖို့ တောင်းဆိုမလို့ပါ။ စာခြောက်ရုပ်ကတော့ သူ့ခေါင်းထဲကို ဦးနှောက်ထည့်ပေးဖို့ တောင်းဆိုမယ်လို့ ပြောထားတယ်” ဟု ဒေါ်ရသီက ရှင်းပြသည်။
+
+သံလူသည် ခဏမျှ နက်နက်ရှိုင်းရှိုင်း စဉ်းစားနေပြီးနောက် “အော့ဇ်က ကျွန်တော့်ကို နှလုံးသားတစ်ခု ပေးနိုင်မယ်လို့ ထင်ပါသလား” ဟု မေးသည်။
+
+“ပေးနိုင်မယ် ထင်ပါတယ်။ စာခြောက်ရုပ်ကို ဦးနှောက်ပေးတာနဲ့လည်း အတူတူလောက် လွယ်မှာပေါ့” ဟု ဒေါ်ရသီက ပြန်ဖြေသည်။
+
+“ဒါဆို ကျွန်တော်လည်း ရှင်တို့နဲ့အတူ မြစိမ်းရောင်မြို့တော်ကို လိုက်ချင်ပါတယ်။ အော့ဇ်ဆီက အကူအညီတောင်းပြီး နှလုံးသားတစ်ခု ရယူချင်တယ်” ဟု သံလူက ပြောသည်။
+
+“လာခဲ့ပါ။ ကျွန်တော်တို့နဲ့အတူ ခရီးသွားရတာ ဝမ်းသာပါတယ်” ဟု စာခြောက်ရုပ်က ရင်းနှီးစွာ ပြောသည်။ ဒေါ်ရသီကလည်း သူနှင့်အတူ ခရီးဆက်ရမည်ကို ဝမ်းသာကြောင်း ပြောလိုက်သည်။ ထို့နောက် သံလူသည် မိမိ၏ ပုဆိန်ကို ပခုံးပေါ်တင်ပြီး သူတို့အားလုံးသည် သစ်တောကို ဖြတ်ကာ အဝါရောင်အုတ်ခင်းလမ်းဆီသို့ ပြန်လည်ထွက်လာကြသည်။
+
+သံလူက ဆီဘူးကို ဒေါ်ရသီ၏ ခြင်းတောင်းထဲ ထည့်ထားပေးရန် တောင်းဆိုသည်။ “မိုးရွာမိပြီး သံချေးပြန်တက်လာရင် ဆီဘူးကို အရေးတကြီး လိုအပ်မှာပါ” ဟု သူက ရှင်းပြသည်။
+
+သူတို့၏ အဖွဲ့ထဲသို့ မိတ်ဆွေအသစ်တစ်ယောက် ပါဝင်လာခြင်းမှာ အလွန်ကံကောင်းသည့် အဖြစ်ဖြစ်သည်။ အကြောင်းမှာ ခရီးပြန်စပြီး မကြာမီ လမ်းပေါ်တွင် သစ်ပင်များနှင့် သစ်ကိုင်းများ ထူထပ်စွာ ပိတ်ဆို့နေသော နေရာတစ်ခုကို တွေ့ရသောကြောင့် ဖြစ်သည်။ ခရီးသည်များ ဖြတ်သန်းရန် လမ်းမရှိတော့ပေ။ သံလူက သူ၏ ပုဆိန်ဖြင့် သစ်ကိုင်းများကို ရှင်းလင်းပေးလိုက်ရာ မကြာမီ အဖွဲ့ဝင်အားလုံး ဖြတ်သန်းနိုင်မည့် လမ်းပေါက်တစ်ခု ပေါ်လာသည်။
+
+သူတို့ လျှောက်လာကြစဉ် ဒေါ်ရသီသည် အတွေးများနေသဖြင့် စာခြောက်ရုပ် ခြေလှမ်းမှားကာ လမ်းဘေးရှိ အပေါက်တစ်ခုထဲသို့ ကျသွားသည်ကို မမြင်လိုက်ပေ။ စာခြောက်ရုပ်သည် လမ်းဘေးသို့ လဲကျသွားပြီး သူ့ကို ပြန်ထူပေးရန် ဒေါ်ရသီကို ခေါ်ရသည်။
+
+“အပေါက်ကို ပတ်ပြီး ဘာကြောင့် မလျှောက်ခဲ့တာလဲ” ဟု သံလူက မေးသည်။
+
+“ကျွန်တော်က အဲဒီလို စဉ်းစားတတ်လောက်အောင် မသိဘူးလေ။ ကျွန်တော့်ခေါင်းထဲမှာ ကောက်ရိုးတွေပဲ ထည့်ထားတာ မင်းသိသားပဲ။ ဒါကြောင့် အော့ဇ်ဆီက ဦးနှောက်တောင်းဖို့ သွားနေတာ” ဟု စာခြောက်ရုပ်က ပျော်ပျော်ရွှင်ရွှင် ပြန်ဖြေသည်။
+
+“အော်၊ အဲဒီလိုကိုး။ ဒါပေမဲ့ ဦးနှောက်ဆိုတာ ကမ္ဘာပေါ်မှာ အကောင်းဆုံးအရာတော့ မဟုတ်ဘူး” ဟု သံလူက ပြောသည်။
+
+“ဒါဆို မင်းမှာ ဦးနှောက်ရှိလား” ဟု စာခြောက်ရုပ်က မေးသည်။
+
+“မရှိဘူး။ ကျွန်တော့်ခေါင်းကလည်း အလွတ်ပါပဲ။ ဒါပေမဲ့ တစ်ချိန်က ဦးနှောက်လည်း ရှိခဲ့ဖူးတယ်၊ နှလုံးသားလည်း ရှိခဲ့ဖူးတယ်။ နှစ်ခုလုံးကို ကြုံဖူးတဲ့အတွက် ကျွန်တော်ကတော့ နှလုံးသားကို ပိုလိုချင်တယ်” ဟု သံလူက ပြန်ဖြေသည်။
+
+“ဘာကြောင့်လဲ” ဟု စာခြောက်ရုပ်က မေးသည်။
+
+“ကျွန်တော့်အကြောင်းကို ပြောပြမယ်။ ဒါဆို မင်းနားလည်လာလိမ့်မယ်” ဟု သံလူက ပြောသည်။
+
+ထို့နောက် သူတို့သည် သစ်တောအတွင်း လျှောက်လှမ်းရင်း သံခုတ်သမားက သူ့ဘဝအကြောင်းကို အောက်ပါအတိုင်း ပြောပြခဲ့သည်။
+
+“ကျွန်တော်ဟာ တောထဲက သစ်ပင်တွေကို ခုတ်ယူပြီး သစ်သားရောင်းကာ အသက်မွေးတဲ့ သစ်ခုတ်သမားတစ်ယောက်ရဲ့ သားအဖြစ် မွေးဖွားခဲ့တာပါ။ ကြီးပြင်းလာတဲ့အခါ ကျွန်တော်လည်း အဖေ့လို သစ်ခုတ်သမား ဖြစ်လာခဲ့တယ်။ အဖေဆုံးပါးသွားပြီးနောက် အမေ အသက်ရှင်နေသမျှ ကာလပတ်လုံး သူ့ကို ပြုစုစောင့်ရှောက်ခဲ့တယ်။ အမေဆုံးပါးသွားတဲ့အခါ တစ်ယောက်တည်း မနေချင်တော့တာကြောင့် အိမ်ထောင်ပြုဖို့ ဆုံးဖြတ်ခဲ့တယ်။
+
+“မန်ချ်ကင်မိန်းကလေးတစ်ယောက် ရှိတယ်။ သူမဟာ အလွန်လှပပြီး ကျွန်တော်လည်း သူမကို စိတ်နှလုံးအကြွင်းမဲ့ ချစ်မိခဲ့တယ်။ သူမကလည်း ကျွန်တော် အိမ်ကောင်းကောင်းတစ်လုံး ဆောက်နိုင်လောက်အောင် ငွေရှာပြီးတဲ့အခါ လက်ထပ်မယ်လို့ ကတိပေးခဲ့တယ်။ ဒါကြောင့် ကျွန်တော်ဟာ အရင်ကထက် ပိုကြိုးစားပြီး အလုပ်လုပ်ခဲ့တယ်။
+
+“ဒါပေမဲ့ အဲဒီမိန်းကလေးဟာ အဘွားအိုတစ်ယောက်နဲ့ အတူနေခဲ့ရတယ်။ အဘွားအိုက သူမကို ဘယ်သူနဲ့မှ လက်မထပ်စေချင်ဘူး။ သူမဟာ အလွန်ပျင်းရိသူဖြစ်ပြီး မိန်းကလေးကို အိမ်မှာပဲ နေစေကာ ဟင်းချက်ခြင်းနဲ့ အိမ်မှုကိစ္စတွေကို ဆက်လုပ်စေချင်ခဲ့တယ်။
+
+“ဒါကြောင့် အဘွားအိုဟာ အရှေ့ပြည်နယ်က ဆိုးယုတ်တဲ့ စုန်းမဆီ သွားပြီး ကျွန်တော်တို့ လက်မထပ်ဖြစ်အောင် တားဆီးပေးရင် သိုးနှစ်ကောင်နဲ့ နွားတစ်ကောင် ပေးမယ်လို့ ကတိပြုခဲ့တယ်။ စုန်းမက ကျွန်တော့်ရဲ့ ပုဆိန်ကို မှော်အတတ်နဲ့ ပြုစားလိုက်တယ်။ ကျွန်တော်က အိမ်အသစ်ဆောက်ဖို့နဲ့ ချစ်သူကို လက်ထပ်နိုင်ဖို့ အလွန်ကြိုးစားနေတဲ့ တစ်နေ့မှာ ပုဆိန်ကြောင့် မတော်တဆမှုတစ်ခု ဖြစ်သွားခဲ့တယ်။
+
+“အဲဒီအချိန်မှာ ကျွန်တော်ဟာ သစ်ခုတ်သမားအဖြစ် ဆက်အလုပ်လုပ်နိုင်ဖို့ အခက်အခဲရှိလာခဲ့တယ်။ ဒါကြောင့် သံပန်းထိမ်ဆရာတစ်ယောက်ဆီ သွားပြီး သံနဲ့ ပြုလုပ်ထားတဲ့ ခြေထောက်တစ်ဖက်ကို အစားထိုးတပ်ဆင်ခဲ့တယ်။ အဲဒီခြေထောက်နဲ့ နေသားကျလာတဲ့အခါ အလုပ်ကို ပြန်လုပ်နိုင်ခဲ့တယ်။ ဒါပေမဲ့ စုန်းမက သူမရဲ့ အစီအစဉ် မအောင်မြင်သေးတာကို မကျေနပ်ခဲ့ဘူး။ နောက်ထပ် မတော်တဆမှုတွေ ဖြစ်လာတဲ့အခါ ကျွန်တော်ဟာ သံပန်းထိမ်ဆရာဆီ ပြန်သွားပြီး လိုအပ်တဲ့ ကိုယ်ခန္ဓာအစိတ်အပိုင်းတွေကို သံနဲ့ အစားထိုးခဲ့ရတယ်။
+
+“အဲဒီလိုနဲ့ တဖြည်းဖြည်း ကျွန်တော့်ရဲ့ ကိုယ်ခန္ဓာအစိတ်အပိုင်းတွေဟာ သံဖြစ်လာခဲ့တယ်။ နောက်ဆုံးမှာတော့ ကျွန်တော့်ကိုယ်ခန္ဓာတစ်ခုလုံးကို သံနဲ့ ပြုလုပ်ထားရတော့တယ်။ သံပန်းထိမ်ဆရာက သံအစိတ်အပိုင်းတွေကို အဆစ်တွေနဲ့ ဆက်ပေးထားလို့ အရင်လိုပဲ လှုပ်ရှားနိုင်ခဲ့တယ်။
+
+“ဒါပေမဲ့ ကျွန်တော့်မှာ နှလုံးသား မရှိတော့ဘူး။ အဲဒီနောက်ပိုင်း မန်ချ်ကင်မိန်းကလေးအပေါ်ထားတဲ့ ချစ်ခြင်းမေတ္တာလည်း ပျောက်ကွယ်သွားသလို ခံစားရတယ်။ သူမနဲ့ လက်ထပ်ရမလား၊ မလက်ထပ်ရဘူးလားဆိုတာကိုတောင် ဂရုမစိုက်တော့ဘူး။ သူမဟာ အဲဒီအဘွားအိုနဲ့အတူ နေထိုင်နေဆဲဖြစ်ပြီး ကျွန်တော် ပြန်လာမယ့်အချိန်ကို စောင့်နေမယ်လို့ ထင်ပါတယ်။
+
+“ကျွန်တော့်သံကိုယ်ခန္ဓာဟာ နေရောင်အောက်မှာ တောက်ပနေတော့ ကိုယ့်ကိုယ်ကို ဂုဏ်ယူမိတယ်။ အခုဆိုရင် ပုဆိန်ကြောင့် ထိခိုက်မှာကိုလည်း အရင်လို စိုးရိမ်စရာ မလိုတော့ဘူး။ ကျွန်တော့်အတွက် အန္တရာယ်တစ်ခုသာ ကျန်ခဲ့တယ်။ အဲဒါကတော့ အဆစ်တွေ သံချေးတက်သွားနိုင်တာပဲ။ ဒါကြောင့် တဲထဲမှာ ဆီဘူးတစ်ဘူး အမြဲထားပြီး လိုအပ်တဲ့အခါ ဆီလိမ်းတတ်ခဲ့တယ်။
+
+“ဒါပေမဲ့ တစ်နေ့မှာ ဆီလိမ်းဖို့ မေ့သွားခဲ့တယ်။ မိုးသည်းထန်စွာ ရွာတဲ့အချိန်မှာ သတိမထားမိလိုက်ခင် အဆစ်တွေ သံချေးတက်သွားပြီး သစ်တောထဲမှာ လှုပ်မရဘဲ ရပ်နေခဲ့ရတယ်။ နောက်ဆုံး ရှင်တို့ ရောက်လာတဲ့အထိ အဲဒီအတိုင်းပဲ နေခဲ့ရတာပါ။
+
+“အဲဒီအဖြစ်က အလွန်ခက်ခဲခဲ့ပေမဲ့ အဲဒီတစ်နှစ်အတွင်း ကျွန်တော် အများကြီး စဉ်းစားနိုင်ခဲ့တယ်။ အဲဒီအချိန်မှာ ကျွန်တော် ဆုံးရှုံးခဲ့သမျှထဲက အကြီးမားဆုံး ဆုံးရှုံးမှုဟာ နှလုံးသားပဲဆိုတာ နားလည်လာခဲ့တယ်။ ချစ်ခြင်းမေတ္တာရှိခဲ့စဉ်က ကျွန်တော်ဟာ ကမ္ဘာပေါ်မှာ အပျော်ရွှင်ဆုံးလူတစ်ယောက် ဖြစ်ခဲ့တယ်။ နှလုံးသားမရှိဘဲ ဘယ်သူ့ကိုမှ မချစ်နိုင်ဘူးလို့ ကျွန်တော် ယုံကြည်လာတယ်။ ဒါကြောင့် အော့ဇ်ဆီက နှလုံးသားတစ်ခု တောင်းဖို့ ဆုံးဖြတ်ထားတာပါ။ သူက ကျွန်တော့်ကို နှလုံးသားပေးနိုင်ခဲ့ရင် အဲဒီမန်ချ်ကင်မိန်းကလေးဆီ ပြန်သွားပြီး လက်ထပ်မယ်လို့ စိတ်ကူးထားတယ်။”
+
+ဒေါ်ရသီနှင့် စာခြောက်ရုပ်တို့သည် သံခုတ်သမား၏ အကြောင်းကို အလွန်စိတ်ဝင်စားစွာ နားထောင်ခဲ့ကြသည်။ ယခုမှသာ သူသည် နှလုံးသားအသစ်တစ်ခုကို ဘာကြောင့် အလွန်လိုချင်နေသည်ကို သူတို့ နားလည်သွားကြသည်။
+
+“ဒါပေမဲ့ ကျွန်တော်ကတော့ နှလုံးသားအစား ဦးနှောက်ကိုပဲ တောင်းမယ်။ လူမိုက်တစ်ယောက်မှာ နှလုံးသားရှိလာရင်တောင် အဲဒါကို ဘယ်လိုအသုံးချရမယ်ဆိုတာ မသိနိုင်ဘူးလေ” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+“ကျွန်တော်ကတော့ နှလုံးသားကိုပဲ ရွေးမယ်။ ဦးနှောက်ရှိရုံနဲ့ လူတစ်ယောက် ပျော်ရွှင်လာတာ မဟုတ်ဘူး။ ပျော်ရွှင်မှုက ကမ္ဘာပေါ်မှာ အကောင်းဆုံးအရာပဲ” ဟု သံခုတ်သမားက ပြန်ပြောသည်။
+
+ဒေါ်ရသီကတော့ ဘာမှ မပြောခဲ့ပေ။ သူမ၏ မိတ်ဆွေနှစ်ယောက်အနက် ဘယ်သူ့အမြင်က မှန်ကန်သည်ကို သူမ မဆုံးဖြတ်နိုင်ခဲ့ပါ။ သူမအတွက် အရေးအကြီးဆုံးကတော့ ကန်ဆတ်ပြည်နယ်သို့ ပြန်ရောက်ပြီး အန်တီအမ်နှင့် ပြန်တွေ့နိုင်ဖို့ပင် ဖြစ်သည်။ သံခုတ်သမားမှာ ဦးနှောက်မရှိခြင်း၊ စာခြောက်ရုပ်မှာ နှလုံးသားမရှိခြင်းတို့ထက် သူတို့နှစ်ယောက်စလုံး မိမိတို့လိုချင်သည့်အရာကို ရရှိနိုင်မလားဆိုတာကသာ အရေးကြီးသည်ဟု သူမ တွေးမိသည်။
+
+သို့သော် ဒေါ်ရသီကို အများဆုံး စိုးရိမ်စေသည့်အရာမှာ ခြင်းတောင်းထဲရှိ ပေါင်မုန့်များ ကုန်ခါနီးနေခြင်းပင် ဖြစ်သည်။ နောက်တစ်ကြိမ် သူမနှင့် တိုတို စားသောက်လိုက်လျှင် ခြင်းတောင်းထဲတွင် ဘာမှ မကျန်တော့နိုင်ပေ။ သံခုတ်သမားနှင့် စာခြောက်ရုပ်တို့ကတော့ ဘာမှ မစားရသော်လည်း ဒေါ်ရသီသည် သံနဲ့လည်း မဟုတ်၊ ကောက်ရိုးနဲ့လည်း မဟုတ်သောကြောင့် အစားအစာမရှိဘဲ အသက်ရှင်နေနိုင်မည် မဟုတ်ပေ။`,
+    contentEn: `When Dorothy awoke, sunlight was shining through the trees. Toto had already been out chasing birds and squirrels. She sat up and saw the Scarecrow still standing patiently in his corner, waiting for her.
+
+“We must go and look for water,” she said.
+
+“Why do you want water?” he asked.
+
+“To wash the dust from my face and to drink, so the dry bread will not stick in my throat.”
+
+“It must be inconvenient to be made of flesh,” said the Scarecrow thoughtfully. “You must sleep, eat, and drink. Still, you have brains, and that is worth a great deal of trouble.”
+
+They left the cottage and walked through the trees until they found a clear spring. Dorothy drank, washed, and ate her breakfast. She noticed that very little bread remained in the basket. She was glad the Scarecrow did not need food, for there was scarcely enough for herself and Toto that day.
+
+As she finished eating and prepared to return to the yellow brick road, she heard a deep groan nearby.
+
+“What was that?” she asked timidly.
+
+“I cannot imagine,” replied the Scarecrow, “but we can go and see.”
+
+Another groan sounded, apparently from behind them. They turned and walked a few steps through the forest. In a beam of sunlight Dorothy noticed something shining. She hurried toward it and stopped in surprise.
+
+Beside a partly cut tree stood a man made entirely of tin. His head, arms, and legs were joined to his body with movable joints. He held an axe raised in his hands, but he could not move at all. Dorothy and the Scarecrow stared in amazement. Toto barked and tried to bite one of the tin legs, but only hurt his teeth.
+
+“Did you groan?” Dorothy asked.
+
+“Yes,” answered the Tin Man. “I have been groaning for more than a year, and no one has heard me or come to help.”
+
+“What can I do for you?” she asked gently, moved by his sad voice.
+
+“Find an oilcan and oil my joints. They are so badly rusted that I cannot move. If they are oiled, I shall soon be all right. There is an oilcan on a shelf in my cottage.”
+
+Dorothy hurried back to the cottage, found the oilcan, and returned. “Where are your joints?” she asked anxiously.
+
+“Oil my neck first,” he replied. Dorothy oiled it. Because it was badly rusted, the Scarecrow gently held the tin head and moved it from side to side until the joint loosened. Then the Tin Man could turn his head by himself.
+
+“Now oil the joints in my arms,” he said. Dorothy oiled them, and the Scarecrow carefully moved them until they were free again.
+
+The Tin Woodman sighed with satisfaction and lowered his axe, resting it against the tree.
+
+“This is a great comfort,” he said. “I have been holding that axe in the air ever since I rusted, and I am glad to put it down at last. Now oil the joints in my legs, and I shall be all right.”
+
+They oiled his legs until he could move freely. He thanked them again and again. He seemed very polite and grateful.
+
+“I might have stood there forever if you had not come,” he said. “You have certainly saved me. How did you happen to be here?”
+
+“We are on our way to the Emerald City to see the Great Oz,” Dorothy answered. “We stopped at your cottage to spend the night.”
+
+“Why do you wish to see Oz?” he asked.
+
+“I want him to send me back to Kansas, and the Scarecrow wants him to put some brains into his head,” she replied.
+
+The Tin Woodman thought deeply for a moment. Then he asked, “Do you suppose Oz could give me a heart?”
+
+“I guess so,” Dorothy answered. “It would be as easy as giving the Scarecrow brains.”
+
+“Then, if you will let me join your party, I will go to the Emerald City too and ask Oz to help me.”
+
+“Come along,” said the Scarecrow warmly. Dorothy added that she would be pleased to have his company. The Tin Woodman took up his axe, and they all walked through the forest until they reached the yellow brick road.
+
+The Tin Woodman asked Dorothy to put the oilcan in her basket. “If I am caught in the rain and rust again, I shall badly need it,” he explained.
+
+It was fortunate that their new companion had joined them. Soon after they resumed their journey, they came to a place where trees and branches had grown thickly across the road. The travelers could not pass. The Tin Woodman cleared the branches with his axe, making a path wide enough for the whole party.
+
+Dorothy was thinking so earnestly as they walked that she did not notice the Scarecrow stumble into a hole and roll to the side of the road. He had to call to her to help him up.
+
+“Why didn’t you walk around the hole?” asked the Tin Woodman.
+
+“I don’t know enough,” replied the Scarecrow cheerfully. “My head is stuffed with straw, you know, and that is why I am going to Oz to ask for brains.”
+
+“Oh, I see,” said the Tin Woodman. “But brains are not the best things in the world.”
+
+“Have you any?” asked the Scarecrow.
+
+“No, my head is quite empty,” answered the Woodman. “But I once had brains and a heart. Having known both, I would much rather have a heart.”
+
+“Why is that?” asked the Scarecrow.
+
+“I will tell you my story, and then you will understand.”
+
+As they walked through the forest, the Tin Woodman told them his story.
+
+“I was born the son of a woodcutter who earned his living by cutting trees in the forest and selling the wood. When I grew up, I became a woodcutter too. After my father died, I cared for my old mother as long as she lived. When she was gone, I decided to marry so that I would not have to live alone.
+
+“There was a Munchkin girl who was so beautiful that I soon loved her with all my heart. She promised to marry me as soon as I had earned enough money to build her a better house. So I worked harder than ever.
+
+“But the girl lived with an old woman who did not want her to marry anyone. The old woman was so lazy that she wanted the girl to stay and do all the cooking and housework.
+
+“So the old woman went to the Wicked Witch of the East and promised her two sheep and a cow if she would prevent the marriage. The Witch enchanted my axe. One day, while I was working hard to earn money for our new home, an accident happened because of the enchanted axe.
+
+“At first I thought this was a terrible misfortune, because I could no longer work as a woodcutter in the usual way. I went to a tinsmith, who made a replacement for me out of tin. I learned to manage very well with it. But the Wicked Witch was angry that her plan had not succeeded. More accidents followed, and each time I went back to the tinsmith for another tin replacement.
+
+“Little by little, more of my body was made of tin. At last the tinsmith had made nearly my whole body from tin, joining the pieces with joints so that I could move as before.
+
+“But, alas, I no longer had a heart. After that, my love for the Munchkin girl seemed to disappear. I no longer cared whether I married her or not. I suppose she is still living with the old woman, waiting for me to return.
+
+“My tin body shone brightly in the sun, and I was proud of it. I no longer worried about ordinary accidents in the same way. There was only one danger: my joints could rust. I kept an oilcan in my cottage and used it whenever I needed to.
+
+“Then one day I forgot to oil myself. I was caught in a rainstorm, and before I realized what had happened, my joints had rusted. I was left standing in the forest until you came to help me.
+
+“It was a terrible experience, but during the year I stood there I had plenty of time to think. I came to believe that the greatest thing I had lost was my heart. When I was in love, I was the happiest man on earth. I have come to believe that no one can love without a heart, so I am determined to ask Oz to give me one. If he does, I will return to the Munchkin girl and marry her.”
+
+Dorothy and the Scarecrow had listened with great interest. Now they understood why the Tin Woodman wanted a new heart so much.
+
+“All the same,” said the Scarecrow, “I shall ask for brains instead of a heart. A fool would not know what to do with a heart, even if he had one.”
+
+“I shall choose the heart,” replied the Tin Woodman. “Brains do not make one happy, and happiness is the best thing in the world.”
+
+Dorothy said nothing. She could not decide which of her two friends was right. She thought that if she could only return to Kansas and Aunt Em, it would not matter so much whether the Woodman had no brains and the Scarecrow no heart, or whether each received what he wanted.
+
+What worried her most was that the bread was nearly gone. Another meal for herself and Toto would empty the basket. The Woodman and the Scarecrow never needed to eat, but Dorothy was made neither of tin nor straw, and she could not live without food.`
   },
 ] as const;
