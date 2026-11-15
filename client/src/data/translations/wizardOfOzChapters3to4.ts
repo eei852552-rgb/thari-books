@@ -3485,4 +3485,193 @@ The four travelers walked with ease through the trees until they came to the far
 
 “I will make a ladder,” said the Tin Woodman, “for we certainly must climb over the wall.”`,
   },
+  {
+    number: 20,
+    title: "အခန်း (၂၀) — ကြွေထည်နိုင်ငံငယ်လေး",
+    titleEn: "Chapter 20 — The Dainty China Country",
+    content: `သံလူသည် တောအုပ်ထဲမှ ရရှိသော သစ်သားများဖြင့် လှေကားတစ်စင်း ပြုလုပ်နေစဉ် ဒေါ်ရသီမှာ ခရီးရှည်လျှောက်လာရသဖြင့် ပင်ပန်းနေသောကြောင့် လှဲအိပ်ပြီး အနားယူလိုက်သည်။ ခြင်္သေ့ကြီးလည်း ကွေးကွေးလေး အိပ်ပျော်သွားပြီး တိုတိုက သူ့ဘေးတွင် လှဲနေသည်။
+
+ကောက်ရိုးလူက သံလူ အလုပ်လုပ်နေသည်ကို ကြည့်ရင်း “ဒီနံရံကြီးက ဘာကြောင့် ဒီနေရာမှာ ရှိနေတာလဲ၊ ဘာနဲ့လုပ်ထားတာလဲဆိုတာ ကျွန်တော် နားမလည်ဘူး” ဟု မေးသည်။
+
+“ဦးနှောက်ကို အနားပေးထားပြီး နံရံအကြောင်း စိတ်မပူပါနဲ့။ ကျော်တက်ပြီးတဲ့အခါ တစ်ဖက်မှာ ဘာရှိတယ်ဆိုတာ သိရမှာပေါ့” ဟု သံလူက ပြန်ဖြေသည်။
+
+ခဏကြာသောအခါ လှေကားပြီးစီးသွားသည်။ ပုံစံမှာ အနည်းငယ် မလှပသော်လည်း သံလူက ခိုင်ခံ့ပြီး သူတို့အတွက် အသုံးဝင်မည်ဟု ယုံကြည်သည်။ ကောက်ရိုးလူသည် ဒေါ်ရသီ၊ ခြင်္သေ့ကြီးနှင့် တိုတိုတို့ကို နှိုးပြီး လှေကားအသင့်ဖြစ်ပြီဟု ပြောလိုက်သည်။ ကောက်ရိုးလူက ပထမဆုံး တက်သွားသော်လည်း သူ၏ လှုပ်ရှားပုံမှာ မကျွမ်းကျင်လှသဖြင့် ဒေါ်ရသီက နောက်မှ အနီးကပ်လိုက်ကာ မပြုတ်ကျစေရန် ကူညီပေးရသည်။ နံရံထိပ်ကို ခေါင်းလေးပေါ်လာသည့်အခါ ကောက်ရိုးလူက “အိုဟို!” ဟု အံ့ဩစွာ အော်လိုက်သည်။
+
+“ဆက်တက်လေ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+ကောက်ရိုးလူသည် နောက်ထပ်တက်ပြီး နံရံထိပ်တွင် ထိုင်လိုက်သည်။ ဒေါ်ရသီကလည်း ခေါင်းကို နံရံပေါ်မှ ထုတ်ကြည့်လိုက်ရာ ကောက်ရိုးလူကဲ့သို့ပင် “အိုဟို!” ဟု အံ့ဩသွားသည်။ ထို့နောက် တိုတိုလည်း အပေါ်သို့ ရောက်လာပြီး ချက်ချင်း ဟောင်တော့သည်။ ဒေါ်ရသီက သူ့ကို တိတ်တိတ်နေရန် ပြောလိုက်သည်။ ခြင်္သေ့ကြီးက နောက်မှ တက်လာပြီး သံလူက နောက်ဆုံးမှ လိုက်တက်သည်။ သူတို့နှစ်ဦးလည်း နံရံတစ်ဖက်ကို မြင်သည်နှင့် “အိုဟို!” ဟု အံ့ဩစွာ ပြောကြသည်။ သူတို့အားလုံး နံရံထိပ်တွင် တန်းစီထိုင်ကာ အောက်သို့ ငုံ့ကြည့်လိုက်သောအခါ ထူးဆန်းလှသော မြင်ကွင်းတစ်ခုကို တွေ့လိုက်ရသည်။
+
+သူတို့ရှေ့တွင် ပန်းကန်ပြားကြီးတစ်ချပ်၏ အောက်ခြေကဲ့သို့ ဖြူဖွေးချောမွေ့ပြီး တောက်ပနေသော မြေပြင်ကျယ်ကြီးတစ်ခု ရှိနေသည်။ ထိုနေရာတစ်ဝိုက်တွင် ကြွေထည်ဖြင့်သာ ပြုလုပ်ထားပြီး အရောင်တောက်တောက်များ ခြယ်သထားသော အိမ်ငယ်များစွာ ပြန့်ကျဲနေသည်။ အကြီးဆုံးအိမ်တောင် ဒေါ်ရသီ၏ ခါးအထိသာ မြင့်သည်။ ကြွေထည်ဖြင့် ပြုလုပ်ထားသော တင်းကုပ်ငယ်များ၊ ခြံစည်းရိုးများလည်း ရှိပြီး နွား၊ သိုး၊ မြင်း၊ ဝက်နှင့် ကြက်များစွာလည်း အုပ်စုလိုက် ရပ်နေကြသည်။
+
+သို့သော် အထူးဆန်းဆုံးမှာ ထိုနိုင်ငံတွင် နေထိုင်ကြသော လူများပင် ဖြစ်သည်။ နို့ညှစ်သူမိန်းကလေးများနှင့် သိုးထိန်းမလေးများသည် အရောင်စုံအင်္ကျီများ ဝတ်ဆင်ထားပြီး သူတို့၏ ဝတ်စုံများပေါ်တွင် ရွှေရောင်အစက်အပြောက်များ ပါရှိသည်။ မင်းသမီးများမှာ ငွေရောင်၊ ရွှေရောင်နှင့် ခရမ်းရောင်တို့ဖြင့် အလှဆင်ထားသော အလွန်လှပသည့် ဝတ်စုံများကို ဝတ်ထားကြသည်။ သိုးထိန်းအမျိုးသားများက ဒူးအထိသာ ရှည်သော ဘောင်းဘီများကို ဝတ်ဆင်ထားပြီး ပန်းရောင်၊ အဝါရောင်နှင့် အပြာရောင် အစင်းများ ပါရှိသည်။ သူတို့၏ ဖိနပ်များတွင်လည်း ရွှေရောင်ချိတ်များ တပ်ထားသည်။ မင်းသားများမှာ ရတနာများဖြင့် အလှဆင်ထားသော သရဖူများ ဆောင်းထားပြီး အဖိုးတန်သားမွေးအင်္ကျီများနှင့် ပိုးသားဝတ်စုံများကို ဝတ်ဆင်ထားကြသည်။ လူရွှင်တော်လေးများကတော့ အတွန့်အခေါက်များပါသော ဝတ်စုံများ၊ ပါးပေါ်တွင် အနီရောင်အဝိုင်းများနှင့် ချွန်ထက်သော ဦးထုပ်များကို ဝတ်ထားကြသည်။
+
+အံ့ဩစရာအကောင်းဆုံးမှာ ထိုလူများအားလုံးသည် သူတို့၏ အဝတ်အစားများအပါအဝင် ကြွေထည်ဖြင့် ပြုလုပ်ထားခြင်း ဖြစ်သည်။ သူတို့သည်လည်း အလွန်သေးငယ်ကြပြီး အရပ်အမြင့်ဆုံးသူပင် ဒေါ်ရသီ၏ ဒူးခေါင်းအထိသာ ရှိသည်။
+
+အစပိုင်းတွင် ခရီးသွားများကို မည်သူမျှ သတိမထားမိကြပေ။ ခေါင်းအလွန်ကြီးသော ခရမ်းရောင်ကြွေခွေးလေးတစ်ကောင်သာ နံရံအနားသို့ လာပြီး အသံသေးသေးလေးဖြင့် ဟောင်ကာ ပြန်ပြေးသွားသည်။
+
+“ကျွန်မတို့ ဘယ်လိုဆင်းကြမလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+လှေကားမှာ အလွန်လေးနေသဖြင့် သူတို့ ပြန်ဆွဲတင်၍ မရကြပေ။ ထို့ကြောင့် ကောက်ရိုးလူသည် နံရံပေါ်မှ ခုန်ဆင်းလိုက်ပြီး အခြားသူများကလည်း မြေပြင်မာမာပေါ်သို့ တိုက်ရိုက်မကျစေရန် သူ့အပေါ်သို့ ခုန်ဆင်းကြသည်။ သူ၏ ခေါင်းပေါ်ရှိ အပ်များကြောင့် မထိခိုက်စေရန်တော့ သတိထားကြသည်။ အားလုံး ဘေးကင်းစွာ ဆင်းပြီးသောအခါ ကောက်ရိုးလူ၏ ကိုယ်ခန္ဓာမှာ ပြားသွားသော်လည်း သူ့ကို ပြန်ထူပေးကာ ကောက်ရိုးများကို ပြန်ညှိပေးလိုက်ကြသည်။
+
+“ဒီနေရာကို ဖြတ်ပြီး တစ်ဖက်ကို ရောက်အောင် သွားရမယ်။ တောင်ဘက်ကို တည့်တည့်မသွားဘဲ တခြားလမ်းကို ရွေးတာ မသင့်တော်ဘူး” ဟု ဒေါ်ရသီက ပြောသည်။
+
+သူတို့သည် ကြွေထည်လူများ၏ နိုင်ငံအတွင်းသို့ စတင်လျှောက်လှမ်းကြသည်။ ပထမဆုံး တွေ့ရသူမှာ ကြွေနွားမတစ်ကောင်ကို နို့ညှစ်နေသော ကြွေထည်နို့ညှစ်သူမလေး ဖြစ်သည်။ ခရီးသွားများ အနီးသို့ ရောက်လာသည့်အခါ နွားမက ရုတ်တရက် ကန်လိုက်ရာ ထိုင်ခုံ၊ နို့ပုံးနှင့် နို့ညှစ်သူမလေးကိုပါ လဲကျစေသည်။ အရာအားလုံးသည် ကြွေထည်မြေပြင်ပေါ်သို့ တကျွီကျွီမြည်ကာ ပြုတ်ကျသွားသည်။
+
+ဒေါ်ရသီသည် နွားမ၏ ခြေထောက်တစ်ဖက် ကျိုးသွားပြီး နို့ပုံးလည်း အစိတ်စိတ်အမွှာမွှာ ကွဲသွားသည်ကို တွေ့ရသဖြင့် အလွန်စိတ်မကောင်းဖြစ်သွားသည်။ နို့ညှစ်သူမလေး၏ ဘယ်ဘက်တံတောင်ဆစ်တွင်လည်း အနည်းငယ် အက်ကွဲသွားသည်။
+
+“ကြည့်ပါဦး။ ရှင်တို့ကြောင့် ကျွန်မနွားရဲ့ ခြေထောက် ကျိုးသွားပြီ။ ပြုပြင်တဲ့ဆိုင်ကို သွားပြီး ပြန်ကပ်ရတော့မယ်။ ကျွန်မတို့ကို ဘာလို့ လာလန့်အောင် လုပ်ရတာလဲ” ဟု နို့ညှစ်သူမလေးက စိတ်ဆိုးစွာ ပြောသည်။
+
+“တကယ် စိတ်မကောင်းပါဘူး။ ကျွန်မတို့ကို ခွင့်လွှတ်ပါနော်” ဟု ဒေါ်ရသီက တောင်းပန်သည်။
+
+သို့သော် လှပသော နို့ညှစ်သူမလေးမှာ အလွန်စိတ်ဆိုးနေသဖြင့် ပြန်မဖြေခဲ့ပေ။ သူမသည် ကျိုးသွားသော ခြေထောက်ကို ကောက်ယူပြီး နွားမကို ခေါ်ကာ ထွက်သွားသည်။ နွားမလေးမှာ ခြေထောက်သုံးချောင်းဖြင့်သာ လျှောက်သွားရသည်။ ထွက်သွားစဉ် သူမသည် ထိုသူစိမ်းများကို မကျေနပ်သည့် အကြည့်များဖြင့် နောက်သို့ လှည့်ကြည့်နေခဲ့သည်။
+
+ထိုအဖြစ်အပျက်ကြောင့် ဒေါ်ရသီမှာ အလွန်ဝမ်းနည်းသွားသည်။
+
+“ဒီနေရာမှာ အလွန်သတိထားရမယ်။ ဒီလှပတဲ့ လူငယ်လေးတွေကို မတော်တဆ ထိခိုက်စေမိရင် သူတို့အတွက် ပြန်ကောင်းဖို့ မလွယ်နိုင်ဘူး” ဟု ကြင်နာတတ်သော သံလူက ပြောသည်။
+
+အနည်းငယ် ဆက်လျှောက်လာသောအခါ ဒေါ်ရသီသည် အလွန်လှပစွာ ဝတ်ဆင်ထားသော မင်းသမီးငယ်တစ်ဦးကို တွေ့လိုက်ရသည်။ မင်းသမီးက သူစိမ်းများကို မြင်သည်နှင့် ရပ်တန့်သွားပြီး ထွက်ပြေးရန် ကြိုးစားသည်။
+
+ဒေါ်ရသီသည် ထိုမင်းသမီးကို ပိုမိုမြင်ချင်သဖြင့် နောက်မှ လိုက်သွားသည်။ သို့သော် ကြွေထည်မိန်းကလေးက “ကျွန်မနောက်ကို မလိုက်ပါနဲ့။ မလိုက်ပါနဲ့” ဟု အော်ပြောသည်။
+
+သူမ၏ အသံမှာ အလွန်ကြောက်လန့်နေသည့်ပုံပေါက်သဖြင့် ဒေါ်ရသီက ရပ်လိုက်ပြီး “ဘာကြောင့်လဲ” ဟု မေးသည်။
+
+“ကျွန်မ ပြေးလိုက်ရင် လဲကျပြီး ကိုယ်ခန္ဓာ ကွဲသွားနိုင်လို့ပါ” ဟု မင်းသမီးက အကွာအဝေးတစ်ခုတွင် ရပ်ကာ ပြန်ဖြေသည်။
+
+“ဒါဆို ပြန်ပြုပြင်လို့ မရဘူးလား” ဟု ဒေါ်ရသီက မေးသည်။
+
+“ပြုပြင်လို့တော့ ရပါတယ်။ ဒါပေမဲ့ ပြုပြင်ပြီးသွားရင် အရင်လောက် မလှတော့ဘူးလေ” ဟု မင်းသမီးက ပြန်ဖြေသည်။
+
+“အဲဒါတော့ ဟုတ်မှာပေါ့” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ဟိုမှာ မြင်ရတဲ့ မစ္စတာ ဂျိုကာဆိုတာ ကျွန်မတို့ရဲ့ လူရွှင်တော်တစ်ယောက်ပါ။ သူက ခေါင်းအောက်၊ ခြေထောက်အပေါ် ထောင်ရတာကို အမြဲကြိုးစားနေတတ်တယ်။ အဲဒီလို လုပ်ရင်း မကြာခဏ ကွဲသွားတတ်လို့ နေရာအနှံ့မှာ ပြုပြင်ထားရပြီး အခုတော့ သိပ်မလှတော့ဘူး။ ဟော၊ သူလာနေပြီ။ ကိုယ်တိုင်ကြည့်နိုင်ပြီပေါ့” ဟု မင်းသမီးက ဆက်ပြောသည်။
+
+ခဏအကြာတွင် ရွှင်လန်းနေသော လူရွှင်တော်လေးတစ်ဦး လျှောက်လာသည်။ သူ၏ အနီ၊ အဝါနှင့် အစိမ်းရောင် ဝတ်စုံလှလှလေးများကြားတွင် နေရာအနှံ့ အက်ကြောင်းများကို တွေ့ရပြီး အကြိမ်ကြိမ် ပြုပြင်ထားကြောင်း သိသာနေသည်။
+
+လူရွှင်တော်သည် လက်နှစ်ဖက်ကို အိတ်ကပ်ထဲ ထည့်လိုက်ပြီး ပါးကို ဖောင်းကာ ခေါင်းညိတ်ပြသည်။ ထို့နောက် ဒေါ်ရသီတို့ကို ကဗျာတိုလေးတစ်ပုဒ် ရွတ်ဆိုပြသည်။
+
+“လှပတဲ့ မင်းသမီးရေ၊
+ကျွန်ုပ်ကို ဘာလို့ ဒီလို ကြည့်နေရတာလဲ။
+သင်လည်း တင်းတင်းမာမာနဲ့
+သစ်သားတုံး မျိုထားသူလိုပဲ။”
+
+“တိတ်တိတ်နေပါ၊ ဆရာ။ ဒီလူတွေက သူစိမ်းတွေဖြစ်ပြီး လေးလေးစားစား ဆက်ဆံသင့်တယ်ဆိုတာ မမြင်ဘူးလား” ဟု မင်းသမီးက ပြောသည်။
+
+“အဲဒါလည်း လေးစားတာပါပဲလို့ ကျွန်ုပ်ထင်ပါတယ်” ဟု လူရွှင်တော်က ပြောပြီး ချက်ချင်း ခေါင်းအောက်၊ ခြေထောက်အပေါ် ထောင်ပြလိုက်သည်။
+
+“မစ္စတာ ဂျိုကာကို စိတ်မဆိုးပါနဲ့။ သူ့ခေါင်းထဲမှာ အက်ကြောင်းတွေ အများကြီးရှိနေလို့ အပြုအမူတွေကလည်း မိုက်မဲနေတတ်တာပါ” ဟု မင်းသမီးက ဒေါ်ရသီကို ပြောသည်။
+
+“ကိစ္စမရှိပါဘူး။ ကျွန်မ စိတ်မဆိုးပါဘူး။ ဒါပေမဲ့ မင်းသမီးက အရမ်းလှတာပဲ။ ကျွန်မ မင်းသမီးကို အရမ်းချစ်မိမှာ သေချာတယ်။ ကန်ဆတ်ပြည်ကို ကျွန်မနဲ့ လိုက်ခဲ့ပြီး အန်တီအမ်ရဲ့ အိမ်မှာ အလှဆင်ထားတဲ့ စင်ပေါ်မှာ နေပေးမလား။ ကျွန်မရဲ့ ခြင်းတောင်းထဲမှာ ထည့်သယ်သွားလို့ရတယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“အဲဒီလိုဆိုရင် ကျွန်မ အလွန်ဝမ်းနည်းရမှာပါ။ ဒီနိုင်ငံမှာ ကျွန်မတို့ဟာ ပျော်ရွှင်စွာ နေထိုင်ကြပြီး စကားပြောနိုင်တယ်၊ လှုပ်ရှားသွားလာနိုင်တယ်။ ဒါပေမဲ့ ကျွန်မတို့ထဲက တစ်ယောက်ယောက်ကို ဒီနေရာကနေ ခေါ်ထုတ်သွားတာနဲ့ ကိုယ်ခန္ဓာအဆစ်တွေ တောင့်တင်းသွားပြီး မလှုပ်ရှားနိုင်တော့ဘဲ လှပနေဖို့သာ ကျန်တော့တယ်။ စင်ပေါ်၊ ဗီရိုပေါ်နဲ့ ဧည့်ခန်းစားပွဲပေါ်မှာ အလှဆင်ထားခံရတဲ့အခါ အဲဒီလိုပဲ မျှော်လင့်ကြတာပေါ့။ ဒါပေမဲ့ ကိုယ့်နိုင်ငံမှာ ကိုယ်တိုင် လွတ်လွတ်လပ်လပ် နေထိုင်ရတာက ပိုပြီး ပျော်စရာကောင်းပါတယ်” ဟု ကြွေထည်မင်းသမီးက ပြောသည်။
+
+“မင်းသမီးကို ဘယ်သူ့အတွက်နဲ့မှ ဝမ်းနည်းစေချင်တာ မဟုတ်ပါဘူး။ ဒါကြောင့် နှုတ်ဆက်ခဲ့ပါဦးမယ်” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“နှုတ်ဆက်ပါတယ်” ဟု မင်းသမီးက ပြန်ပြောသည်။
+
+သူတို့သည် ကြွေထည်နိုင်ငံအတွင်းမှ သတိထားကာ ဆက်လျှောက်ကြသည်။ လူငယ်လေးများနှင့် တိရစ္ဆာန်ငယ်များသည် သူစိမ်းများကြောင့် ကွဲပျက်သွားမည်ကို စိုးရိမ်သဖြင့် လမ်းဖယ်ပေးကြသည်။ တစ်နာရီခန့် လျှောက်လာပြီးနောက် နိုင်ငံ၏ အခြားတစ်ဖက်သို့ ရောက်ကာ ဒုတိယ ကြွေထည်နံရံတစ်ခုကို တွေ့လိုက်ရသည်။
+
+ထိုနံရံမှာ ပထမနံရံလောက် မမြင့်ပေ။ ခြင်္သေ့ကြီး၏ ကျောပေါ်တွင် ရပ်တက်လိုက်ခြင်းဖြင့် သူတို့အားလုံး နံရံထိပ်သို့ ရောက်နိုင်ခဲ့ကြသည်။ ထို့နောက် ခြင်္သေ့ကြီးသည် နောက်ခြေများကို စုကာ ခုန်တက်လိုက်သော်လည်း သူ၏ အမြီးက ကြွေထည်ဘုရားကျောင်းငယ်တစ်ခုကို မတော်တဆ တိုက်မိသွားသဖြင့် အစိတ်စိတ်အမွှာမွှာ ကွဲသွားသည်။
+
+“အဲဒါတော့ စိတ်မကောင်းစရာပဲ။ ဒါပေမဲ့ ဒီလူငယ်လေးတွေကို နွားခြေထောက်တစ်ချောင်းနဲ့ ဘုရားကျောင်းတစ်ခုသာ ပျက်စီးစေခဲ့တာက ကံကောင်းတယ်လို့ ထင်တယ်။ သူတို့အားလုံးက အလွန်ကြွပ်ဆတ်ကြတာပဲ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+“ဟုတ်ပါတယ်။ ကျွန်တော်ကတော့ ကောက်ရိုးနဲ့ လုပ်ထားလို့ လွယ်လွယ်နဲ့ မပျက်စီးနိုင်တာကို ကျေးဇူးတင်မိတယ်။ ကောက်ရိုးလူဖြစ်နေရတာထက် ပိုဆိုးတဲ့ အရာတွေလည်း ဒီကမ္ဘာမှာ ရှိသေးတာပဲ” ဟု ကောက်ရိုးလူက ပြောသည်။`,
+    contentEn: `While the Woodman was making a ladder from wood which he found in the forest Dorothy lay down and slept, for she was tired by the long walk. The Lion also curled himself up to sleep and Toto lay beside him.
+
+The Scarecrow watched the Woodman while he worked, and said to him:
+
+“I cannot think why this wall is here, nor what it is made of.”
+
+“Rest your brains and do not worry about the wall,” replied the Woodman. “When we have climbed over it, we shall know what is on the other side.”
+
+After a time the ladder was finished. It looked clumsy, but the Tin Woodman was sure it was strong and would answer their purpose. The Scarecrow waked Dorothy and the Lion and Toto, and told them that the ladder was ready. The Scarecrow climbed up the ladder first, but he was so awkward that Dorothy had to follow close behind and keep him from falling off. When he got his head over the top of the wall the Scarecrow said, “Oh, my!”
+
+“Go on,” exclaimed Dorothy.
+
+So the Scarecrow climbed farther up and sat down on the top of the wall, and Dorothy put her head over and cried, “Oh, my!” just as the Scarecrow had done.
+
+Then Toto came up, and immediately began to bark, but Dorothy made him be still.
+
+The Lion climbed the ladder next, and the Tin Woodman came last; but both of them cried, “Oh, my!” as soon as they looked over the wall. When they were all sitting in a row on the top of the wall, they looked down and saw a strange sight.
+
+Before them was a great stretch of country having a floor as smooth and shining and white as the bottom of a big platter. Scattered around were many houses made entirely of china and painted in the brightest colors. These houses were quite small, the biggest of them reaching only as high as Dorothy’s waist. There were also pretty little barns, with china fences around them; and many cows and sheep and horses and pigs and chickens, all made of china, were standing about in groups.
+
+But the strangest of all were the people who lived in this queer country.
+
+There were milkmaids and shepherdesses, with brightly colored bodices and golden spots all over their gowns; and princesses with most gorgeous frocks of silver and gold and purple; and shepherds dressed in knee breeches with pink and yellow and blue stripes down them, and golden buckles on their shoes; and princes with jeweled crowns upon their heads, wearing ermine robes and satin doublets; and funny clowns in ruffled gowns, with round red spots upon their cheeks and tall, pointed caps.
+
+And, strangest of all, these people were all made of china, even to their clothes, and were so small that the tallest of them was no higher than Dorothy’s knee.
+
+No one did so much as look at the travelers at first, except one little purple china dog with an extra-large head, which came to the wall and barked at them in a tiny voice, afterwards running away again.
+
+“How shall we get down?” asked Dorothy.
+
+They found the ladder so heavy they could not pull it up, so the Scarecrow fell off the wall and the others jumped down upon him so that the hard floor would not hurt their feet. Of course they took pains not to light on his head and get the pins in their feet. When all were safely down they picked up the Scarecrow, whose body was quite flattened out, and patted his straw into shape again.
+
+“We must cross this strange place in order to get to the other side,” said Dorothy, “for it would be unwise for us to go any other way except due South.”
+
+They began walking through the country of the china people, and the first thing they came to was a china milkmaid milking a china cow. As they drew near, the cow suddenly gave a kick and kicked over the stool, the pail, and even the milkmaid herself, and all fell on the china ground with a great clatter.
+
+Dorothy was shocked to see that the cow had broken her leg off, and that the pail was lying in several small pieces, while the poor milkmaid had a nick in her left elbow.
+
+“There!” cried the milkmaid angrily. “See what you have done! My cow has broken her leg, and I must take her to the mender’s shop and have it glued on again. What do you mean by coming here and frightening my cow?”
+
+“I’m very sorry,” returned Dorothy. “Please forgive us.”
+
+But the pretty milkmaid was much too vexed to make any answer. She picked up the leg sulkily and led her cow away, the poor animal limping on three legs. As she left them the milkmaid cast many reproachful glances over her shoulder at the clumsy strangers, holding her nicked elbow close to her side.
+
+Dorothy was quite grieved at this mishap.
+
+“We must be very careful here,” said the kind-hearted Woodman, “or we may hurt these pretty little people so they will never get over it.”
+
+A little farther on Dorothy met a most beautifully dressed young Princess, who stopped short as she saw the strangers and started to run away.
+
+Dorothy wanted to see more of the Princess, so she ran after her. But the china girl cried out:
+
+“Don’t chase me! Don’t chase me!”
+
+She had such a frightened little voice that Dorothy stopped and said, “Why not?”
+
+“Because,” answered the Princess, also stopping, a safe distance away, “if I run I may fall down and break myself.”
+
+“But could you not be mended?” asked the girl.
+
+“Oh, yes; but one is never so pretty after being mended, you know,” replied the Princess.
+
+“I suppose not,” said Dorothy.
+
+“Now there is Mr. Joker, one of our clowns,” continued the china lady, “who is always trying to stand upon his head. He has broken himself so often that he is mended in a hundred places, and doesn’t look at all pretty. Here he comes now, so you can see for yourself.”
+
+Indeed, a jolly little clown came walking toward them, and Dorothy could see that in spite of his pretty clothes of red and yellow and green he was completely covered with cracks, running every which way and showing plainly that he had been mended in many places.
+
+The Clown put his hands in his pockets, and after puffing out his cheeks and nodding his head at them saucily, he said:
+
+“My lady fair,
+Why do you stare
+At poor old Mr. Joker?
+You’re quite as stiff
+And prim as if
+You’d eaten up a poker!”
+
+“Be quiet, sir!” said the Princess. “Can’t you see these are strangers, and should be treated with respect?”
+
+“Well, that’s respect, I expect,” declared the Clown, and immediately stood upon his head.
+
+“Don’t mind Mr. Joker,” said the Princess to Dorothy. “He is considerably cracked in his head, and that makes him foolish.”
+
+“Oh, I don’t mind him a bit,” said Dorothy. “But you are so beautiful,” she continued, “that I am sure I could love you dearly. Won’t you let me carry you back to Kansas, and stand you on Aunt Em’s mantel? I could carry you in my basket.”
+
+“That would make me very unhappy,” answered the china Princess. “You see, here in our country we live contentedly, and can talk and move around as we please. But whenever any of us are taken away our joints at once stiffen, and we can only stand straight and look pretty. Of course that is all that is expected of us when we are on mantels and cabinets and drawing-room tables, but our lives are much pleasanter here in our own country.”
+
+“I would not make you unhappy for all the world!” exclaimed Dorothy. “So I’ll just say good-bye.”
+
+“Good-bye,” replied the Princess.
+
+They walked carefully through the china country. The little animals and all the people scampered out of their way, fearing the strangers would break them, and after an hour or so the travelers reached the other side of the country and came to another china wall.
+
+It was not so high as the first, however, and by standing upon the Lion’s back they all managed to scramble to the top. Then the Lion gathered his legs under him and jumped on the wall; but just as he jumped, he upset a china church with his tail and smashed it all to pieces.
+
+“That was too bad,” said Dorothy, “but really I think we were lucky in not doing these little people more harm than breaking a cow’s leg and a church. They are all so brittle!”
+
+“They are, indeed,” said the Scarecrow, “and I am thankful I am made of straw and cannot be easily damaged. There are worse things in the world than being a Scarecrow.”`,
+  },
 ] as const;
