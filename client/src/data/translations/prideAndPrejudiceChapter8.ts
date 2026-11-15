@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter8My = [
     number: 8,
     title: "အခန်း (၈)",
     titleEn: "Chapter VIII",
+    readingType: "summary",
     contentEn: `After Elizabeth had been with Jane for some time, the Bingley sisters came into the room to ask how she was feeling. They spoke kindly about Jane and said they hoped she would soon recover.
 
 Elizabeth thanked them and returned to Jane's bedside. She was determined to stay until her sister felt better.
