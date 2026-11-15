@@ -1285,6 +1285,7 @@ body { background: var(--paper); }
 
 .reader-page-paper {
   position: relative;
+  perspective: 1600px;
   width: min(100%, 760px);
   min-height: 0;
   flex: 1;
