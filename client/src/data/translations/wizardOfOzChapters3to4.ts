@@ -720,7 +720,7 @@ What worried her most was that the bread was nearly gone. Another meal for herse
 ထိုအချိန်မှစ၍ သူသည် လမ်းကို သေချာကြည့်ပြီး ဂရုတစိုက် လျှောက်လာသည်။ လမ်းပေါ်တွင် အလုပ်ကြိုးစားစွာ သွားလာနေသော ပုရွက်ဆိတ်ငယ်တစ်ကောင်ကို တွေ့လျှင်ပင် မထိခိုက်စေရန် ကျော်လွှားသွားသည်။ သံခုတ်သမားသည် မိမိမှာ နှလုံးသားမရှိဟု ယုံကြည်နေသဖြင့် မည်သည့်သက်ရှိကိုမျှ ရက်စက်ခြင်း၊ မကြင်နာခြင်း မဖြစ်စေရန် အထူးဂရုစိုက်နေခဲ့သည်။
 
 “နှလုံးသားရှိတဲ့ ရှင်တို့မှာ မှန်ကန်တဲ့လမ်းကို ပြသပေးနိုင်တဲ့ အရာတစ်ခု ရှိနေတယ်။ ဒါကြောင့် မကောင်းတာ မလုပ်မိအောင် အမြဲသတိထားနိုင်တယ်။ ကျွန်တော့်မှာတော့ နှလုံးသားမရှိဘူးလို့ ယုံကြည်ထားတဲ့အတွက် ပိုပြီး သတိထားနေရတာပါ။ အော့ဇ်က ကျွန်တော့်ကို နှလုံးသားပေးလိုက်ရင်တော့ ဒီလောက် စိုးရိမ်နေစရာ မလိုတော့ဘူးပေါ့” ဟု သူက ပြောသည်။`,
-    contentEn: `All this time Dorothy and her companions had been walking through the thick woods. The road was still paved with yellow brick, but it was much covered by dried branches and dead leaves from the trees, and the walking was not at all good.
+    contentEn: `All this time Dorothy and her companions had been walking through the thick woods. The road was still paved with yellow brick, but these were much covered by dried branches and dead leaves from the trees, and the walking was not at all good.
 
 There were few birds in this part of the forest, for birds love the open country where there is plenty of sunshine. But now and then there came a deep growl from some wild animal hidden among the trees. These sounds made the little girl's heart beat fast, for she did not know what made them; but Toto knew, and he walked close to Dorothy's side, and did not even bark in return.
 
@@ -732,13 +732,13 @@ There were few birds in this part of the forest, for birds love the open country
 
 "We must protect him ourselves if he is in danger," replied the Tin Woodman.
 
-Just as he spoke there came from the forest a terrible roar, and the next moment a great Lion bounded into the road. With one blow of his paw he sent the Scarecrow spinning to the edge of the road, and then he struck at the Tin Woodman. But, to the Lion's surprise, he could make no impression on the tin, although the Woodman fell over in the road and lay still.
+Just as he spoke there came from the forest a terrible roar, and the next moment a great Lion bounded into the road. With one blow of his paw he sent the Scarecrow spinning over and over to the edge of the road, and then he struck at the Tin Woodman with his sharp claws. But, to the Lion's surprise, he could make no impression on the tin, although the Woodman fell over in the road and lay still.
 
-Little Toto, now that he had an enemy to face, ran barking toward the Lion. The great beast opened his mouth as if to bite the dog, when Dorothy, fearing Toto would be harmed and heedless of danger, rushed forward and slapped the Lion upon his nose as hard as she could.
+Little Toto, now that he had an enemy to face, ran barking toward the Lion, and the great beast had opened his mouth to bite the dog, when Dorothy, fearing Toto would be harmed, and heedless of danger, rushed forward and slapped the Lion upon his nose as hard as she could, while she cried out:
 
 "Don't you dare to bite Toto! You ought to be ashamed of yourself, a big beast like you, to bite a poor little dog!"
 
-"I didn't bite him," said the Lion, rubbing his nose with his paw where Dorothy had hit it.
+"I didn't bite him," said the Lion, as he rubbed his nose with his paw where Dorothy had hit it.
 
 "No, but you tried to," she retorted. "You are nothing but a big coward."
 
@@ -754,25 +754,25 @@ Little Toto, now that he had an enemy to face, ran barking toward the Lion. The 
 
 "No," said Dorothy, "he's made of tin." And she helped the Woodman up again.
 
-"That's why I nearly hurt my claws," said the Lion. "When they touched the tin it made a cold shiver run down my back. What is that little animal you are so tender of?"
+"That's why he nearly blunted my claws," said the Lion. "When they scratched against the tin it made a cold shiver run down my back. What is that little animal you are so tender of?"
 
 "He is my dog, Toto," answered Dorothy.
 
 "Is he made of tin, or stuffed?" asked the Lion.
 
-"Neither. He's a little dog," said the girl.
+"Neither. He's a— a— a meat dog," said the girl.
 
 "Oh! He's a curious animal and seems remarkably small, now that I look at him. No one would think of biting such a little thing, except a coward like me," continued the Lion sadly.
 
 "What makes you a coward?" asked Dorothy, looking at the great beast in wonder, for he was as big as a small horse.
 
-"It's a mystery," replied the Lion. "I suppose I was born that way. All the other animals in the forest naturally expect me to be brave, for the Lion is everywhere thought to be the King of Beasts. I learned that if I roared very loudly every living thing was frightened and got out of my way. Whenever I've met a person I've been terribly scared; but I just roared at them, and they always ran away as fast as they could.
+"It's a mystery," replied the Lion. "I suppose I was born that way. All the other animals in the forest naturally expect me to be brave, for the Lion is everywhere thought to be the King of Beasts. I learned that if I roared very loudly every living thing was frightened and got out of my way. Whenever I've met a man I've been awfully scared; but I just roared at him, and he has always run away as fast as he could go.
 
-"If the elephants and the tigers and the bears had ever tried to face me, I should have run myself—I'm such a coward. But as soon as they hear me roar they all try to get away, and of course I let them go."
+"If the elephants and the tigers and the bears had ever tried to fight me, I should have run myself—I'm such a coward; but just as soon as they hear me roar they all try to get away from me, and of course I let them go."
 
 "But that isn't right. The King of Beasts shouldn't be a coward," said the Scarecrow.
 
-"I know it," returned the Lion, wiping a tear from his eye with the tip of his tail. "It is my great sorrow, and makes my life very unhappy. Whenever there is danger, my heart begins to beat fast."
+"I know it," returned the Lion, wiping a tear from his eye with the tip of his tail. "It is my great sorrow, and makes my life very unhappy. But whenever there is danger, my heart begins to beat fast."
 
 "Perhaps you have heart disease," said the Tin Woodman.
 
@@ -802,20 +802,20 @@ Little Toto, now that he had an enemy to face, ran barking toward the Lion. The 
 
 "Then, if you don't mind, I'll go with you," said the Lion, "for my life is simply unbearable without a bit of courage."
 
-"You will be very welcome," answered Dorothy, "for you will help to keep away the other wild beasts. It seems to me they must be more timid than you are if they allow you to scare them so easily."
+"You will be very welcome," answered Dorothy, "for you will help to keep away the other wild beasts. It seems to me they must be more cowardly than you are if they allow you to scare them so easily."
 
 "They really are," said the Lion, "but that doesn't make me any braver, and as long as I know myself to be a coward I shall be unhappy."
 
-So once more the little company set off upon the journey, the Lion walking with stately strides at Dorothy's side. Toto did not approve of this new comrade at first, for he could not forget how nearly he had been harmed. But after a time he became more at ease, and presently Toto and the Cowardly Lion had grown to be good friends.
+So once more the little company set off upon the journey, the Lion walking with stately strides at Dorothy's side. Toto did not approve of this new comrade at first, for he could not forget how nearly he had been crushed between the Lion's great jaws. But after a time he became more at ease, and presently Toto and the Cowardly Lion had grown to be good friends.
 
-During the rest of that day there was no other adventure to disturb the peace of their journey. Once, indeed, the Tin Woodman accidentally stepped upon a small beetle crawling along the road. This made him very unhappy, for he was always careful not to hurt any living creature; and as he walked along he wept several tears of sorrow and regret. These tears ran down his face and over the hinges of his jaw, and there they rusted.
+During the rest of that day there was no other adventure to mar the peace of their journey. Once, indeed, the Tin Woodman stepped upon a beetle that was crawling along the road, and killed the poor little thing. This made the Tin Woodman very unhappy, for he was always careful not to hurt any living creature; and as he walked along he wept several tears of sorrow and regret. These tears ran slowly down his face and over the hinges of his jaw, and there they rusted.
 
-When Dorothy presently asked him a question the Tin Woodman could not open his mouth, for his jaws were tightly rusted together. He became greatly frightened and made many motions to Dorothy to help him, but she could not understand. The Lion was also puzzled. But the Scarecrow seized the oilcan from Dorothy's basket and oiled the Woodman's jaws, so that after a few moments he could talk as well as before.
+When Dorothy presently asked him a question the Tin Woodman could not open his mouth, for his jaws were tightly rusted together. He became greatly frightened at this and made many motions to Dorothy to relieve him, but she could not understand. The Lion was also puzzled to know what was wrong. But the Scarecrow seized the oil-can from Dorothy's basket and oiled the Woodman's jaws, so that after a few moments he could talk as well as before.
 
-"This will serve me as a lesson," said he, "to look where I step. For if I should harm another bug or beetle I should surely cry again, and crying rusts my jaws so that I cannot speak."
+"This will serve me a lesson," said he, "to look where I step. For if I should kill another bug or beetle I should surely cry again, and crying rusts my jaws so that I cannot speak."
 
 Thereafter he walked very carefully, with his eyes on the road, and when he saw a tiny ant toiling by he would step over it, so as not to harm it. The Tin Woodman knew very well he had no heart, and therefore he took great care never to be cruel or unkind to anything.
 
-"You people with hearts," he said, "have something to guide you, and need never do wrong; but I have no heart, and so I must be very careful. When Oz gives me a heart, of course I needn't mind so much."`,
+"You people with hearts," he said, "have something to guide you, and need never do wrong; but I have no heart, and so I must be very careful. When Oz gives me a heart of course I needn't mind so much."`
   },
 ] as const;
