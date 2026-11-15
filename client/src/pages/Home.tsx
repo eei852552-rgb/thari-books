@@ -21,6 +21,23 @@ import {
 } from "lucide-react";
 import { openBooks, openBookCategories, type OpenBook } from "../data/openBooks";
 import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejudice";
+import { prideAndPrejudiceChapter2My } from "../data/translations/prideAndPrejudiceChapter2";
+import { prideAndPrejudiceChapter3My } from "../data/translations/prideAndPrejudiceChapter3";
+import { prideAndPrejudiceChapter4My } from "../data/translations/prideAndPrejudiceChapter4";
+import { prideAndPrejudiceChapter5My } from "../data/translations/prideAndPrejudiceChapter5";
+import { prideAndPrejudiceChapter6My } from "../data/translations/prideAndPrejudiceChapter6";
+import { prideAndPrejudiceChapter7My } from "../data/translations/prideAndPrejudiceChapter7";
+import { prideAndPrejudiceChapter8My } from "../data/translations/prideAndPrejudiceChapter8";
+import { prideAndPrejudiceChapter9My } from "../data/translations/prideAndPrejudiceChapter9";
+import { prideAndPrejudiceChapter10My } from "../data/translations/prideAndPrejudiceChapter10";
+import { prideAndPrejudiceChapter11My } from "../data/translations/prideAndPrejudiceChapter11";
+import { prideAndPrejudiceChapter12My } from "../data/translations/prideAndPrejudiceChapter12";
+import { prideAndPrejudiceChapter13My } from "../data/translations/prideAndPrejudiceChapter13";
+import { prideAndPrejudiceChapter14My } from "../data/translations/prideAndPrejudiceChapter14";
+import { prideAndPrejudiceChapter15My } from "../data/translations/prideAndPrejudiceChapter15";
+import { prideAndPrejudiceChapter16My } from "../data/translations/prideAndPrejudiceChapter16";
+import { prideAndPrejudiceChapter17My } from "../data/translations/prideAndPrejudiceChapter17";
+import { prideAndPrejudiceChapter18My } from "../data/translations/prideAndPrejudiceChapter18";
 import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
 import { wizardOfOzChapters3to4 } from "../data/translations/wizardOfOzChapters3to4";
@@ -32,7 +49,7 @@ const readingProgressKey = "thari-books:reading-progress:v2";
 const legacyReadingProgressKey = "thari-books:last-reading";
 
 const readerChaptersByBookId = {
-  "pride-and-prejudice": prideAndPrejudiceChaptersMy,
+  "pride-and-prejudice": [...prideAndPrejudiceChaptersMy, ...prideAndPrejudiceChapter2My, ...prideAndPrejudiceChapter3My, ...prideAndPrejudiceChapter4My, ...prideAndPrejudiceChapter5My, ...prideAndPrejudiceChapter6My, ...prideAndPrejudiceChapter7My, ...prideAndPrejudiceChapter8My, ...prideAndPrejudiceChapter9My, ...prideAndPrejudiceChapter10My, ...prideAndPrejudiceChapter11My, ...prideAndPrejudiceChapter12My, ...prideAndPrejudiceChapter13My, ...prideAndPrejudiceChapter14My, ...prideAndPrejudiceChapter15My, ...prideAndPrejudiceChapter16My, ...prideAndPrejudiceChapter17My, ...prideAndPrejudiceChapter18My],
   "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapters3to4],
   "art-of-learning": artOfLearningChapters,
 } as const;
