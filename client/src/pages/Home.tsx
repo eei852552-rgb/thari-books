@@ -514,8 +514,8 @@ export default function Home() {
                   </>}
                 </>
               )}
-              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {siteLanguage === "my" ? selectedBook.rightsNote : "This link opens the original source. Copyright status and reuse rights can differ by country; check local law before reusing any text."}</p>
-              <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.sourceBook} <ArrowUpRight size={16} /></a>
+              <p className="reader-note"><ShieldCheck size={14} aria-hidden="true" /> {siteLanguage === "my" || selectedBook.source === "AUREN" ? selectedBook.rightsNote : "This link opens the original source. Copyright status and reuse rights can differ by country; check local law before reusing any text."}</p>
+              {selectedBook.sourceUrl && <a className="read-button reader-source" href={selectedBook.sourceUrl} target="_blank" rel="noopener noreferrer">{ui.sourceBook} <ArrowUpRight size={16} /></a>}
             </section>
           </div>
         )}
