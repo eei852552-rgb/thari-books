@@ -43,7 +43,25 @@ This book does not promise one final answer to life. Instead, it invites readers
 7. လူများနှင့်အတူ နေထိုင်ခြင်း — Living Among Others
 8. ကိုယ်ပိုင်အဓိပ္ပာယ်ကို တည်ဆောက်ခြင်း — Building Personal Meaning
 9. နေ့စဉ်ဘဝအတွက် လက်တွေ့လေ့ကျင့်ခန်းများ — Practical Exercises for Everyday Life
-10. နိဂုံး — A Life That Keeps Becoming
+10. ဆက်လက်ပြောင်းလဲနေသော ဘဝ — A Life That Keeps Becoming
+
+---
+
+# နိဒါန်း | Introduction
+
+ဘဝအကြောင်း စဉ်းစားရာတွင် လူတိုင်းအတွက် တူညီသောအဖြေတစ်ခု ရှိမည်ဟု မယူဆသင့်ပါ။ မိမိ၏အတွေ့အကြုံ၊ ပတ်ဝန်းကျင်နှင့် တာဝန်များက မိမိမြင်သောကမ္ဘာကို ပုံဖော်ပေးသည်။ ထို့ကြောင့် ဘဝကို နားလည်ရန် ပထမဆုံးလိုအပ်သည်မှာ အခြားသူ၏အဖြေကို အလွတ်ကျက်ခြင်းမဟုတ်ဘဲ မိမိ၏အမြင်ကို စစ်ဆေးမေးခွန်းထုတ်နိုင်ခြင်းဖြစ်သည်။
+
+ဤစာအုပ်၏ အခန်းများသည် ဘဝ၏အဓိပ္ပာယ်၊ ကိုယ်ပိုင်တန်ဖိုး၊ ရွေးချယ်မှု၊ အချိန်၊ ပျော်ရွှင်မှု၊ အခက်အခဲ၊ လူမှုဆက်ဆံရေးနှင့် ကိုယ်ပိုင်ရည်ရွယ်ချက်တို့ကို အဆင့်ဆင့် လေ့လာထားသည်။ အခန်းတစ်ခန်းစီကို အမြန်ပြီးအောင် ဖတ်ရန် မလိုပါ။ မိမိနှင့် သက်ဆိုင်သော မေးခွန်းတစ်ခုကို ရွေးပြီး စဉ်းစားကြည့်ပါ။ မတူညီသောအမြင်ကို တွေ့လျှင်လည်း ချက်ချင်းလက်ခံရန် မလိုဘဲ အကြောင်းပြချက်ကို စစ်ဆေးနိုင်သည်။
+
+စာဖတ်ခြင်း၏ရည်ရွယ်ချက်မှာ စာအုပ်ထဲရှိစကားများကို မိမိဘဝအတွက် အမိန့်တစ်ခုအဖြစ် သတ်မှတ်ရန် မဟုတ်ပါ။ မိမိ၏ဆုံးဖြတ်ချက်များကို ပိုမိုရှင်းလင်းစွာ မြင်နိုင်ရန် အတွေးအခေါ်ကိရိယာတစ်ခုအဖြစ် အသုံးပြုရန်ဖြစ်သည်။
+
+## Introduction
+
+There may be no single answer about life that fits everyone. Our experiences, surroundings, and responsibilities shape the way we see the world. The first step towards understanding life is therefore not memorising someone else's answer, but learning to examine our own assumptions.
+
+The chapters in this book explore meaning, personal worth, choices, time, happiness, difficulty, relationships, and personal purpose. You do not need to rush through them. Choose a question that connects with your experience and give it time. When you encounter a different perspective, you do not have to accept it immediately; you can examine the reasons behind it.
+
+The purpose of reading is not to treat the words in a book as commands for your life. It is to use ideas as tools that help you see your own decisions more clearly.
 
 ---
 
@@ -231,12 +249,6 @@ Before making an important decision:
 - What was the consequence of one recent choice you made?
 - Can you separate what you control from what you do not control?
 - How could you make one important decision more thoughtfully?
-
----
-
-## စာမူအယ်ဒီတာမှတ်ချက် | Editorial note
-
-အခန်း ၁–၁၀၊ အမှာစာနှင့် နိဂုံးကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ပထမမူကြမ်းအဖြစ် ရေးသားပြီးဖြစ်သည်။ စာအုပ်ကို ထုတ်ဝေရန် အဆင်သင့်ဟု မသတ်မှတ်ရသေးပါ။ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာပြင်ဆင်မှု၊ အချက်အလက်စစ်ဆေးမှု၊ သရုပ်ဖော်ပုံများနှင့် Reader စမ်းသပ်မှုတို့ ဆက်လက်လုပ်ဆောင်ရန် လိုအပ်နေသေးသည်။
 
 
 ---
