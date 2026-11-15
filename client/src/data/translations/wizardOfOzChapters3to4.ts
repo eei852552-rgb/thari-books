@@ -1188,4 +1188,175 @@ On and on they walked, and it seemed that the great carpet of deadly flowers tha
 
 They carried the sleeping girl to a pretty spot beside the river, far enough from the poppy field to prevent her breathing any more of the poison of the flowers, and here they laid her gently on the soft grass and waited for the fresh breeze to waken her.`
   },
+  {
+    number: 9,
+    title: "အခန်း (၉) — ကြွက်ကွင်းပြင်၏ ဘုရင်မ",
+    titleEn: "Chapter 9 — The Queen of the Field Mice",
+    content: `“အခုဆိုရင် အဝါရောင်အုတ်ခင်းလမ်းနဲ့ သိပ်မဝေးတော့ဘူး ထင်တယ်” ဟု စာခြောက်ရုပ်က ဒေါ်ရသီဘေးတွင် ရပ်လျက် ပြောသည်။ “မြစ်ရေက ငါတို့ကို လမ်းမှ သယ်ဆောင်သွားခဲ့တဲ့ အကွာအဝေးနီးပါးအထိ ပြန်လျှောက်လာခဲ့ကြပြီလေ။”
+
+သံခုတ်သမားက ပြန်ဖြေမည့်အချိန်တွင် တိရစ္ဆာန်တစ်ကောင်၏ ဟိန်းသံသဲ့သဲ့ကို ကြားလိုက်ရသည်။ သူ၏ ပတ္တာတပ်ထားသော ဦးခေါင်းကို လှည့်ကြည့်လိုက်သောအခါ မြက်ခင်းပြင်ပေါ်မှ ထူးဆန်းသော သတ္တဝါကြီးတစ်ကောင် သူတို့ဆီသို့ ခုန်ပြေးလာသည်ကို တွေ့ရသည်။ ၎င်းမှာ အဝါရောင် တောကြောင်ကြီးတစ်ကောင် ဖြစ်သည်။ နားရွက်များမှာ နောက်သို့ ကပ်နေပြီး ပါးစပ်ကို ကျယ်ကျယ်ဖွင့်ထားသဖြင့် သွားများကို မြင်နေရသည်။ မျက်လုံးနီနီများကလည်း တောက်ပနေသည်။ သံခုတ်သမားက ထိုတောကြောင်ကြီးသည် တစ်စုံတစ်ခုကို လိုက်ဖမ်းနေကြောင်း သတိထားမိသည်။
+
+တောကြောင်ကြီး၏ ရှေ့တွင် မီးခိုးရောင် လယ်ကြွက်ကလေးတစ်ကောင် ပြေးနေသည်။ သံခုတ်သမားတွင် နှလုံးသားမရှိသော်လည်း အပြစ်မဲ့သော သတ္တဝါကလေးကို ထိုသို့ လိုက်လံခြိမ်းခြောက်နေခြင်းမှာ မတရားကြောင်း သိသည်။ ထို့ကြောင့် သူသည် ကြောင်ကြီးကို တားဆီးရန် အလျင်အမြန် လှုပ်ရှားလိုက်သည်။ ခဏအတွင်းမှာပင် တောကြောင်ကြီးသည် လဲကျသွားပြီး လယ်ကြွက်ကလေးမှာ အန္တရာယ်မှ လွတ်မြောက်သွားခဲ့သည်။
+
+ရန်သူကင်းသွားသောအခါ လယ်ကြွက်ကလေးသည် ခဏရပ်လိုက်ပြီး သံခုတ်သမားထံသို့ ဖြည်းဖြည်းချင်း ချဉ်းကပ်လာသည်။ ထို့နောက် အသံသေးသေးလေးဖြင့် ပြောသည်။
+
+“ကျေးဇူးတင်ပါတယ်။ ကျွန်မရဲ့ အသက်ကို ကယ်တင်ပေးလို့ အရမ်းကျေးဇူးတင်ပါတယ်။”
+
+“အဲဒီအကြောင်း ပြောနေစရာ မလိုပါဘူး” ဟု သံခုတ်သမားက ပြန်ပြောသည်။ “မင်းသိတဲ့အတိုင်း ငါ့မှာ နှလုံးသားမရှိဘူး။ ဒါပေမဲ့ မိတ်ဆွေလိုအပ်နေသူတိုင်းကို ကူညီပေးဖို့တော့ အမြဲကြိုးစားတယ်။ ကြွက်ကလေးတစ်ကောင်ပဲ ဖြစ်နေပါစေ။”
+
+“ကြွက်ကလေးတစ်ကောင်ပဲ ဟုတ်လား” ဟု လယ်ကြွက်ကလေးက မကျေမနပ်ဖြင့် ပြောသည်။ “ကျွန်မက ဘုရင်မတစ်ပါးပါ။ လယ်ကြွက်အားလုံးရဲ့ ဘုရင်မ ဖြစ်ပါတယ်။”
+
+“အော်၊ အဲဒီလိုလား” ဟု သံခုတ်သမားက လေးစားစွာ ဦးညွှတ်လိုက်သည်။
+
+“ဒါကြောင့် ကျွန်မရဲ့ အသက်ကို ကယ်တင်ပေးတာဟာ ကြီးမြတ်ပြီး သတ္တိရှိတဲ့ လုပ်ရပ်တစ်ခုပါပဲ” ဟု ဘုရင်မက ဆက်ပြောသည်။
+
+ထိုအချိန်တွင် ကြွက်ကလေးများစွာသည် ခြေထောက်သေးသေးလေးများဖြင့် အမြန်ပြေးလာကြသည်။ သူတို့၏ ဘုရင်မကို မြင်သောအခါ “အရှင်မင်းကြီးမ၊ အသက်အန္တရာယ်ကြုံသွားပြီလို့ ကျွန်တော်တို့ ထင်နေခဲ့ကြတာပါ။ အဲဒီတောကြောင်ကြီးဆီက ဘယ်လို လွတ်မြောက်လာခဲ့တာပါလဲ” ဟု စိုးရိမ်တကြီး မေးကြသည်။ ကြွက်ကလေးအားလုံးသည် ဘုရင်မကို အလွန်နိမ့်ညွတ်စွာ ဦးညွှတ်ကြသည်။
+
+“ဒီထူးဆန်းတဲ့ သံလူသားက တောကြောင်ကြီးကို တားဆီးပြီး ကျွန်မရဲ့ အသက်ကို ကယ်တင်ခဲ့တာပါ။ ဒါကြောင့် ဒီနေ့ကစပြီး သူ့ကို အားလုံး ဝိုင်းဝန်းကူညီကြရမယ်။ သူပြောသမျှကိုလည်း လိုက်နာကြရမယ်” ဟု ဘုရင်မက ပြောသည်။
+
+“လိုက်နာပါ့မယ်” ဟု ကြွက်ကလေးအားလုံးက တစ်ပြိုင်နက် အော်ဟစ်ဖြေကြားကြသည်။
+
+ထိုအခါ တိုတိုသည် အိပ်ရာမှ နိုးလာပြီး ကြွက်ကလေးများကို မြင်သဖြင့် ပျော်ရွှင်စွာ ဟောင်ကာ သူတို့အလယ်သို့ ခုန်ဝင်လိုက်သည်။ တိုတိုသည် ကန်ဆတ်တွင် နေခဲ့စဉ်ကတည်းက ကြွက်များကို လိုက်ဖမ်းရသည်ကို နှစ်သက်ခဲ့သည်။ ထို့ကြောင့် ကြွက်ကလေးများလည်း ကြောက်လန့်ပြီး နေရာအနှံ့ ပြေးလွှားသွားကြသည်။
+
+သံခုတ်သမားက တိုတိုကို လက်နှစ်ဖက်ဖြင့် ချီထားပြီး ကြွက်ကလေးများကို ပြန်ခေါ်သည်။ “ပြန်လာကြပါ။ ပြန်လာကြပါ။ တိုတိုက မင်းတို့ကို မထိခိုက်စေပါဘူး။”
+
+ကြွက်ဘုရင်မသည် မြက်ပင်အုပ်တစ်ခုအောက်မှ ခေါင်းကလေး ထုတ်ကြည့်ပြီး ကြောက်ရွံ့စွာ “သူက ကျွန်မတို့ကို မကိုက်ဘူးဆိုတာ သေချာပါသလား” ဟု မေးသည်။
+
+“သေချာပါတယ်။ ငါ သူ့ကို ထိန်းထားမှာပါ။ မကြောက်ကြပါနဲ့” ဟု သံခုတ်သမားက အာမခံသည်။
+
+ထို့နောက် ကြွက်ကလေးများသည် တစ်ကောင်ပြီးတစ်ကောင် ပြန်လာကြသည်။ တိုတိုကလည်း ထပ်မဟောင်တော့ပေ။ နောက်ဆုံးတွင် ကြွက်ကြီးတစ်ကောင်က ရှေ့ထွက်လာပြီး “ကျွန်တော်တို့ရဲ့ ဘုရင်မရဲ့ အသက်ကို ကယ်တင်ပေးခဲ့တဲ့အတွက် ဘယ်လို ကျေးဇူးပြန်ဆပ်ပေးရမလဲ” ဟု မေးသည်။
+
+“ငါလိုအပ်တာ ဘာမှ မရှိပါဘူး” ဟု သံခုတ်သမားက ပြန်ဖြေသည်။ သို့သော် စာခြောက်ရုပ်သည် အကြံတစ်ခု စဉ်းစားမိသွားသည်။
+
+“ရှိပါတယ်။ မင်းတို့က ငါတို့ရဲ့ မိတ်ဆွေ ခြင်္သေ့ကြီးကို ကယ်တင်ပေးနိုင်တယ်။ သူက ဘိန်းပန်းခင်းထဲမှာ အိပ်ပျော်နေတယ်” ဟု သူက အမြန်ပြောလိုက်သည်။
+
+“ခြင်္သေ့ကြီး ဟုတ်လား။ သူက ကျွန်မတို့အားလုံးကို စားပစ်မှာပေါ့” ဟု ဘုရင်မက အံ့ဩစွာ မေးသည်။
+
+“မစားပါဘူး။ ဒီခြင်္သေ့က ကြောက်တတ်သူပါ” ဟု စာခြောက်ရုပ်က ရှင်းပြသည်။
+
+“တကယ်လား” ဟု ကြွက်ဘုရင်မက မေးသည်။
+
+“သူကိုယ်တိုင်လည်း အဲဒီလို ပြောထားပါတယ်။ သူက ငါတို့ရဲ့ မိတ်ဆွေတွေကို ဘယ်တော့မှ မထိခိုက်စေပါဘူး။ မင်းတို့သာ သူ့ကို ကယ်တင်ပေးမယ်ဆိုရင် မင်းတို့အားလုံးအပေါ် ကြင်နာစွာ ဆက်ဆံမယ်လို့ ငါ ကတိပေးပါတယ်” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+“ကောင်းပါပြီ။ မင်းတို့ကို ယုံကြည်ပါတယ်။ ဒါပေမဲ့ ဘယ်လိုလုပ်ရမလဲ” ဟု ဘုရင်မက မေးသည်။
+
+“မင်းကို ဘုရင်မလို့ ခေါ်ပြီး မင်းရဲ့ အမိန့်ကို နာခံမယ့် ကြွက်တွေ အများကြီး ရှိသလား” ဟု စာခြောက်ရုပ်က မေးသည်။
+
+“ရှိတာပေါ့။ ထောင်ပေါင်းများစွာ ရှိပါတယ်” ဟု ဘုရင်မက ဖြေသည်။
+
+“ဒါဆို သူတို့အားလုံးကို အမြန်ဆုံး ဒီနေရာကို လာဖို့ ခေါ်လိုက်ပါ။ ကြွက်တစ်ကောင်စီက ကြိုးရှည်တစ်ချောင်းစီ ယူလာဖို့လည်း ပြောပေးပါ” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+ဘုရင်မသည် သူမ၏ အနီးတွင် ရှိနေသော ကြွက်များကို ခေါ်ပြီး အမိန့်ပေးလိုက်သည်။ ကြွက်များသည်လည်း ဘုရင်မ၏ အမိန့်အတိုင်း သူတို့၏ အဖွဲ့ဝင်များကို ခေါ်ရန် နေရာအနှံ့သို့ အမြန်ပြေးထွက်သွားကြသည်။
+
+“အခုတော့ မြစ်ကမ်းဘေးက သစ်ပင်တွေဆီ သွားပြီး ခြင်္သေ့ကြီးကို တင်သယ်နိုင်မယ့် လှည်းတစ်စီး လုပ်ပေးပါ” ဟု စာခြောက်ရုပ်က သံခုတ်သမားကို ပြောသည်။
+
+သံခုတ်သမားသည် ချက်ချင်း သစ်ပင်များဆီသို့ သွားပြီး အလုပ်စလုပ်သည်။ သူသည် သစ်ကိုင်းများနှင့် သစ်တုံးများကို အသုံးပြုကာ လှည်းတစ်စီး ပြုလုပ်ခဲ့သည်။ သစ်ကိုင်းများကို ဖယ်ရှားပြီး သစ်သားတံစို့များဖြင့် ခိုင်မြဲအောင် ဆက်စပ်ထားသည်။ ဘီးလေးဘီးကိုလည်း သစ်တုံးကြီးတစ်ခုမှ ဖြတ်ယူထားသော အပိုင်းတိုများဖြင့် ပြုလုပ်ခဲ့သည်။ သူသည် အလွန်လျင်မြန်စွာ အလုပ်လုပ်နိုင်သဖြင့် ကြွက်များ ရောက်လာချိန်တွင် လှည်းမှာ အဆင်သင့်ဖြစ်နေပြီဖြစ်သည်။
+
+ကြွက်များသည် နေရာအနှံ့မှ ရောက်လာကြသည်။ အရေအတွက်မှာ ထောင်ပေါင်းများစွာ ရှိပြီး ကြွက်ကြီးများ၊ ကြွက်ငယ်များနှင့် အလတ်စားကြွက်များ အားလုံး ပါဝင်ကြသည်။ တစ်ကောင်စီသည် ပါးစပ်ထဲတွင် ကြိုးတစ်ချောင်းစီ ယူလာကြသည်။
+
+ထိုအချိန်လောက်တွင် ဒေါ်ရသီသည် အိပ်ရာရှည်ကြီးမှ နိုးလာပြီး မျက်လုံးဖွင့်ကြည့်လိုက်သည်။ သူမသည် မြက်ခင်းပေါ်တွင် လဲလျောင်းနေပြီး ကြွက်ထောင်ပေါင်းများစွာက သူမကို ဝိုင်းကြည့်နေကြသည်ကို တွေ့ရသဖြင့် အလွန်အံ့ဩသွားသည်။ စာခြောက်ရုပ်က ဖြစ်ပျက်ခဲ့သမျှကို ရှင်းပြပေးပြီး ဂုဏ်သိက္ခာရှိသော ကြွက်ကလေးထံသို့ လက်ညွှန်ကာ “ဒါက ဘုရင်မကြီးပါ။ သူမကို မိတ်ဆက်ပေးပါရစေ” ဟု ပြောသည်။
+
+ဒေါ်ရသီသည် လေးစားစွာ ခေါင်းညိတ်လိုက်ပြီး ဘုရင်မကလည်း ယဉ်ကျေးစွာ ဦးညွှတ်သည်။ ထို့နောက် ဘုရင်မသည် ဒေါ်ရသီနှင့် ခင်မင်ရင်းနှီးလာသည်။
+
+စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့သည် ကြွက်များ ယူလာသော ကြိုးများဖြင့် လှည်းကို စတင်ချိတ်ဆက်ကြသည်။ ကြိုးတစ်ချောင်းစီဖြင့် ကြွက်တစ်ကောင်စီကို လှည်းနှင့် ချိတ်ပေးကြသည်။ လှည်းသည် ကြွက်ကလေးများနှင့် နှိုင်းယှဉ်လျှင် အလွန်ကြီးမားသော်လည်း ကြွက်အားလုံး အတူတကွ ဆွဲလိုက်သောအခါ လှည်းသည် အလွယ်တကူ ရွေ့လျားလာသည်။
+
+စာခြောက်ရုပ်နှင့် သံခုတ်သမားတို့ပင် လှည်းပေါ်တွင် ထိုင်နိုင်ကြပြီး ကြွက်ကလေးများက သူတို့ကို ခြင်္သေ့ကြီးရှိရာသို့ လျင်မြန်စွာ ဆွဲခေါ်သွားကြသည်။
+
+အလုပ်အနည်းငယ် ကြိုးစားရသော်လည်း နောက်ဆုံးတွင် ခြင်္သေ့ကြီးကို လှည်းပေါ်သို့ တင်နိုင်ခဲ့ကြသည်။ ထိုအခါ ဘုရင်မသည် ကြွက်များကို အမြန်ထွက်ခွာရန် အမိန့်ပေးသည်။ အကြောင်းမှာ ကြွက်ကလေးများသည် ဘိန်းပန်းခင်းအတွင်း အချိန်ကြာကြာ နေပါက သူတို့လည်း အိပ်ပျော်သွားနိုင်သောကြောင့် ဖြစ်သည်။
+
+အစပိုင်းတွင် ကြွက်အရေအတွက် များပြားသော်လည်း ခြင်္သေ့ကြီးပါသော လှည်းကို ဆွဲရွှေ့ရန် ခက်ခဲနေသည်။ သို့သော် သံခုတ်သမားနှင့် စာခြောက်ရုပ်တို့က နောက်မှ တွန်းကူကြသဖြင့် လှည်းသည် တဖြည်းဖြည်း ရွေ့လျားလာသည်။ မကြာမီ သူတို့သည် ခြင်္သေ့ကြီးကို ဘိန်းပန်းခင်းမှ လွတ်မြောက်စေပြီး လတ်ဆတ်သော လေပြေတိုက်ခတ်နေသည့် စိမ်းလန်းသော မြက်ခင်းပြင်သို့ ရောက်လာကြသည်။
+
+ဒေါ်ရသီသည် သူတို့ကို လာကြိုပြီး မိတ်ဆွေခြင်္သေ့ကြီးကို ကယ်တင်ပေးခဲ့သော ကြွက်ကလေးများအားလုံးကို နွေးထွေးစွာ ကျေးဇူးတင်စကား ပြောသည်။ ခြင်္သေ့ကြီးကို သူမ အလွန်ချစ်ခင်လာပြီဖြစ်သဖြင့် သူ့ကို ကယ်တင်နိုင်ခဲ့သည့်အတွက် အလွန်ဝမ်းသာနေသည်။
+
+ထို့နောက် ကြွက်များကို လှည်းမှ ဖြုတ်ပေးလိုက်ကြသည်။ သူတို့သည် မြက်ခင်းပြင်တစ်လျှောက် မိမိတို့၏ အိမ်များဆီသို့ ပြေးလွှားသွားကြသည်။ ကြွက်ဘုရင်မကတော့ နောက်ဆုံးမှ ထွက်ခွာသည်။
+
+“နောက်တစ်ကြိမ် ကျွန်မတို့ရဲ့ အကူအညီ လိုအပ်လာရင် ဒီလယ်ကွင်းထဲကို လာပြီး ခေါ်လိုက်ပါ။ ကျွန်မတို့ ကြားတာနဲ့ အမြန်လာကူညီပါ့မယ်။ သွားတော့မယ်နော်” ဟု ဘုရင်မက ပြောသည်။
+
+“သွားတော့မယ်” ဟု အားလုံးက ပြန်လည်နှုတ်ဆက်ကြသည်။ ဘုရင်မလည်း ပြေးထွက်သွားသည်။ ဒေါ်ရသီကတော့ တိုတိုသည် ဘုရင်မနောက်သို့ လိုက်မပြေးစေရန် သူ့ကို သေချာချီထားလိုက်သည်။
+
+ထိုနောက် သူတို့အားလုံးသည် ခြင်္သေ့ကြီး နိုးလာမည့်အချိန်ကို စောင့်ရင်း မြစ်ကမ်းဘေးတွင် ထိုင်နေကြသည်။ စာခြောက်ရုပ်သည် အနီးရှိ သစ်ပင်တစ်ပင်မှ အသီးများကို ခူးယူလာပေးပြီး ဒေါ်ရသီသည် နေ့လယ်စာအဖြစ် စားသုံးလိုက်သည်။`,
+    contentEn: `“We cannot be far from the road of yellow brick, now,” remarked the Scarecrow, as he stood beside the girl, “for we have come nearly as far as the river carried us away.”
+
+The Tin Woodman was about to reply when he heard a low growl, and turning his head (which worked beautifully on hinges) he saw a strange beast come bounding over the grass toward them. It was, indeed, a great yellow Wildcat, and the Woodman thought it must be chasing something, for its ears were lying close to its head and its mouth was wide open, showing rows of teeth, while its red eyes glowed brightly.
+
+As it came nearer the Tin Woodman saw that running before the beast was a little gray field mouse, and although he had no heart he knew it was wrong for the Wildcat to try to harm such a pretty, harmless creature. So the Woodman quickly intervened, and the Wildcat fell, leaving the little mouse safe.
+
+The field mouse, now that it was freed from its enemy, stopped short; and coming slowly up to the Woodman it said, in a squeaky little voice:
+
+“Oh, thank you! Thank you ever so much for saving my life.”
+
+“Don’t speak of it, I beg of you,” replied the Woodman. “I have no heart, you know, so I am careful to help all those who may need a friend, even if it happens to be only a mouse.”
+
+“Only a mouse!” cried the little animal, indignantly. “Why, I am a Queen—the Queen of all the Field Mice!”
+
+“Oh, indeed,” said the Woodman, making a bow.
+
+“Therefore you have done a great deed, as well as a brave one, in saving my life,” added the Queen.
+
+At that moment several mice were seen running up as fast as their little legs could carry them, and when they saw their Queen they exclaimed:
+
+“Oh, your Majesty, we thought you would be killed! How did you manage to escape the great Wildcat?” They all bowed so low to the little Queen that they almost stood upon their heads.
+
+“This funny tin man,” she answered, “stopped the Wildcat and saved my life. So hereafter you must all serve him, and obey his slightest wish.”
+
+“We will!” cried all the mice, in a shrill chorus. And then they scampered in all directions, for Toto had awakened from his sleep, and seeing all these mice around him he gave one bark of delight and jumped right into the middle of the group. Toto had always loved to chase mice when he lived in Kansas, and he saw no harm in it.
+
+But the Tin Woodman caught the dog in his arms and held him tight, while he called to the mice, “Come back! Come back! Toto shall not hurt you.”
+
+At this the Queen of the Mice stuck her head out from underneath a clump of grass and asked, in a timid voice, “Are you sure he will not bite us?”
+
+“I will not let him,” said the Woodman; “so do not be afraid.”
+
+One by one the mice came creeping back, and Toto did not bark again, although he tried to get out of the Woodman’s arms. Finally one of the biggest mice spoke.
+
+“Is there anything we can do,” it asked, “to repay you for saving the life of our Queen?”
+
+“Nothing that I know of,” answered the Woodman; but the Scarecrow, who had been trying to think, but could not because his head was stuffed with straw, said, quickly, “Oh, yes; you can save our friend, the Cowardly Lion, who is asleep in the poppy bed.”
+
+“A Lion!” cried the little Queen. “Why, he would eat us all up.”
+
+“Oh, no,” declared the Scarecrow; “this Lion is a coward.”
+
+“Really?” asked the Mouse.
+
+“He says so himself,” answered the Scarecrow, “and he would never hurt anyone who is our friend. If you will help us to save him I promise that he shall treat you all with kindness.”
+
+“Very well,” said the Queen, “we trust you. But what shall we do?”
+
+“Are there many of these mice which call you Queen and are willing to obey you?”
+
+“Oh, yes; there are thousands,” she replied.
+
+“Then send for them all to come here as soon as possible, and let each one bring a long piece of string.”
+
+The Queen turned to the mice that attended her and told them to go at once and get all her people. As soon as they heard her orders they ran away in every direction as fast as possible.
+
+“Now,” said the Scarecrow to the Tin Woodman, “you must go to those trees by the riverside and make a truck that will carry the Lion.”
+
+So the Woodman went at once to the trees and began to work; and he soon made a truck out of the limbs of trees, removing the leaves and smaller branches. He fastened it together and made the four wheels out of short pieces of a big tree trunk. So fast and so well did he work that by the time the mice began to arrive the truck was all ready for them.
+
+They came from all directions, and there were thousands of them: big mice and little mice and middle-sized mice; and each one brought a piece of string. It was about this time that Dorothy woke from her long sleep and opened her eyes. She was greatly astonished to find herself lying upon the grass, with thousands of mice standing around and looking at her timidly. But the Scarecrow told her about everything, and turning to the dignified little Mouse, he said:
+
+“Permit me to introduce to you her Majesty, the Queen.”
+
+Dorothy nodded gravely and the Queen made a curtsy, after which she became quite friendly with the little girl.
+
+The Scarecrow and the Woodman now began to fasten the mice to the truck, using the strings they had brought. Each mouse was carefully attached to the truck with a piece of string. Of course the truck was a thousand times bigger than any of the mice who were to draw it; but when all the mice were ready, they were able to pull it quite easily.
+
+Even the Scarecrow and the Tin Woodman could sit on it, and were drawn swiftly by their queer little helpers to the place where the Lion lay asleep.
+
+After a great deal of hard work, for the Lion was heavy, they managed to get him up on the truck. Then the Queen hurriedly gave her people the order to start, for she feared if the mice stayed among the poppies too long they also would fall asleep.
+
+At first the little creatures, many though they were, could hardly stir the heavily loaded truck; but the Woodman and the Scarecrow both pushed from behind, and they got along better. Soon they rolled the Lion out of the poppy bed to the green fields, where he could breathe the fresh air again, away from the flowers.
+
+Dorothy came to meet them and thanked the little mice warmly for saving her companion. She had grown so fond of the big Lion she was glad that he had been rescued.
+
+Then the mice were unharnessed from the truck and scampered away through the grass to their homes. The Queen of the Mice was the last to leave.
+
+“If ever you need us again,” she said, “come out into the field and call, and we shall hear you and come to your assistance. Good-bye!”
+
+“Good-bye!” they all answered, and away the Queen ran, while Dorothy held Toto tightly lest he should run after her and frighten her.
+
+After this they sat down beside the Lion until he should awaken; and the Scarecrow brought Dorothy some fruit from a tree near by, which she ate for her dinner.`
+  },
 ] as const;
