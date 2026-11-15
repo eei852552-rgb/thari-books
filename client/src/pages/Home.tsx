@@ -26,6 +26,7 @@ import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
 import { wizardOfOzChapters3to4 } from "../data/translations/wizardOfOzChapters3to4";
 import { artOfLearningChapters } from "../data/artOfLearning";
 import { timeMachineChapter1My } from "../data/translations/timeMachineChapter1";
+import { timeMachineChapter2My } from "../data/translations/timeMachineChapter2";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
@@ -36,7 +37,7 @@ const readerChaptersByBookId = {
   "pride-and-prejudice": prideAndPrejudiceChaptersMy,
   "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapters3to4],
   "art-of-learning": artOfLearningChapters,
-  "time-machine": timeMachineChapter1My,
+  "time-machine": [...timeMachineChapter1My, ...timeMachineChapter2My],
 } as const;
 
 type ReaderChapter = {
