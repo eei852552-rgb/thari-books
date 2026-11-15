@@ -236,7 +236,7 @@ Before making an important decision:
 
 ## စာမူအယ်ဒီတာမှတ်ချက် | Editorial note
 
-ဤစာမူတွင် အခန်း ၁–၃ ၏ ပထမမူကြမ်းကို ထည့်သွင်းထားသည်။ စာအုပ်ကို အပြီးသတ်ဟု မသတ်မှတ်ရသေးပါ။ ကျန်အခန်း ၄–၁၀၊ ကိုးကား/အချက်အလက်စစ်ဆေးမှု၊ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာပြင်ဆင်မှု၊ သရုပ်ဖော်ပုံများနှင့် ဖတ်ရှုသူစမ်းသပ်မှုတို့ ပြီးစီးရန် လိုအပ်နေသေးသည်။
+အခန်း ၁–၁၀၊ အမှာစာနှင့် နိဂုံးကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ပထမမူကြမ်းအဖြစ် ရေးသားပြီးဖြစ်သည်။ စာအုပ်ကို ထုတ်ဝေရန် အဆင်သင့်ဟု မသတ်မှတ်ရသေးပါ။ ဘာသာနှစ်မျိုးညီညွတ်မှု၊ အယ်ဒီတာပြင်ဆင်မှု၊ အချက်အလက်စစ်ဆေးမှု၊ သရုပ်ဖော်ပုံများနှင့် Reader စမ်းသပ်မှုတို့ ဆက်လက်လုပ်ဆောင်ရန် လိုအပ်နေသေးသည်။
 
 
 ---
@@ -721,3 +721,98 @@ These exercises are suggestions that can be adapted to your circumstances. They 
 - How could you adapt it to fit your daily life?
 - What would you like to review after trying it for a week?
 
+
+
+---
+
+# အခန်း ၁၀။ ဆက်လက်ပြောင်းလဲနေသော ဘဝ
+## Chapter 10. A Life That Keeps Becoming
+
+### မြန်မာစာ
+
+ဘဝကို နားလည်ခြင်းသည် တစ်ကြိမ်တည်းဖြင့် ပြီးဆုံးသွားသော အလုပ်မဟုတ်ပါ။ ယနေ့ မိမိသိရှိထားသောအရာများသည် မနက်ဖြန်တွင် အတွေ့အကြုံအသစ်များကြောင့် ပြောင်းလဲလာနိုင်သည်။ ယခင်က အရေးကြီးသည်ဟု ထင်ခဲ့သောအရာတစ်ခုသည် နောက်ပိုင်းတွင် အရေးမကြီးတော့နိုင်သကဲ့သို့ ယခင်က သတိမထားမိခဲ့သော အရာတစ်ခုသည် နောက်ပိုင်းတွင် အလွန်တန်ဖိုးရှိလာနိုင်သည်။ ပြောင်းလဲခြင်းသည် မိမိ၏အတိတ်ကို ပယ်ဖျက်ခြင်းမဟုတ်ဘဲ အတွေ့အကြုံအသစ်များနှင့်အတူ မိမိကိုယ်ကို ပိုမိုနားလည်လာခြင်းဖြစ်သည်။
+
+တစ်ခါတစ်ရံ လူတို့သည် မိမိကိုယ်ကို တိကျသောပုံစံတစ်ခုထဲတွင် ပိတ်လှောင်ထားတတ်ကြသည်။ “ငါက ဒီလိုလူပဲ”၊ “ငါ ဒီအရာကို မလုပ်နိုင်ဘူး”၊ “ငါ့အတွက် အခွင့်အရေး မရှိတော့ဘူး” ဟု ဆုံးဖြတ်လိုက်သောအခါ အနာဂတ်အတွက် ဖြစ်နိုင်ခြေများကို မမြင်နိုင်တော့ပါ။ မိမိ၏လက်ရှိအခြေအနေကို ရိုးသားစွာ လက်ခံခြင်းသည် အရေးကြီးသော်လည်း လက်ရှိအခြေအနေကို အမြဲတမ်းတည်မြဲမည့် အမှန်တရားဟု သတ်မှတ်ရန် မလိုပါ။
+
+**ဥပမာ — အဆောက်အအုံတည်ဆောက်သူ**
+
+အဆောက်အအုံတစ်ခုကို တည်ဆောက်ရာတွင် အုတ်တစ်လုံးစီကို တစ်နေရာတည်းတွင် ချထားခြင်းဖြင့်သာ အဆောက်အအုံ မပြီးစီးနိုင်ပါ။ အုတ်များကို အစီအစဉ်တကျ စီစဉ်ရသည်။ အချို့အပိုင်းများကို ပြန်လည်ပြင်ဆင်ရနိုင်သည်။ တည်ဆောက်သူသည် ပုံစံကို စစ်ဆေးပြီး လိုအပ်သည့်အခါ ပြောင်းလဲသည်။ လူ့ဘဝလည်း ထိုနည်းတူပင်။ ကျွန်ုပ်တို့၏အလေ့အကျင့်၊ ဆက်ဆံရေး၊ အသိပညာနှင့် ရည်မှန်းချက်များကို အချိန်နှင့်အမျှ ပြန်လည်စစ်ဆေးပြီး တည်ဆောက်ရသည်။
+
+တိုးတက်မှုသည် အမြဲတမ်း မြင်သာသောရလဒ်တစ်ခုဖြင့် မပေါ်လာပါ။ မိမိ၏အမှားကို ယခင်ထက် မြန်မြန်သိရှိလာခြင်း၊ အခြားသူ၏အမြင်ကို ပိုမိုနားထောင်နိုင်လာခြင်း၊ မိမိအတွက် အရေးကြီးသောအရာကို ပိုမိုရှင်းလင်းစွာ သိလာခြင်းတို့သည်လည်း တိုးတက်မှုဖြစ်သည်။ ထိုပြောင်းလဲမှုများသည် အပြင်လူများ မမြင်နိုင်သော်လည်း မိမိ၏ဘဝကို သက်ရောက်စေနိုင်သည်။
+
+မိမိဘဝကို အခြားသူများ၏ အချိန်ဇယားနှင့် မတိုင်းတာပါနှင့်။ လူတစ်ဦးစီတွင် စတင်ရာနေရာ၊ အခွင့်အလမ်း၊ တာဝန်နှင့် အခက်အခဲ မတူညီကြသည်။ တစ်ဦး၏အောင်မြင်မှုအချိန်သည် အခြားသူ၏အချိန်နှင့် မတူနိုင်ပါ။ မိမိ၏တိုးတက်မှုကို မိမိ၏အတိတ်အခြေအနေနှင့် နှိုင်းယှဉ်ကြည့်ခြင်းက ပိုမိုမျှတသောနည်းလမ်းဖြစ်နိုင်သည်။
+
+ဘဝတွင် အရာအားလုံးကို ပြီးပြည့်စုံစွာ ထိန်းချုပ်နိုင်မည် မဟုတ်ပါ။ သို့သော် မိမိ၏တုံ့ပြန်ပုံ၊ သင်ယူလိုစိတ်၊ အခြားသူများအပေါ် ဆက်ဆံပုံနှင့် နောက်တစ်ဆင့်အတွက် ရွေးချယ်မှုတို့ကို တဖြည်းဖြည်း လေ့ကျင့်နိုင်သည်။ မိမိ၏အနာဂတ်ကို တစ်နေ့တည်းဖြင့် မတည်ဆောက်နိုင်သော်လည်း ယနေ့ပြုလုပ်သော ရွေးချယ်မှုတစ်ခုစီက ထိုအနာဂတ်၏ အစိတ်အပိုင်းတစ်ခု ဖြစ်လာသည်။
+
+### နောက်ဆုံးပြန်လည်သုံးသပ်ရန်
+
+ဤစာအုပ်ကို ဖတ်ပြီးနောက် အောက်ပါမေးခွန်းများကို မိမိဘာသာ ဖြေကြည့်ပါ။
+
+1. ဘဝအကြောင်း မိမိ၏အမြင်တွင် ဘာတွေ ပြောင်းလဲလာသလဲ။
+2. မိမိ၏တန်ဖိုးကို ဘယ်အရာများနှင့် ချိတ်ဆက်ထားခဲ့သလဲ။
+3. မိမိအချိန်ကို ပိုမိုသတိရှိစွာ အသုံးပြုရန် ဘာလုပ်နိုင်မလဲ။
+4. မိမိ၏ဆက်ဆံရေးများတွင် ဘယ်အရာကို ပိုမိုကောင်းမွန်စေနိုင်မလဲ။
+5. ယခုအချိန်မှ စတင်နိုင်သော သေးငယ်သော်လည်း အဓိပ္ပာယ်ရှိသော ခြေလှမ်းတစ်ခုက ဘာလဲ။
+
+အဖြေများကို တစ်ကြိမ်တည်းဖြင့် ပြီးပြည့်စုံအောင် ရေးရန် မလိုပါ။ အချိန်ကြာလာသည်နှင့်အမျှ ပြန်ဖတ်ပြီး ပြင်ဆင်နိုင်သည်။ မိမိ၏အမြင် ပြောင်းလဲလာခြင်းသည် မိမိ၏သင်ယူမှု ဆက်လက်ရှိနေကြောင်း ပြသနိုင်သည်။
+
+### English
+
+Understanding life is not a task that can be completed once and for all. What we know today may change as new experiences arrive. Something we once considered essential may become less important, while something we barely noticed may later become deeply meaningful. Change does not erase our past. It allows us to understand ourselves more fully through new experience.
+
+Sometimes people confine themselves to a fixed description. When we decide, “This is just who I am,” “I cannot do that,” or “There are no opportunities left for me,” we may stop noticing possibilities. It is important to accept our present circumstances honestly, but we do not have to treat them as permanent truths.
+
+**An example — A builder**
+
+A building cannot be completed by placing bricks randomly in one spot. The bricks must be arranged with care. Some parts may need to be adjusted. The builder reviews the structure and changes the plan when necessary. Life is similar. Our habits, relationships, knowledge, and goals need to be reviewed and built over time.
+
+Progress does not always appear as a visible achievement. Recognising a mistake sooner than before, listening more carefully to another perspective, or understanding our priorities more clearly can also be forms of progress. Others may not notice these changes, but they can influence the way we live.
+
+Do not measure your life only against another person's timetable. People begin from different places and have different opportunities, responsibilities, and difficulties. One person's timing will not necessarily match another's. Comparing your present understanding with your own past may be a fairer way to notice growth.
+
+We cannot control everything in life perfectly. But we can gradually practise how we respond, how willing we are to learn, how we treat others, and what we choose as our next step. We cannot build our entire future in one day, yet each choice we make today becomes part of that future.
+
+### Final reflection
+
+After reading this book, consider these questions:
+
+1. What has changed in the way I think about life?
+2. What have I connected my sense of worth to?
+3. What could help me use my time more thoughtfully?
+4. What could I improve in my relationships?
+5. What is one small but meaningful step I can take now?
+
+You do not need to write perfect answers in one sitting. You can return to them and revise them as time passes. A changing perspective may be evidence that your learning is continuing.
+
+---
+
+# နိဂုံး | Conclusion
+
+ဘဝကို နားလည်ခြင်းသည် အဖြေတစ်ခုကို ရှာတွေ့ပြီး အားလုံးပြီးဆုံးသွားခြင်း မဟုတ်ပါ။ မိမိကိုယ်ကို ပိုမိုသိရှိလာခြင်း၊ အခြားသူများကို နားလည်ရန် ကြိုးစားခြင်း၊ ရွေးချယ်မှုများ၏ အကျိုးဆက်ကို တာဝန်ယူခြင်းနှင့် မသိသေးသောအရာများကို ဆက်လက်သင်ယူခြင်းတို့ဖြင့် တဖြည်းဖြည်း ဖြစ်ပေါ်လာသော ခရီးစဉ်ဖြစ်သည်။
+
+ဤစာအုပ်တွင် ဖော်ပြခဲ့သော အတွေးအခေါ်များအားလုံးကို မဖြစ်မနေ လက်ခံရန် မလိုအပ်ပါ။ မိမိအတွေ့အကြုံနှင့် ကိုက်ညီသည့်အရာကို စဉ်းစားပါ။ မကိုက်ညီသည့်အရာကို မေးခွန်းထုတ်ပါ။ အရေးကြီးသည်မှာ စာအုပ်တစ်အုပ်၏စကားကို အဆုံးသတ်အဖြေဟု ယူဆခြင်းမဟုတ်ဘဲ မိမိ၏အတွေးအခေါ်ကို ပိုမိုရှင်းလင်းစေရန် အသုံးချခြင်းဖြစ်သည်။
+
+ဘဝသည် တစ်ခါတစ်ရံ မရှင်းလင်းနိုင်ပါ။ သို့သော် မရှင်းလင်းမှုကြားတွင်ပင် သင်ယူနိုင်သည်၊ ကူညီနိုင်သည်၊ ပြန်လည်စဉ်းစားနိုင်သည်၊ နောက်တစ်ဆင့်ကို ရွေးချယ်နိုင်သည်။ ထိုသေးငယ်သောလုပ်ရပ်များကပင် ဘဝကို တည်ဆောက်နေကြသည်။
+
+## Conclusion
+
+Understanding life is not about finding one answer and ending the search. It is a continuing journey shaped by knowing ourselves more clearly, trying to understand others, taking responsibility for our choices, and remaining willing to learn what we do not yet know.
+
+You do not have to accept every idea in this book. Consider what fits your experience and question what does not. The purpose is not to treat a book's words as a final answer, but to use them to clarify your own thinking.
+
+Life may sometimes remain uncertain. Even so, we can learn, help, reconsider, and choose a next step amid uncertainty. These small actions are among the ways a life is built.
+
+---
+
+## စာမူအခြေအနေ | Manuscript status
+
+**ရေးသားမှုအဆင့် / Drafting:** အခန်း ၁–၁၀၊ အမှာစာနှင့် နိဂုံးကို မြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ပထမမူကြမ်းအဖြစ် ရေးသားပြီးဖြစ်သည်။
+
+**မပြီးသေးသောအလုပ် / Pending work:**
+- မြန်မာစာနှင့် အင်္ဂလိပ်စာ၏ အဓိပ္ပာယ်၊ အကြောင်းအရာနှင့် အရည်အသွေး တစ်ခန်းချင်း တိုက်ဆိုင်စစ်ဆေးရန်။
+- ထပ်နေသောအယူအဆ၊ ဥပမာနှင့် စာသားများကို အယ်ဒီတာအနေဖြင့် စစ်ဆေးပြင်ဆင်ရန်။
+- အချက်အလက်ဆိုင်ရာ ဖော်ပြချက်များကို စစ်ဆေးပြီး လိုအပ်ပါက ယုံကြည်ရသော ကိုးကားရင်းမြစ်များ ထည့်သွင်းရန်။
+- စာလုံးပေါင်း၊ သဒ္ဒါ၊ စာဖတ်လွယ်ကူမှုနှင့် အခန်းအကူးအပြောင်းများကို ပြင်ဆင်ရန်။
+- မူရင်းသရုပ်ဖော်ပုံများနှင့် Reader အတွင်း ချိတ်ဆက်မှုကို ပြုလုပ်ပြီး စမ်းသပ်ရန်။
+
+**အခြေအနေ / Status:** Complete first draft — editorial review, bilingual verification, illustration, and Reader integration pending. Not yet publication-ready.
