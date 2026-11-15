@@ -818,4 +818,142 @@ Thereafter he walked very carefully, with his eyes on the road, and when he saw 
 
 "You people with hearts," he said, "have something to guide you, and need never do wrong; but I have no heart, and so I must be very careful. When Oz gives me a heart of course I needn't mind so much."`
   },
+
+  {
+    number: 7,
+    title: "အခန်း (၇) — မဟာအော့ဇ်ဆီသို့ ခရီး",
+    titleEn: "Chapter 7 — The Journey to the Great Oz",
+    content: `ထိုညတွင် အနီးအနား၌ အိမ်မရှိသောကြောင့် သူတို့သည် တောထဲရှိ သစ်ပင်ကြီးတစ်ပင်အောက်တွင် စခန်းချအိပ်စက်ကြရသည်။ သစ်ပင်၏ အကိုင်းအခက်များက နှင်းစက်များ မကျရောက်စေရန် အမိုးကောင်းတစ်ခုလို ကာကွယ်ပေးထားသည်။ သံခုတ်သမားက မီးဖိုရန် ထင်းများကို စုဆောင်းပြင်ဆင်ပေးပြီး ဒေါ်ရသီက မီးမွှေးလိုက်သည်။ မီးအပူကြောင့် သူမသည် နွေးထွေးလာကာ တစ်ယောက်တည်းဖြစ်နေသလို ခံစားရမှုလည်း လျော့နည်းသွားသည်။ ဒေါ်ရသီနှင့် တိုတိုတို့သည် နောက်ဆုံးကျန်နေသော ပေါင်မုန့်ကို စားလိုက်ကြသည်။ နောက်တစ်နေ့ မနက်စာအတွက် ဘာလုပ်ရမည်ကိုတော့ ဒေါ်ရသီ မသိသေးပေ။
+
+“မင်းတို့ ဆန္ဒရှိရင် ငါ တောထဲသွားပြီး သမင်တစ်ကောင်ကို ရှာလာပေးမယ်။ မင်းတို့က မီးနားမှာ ချက်စားနိုင်တာပေါ့” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“မလုပ်ပါနဲ့၊ ကျေးဇူးပြုပြီး မလုပ်ပါနဲ့” ဟု သံခုတ်သမားက တောင်းပန်သည်။ “သမင်လေးကို ထိခိုက်စေခဲ့ရင် ကျွန်တော် ဝမ်းနည်းပြီး ငိုမိမှာပဲ။ အဲဒီအခါ ကျွန်တော့် မေးရိုးတွေ သံချေးတက်သွားဦးမယ်။”
+
+ခြင်္သေ့ကြီးသည် တောထဲသို့ ထွက်သွားပြီး မိမိအတွက် ညစာကို ရှာဖွေစားသောက်ခဲ့သည်။ သူဘာစားခဲ့သည်ကို မည်သူမျှ မသိခဲ့ကြပေ၊ အကြောင်းမှာ သူကလည်း မပြောခဲ့သောကြောင့် ဖြစ်သည်။ စာခြောက်ရုပ်သည် အခွံမာသီးများ သီးနေသော သစ်ပင်တစ်ပင်ကို တွေ့သဖြင့် ဒေါ်ရသီ၏ ခြင်းတောင်းထဲသို့ အခွံမာသီးများ အပြည့်ထည့်ပေးလိုက်သည်။ ထိုအရာသည် ကြင်နာပြီး စဉ်းစားတတ်သော လုပ်ရပ်ဖြစ်ကြောင်း ဒေါ်ရသီက သိနေသည်။ သို့သော် စာခြောက်ရုပ်၏ လက်များမှာ ပျော့ပျောင်းကျပ်တည်းနေသဖြင့် အခွံမာသီးများကို ကောက်ယူရာတွင် အလွန်အဆင်မပြေသည့်ပုံကို ကြည့်ပြီး သူမ ရယ်မိသည်။ သူသည် ခြင်းတောင်းထဲ ထည့်နိုင်သည့်အရေအတွက်နီးပါးကိုပင် ပြန်လည်လွတ်ကျစေတတ်သည်။
+
+စာခြောက်ရုပ်သည် အချိန်ကြာသည်ကို ဂရုမစိုက်ခဲ့ပါ။ မီးပွားတစ်စက်က သူ့အတွင်းရှိ ကောက်ရိုးများကို မီးလောင်စေနိုင်မည်ကို စိုးရိမ်သောကြောင့် မီးနှင့် အတော်ဝေးဝေးတွင် နေလိုသည်။ ဒေါ်ရသီ အိပ်စက်ရန် လှဲချလိုက်သည့်အခါမှသာ သူသည် အနီးသို့လာပြီး ခြောက်သွေ့သော သစ်ရွက်များဖြင့် သူမကို နွေးထွေးစွာ ဖုံးအုပ်ပေးခဲ့သည်။ ထိုညတွင် ဒေါ်ရသီသည် အေးချမ်းစွာ အိပ်ပျော်သွားသည်။
+
+မိုးလင်းသောအခါ ဒေါ်ရသီသည် ချောင်းငယ်တစ်ခု၏ ရေဖြင့် မျက်နှာသစ်လိုက်သည်။ ထို့နောက် သူတို့အားလုံး မြစိမ်းရောင်မြို့တော်သို့ ခရီးဆက်ကြသည်။ ထိုနေ့သည် ခရီးသွားအဖွဲ့အတွက် အဖြစ်အပျက်များစွာ ကြုံရမည့်နေ့ ဖြစ်လာခဲ့သည်။ တစ်နာရီခန့် လျှောက်လာပြီးနောက် သူတို့ရှေ့တွင် တောအုပ်ကို ဖြတ်ကာ အလွန်ကျယ်ဝန်းသော ချောက်ကြီးတစ်ခုကို တွေ့လိုက်ရသည်။ ချောက်သည် အလွန်နက်ပြီး အောက်ခြေတွင် ကျောက်တုံးကြီးများ ရှိနေသည်။ ဘေးနှစ်ဖက်မှာလည်း မတ်စောက်လွန်းသဖြင့် သူတို့အတွက် ဆင်းသွားရန် မဖြစ်နိုင်ပေ။ ခရီးသည် ထိုနေရာတွင်ပင် ရပ်တန့်သွားတော့မည်ဟု ထင်ရသည်။
+
+“အခု ဘယ်လိုလုပ်ကြမလဲ” ဟု ဒေါ်ရသီက စိတ်ပျက်စွာ မေးသည်။
+
+“ကျွန်တော်လည်း ဘာလုပ်ရမယ်ဆိုတာ မသိပါဘူး” ဟု သံခုတ်သမားက ပြန်ဖြေသည်။ ခြင်္သေ့ကြီးကလည်း သူ၏ လည်ဆံများကို လှုပ်ခါကာ စဉ်းစားနေသည်။
+
+စာခြောက်ရုပ်က “ဒီချောက်ကို ဖြတ်ကျော်နိုင်မယ့် နည်းလမ်းမရှိရင်တော့ ဒီနေရာမှာပဲ ရပ်နေရတော့မှာပေါ့” ဟု ပြောသည်။
+
+“ကျွန်တော်တော့ တစ်ဖက်ကို ခုန်ကူးနိုင်မယ် ထင်တယ်” ဟု ခြင်္သေ့ကြီးက စဉ်းစားပြီးနောက် ပြောသည်။
+
+“ဒါဆို ကျွန်တော်တို့ကို တစ်ယောက်စီ ကျောပေါ်တင်ပြီး ကူးပေးနိုင်တာပေါ့” ဟု စာခြောက်ရုပ်က ပြောသည်။
+
+“စမ်းကြည့်ရမှာပဲ။ ဘယ်သူ အရင်သွားမလဲ” ဟု ခြင်္သေ့ကြီးက မေးသည်။
+
+“ကျွန်တော် အရင်သွားမယ်” ဟု စာခြောက်ရုပ်က ပြောသည်။ “မအောင်မြင်ခဲ့ရင် ကျွန်တော်က ကောက်ရိုးနဲ့ ပြည့်နေတဲ့အတွက် အခြားသူတွေထက် အန္တရာယ်နည်းနိုင်တယ်။ ဒေါ်ရသီနဲ့ သံခုတ်သမားကတော့ ထိခိုက်နိုင်တယ်။”
+
+ခြင်္သေ့ကြီးသည် စိုးရိမ်နေသော်လည်း စာခြောက်ရုပ်ကို ကျောပေါ်တင်ကာ တစ်ဖက်ကမ်းသို့ အောင်မြင်စွာ ရောက်သွားသည်။ ထို့နောက် ဒေါ်ရသီက တိုတိုကို ပွေ့ချီပြီး ခြင်္သေ့ကြီး၏ ကျောပေါ်သို့ တက်လိုက်သည်။ ခဏအကြာတွင် သူတို့သည်လည်း တစ်ဖက်ကမ်းသို့ လုံခြုံစွာ ရောက်ရှိသွားကြသည်။ နောက်ဆုံးတွင် သံခုတ်သမားကိုလည်း ခြင်္သေ့ကြီးက သယ်ပို့ပေးခဲ့သည်။ ခရီးသွားများသည် ခြင်္သေ့ကြီး အနားယူနိုင်ရန် ခဏရပ်နားကြသည်။ အကြိမ်ကြိမ် ကူးသန်းပေးခဲ့ရသောကြောင့် သူသည် အသက်ရှူမြန်နေပြီး ပင်ပန်းနေခဲ့သည်။
+
+ထိုဘက်ခြမ်းရှိ တောအုပ်မှာ ပိုမိုထူထပ်ပြီး မှောင်မိုက်နေသည်။ ခြင်္သေ့ကြီး အနားယူပြီးနောက် သူတို့သည် အဝါရောင်အုတ်ခင်းလမ်းအတိုင်း ဆက်လျှောက်ကြသည်။ တောအုပ်မှ ထွက်ပြီး နေရောင်တောက်ပသော နေရာသို့ ဘယ်အချိန်ရောက်မည်ကို တစ်ယောက်စီ စိတ်ထဲတွင် တွေးနေကြသည်။ မကြာမီ တောအုပ်အတွင်းမှ ထူးဆန်းသော အသံများ ကြားလာရသည်။ ထိုဒေသတွင် ကာလီဒါဟ်ဟု ခေါ်သော ကြောက်မက်ဖွယ် သတ္တဝါများ နေထိုင်ကြောင်း ခြင်္သေ့ကြီးက တိုးတိုးပြောပြသည်။
+
+“ကာလီဒါဟ်ဆိုတာ ဘာလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“ဝက်ဝံလို ကိုယ်ခန္ဓာနဲ့ ကျားလို ဦးခေါင်းရှိတဲ့ ကြီးမားတဲ့ သတ္တဝါတွေပါ။ သူတို့ကို ကျွန်တော် အလွန်ကြောက်တယ်” ဟု ခြင်္သေ့ကြီးက ဖြေသည်။
+
+“အဲဒီလိုဆို မင်းကြောက်တာ မဆန်းပါဘူး။ တကယ်ကို ကြောက်စရာကောင်းမှာပဲ” ဟု ဒေါ်ရသီက ပြောသည်။
+
+သူတို့ စကားပြောနေစဉ် နောက်ထပ် ချောက်ကြီးတစ်ခုကို တွေ့လိုက်ရသည်။ ယခုချောက်မှာ ပိုမိုကျယ်ဝန်းပြီး နက်ရှိုင်းသဖြင့် ခြင်္သေ့ကြီးပင် တစ်ဖက်သို့ မကူးနိုင်ကြောင်း သိလိုက်သည်။ သူတို့အားလုံး ထိုင်ကာ စဉ်းစားကြသည်။ ထိုအခါ စာခြောက်ရုပ်က ချောက်အနီးတွင် ရှိနေသော သစ်ပင်ကြီးကို ညွှန်ပြပြီး သစ်ပင်ကို တစ်ဖက်ကမ်းအထိ လဲကျစေကာ ဖြတ်ကူးရန် တံတားတစ်ခုလို အသုံးပြုနိုင်မည်ဟု အကြံပေးသည်။
+
+သံခုတ်သမားသည် သူ၏ အလုပ်ကိရိယာများဖြင့် သစ်ပင်ကြီးကို ပြင်ဆင်ပေးပြီး ခြင်္သေ့ကြီးကလည်း အားသွန်ခွန်စိုက် ကူညီပေးသည်။ မကြာမီ သစ်ပင်ကြီးသည် ချောက်တစ်ဖက်မှ တစ်ဖက်သို့ လဲကျသွားပြီး သူတို့အတွက် ယာယီတံတားတစ်ခု ဖြစ်လာသည်။
+
+သူတို့ ထိုတံတားကို ဖြတ်ကူးစပြုနေစဉ် ကျယ်လောင်သော ဟိန်းသံတစ်ခု ကြားလိုက်ရသည်။ သူတို့လှည့်ကြည့်သောအခါ ဝက်ဝံကိုယ်ခန္ဓာနှင့် ကျားဦးခေါင်းရှိသည့် ကြီးမားသော သတ္တဝါနှစ်ကောင်သည် သူတို့ဆီသို့ လျင်မြန်စွာ ချဉ်းကပ်လာနေသည်ကို တွေ့လိုက်ရသည်။
+
+“အဲဒါတွေက ကာလီဒါဟ်တွေပဲ” ဟု ခြင်္သေ့ကြီးက ကြောက်လန့်စွာ ပြောသည်။
+
+“မြန်မြန် တစ်ဖက်ကမ်းကို သွားကြစို့” ဟု စာခြောက်ရုပ်က အော်ပြောသည်။
+
+ဒေါ်ရသီသည် တိုတိုကို ပွေ့ချီပြီး အရင်ဆုံး ဖြတ်ကူးသည်။ သံခုတ်သမားနှင့် စာခြောက်ရုပ်တို့လည်း နောက်မှ လိုက်ကြသည်။ ခြင်္သေ့ကြီးသည် ကြောက်နေသော်လည်း မိတ်ဆွေများကို ကာကွယ်ရန် နောက်ဘက်တွင် ရပ်ကာ ကျယ်လောင်စွာ ဟိန်းဟောက်လိုက်သည်။ ထိုအသံကြောင့် ကာလီဒါဟ်များ ခဏရပ်တန့်သွားကြသည်။ သို့သော် သူတို့သည် မကြာမီ ထပ်မံချဉ်းကပ်လာကြသည်။
+
+“သူတို့က ကျွန်တော်တို့ဆီ ရောက်လာတော့မယ်။ မင်းတို့ အနားမှာပဲ နေကြ။ ကျွန်တော် တတ်နိုင်သမျှ ကာကွယ်ပေးမယ်” ဟု ခြင်္သေ့ကြီးက ပြောသည်။
+
+“ခဏစောင့်ပါဦး” ဟု စာခြောက်ရုပ်က ခေါ်လိုက်သည်။ သူသည် အခြေအနေကို စဉ်းစားပြီးနောက် သံခုတ်သမားကို တံတားဖြစ်နေသော သစ်ပင်ကို ပြန်လည်လဲကျစေရန် အကူအညီတောင်းသည်။ သံခုတ်သမားက သူ့ကို ကူညီလိုက်ရာ ကာလီဒါဟ်နှစ်ကောင် တစ်ဖက်ကမ်းသို့ မရောက်မီ သစ်ပင်တံတားသည် ချောက်အတွင်းသို့ လဲကျသွားသည်။ ထိုသတ္တဝါနှစ်ကောင်လည်း သစ်ပင်နှင့်အတူ ချောက်အောက်သို့ ကျသွားပြီး ပြန်မပေါ်လာတော့ပေ။
+
+“အခုတော့ ကျွန်တော်တို့ အသက်ရှင်နေသေးတာပဲ။ ဒါကို အလွန်ဝမ်းသာပါတယ်။ အဲဒီသတ္တဝါတွေကြောင့် ကျွန်တော် အရမ်းကြောက်သွားလို့ နှလုံးခုန်နေတုန်းပဲ” ဟု ခြင်္သေ့ကြီးက အသက်ရှူချောင်စွာ ပြောသည်။
+
+“ကျွန်တော့်မှာလည်း နှလုံးသားတစ်ခု ရှိခဲ့ရင် ကောင်းမှာပဲ” ဟု သံခုတ်သမားက ဝမ်းနည်းစွာ ပြောသည်။
+
+ထိုအဖြစ်အပျက်ကြောင့် သူတို့သည် တောအုပ်မှ အမြန်ဆုံး ထွက်ခွာလိုစိတ် ပိုမိုပြင်းပြလာကြသည်။ သူတို့သည် လျင်မြန်စွာ လျှောက်လာကြသဖြင့် ဒေါ်ရသီ ပင်ပန်းလာသည်။ ထို့ကြောင့် သူမသည် ခြင်္သေ့ကြီး၏ ကျောပေါ်တွင် လိုက်ပါလာခဲ့သည်။ သစ်ပင်များ တဖြည်းဖြည်း ပါးလာပြီး နေ့လယ်ပိုင်းတွင် ရေစီးသန်သော မြစ်ကျယ်ကြီးတစ်ခုသို့ ရောက်လာကြသည်။
+
+မြစ်တစ်ဖက်ကမ်းတွင် အဝါရောင်အုတ်ခင်းလမ်းသည် ပန်းပွင့်များဖြင့် လှပနေသော မြက်ခင်းပြင်များကို ဖြတ်သန်းသွားသည်ကို တွေ့ရသည်။ လမ်းဘေးသစ်ပင်များတွင်လည်း စားချင်စဖွယ် အသီးများ သီးနေကြသည်။ ထိုလှပသော နေရာကို မြင်ရသဖြင့် သူတို့အားလုံး ဝမ်းသာသွားကြသည်။
+
+“မြစ်ကို ဘယ်လိုကူးကြမလဲ” ဟု ဒေါ်ရသီက မေးသည်။
+
+“သံခုတ်သမားက ဖောင်တစ်စင်း ပြုလုပ်ပေးနိုင်တယ်။ အဲဒါနဲ့ တစ်ဖက်ကမ်းကို မျောကူးကြမယ်” ဟု စာခြောက်ရုပ်က အကြံပေးသည်။
+
+သံခုတ်သမားသည် ဖောင်တစ်စင်း ပြုလုပ်ရန် စတင်ပြင်ဆင်သည်။ သူ အလုပ်လုပ်နေစဉ် စာခြောက်ရုပ်သည် မြစ်ကမ်းနားတွင် အသီးကောင်းများ သီးနေသော သစ်ပင်တစ်ပင်ကို တွေ့လိုက်သည်။ တစ်နေ့လုံး အခွံမာသီးများသာ စားထားရသော ဒေါ်ရသီသည် ထိုအသီးများကို ဝဝလင်လင် စားသောက်လိုက်သည်။
+
+ဖောင်တစ်စင်း ပြီးစီးရန် အချိန်ယူရသဖြင့် ညရောက်သည့်တိုင် အလုပ်မပြီးသေးပေ။ ထို့ကြောင့် သူတို့သည် သစ်ပင်များအောက်တွင် အိပ်စက်ရန် နေရာကောင်းတစ်ခု ရှာဖွေကြသည်။ ထိုညတွင် ဒေါ်ရသီသည် မြစိမ်းရောင်မြို့တော်နှင့် ကြင်နာတတ်သော မှော်ဆရာ အော့ဇ်အကြောင်း အိပ်မက်မက်သည်။ မကြာမီ အော့ဇ်က သူမကို မိမိအိမ်ဖြစ်သော ကန်ဆတ်သို့ ပြန်ပို့ပေးလိမ့်မည်ဟု သူမ မျှော်လင့်နေခဲ့သည်။`,
+    contentEn: `That night they were obliged to camp beneath a large tree in the forest, because there were no houses nearby. Its thick branches sheltered them from the dew. The Tin Woodman gathered enough wood for a fire, and Dorothy lit it. The warmth made her feel less lonely. She and Toto ate the last of their bread, and she wondered what they would have for breakfast.
+
+“If you wish,” said the Lion, “I can go into the forest and find a deer for you. You could cook it by the fire, since you prefer your food cooked.”
+
+“Please don't,” begged the Tin Woodman. “I would be so sorry if a deer were hurt that I might weep, and then my jaws would rust again.”
+
+The Lion went into the forest and found his own supper. No one knew what it was, because he did not tell them. The Scarecrow found a tree full of nuts and filled Dorothy's basket. She thought this was very kind, and laughed at the awkward way his padded hands picked them up. He dropped almost as many as he managed to put into the basket.
+
+The Scarecrow did not mind how long the work took. It kept him away from the fire, because he feared that a spark might reach the straw inside him. He stayed at a safe distance and came near only when Dorothy lay down, so he could cover her with dry leaves. They kept her warm, and she slept soundly until morning.
+
+At daylight Dorothy washed her face in a little brook, and soon they all set out toward the Emerald City. They had been walking for less than an hour when they came to a great ditch that crossed the road and stretched through the forest. It was very wide and deep, with large rocks far below. Its sides were too steep for them to climb down, and for a moment it seemed that their journey must end there.
+
+“What shall we do?” asked Dorothy.
+
+“I haven't the faintest idea,” said the Tin Woodman. The Lion shook his mane and looked thoughtful.
+
+The Scarecrow considered the problem. “We cannot fly, and we cannot climb down. If there is no way across, we must stop here.”
+
+“I think I may be able to get across,” said the Cowardly Lion.
+
+“Then you could carry each of us over,” replied the Scarecrow.
+
+The Lion was afraid, but agreed to try. The Scarecrow went first, because he was filled with straw and thought he would be less likely to be hurt if the attempt failed. The Lion carried him safely to the other side, then returned for Dorothy. She held Toto close as the Lion carried them across. Finally he brought the Tin Woodman over too. They rested for a while, because the repeated journeys had tired the Lion.
+
+The forest on the other side was thicker and darker. After the Lion had rested, they continued along the yellow brick road. They wondered when they would leave the woods and see the sunshine again. Soon they heard strange sounds among the trees. The Lion whispered that this was the part of the country where the Kalidahs lived.
+
+“What are the Kalidahs?” Dorothy asked.
+
+“They are enormous creatures with bodies like bears and heads like tigers,” said the Lion. “I am terribly afraid of them.”
+
+“I can understand why,” Dorothy replied. “They sound frightening.”
+
+Before the Lion could say more, they came to another gulf across the road. This one was so broad and deep that even the Lion knew he could not cross it in a leap. They sat down to think. At last the Scarecrow pointed to a large tree standing near the edge.
+
+“If the tree could be made to fall across the ditch, it would give us a bridge,” he said.
+
+The Tin Woodman prepared the tree with his tools, and the Lion helped. Before long it tipped and fell across the gulf, making a rough bridge from one side to the other.
+
+They had just begun to cross when they heard a sharp growl. Two great creatures, with bear-like bodies and tiger-like heads, were running toward them.
+
+“The Kalidahs!” cried the Cowardly Lion, beginning to tremble.
+
+“Quick! Let us get across,” called the Scarecrow.
+
+Dorothy crossed first with Toto in her arms. The Tin Woodman and the Scarecrow followed. Although he was afraid, the Lion turned toward the creatures and gave a tremendous roar. They stopped for a moment in surprise, but then came forward again.
+
+“We may be in trouble,” said the Lion. “Stay close together. I will do what I can to protect you.”
+
+“Wait!” called the Scarecrow. He had thought of another plan. He asked the Tin Woodman to help bring the tree bridge down. Just as the Kalidahs were nearly across, the tree fell into the gulf. The two creatures fell with it and disappeared below. The travelers were safe on the other side.
+
+“Well,” said the Cowardly Lion, taking a long breath, “we are still alive, and I am glad. Those creatures frightened me so much that my heart is still beating fast.”
+
+“Ah,” said the Tin Woodman sadly, “I wish I had a heart to beat.”
+
+The adventure made them more eager than ever to leave the forest. They walked so quickly that Dorothy became tired and rode on the Lion's back. The trees grew thinner as they went, and in the afternoon they came to a broad, swiftly flowing river.
+
+On the far bank they could see the yellow brick road passing through a beautiful country. Green meadows were dotted with bright flowers, and fruit trees lined the road. They were delighted by the sight.
+
+“How shall we cross the river?” asked Dorothy.
+
+“That should be possible,” said the Scarecrow. “The Tin Woodman can make us a raft, and we can float to the other side.”
+
+The Tin Woodman began preparing a raft. While he worked, the Scarecrow found a tree full of fine fruit beside the river. Dorothy, who had eaten nothing but nuts all day, enjoyed a generous meal of the ripe fruit.
+
+Making the raft took time, even for the industrious Tin Woodman, and the work was not finished by nightfall. So they found a comfortable place beneath the trees and slept until morning. Dorothy dreamed of the Emerald City and the good Wizard Oz, who she hoped would soon send her back to her home in Kansas.`
+  },
 ] as const;
