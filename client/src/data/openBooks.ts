@@ -17,9 +17,9 @@ export type OpenBook = {
   synopsisMy: string;
   keyIdeasMy: string[];
   readingNoteMy: string;
-  source: "Project Gutenberg";
-  language: "English";
-  sourceUrl: string;
+  source: "Project Gutenberg" | "AUREN";
+  language: "English" | "Burmese and English";
+  sourceUrl: string | null;
   access: "free_external_read" | "public_domain_text";
   rightsNote: string;
 };
@@ -38,11 +38,11 @@ export const openBooks: readonly OpenBook[] = [
     synopsisMy: "သင်ယူမှုကို မှတ်သားခြင်းတစ်ခုတည်းအဖြစ် မမြင်ဘဲ နားလည်ခြင်း၊ ပြန်လည်လေ့ကျင့်ခြင်း၊ အမှားမှသင်ယူခြင်းနှင့် လက်တွေ့အသုံးချခြင်းတို့ဖြင့် တည်ဆောက်ပုံကို ရှင်းပြထားသည်။",
     keyIdeasMy: ["ရည်မှန်းချက်ကို လုပ်ဆောင်ချက်အဖြစ် ပြောင်းပါ။","စာအုပ်မကြည့်ဘဲ ပြန်လည်ဖြေဆိုခြင်းဖြင့် မှတ်ဉာဏ်ကို လေ့ကျင့်ပါ။","အမှားကို သင်ယူရန် အချက်အလက်အဖြစ် အသုံးချပါ။"],
     readingNoteMy: "AUREN ၏ မူရင်းမြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာစာမူ။",
-    source: "Project Gutenberg",
-    language: "English",
-    sourceUrl: "https://www.gutenberg.org/",
+    source: "AUREN",
+    language: "Burmese and English",
+    sourceUrl: null,
     access: "public_domain_text",
-    rightsNote: "AUREN မူရင်းစာမူဖြစ်ပြီး Reader တွင် ဖတ်ရန်အတွက်သာ ထည့်သွင်းထားသည်။",
+    rightsNote: "AUREN ၏ မူရင်းမြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာစာမူဖြစ်သည်။ မူပိုင်ခွင့်ကိုင်ဆောင်သူ AUREN ၏ ခွင့်ပြုချက်မရှိဘဲ ပြန်လည်ကူးယူဖြန့်ဝေခြင်း မပြုရ။",
   },
 
   {
