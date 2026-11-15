@@ -425,6 +425,7 @@ export default function Home() {
   return (
     <div className="site-shell" id="top">
       {!detailBook && (
+        <>
         <div className="announcement"><Sparkles size={14} aria-hidden="true" /> {siteLanguage === "my" ? "အခမဲ့စာဖတ်ခြင်းမှ အသိပညာကမ္ဘာကို ဖွင့်လှစ်လိုက်ပါ" : "Open a wider world through free reading"}</div>
         <header className="site-header">
           <div className="header-inner">
@@ -456,7 +457,7 @@ export default function Home() {
             <a href={detailBook ? `${import.meta.env.BASE_URL}#about` : "#about"} onClick={closeMobileMenu}>{ui.navAbout}<ChevronRight size={15} /></a>
           </nav>
         </header>
-  
+        </>
       )}
 
       <main>
