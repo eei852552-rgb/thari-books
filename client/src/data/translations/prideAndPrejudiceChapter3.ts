@@ -8,6 +8,7 @@ export const prideAndPrejudiceChapter3My = [
     number: 3,
     title: "အခန်း (၃)",
     titleEn: "Chapter III",
+    readingType: "summary",
     contentEn: `Mr. Bingley soon returned the visit paid to him by Mr. Bennet. He came with two of his sisters, one of their husbands, and a friend named Mr. Darcy. Mr. Bingley was young, handsome, cheerful, and easy to talk to. His sisters were fashionable and well dressed. Mr. Darcy was also handsome and wealthy, but his manner was proud and distant.
 
 Mr. Bingley had already heard that the Bennet family had several daughters, and he was pleased to meet them. He spoke warmly to everyone and seemed to enjoy the company of the whole neighbourhood.
