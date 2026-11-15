@@ -26,6 +26,26 @@ export type OpenBook = {
 
 export const openBooks: readonly OpenBook[] = [
   {
+    id: "art-of-learning",
+    title: "The Art of Learning",
+    titleMy: "သင်ယူခြင်း၏အနုပညာ",
+    author: "AUREN",
+    categoryId: "personal-development",
+    categoryMy: "ကိုယ်ရည်ကိုယ်သွေးနှင့် အတွေးအမြင်",
+    coverImage: "images/covers/meditations.svg",
+    descriptionMy: "ရည်မှန်းချက်ချမှတ်ခြင်း၊ နားလည်မှုတည်ဆောက်ခြင်းနှင့် လက်တွေ့လေ့ကျင့်ခြင်းတို့ဖြင့် သင်ယူမှုကို ပိုမိုထိရောက်စေမည့် မူရင်းလမ်းညွှန်။",
+    descriptionEn: "An original guide to setting learning goals, building understanding, practising effectively and continuing to learn.",
+    synopsisMy: "သင်ယူမှုကို မှတ်သားခြင်းတစ်ခုတည်းအဖြစ် မမြင်ဘဲ နားလည်ခြင်း၊ ပြန်လည်လေ့ကျင့်ခြင်း၊ အမှားမှသင်ယူခြင်းနှင့် လက်တွေ့အသုံးချခြင်းတို့ဖြင့် တည်ဆောက်ပုံကို ရှင်းပြထားသည်။",
+    keyIdeasMy: ["ရည်မှန်းချက်ကို လုပ်ဆောင်ချက်အဖြစ် ပြောင်းပါ။","စာအုပ်မကြည့်ဘဲ ပြန်လည်ဖြေဆိုခြင်းဖြင့် မှတ်ဉာဏ်ကို လေ့ကျင့်ပါ။","အမှားကို သင်ယူရန် အချက်အလက်အဖြစ် အသုံးချပါ။"],
+    readingNoteMy: "AUREN ၏ မူရင်းမြန်မာ/အင်္ဂလိပ် နှစ်ဘာသာစာမူ။",
+    source: "Project Gutenberg",
+    language: "English",
+    sourceUrl: "https://www.gutenberg.org/",
+    access: "public_domain_text",
+    rightsNote: "AUREN မူရင်းစာမူဖြစ်ပြီး Reader တွင် ဖတ်ရန်အတွက်သာ ထည့်သွင်းထားသည်။",
+  },
+
+  {
     id: "pride-and-prejudice",
     title: "Pride and Prejudice",
     titleMy: "မာနနှင့် အစွဲအလမ်း",
