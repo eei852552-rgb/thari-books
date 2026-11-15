@@ -1,7 +1,7 @@
 /**
  * THARi BOOKS — original Burmese translation of Section I.
  * Source: H. G. Wells, The Time Machine (1895), Project Gutenberg eBook #35.
- * Section I is complete in both English and Burmese; later sections are not yet integrated.
+ * Section I is complete in both English and Burmese. Sections I–XVI and the Epilogue are now connected in the reader; later sections use clearly labelled adaptations where disclosed.
  */
 export const timeMachineChapter1My = [
   {
