@@ -22,6 +22,7 @@ import { openBooks, openBookCategories, type OpenBook } from "../data/openBooks"
 import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejudice";
 import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
+import { artOfLearningChapters } from "../data/artOfLearning";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
@@ -30,6 +31,7 @@ const readingProgressKey = "thari-books:last-reading";
 const readerChaptersByBookId = {
   "pride-and-prejudice": prideAndPrejudiceChaptersMy,
   "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My],
+  "art-of-learning": artOfLearningChapters,
 } as const;
 
 type ReaderChapter = {
