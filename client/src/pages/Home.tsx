@@ -531,7 +531,7 @@ export default function Home() {
               <img src={getAssetPath(detailBook.coverImage)} alt={`${detailBook.title} — ${detailBook.author}`} decoding="async" />
             </div>
             <span className="cover-entry-kicker">THARi BOOKS · CLASSICS</span>
-            <h1 id="book-detail-title">{siteLanguage === "my" ? detailBook.titleMy : detailBook.title}</h1>
+            <h1 id="book-detail-title">{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? detailBook.titleMy : detailBook.title}</h1>
             <p className="cover-entry-author">{detailBook.author}</p>
             {detailChapters.length > 0 ? (
               <button className="cover-entry-read" type="button" onClick={() => openReader(detailBook)}>
@@ -560,7 +560,7 @@ export default function Home() {
           <section className="detail-chapters">
             <span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> READING GUIDE</span>
             <h2>{siteLanguage === "my" ? "အခန်းစာရင်း" : "Chapters"}</h2>
-            {detailChapters.length > 0 ? <div className="detail-chapter-list">{detailChapters.map((chapter, index) => <button type="button" className="detail-chapter-item" key={`${chapter.number}-${chapter.title}`} onClick={() => { openReader(detailBook); setReaderChapterIndex(index); setReaderPage(0); }}><span className="detail-chapter-number">{String(index + 1).padStart(2, "0")}</span><span><strong>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? chapter.title : chapter.titleEn ?? `Chapter ${chapter.number}`}</strong><small>{siteLanguage === "my" ? `အခန်း ${index + 1}` : `Chapter ${index + 1}`}</small></span><ArrowUpRight size={17} /></button>)}</div> : <div className="detail-external-note"><BookOpen size={19} /><p>{siteLanguage === "my" ? "ဤစာအုပ်၏ အခန်းများကို THARi Reader ထဲတွင် မထည့်သွင်းရသေးပါ။ မူရင်းစာအုပ်ကို အခမဲ့ဖတ်ရှုရန် အပေါ်ရှိ မူရင်းရင်းမြစ်လင့်ခ်ကို အသုံးပြုနိုင်ပါတယ်။" : "Chapters for this title are not yet available in the THARi reader. Use the original-source link above to read the book."}</p></div>}
+            {detailChapters.length > 0 ? <div className="detail-chapter-list">{detailChapters.map((chapter, index) => <button type="button" className="detail-chapter-item" key={`${chapter.number}-${chapter.title}`} onClick={() => { openReader(detailBook); setReaderChapterIndex(index); setReaderPage(0); }}><span className="detail-chapter-number">{String(index + 1).padStart(2, "0")}</span><span><strong>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? chapter.title : chapter.titleEn ?? `Chapter ${chapter.number}`}</strong><small>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? `အခန်း ${index + 1}` : `Chapter ${index + 1}`}</small></span><ArrowUpRight size={17} /></button>)}</div> : <div className="detail-external-note"><BookOpen size={19} /><p>{siteLanguage === "my" ? "ဤစာအုပ်၏ အခန်းများကို THARi Reader ထဲတွင် မထည့်သွင်းရသေးပါ။ မူရင်းစာအုပ်ကို အခမဲ့ဖတ်ရှုရန် အပေါ်ရှိ မူရင်းရင်းမြစ်လင့်ခ်ကို အသုံးပြုနိုင်ပါတယ်။" : "Chapters for this title are not yet available in the THARi reader. Use the original-source link above to read the book."}</p></div>}
           </section>
         </section>
         </>
@@ -649,7 +649,7 @@ export default function Home() {
                     <div className="cover-topline"><span>THARi · FREE LINK</span><span>{String(index + 1).padStart(2, "0")}</span></div>
                     <div className="cover-bottomline"><span>{book.author}</span><span className="cover-seal">T</span></div>
                   </div>
-                  <div className="book-meta"><div><span className="book-category">{siteLanguage === "my" ? category?.titleMy : category?.titleEn} · {book.language}</span><h3>{siteLanguage === "my" ? book.titleMy : book.title}</h3></div><span className="book-demo-tag">{ui.freeLabel}</span></div>
+                  <div className="book-meta"><div><span className="book-category">{siteLanguage === "my" ? category?.titleMy : category?.titleEn} · {book.language}</span><h3>{book.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? book.titleMy : book.title}</h3></div><span className="book-demo-tag">{ui.freeLabel}</span></div>
                   <p className={`book-description ${siteLanguage === "en" ? "book-description-en" : ""}`}>{siteLanguage === "my" ? book.descriptionMy : book.descriptionEn}</p>
                   <div className="book-actions">
                     <button className="read-button" type="button" onClick={() => openBookDetails(book)}>{siteLanguage === "my" ? "စာအုပ်အကြောင်း ကြည့်ရန်" : "View book details"} <BookOpen size={16} /></button>
