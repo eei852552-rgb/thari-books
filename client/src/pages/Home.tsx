@@ -551,7 +551,7 @@ export default function Home() {
           <section className="detail-overview" id="book-overview">
             <span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> {siteLanguage === "my" ? "စာအုပ်မိတ်ဆက်" : "BOOK OVERVIEW"}</span>
             <h2>{siteLanguage === "my" ? "ဒီစာအုပ်အကြောင်း" : "About this book"}</h2>
-            <p>{siteLanguage === "my" ? detailBook.synopsisMy : detailBook.descriptionEn}</p>
+            <p>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? detailBook.synopsisMy : detailBook.descriptionEn}</p>
             {siteLanguage === "my" && detailBook.keyIdeasMy.length > 0 && <><h3>အဓိက မှတ်သားစရာများ</h3><ul className="detail-key-ideas">{detailBook.keyIdeasMy.map((idea, index) => <li key={index}>{idea}</li>)}</ul></>}
             <p className="detail-rights-note"><ShieldCheck size={15} /> {detailBook.rightsNote}</p>
             <div className="book-detail-facts"><span>{detailBook.language}</span><span>{detailBook.source}</span><span>{siteLanguage === "my" ? "အခမဲ့" : "Free access"}</span></div>
@@ -560,7 +560,7 @@ export default function Home() {
           <section className="detail-chapters">
             <span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> READING GUIDE</span>
             <h2>{siteLanguage === "my" ? "အခန်းစာရင်း" : "Chapters"}</h2>
-            {detailChapters.length > 0 ? <div className="detail-chapter-list">{detailChapters.map((chapter, index) => <button type="button" className="detail-chapter-item" key={`${chapter.number}-${chapter.title}`} onClick={() => { openReader(detailBook); setReaderChapterIndex(index); setReaderPage(0); }}><span className="detail-chapter-number">{String(index + 1).padStart(2, "0")}</span><span><strong>{siteLanguage === "my" ? chapter.title : chapter.titleEn ?? `Chapter ${chapter.number}`}</strong><small>{siteLanguage === "my" ? `အခန်း ${index + 1}` : `Chapter ${index + 1}`}</small></span><ArrowUpRight size={17} /></button>)}</div> : <div className="detail-external-note"><BookOpen size={19} /><p>{siteLanguage === "my" ? "ဤစာအုပ်၏ အခန်းများကို THARi Reader ထဲတွင် မထည့်သွင်းရသေးပါ။ မူရင်းစာအုပ်ကို အခမဲ့ဖတ်ရှုရန် အပေါ်ရှိ မူရင်းရင်းမြစ်လင့်ခ်ကို အသုံးပြုနိုင်ပါတယ်။" : "Chapters for this title are not yet available in the THARi reader. Use the original-source link above to read the book."}</p></div>}
+            {detailChapters.length > 0 ? <div className="detail-chapter-list">{detailChapters.map((chapter, index) => <button type="button" className="detail-chapter-item" key={`${chapter.number}-${chapter.title}`} onClick={() => { openReader(detailBook); setReaderChapterIndex(index); setReaderPage(0); }}><span className="detail-chapter-number">{String(index + 1).padStart(2, "0")}</span><span><strong>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? chapter.title : chapter.titleEn ?? `Chapter ${chapter.number}`}</strong><small>{siteLanguage === "my" ? `အခန်း ${index + 1}` : `Chapter ${index + 1}`}</small></span><ArrowUpRight size={17} /></button>)}</div> : <div className="detail-external-note"><BookOpen size={19} /><p>{siteLanguage === "my" ? "ဤစာအုပ်၏ အခန်းများကို THARi Reader ထဲတွင် မထည့်သွင်းရသေးပါ။ မူရင်းစာအုပ်ကို အခမဲ့ဖတ်ရှုရန် အပေါ်ရှိ မူရင်းရင်းမြစ်လင့်ခ်ကို အသုံးပြုနိုင်ပါတယ်။" : "Chapters for this title are not yet available in the THARi reader. Use the original-source link above to read the book."}</p></div>}
           </section>
         </section>
         </>
@@ -677,7 +677,7 @@ export default function Home() {
             <section ref={readerDialogRef} className="reader-fullscreen" role="dialog" aria-modal="true" aria-labelledby="reader-title" tabIndex={-1}>
               <header className="reader-topbar">
                 <button className="reader-topbar-button" type="button" onClick={() => setSelectedBook(null)} aria-label={ui.close}><X size={21} /></button>
-                <div className="reader-topbar-title"><strong>THARi BOOKS</strong><span>{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</span></div>
+                <div className="reader-topbar-title"><strong>THARi BOOKS</strong><span>{selectedBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</span></div>
                 {readerStarted && !readerFinished && selectedBook.id !== "aka-thazin-spring-winter" && (
                   <button className="reader-topbar-button reader-language-quick" type="button" onClick={() => { setReaderLanguage((language) => language === "my" ? "en" : "my"); setReaderPage(0); setReaderIntroPage(0); }} aria-label="Change reading language"><Languages size={19} /></button>
                 )}
@@ -689,7 +689,7 @@ export default function Home() {
                     <img src={getAssetPath(selectedBook.coverImage)} alt={`${selectedBook.title} — ${selectedBook.author}`} decoding="async" />
                   </div>
                   <p className="reader-cover-kicker">THARi BOOKS · CLASSIC LIBRARY</p>
-                  <h1 id="reader-title">{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h1>
+                  <h1 id="reader-title">{selectedBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</h1>
                   <p className="reader-cover-author">{selectedBook.author}</p>
                   <button className="reader-start-button" type="button" onClick={() => { setReaderStarted(true); setReaderIntroComplete(resumeAtSavedPage || readerForewordPages.length === 0); setReaderFinished(false); }}>{siteLanguage === "my" ? (detailProgress ? "ဆက်ဖတ်မယ်" : "ဖတ်မယ်") : (detailProgress ? "Continue reading" : "Start reading")} <BookOpen size={18} /></button>
                   <p className="reader-cover-hint">{siteLanguage === "my" ? "စာအုပ်ကို စာမျက်နှာတစ်မျက်နှာချင်း ဖတ်ရှုနိုင်ပါသည်" : "Read one page at a time"}</p>
