@@ -18,7 +18,7 @@ export type OpenBook = {
   keyIdeasMy: string[];
   readingNoteMy: string;
   source: "Project Gutenberg" | "AUREN" | "THARi BOOKS";
-  language: "English" | "Burmese and English";
+  language: "English" | "Burmese" | "Burmese and English";
   sourceUrl: string | null;
   access: "free_external_read" | "public_domain_text" | "original_thari";
   rightsNote: string;
@@ -298,9 +298,9 @@ export const openBooks: readonly OpenBook[] = [
     authorForewordMy: "တစ်ချိန်တုန်းက အာကာ့ဘဝမှာ ဂိမ်းကစားခြင်းနဲ့ ကိုယ့်ရဲ့အိပ်မက်တွေကသာ အဓိကဖြစ်ခဲ့တယ်။ အချစ်ဆိုတာကို စိတ်ဝင်စားဖို့ မလိုသေးဘူးလို့ ထင်ခဲ့သလို ချစ်သူတစ်ယောက်ရှိလာရင် ဘယ်လိုနေထိုင်ရမယ်ဆိုတာကိုလည်း ကြိုတင်စဉ်းစားထားခဲ့သူ မဟုတ်ဘူး။\n\nဒါပေမဲ့ သူ့ဘဝထဲကို မိန်းကလေးတစ်ယောက် ရောက်လာပြီးနောက်မှာတော့ သူမသိခဲ့တဲ့ ခံစားချက်တွေကို တစ်ခုချင်းစီ ရင်ဆိုင်လာခဲ့ရတယ်။ ပျော်ရွှင်မှု၊ စိုးရိမ်မှု၊ မနာလိုမှု၊ နားလည်မှုလွဲခြင်းနဲ့ ဆုံးရှုံးရမှာကို ကြောက်ရွံ့ခြင်းတို့ဟာ သူ့အတွက် စာအုပ်ထဲက စကားလုံးတွေ မဟုတ်တော့ဘူး။\n\nဤဝတ္ထုသည် စာရေးသူမျှဝေထားသော ကိုယ်တွေ့အဖြစ်အပျက်များကို အခြေခံထားသည်။ ဇာတ်ကောင်အမည်များကို စာပေအတွက် ပြောင်းလဲထားပြီး မမျှဝေထားသော အဖြစ်အပျက်များကို အမှန်တကယ်ဖြစ်ခဲ့သကဲ့သို့ မဖန်တီးထားပါ။",
     authorForewordEn: "This original autobiographical coming-of-age story follows Aaka, a boy whose strongest interest was gaming and whose childhood dream was to become an excellent game player. His life begins to change after Thazin transfers to his school from a rural area. Across thirteen chapters, the story explores affection, misunderstandings, family and peer pressure, loss, and the gradual work of rebuilding one's life. The book is available in Burmese and English.",
     keyIdeasMy: ["လူတစ်ယောက်၏ စိတ်ဝင်စားမှုနှင့် အိပ်မက်များသည် ဘဝအတွေ့အကြုံများနှင့်အတူ ပြောင်းလဲနိုင်သည်။","ချစ်ခြင်းတစ်ခုတွင် အပြန်အလှန်နားလည်မှုနှင့် ပွင့်လင်းစွာပြောဆိုမှု လိုအပ်သည်။","အဆုံးသတ်တစ်ခုနောက်တွင် ကိုယ့်ဘဝကို ပြန်လည်တည်ဆောက်ရန် အချိန်ယူနိုင်သည်။"],
-    readingNoteMy: "အခန်း (၁) မှ (၁၃) အထိ မြန်မာနှင့် အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ဖတ်ရှုနိုင်သည်။",
+    readingNoteMy: "အခန်း (၁) မှ (၁၃) အထိ မြန်မာဘာသာတစ်မျိုးတည်းဖြင့် ဖတ်ရှုနိုင်သည်။",
     source: "THARi BOOKS",
-    language: "Burmese and English",
+    language: "Burmese",
     sourceUrl: null,
     access: "original_thari",
     rightsNote: "Min Khant ၏ မူရင်းကိုယ်တွေ့အခြေခံစာမူဖြစ်သည်။ စာရေးသူ၏ ခွင့်ပြုချက်မရှိဘဲ ပြန်လည်ကူးယူဖြန့်ဝေခြင်း မပြုရ။",
