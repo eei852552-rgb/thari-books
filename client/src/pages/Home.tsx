@@ -759,8 +759,6 @@ export default function Home() {
                         const previousIndex = readerChapterIndex - 1;
                         const previousChapter = readerChapters[previousIndex];
                         if (previousChapter) {
-                          const previousContent = readerLanguage === "my" ? previousChapter.content : previousChapter.contentEn;
-                          const previousPages = splitReaderPages(previousContent, readerLanguage === "my" ? 650 : 1300);
                           setPendingPage(null);
                           setPageTurnDirection(null);
                           setReaderChapterIndex(previousIndex);
