@@ -20,7 +20,7 @@ export type OpenBook = {
   source: "Project Gutenberg" | "AUREN";
   language: "English" | "Burmese and English";
   sourceUrl: string | null;
-  access: "free_external_read" | "public_domain_text";
+  access: "free_external_read" | "public_domain_text" | "original_thari";
   rightsNote: string;
   /** THARi editorial introduction; not attributed to the original author. */
   editorialForewordMy?: string;
@@ -302,7 +302,7 @@ export const openBooks: readonly OpenBook[] = [
     source: "AUREN",
     language: "Burmese and English",
     sourceUrl: null,
-    access: "public_domain_text",
+    access: "original_thari",
     rightsNote: "AUREN ၏ မူရင်းကိုယ်တွေ့အခြေခံစာမူဖြစ်သည်။ စာရေးသူ၏ ခွင့်ပြုချက်မရှိဘဲ ပြန်လည်ကူးယူဖြန့်ဝေခြင်း မပြုရ။",
   },
 ];
