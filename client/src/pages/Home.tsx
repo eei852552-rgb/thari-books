@@ -24,6 +24,7 @@ import { prideAndPrejudiceChaptersMy } from "../data/translations/prideAndPrejud
 import { wizardOfOzChaptersMy } from "../data/translations/wizardOfOz";
 import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
 import { wizardOfOzChapters3to4 } from "../data/translations/wizardOfOzChapters3to4";
+import { marvelousLandOfOzChapters } from "../data/translations/marvelousLandOfOz";
 import { artOfLearningChapters } from "../data/artOfLearning";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
@@ -34,6 +35,7 @@ const legacyReadingProgressKey = "thari-books:last-reading";
 const readerChaptersByBookId = {
   "pride-and-prejudice": prideAndPrejudiceChaptersMy,
   "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapters3to4],
+  "marvelous-land-of-oz": marvelousLandOfOzChapters,
   "art-of-learning": artOfLearningChapters,
 } as const;
 
