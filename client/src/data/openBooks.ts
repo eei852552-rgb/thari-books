@@ -108,7 +108,7 @@ export const openBooks: readonly OpenBook[] = [
     editorialForewordMy: "ဤစာအုပ်သည် The Wonderful Wizard of Oz ပြီးနောက် ဆက်လက်ဖတ်ရှုရမည့် L. Frank Baum ၏ ဒုတိယမြောက် အော့ဇ်ဝတ္ထုဖြစ်သည်။ ပထမစာအုပ်တွင် တွေ့ခဲ့ရသော ကောက်ရိုးလူနှင့် သံခုတ်သမားတို့၏ ကမ္ဘာကို ပြန်လည်တွေ့မြင်ရမည်ဖြစ်သကဲ့သို့ တစ်ပ်၊ ဂျက်ဖရုံသီးခေါင်းနှင့် အခြားဇာတ်ကောင်အသစ်များကိုလည်း တွေ့ဆုံရမည်။ မူရင်းစာအုပ်၏ အခန်းအစဉ်နှင့် ဇာတ်သိမ်းကို မပြောင်းလဲဘဲ အခန်းတိုင်းကို အပြည့်အစုံ မြန်မာဘာသာပြန်ဖြင့် ဖတ်ရှုနိုင်ရန် THARi က ပြင်ဆင်နေသည်။",
     editorialForewordEn: "This is L. Frank Baum’s second Oz novel and the direct sequel to The Wonderful Wizard of Oz. It revisits the Scarecrow and the Tin Woodman while introducing Tip, Jack Pumpkinhead and other new characters. THARi is preparing a complete chapter-by-chapter bilingual edition that follows the original sequence and ending.",
     keyIdeasMy: ["မိတ်ဆွေမှုနှင့် အပြန်အလှန်ကူညီမှု", "အုပ်ချုပ်မှု၊ တာဝန်ယူမှုနှင့် တရားမျှတမှု", "မိမိ၏ အမှန်တကယ် အထောက်အထားကို ရှာဖွေခြင်း"],
-    readingNoteMy: "အခန်း (၁) နှင့် (၂) ကို မြန်မာဘာသာပြန်၊ အင်္ဂလိပ်မူရင်းအပြည့်အစုံဖြင့် ထည့်သွင်းထားသည်။ ကျန်အခန်းများကို မူရင်းအခန်းအစဉ်အတိုင်း ဖြည့်စွက်နေဆဲဖြစ်ပြီး စာအုပ်တစ်အုပ်လုံး ပြီးဆုံးကြောင်း မကြေညာရသေးပါ။",
+    readingNoteMy: "အခန်း (၁) မှ (၄) အထိ မြန်မာဘာသာပြန်နှင့် အင်္ဂလိပ်မူရင်းအပြည့်အစုံ ပါဝင်သည်။ ကျန်အခန်းများကို မူရင်းအခန်းအစဉ်အတိုင်း ဖြည့်စွက်နေဆဲဖြစ်ပြီး စာအုပ်တစ်အုပ်လုံး ပြီးဆုံးကြောင်း မကြေညာရသေးပါ။",
     source: "Project Gutenberg",
     language: "Burmese and English",
     sourceUrl: "https://www.gutenberg.org/ebooks/54",
