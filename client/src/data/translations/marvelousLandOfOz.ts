@@ -1412,5 +1412,261 @@ Jack felt no fear or embarrassment at meeting the ruler of this magnificent city
 
 ဂျက်သည် ထိုခမ်းနားလှသော မြို့ကို အုပ်ချုပ်နေသူနှင့် တွေ့ဆုံရမည်ဖြစ်သော်လည်း ကြောက်ရွံ့ခြင်း၊ ရှက်ရွံ့ခြင်း မရှိခဲ့ပါ။ အကြောင်းမှာ လူ့လောက၏ ထုံးတမ်းစဉ်လာများကို သူ လုံးဝ မသိသောကြောင့် ဖြစ်သည်။ သို့သော် အခန်းထဲသို့ ဝင်လာပြီး တောက်ပနေသော ရာဇပလ္လင်ပေါ်တွင် ထိုင်နေသော ဘုရင်မင်းမြတ် ကောက်ရိုးလူကို ပထမဆုံးအကြိမ် မြင်လိုက်ရသောအခါ အံ့ဩလွန်းသဖြင့် ခြေလှမ်းရပ်တန့်သွားခဲ့သည်။`,
   }
+,
+  {
+    number: 7,
+    title: "အခန်း (၇) — ဘုရင်မင်းမြတ် ကောက်ရိုးလူ",
+    titleEn: "Chapter 7 — His Majesty the Scarecrow",
+    contentEn: `I suppose every reader of this book knows what a scarecrow is; but Jack Pumpkinhead, never having seen such a creation, was more surprised at meeting the remarkable King of the Emerald City than by any other one experience of his brief life.
+
+His Majesty the Scarecrow was dressed in a suit of faded blue clothes, and his head was merely a small sack stuffed with straw, upon which eyes, ears, a nose and a mouth had been rudely painted to represent a face. The clothes were also stuffed with straw, and that so unevenly or carelessly that his Majesty’s legs and arms seemed more bumpy than was necessary. Upon his hands were gloves with long fingers, and these were padded with cotton. Wisps of straw stuck out from the monarch’s coat and also from his neck and boot-tops. Upon his head he wore a heavy golden crown set thick with sparkling jewels, and the weight of this crown caused his brow to sag in wrinkles, giving a thoughtful expression to the painted face. Indeed, the crown alone betokened majesty; in all else the Scarecrow King was but a simple scarecrow—flimsy, awkward, and unsubstantial.
+
+But if the strange appearance of his Majesty the Scarecrow seemed startling to Jack, no less wonderful was the form of the Pumpkinhead to the Scarecrow. The purple trousers and pink waistcoat and red shirt hung loosely over the wooden joints Tip had manufactured, and the carved face on the pumpkin grinned perpetually, as if its wearer considered life the jolliest thing imaginable.
+
+At first, indeed, His Majesty thought his queer visitor was laughing at him, and was inclined to resent such a liberty; but it was not without reason that the Scarecrow had attained the reputation of being the wisest personage in the Land of Oz. He made a more careful examination of his visitor, and soon discovered that Jack’s features were carved into a smile and that he could not look grave if he wished to.
+
+The King was the first to speak. After regarding Jack for some minutes he said, in a tone of wonder:
+
+“Where on earth did you come from, and how do you happen to be alive?”
+
+“I beg your Majesty’s pardon,” returned the Pumpkinhead; “but I do not understand you.”
+
+“What don’t you understand?” asked the Scarecrow.
+
+“Why, I don’t understand your language. You see, I came from the Country of the Gillikins, so that I am a foreigner.”
+
+“Ah, to be sure!” exclaimed the Scarecrow. “I myself speak the language of the Munchkins, which is also the language of the Emerald City. But you, I suppose, speak the language of the Pumpkinheads?”
+
+“Exactly so, your Majesty,” replied the other, bowing; “so it will be impossible for us to understand one another.”
+
+“That is unfortunate, certainly,” said the Scarecrow, thoughtfully. “We must have an interpreter.”
+
+“What is an interpreter?” asked Jack.
+
+“A person who understands both my language and your own. When I say anything, the interpreter can tell you what I mean; and when you say anything the interpreter can tell me what you mean. For the interpreter can speak both languages as well as understand them.”
+
+“That is certainly clever,” said Jack, greatly pleased at finding so simple a way out of the difficulty.
+
+So the Scarecrow commanded the Soldier with the Green Whiskers to search among his people until he found one who understood the language of the Gillikins as well as the language of the Emerald City, and to bring that person to him at once.
+
+When the Soldier had departed the Scarecrow said:
+
+“Won’t you take a chair while we are waiting?”
+
+“Your Majesty forgets that I cannot understand you,” replied the Pumpkinhead. “If you wish me to sit down you must make a sign for me to do so.” The Scarecrow came down from his throne and rolled an armchair to a position behind the Pumpkinhead. Then he gave Jack a sudden push that sent him sprawling upon the cushions in so awkward a fashion that he doubled up and had hard work to untangle himself.
+
+“Did you understand that sign?” asked His Majesty, politely.
+
+“Perfectly,” declared Jack, reaching up his arms to turn his head to the front, the pumpkin having twisted around upon the stick that supported it.
+
+“You seem hastily made,” remarked the Scarecrow, watching Jack’s efforts to straighten himself.
+
+“Not more so than your Majesty,” was the frank reply.
+
+“There is this difference between us,” said the Scarecrow, “that whereas I will bend, but not break, you will break, but not bend.”
+
+At this moment the soldier returned leading a young girl by the hand. She seemed very sweet and modest, having a pretty face and beautiful green eyes and hair. A dainty green silk skirt reached to her knees, showing silk stockings embroidered with pea-pods, and green satin slippers with bunches of lettuce for decorations instead of bows or buckles. Upon her silken waist clover leaves were embroidered, and she wore a jaunty little jacket trimmed with sparkling emeralds of a uniform size.
+
+“Why, it’s little Jellia Jamb!” exclaimed the Scarecrow, as the green maiden bowed her pretty head before him. “Do you understand the language of the Gillikins, my dear?”
+
+“Yes, your Majesty,” she answered, “for I was born in the North Country.”
+
+“Then you shall be our interpreter,” said the Scarecrow, “and explain to this Pumpkinhead all that I say, and also explain to me all that he says. Is this arrangement satisfactory?” he asked, turning toward his guest.
+
+“Very satisfactory indeed,” was the reply.
+
+“Then ask him, to begin with,” resumed the Scarecrow, turning to Jellia, “what brought him to the Emerald City.”
+
+But instead of this the girl, who had been staring at Jack, said to him:
+
+“You are certainly a wonderful creature. Who made you?”
+
+“A boy named Tip,” answered Jack.
+
+“What does he say?” inquired the Scarecrow. “My ears must have deceived me. What did he say?”
+
+“He says that your Majesty’s brains seem to have come loose,” replied the girl, demurely.
+
+The Scarecrow moved uneasily upon his throne, and felt of his head with his left hand.
+
+“What a fine thing it is to understand two different languages,” he said, with a perplexed sigh. “Ask him, my dear, if he has any objection to being put in jail for insulting the ruler of the Emerald City.”
+
+“I didn’t insult you!” protested Jack, indignantly.
+
+“Tut—tut!” cautioned the Scarecrow. “Wait, until Jellia translates my speech. What have we got an interpreter for, if you break out in this rash way?”
+
+“All right, I’ll wait,” replied the Pumpkinhead, in a surly tone—although his face smiled as genially as ever. “Translate the speech, young woman.”
+
+“His Majesty inquires if you are hungry,” said Jellia.
+
+“Oh, not at all!” answered Jack, more pleasantly, “for it is impossible for me to eat.”
+
+“It’s the same way with me,” remarked the Scarecrow. “What did he say, Jellia, my dear?”
+
+“He asked if you were aware that one of your eyes is painted larger than the other,” said the girl, mischievously.
+
+“Don’t you believe her, your Majesty,” cried Jack.
+
+“Oh, I don’t,” answered the Scarecrow, calmly. Then, casting a sharp look at the girl, he asked:
+
+“Are you quite certain you understand the languages of both the Gillikins and the Munchkins?”
+
+“Quite certain, your Majesty,” said Jellia Jamb, trying hard not to laugh in the face of royalty.
+
+“Then how is it that I seem to understand them myself?” inquired the Scarecrow.
+
+“Because they are one and the same!” declared the girl, now laughing merrily. “Does not your Majesty know that in all the land of Oz but one language is spoken?”
+
+“Is it indeed so?” cried the Scarecrow, much relieved to hear this; “then I might easily have been my own interpreter!”
+
+“It was all my fault, your Majesty,” said Jack, looking rather foolish, “I thought we must surely speak different languages, since we came from different countries.”
+
+“This should be a warning to you never to think,” returned the Scarecrow, severely. “For unless one can think wisely it is better to remain a dummy—which you most certainly are.”
+
+“I am!—I surely am!” agreed the Pumpkinhead.
+
+“It seems to me,” continued the Scarecrow, more mildly, “that your manufacturer spoiled some good pies to create an indifferent man.”
+
+“I assure your Majesty that I did not ask to be created,” answered Jack.
+
+“Ah! It was the same in my case,” said the King, pleasantly. “And so, as we differ from all ordinary people, let us become friends.”
+
+“With all my heart!” exclaimed Jack.
+
+“What! Have you a heart?” asked the Scarecrow, surprised.
+
+“No; that was only imaginative—I might say, a figure of speech,” said the other.
+
+“Well, your most prominent figure seems to be a figure of wood; so I must beg you to restrain an imagination which, having no brains, you have no right to exercise,” suggested the Scarecrow, warningly.
+
+“To be sure!” said Jack, without in the least comprehending.
+
+His Majesty then dismissed Jellia Jamb and the Soldier with the Green Whiskers, and when they were gone he took his new friend by the arm and led him into the courtyard to play a game of quoits.`,
+    content: `ဤစာအုပ်ကို ဖတ်ရှုနေသူတိုင်းသည် ကောက်ရိုးခြောက်ဖြင့် ပြုလုပ်ထားသော ငှက်ခြောက်ရုပ်ဆိုသည်မှာ ဘာလဲ သိပြီးသားဖြစ်မည်ဟု ထင်ပါသည်။ သို့သော် ဂျက် ဖရုံသီးခေါင်းသည် ထိုကဲ့သို့သော ဖန်တီးမှုမျိုးကို တစ်ခါမျှ မမြင်ဖူးခဲ့သဖြင့် မြမြို့တော်၏ ထူးခြားသော ဘုရင်ကြီးကို တွေ့ဆုံရခြင်းသည် သူ့ဘဝတိုတောင်းလှသော ကာလအတွင်း ကြုံတွေ့ခဲ့သမျှ အံ့ဩစရာများထဲတွင် အကြီးမားဆုံး ဖြစ်နေခဲ့သည်။
+
+ဘုရင်မင်းမြတ် ကောက်ရိုးလူသည် အရောင်မှိန်နေသော အပြာရောင်ဝတ်စုံကို ဝတ်ဆင်ထားသည်။ သူ၏ ခေါင်းမှာ ကောက်ရိုးများ ထည့်ထားသော အိတ်ငယ်တစ်လုံးသာ ဖြစ်ပြီး မျက်လုံး၊ နား၊ နှာခေါင်းနှင့် ပါးစပ်တို့ကို မျက်နှာပုံပေါ်စေရန် အကြမ်းဖျင်း ဆေးခြယ်ထားသည်။ သူ၏ အဝတ်အစားများထဲတွင်လည်း ကောက်ရိုးများ ထည့်ထားသော်လည်း မညီမညာ၊ ဂရုမစိုက်ဘဲ ထည့်ထားသဖြင့် လက်နှင့်ခြေထောက်များမှာ လိုအပ်သည်ထက် ပိုမိုဖုထစ်နေသည်။ လက်များတွင် လက်ချောင်းရှည်သော လက်အိတ်များ ဝတ်ဆင်ထားပြီး အတွင်းတွင် ဝါဂွမ်းများ ထည့်ထားသည်။ ကောက်ရိုးမျှင်များသည် ဘုရင်၏ အင်္ကျီအပြင်ဘက်၊ လည်ပင်းနှင့် ဘွတ်ဖိနပ်ထိပ်များမှလည်း ထွက်နေကြသည်။ ခေါင်းပေါ်တွင်မူ တောက်ပသော ရတနာများစွာ စီခြယ်ထားသည့် လေးလံသော ရွှေသရဖူကြီးကို ဆောင်းထားသည်။ သရဖူ၏ အလေးချိန်ကြောင့် နဖူးအောက်ဘက်သို့ တွန့်ကျုံ့နေပြီး ဆေးခြယ်ထားသော မျက်နှာပေါ်တွင် အတွေးနက်နေသည့် အသွင်ကို ဖြစ်ပေါ်စေသည်။ အမှန်မှာ ထိုသရဖူတစ်ခုတည်းကသာ ဘုရင်တစ်ပါး၏ ဂုဏ်သိက္ခာကို ဖော်ပြနေခြင်းဖြစ်ပြီး ကျန်အရာအားလုံးတွင် ကောက်ရိုးဘုရင်သည် ပေါ့ပါးလွယ်ကူ၊ အဆင်မပြေ၊ ခိုင်ခံ့မှုမရှိသော ရိုးရိုးငှက်ခြောက်ရုပ်တစ်ရုပ်သာ ဖြစ်သည်။
+
+ဘုရင်မင်းမြတ် ကောက်ရိုးလူ၏ ထူးဆန်းသော အသွင်အပြင်က ဂျက်ကို အံ့ဩစေသကဲ့သို့ ဂျက် ဖရုံသီးခေါင်း၏ ပုံစံကလည်း ကောက်ရိုးလူကို အံ့အားသင့်စေခဲ့သည်။ ခရမ်းရောင်ဘောင်းဘီ၊ ပန်းရောင်အင်္ကျီနှင့် အနီရောင်အင်္ကျီတို့သည် တစ်ပ် တည်ဆောက်ပေးထားသော သစ်သားအဆစ်များပေါ်တွင် လျော့ရဲစွာ တွဲလောင်းကျနေသည်။ ဖရုံသီးပေါ်ရှိ ထွင်းထားသော မျက်နှာသည်လည်း အမြဲတမ်း ပြုံးနေသဖြင့် ၎င်းကို ဆောင်းထားသူက ဘဝကို အလွန်ပျော်စရာကောင်းသည်ဟု ယူဆနေသကဲ့သို့ ထင်ရသည်။
+
+အစပိုင်းတွင် ဘုရင်မင်းမြတ်သည် ထူးဆန်းသော ဧည့်သည်က မိမိကို လှောင်ပြောင်ရယ်မောနေသည်ဟု ထင်မှတ်ကာ မကျေမနပ် ဖြစ်ချင်ခဲ့သည်။ သို့သော် ကောက်ရိုးလူသည် အော့ဇ်နိုင်ငံတွင် ပညာအရှိဆုံးသူအဖြစ် နာမည်ရလာခဲ့ခြင်းမှာ အကြောင်းမဲ့ မဟုတ်ပါ။ သူသည် ဧည့်သည်ကို ပိုမိုသေချာစွာ စစ်ဆေးကြည့်လိုက်ရာ ဂျက်၏ မျက်နှာကို အပြုံးပုံစံဖြင့် ထွင်းထားခြင်းဖြစ်ပြီး သူကိုယ်တိုင် လိုချင်သော်လည်း မျက်နှာတည်တည်ဖြင့် မနေနိုင်ကြောင်း မကြာမီ သိရှိသွားသည်။
+
+ဘုရင်ကြီးက စကားကို ဦးစွာ စတင်ပြောလိုက်သည်။ ဂျက်ကို မိနစ်အနည်းငယ်ကြာ ကြည့်ပြီးနောက် အံ့ဩသည့်အသံဖြင့်—
+
+“မင်း ဘယ်ကနေ ရောက်လာတာလဲ။ ဘယ်လိုလုပ်ပြီး အသက်ဝင်နေတာလဲ” ဟု မေးလိုက်သည်။
+
+“ဘုရင်မင်းမြတ်ကို ခွင့်လွှတ်ပါ။ ကျွန်တော် နားမလည်ပါဘူး” ဟု ဖရုံသီးခေါင်းလူက ပြန်ဖြေသည်။
+
+“ဘာကို နားမလည်တာလဲ” ဟု ကောက်ရိုးလူက မေးသည်။
+
+“ခင်ဗျားပြောတဲ့ ဘာသာစကားကို ကျွန်တော် နားမလည်တာပါ။ ကျွန်တော်က ဂီလီကင်ဒေသက လာတာမို့ နိုင်ငံခြားသားတစ်ယောက် ဖြစ်နေပါတယ်။”
+
+“အော်… ဟုတ်သားပဲ” ဟု ကောက်ရိုးလူက အံ့ဩစွာ ပြောလိုက်သည်။ “ငါက မန်ချ်ကင်ဘာသာစကားကို ပြောတတ်တယ်။ အဲဒီဘာသာစကားက မြမြို့တော်မှာလည်း အသုံးပြုတဲ့ ဘာသာစကားပဲ။ ဒါပေမဲ့ မင်းက ဖရုံသီးခေါင်းလူတွေရဲ့ ဘာသာစကားကို ပြောတတ်မယ်ထင်တယ်။”
+
+“မှန်ပါတယ် ဘုရင်မင်းမြတ်” ဟု ဂျက်က ဦးညွှတ်ပြီး ပြန်ဖြေသည်။ “ဒါဆို ကျွန်တော်တို့နှစ်ယောက် တစ်ယောက်စကားတစ်ယောက် နားလည်နိုင်မှာ မဟုတ်တော့ဘူးပေါ့။”
+
+“ဒါကတော့ ကံမကောင်းစရာပဲ။ စကားပြန်တစ်ယောက် လိုအပ်လာပြီ” ဟု ကောက်ရိုးလူက စဉ်းစားဟန်ဖြင့် ပြောလိုက်သည်။
+
+“စကားပြန်ဆိုတာ ဘာလဲ” ဟု ဂျက်က မေးသည်။
+
+“ငါ့ဘာသာစကားနဲ့ မင်းရဲ့ဘာသာစကား နှစ်မျိုးလုံးကို နားလည်တဲ့သူပေါ့။ ငါ တစ်ခုခုပြောလိုက်ရင် စကားပြန်က ငါဆိုလိုတာကို မင်းကို ပြန်ပြောပြနိုင်တယ်။ မင်းက တစ်ခုခုပြောလိုက်ရင်လည်း မင်းဆိုလိုတာကို ငါ့ကို ပြန်ရှင်းပြနိုင်တယ်။ ဘာသာစကားနှစ်မျိုးလုံးကို ပြောတတ်သလို နားလည်လည်း နားလည်တယ်လေ။”
+
+“အဲဒါက တကယ်ကို လိမ္မာပါးနပ်တဲ့ နည်းလမ်းပဲ” ဟု ဂျက်က အခက်အခဲကို အလွယ်တကူ ဖြေရှင်းနိုင်မည့် နည်းလမ်းတစ်ခု တွေ့သွားသဖြင့် အလွန်ကျေနပ်စွာ ပြောလိုက်သည်။
+
+ထို့ကြောင့် ကောက်ရိုးလူသည် အစိမ်းရောင်မုတ်ဆိတ်ရှည် စစ်သားကို ခေါ်ပြီး ဂီလီကင်ဘာသာစကားနှင့် မြမြို့တော်၏ ဘာသာစကား နှစ်မျိုးလုံးကို နားလည်သူတစ်ဦးကို မိမိ၏ လူများအကြား ရှာဖွေကာ ချက်ချင်း ခေါ်လာရန် အမိန့်ပေးလိုက်သည်။
+
+စစ်သား ထွက်သွားပြီးနောက် ကောက်ရိုးလူက—
+
+“စောင့်နေတုန်း ထိုင်ခုံတစ်လုံးမှာ ထိုင်မလား” ဟု မေးလိုက်သည်။
+
+“ဘုရင်မင်းမြတ် မေ့နေပြီထင်တယ်။ ကျွန်တော် ခင်ဗျားစကားကို နားမလည်ဘူးလေ။ ကျွန်တော့်ကို ထိုင်စေချင်တယ်ဆိုရင် လက်ဟန်ခြေဟန်နဲ့ ပြရမယ်” ဟု ဖရုံသီးခေါင်းလူက ပြန်ဖြေသည်။ ကောက်ရိုးလူသည် ရာဇပလ္လင်ပေါ်မှ ဆင်းလာပြီး လက်တင်ခုံတစ်လုံးကို ဂျက်၏ နောက်ဘက်သို့ ရွှေ့ပေးလိုက်သည်။ ထို့နောက် ဂျက်ကို ရုတ်တရက် တွန်းချလိုက်ရာ သူသည် ခုံပေါ်သို့ အဆင်မပြေစွာ လဲကျသွားပြီး ကိုယ်ထည်ကို ခေါက်မိသကဲ့သို့ ဖြစ်သွားသည်။ ပြန်တည့်မတ်နိုင်ရန်လည်း အတော်ကြိုးစားလိုက်ရသည်။
+
+“အဲဒီလက်ဟန်ကို နားလည်ရဲ့လား” ဟု ဘုရင်မင်းမြတ်က ယဉ်ကျေးစွာ မေးသည်။
+
+“လုံးဝ နားလည်ပါတယ်” ဟု ဂျက်က ပြန်ဖြေသည်။ ထို့နောက် ဖရုံသီးခေါင်းသည် ထောက်ထားသော တုတ်ပေါ်တွင် လှည့်သွားခဲ့သော မျက်နှာကို ရှေ့ဘက်သို့ ပြန်လှည့်ရန် လက်နှစ်ဖက်ကို မြှောက်လိုက်သည်။
+
+“မင်းကို အလျင်စလို လုပ်ထားပုံရတယ်” ဟု ကောက်ရိုးလူက ဂျက်၏ ကိုယ်ကို ပြန်တည့်ရန် ကြိုးစားနေသည်ကို ကြည့်ရင်း မှတ်ချက်ပြုသည်။
+
+“ဘုရင်မင်းမြတ်ထက်တော့ ပိုပြီး အလျင်စလို မလုပ်ထားပါဘူး” ဟု ဂျက်က ပွင့်ပွင့်လင်းလင်း ပြန်ဖြေသည်။
+
+“ငါတို့နှစ်ယောက်မှာ ကွာခြားချက်တစ်ခု ရှိတယ်။ ငါက ကွေးနိုင်ပေမဲ့ မကျိုးဘူး။ မင်းကတော့ ကျိုးနိုင်ပေမဲ့ မကွေးနိုင်ဘူး” ဟု ကောက်ရိုးလူက ပြောသည်။
+
+ထိုအချိန်တွင် စစ်သားသည် မိန်းကလေးငယ်တစ်ဦး၏ လက်ကို ကိုင်ကာ ပြန်ရောက်လာသည်။ ထိုမိန်းကလေးသည် ချစ်စရာကောင်းပြီး ရိုးသားနူးညံ့သည့်ပုံပေါ်ကာ လှပသော မျက်နှာ၊ အစိမ်းရောင်မျက်လုံးနှင့် ဆံပင်များကို ပိုင်ဆိုင်ထားသည်။ ဒူးအထိ ရောက်သော အစိမ်းရောင်ပိုးထည်စကတ်ကို ဝတ်ထားပြီး ပဲသီးပုံစံများ ထိုးထားသော ပိုးခြေအိတ်များကို မြင်ရသည်။ အစိမ်းရောင်ဖဲသားဖိနပ်များတွင်လည်း ဖဲကြိုးနှင့် ချိတ်များအစား ဆလတ်ရွက်အစုလေးများကို အလှဆင်ထားသည်။ သူမ၏ ပိုးထည်အင်္ကျီတွင် ကလိုဗာရွက်ပုံစံများကို ထိုးထားပြီး အရွယ်အစားတူ မြရတနာများဖြင့် အနားသတ်ထားသော ခပ်လှလှ အင်္ကျီတိုတစ်ထည်ကိုလည်း ဝတ်ဆင်ထားသည်။
+
+“အော်… ဒါက ဂျယ်လီယာဂျမ်လေးပဲ” ဟု အစိမ်းရောင်မိန်းကလေးက လှပစွာ ဦးညွှတ်လိုက်သောအခါ ကောက်ရိုးလူက အံ့ဩစွာ အော်ပြောလိုက်သည်။ “ချစ်ရတဲ့ ကလေးရေ၊ ဂီလီကင်ဘာသာစကားကို နားလည်သလား။”
+
+“နားလည်ပါတယ် ဘုရင်မင်းမြတ်။ ကျွန်မက မြောက်ပိုင်းဒေသမှာ မွေးဖွားခဲ့တာပါ” ဟု သူမက ပြန်ဖြေသည်။
+
+“ဒါဆို မင်းက ငါတို့ရဲ့ စကားပြန် ဖြစ်ရမယ်။ ငါပြောသမျှကို ဒီဖရုံသီးခေါင်းလူကို ရှင်းပြပေးပြီး သူပြောသမျှကိုလည်း ငါ့ကို ပြန်ရှင်းပြပေးပါ။ ဒီအစီအစဉ်ကို သဘောတူရဲ့လား” ဟု ကောက်ရိုးလူက ဧည့်သည်ဘက်သို့ လှည့်မေးလိုက်သည်။
+
+“အလွန်သဘောတူပါတယ်” ဟု ဂျက်က ပြန်ဖြေသည်။
+
+“ဒါဆို အရင်ဆုံး သူ့ကို ဘာကြောင့် မြမြို့တော်ကို ရောက်လာတာလဲလို့ မေးလိုက်ပါ” ဟု ကောက်ရိုးလူက ဂျယ်လီယာကို ပြောလိုက်သည်။
+
+သို့သော် ဂျက်ကို စိုက်ကြည့်နေခဲ့သော မိန်းကလေးသည် ထိုအစား သူ့ကို—
+
+“ရှင်က တကယ်ထူးခြားတဲ့ သတ္တဝါတစ်ဦးပဲ။ ဘယ်သူက ဖန်တီးပေးခဲ့တာလဲ” ဟု မေးလိုက်သည်။
+
+“တစ်ပ်လို့ခေါ်တဲ့ ကောင်လေးတစ်ယောက်ပါ” ဟု ဂျက်က ပြန်ဖြေသည်။
+
+“သူ ဘာပြောလိုက်တာလဲ” ဟု ကောက်ရိုးလူက မေးသည်။ “ငါ့နားက မှားကြားလိုက်တာလား။ သူ ဘာပြောလိုက်တာလဲ။”
+
+“ဘုရင်မင်းမြတ်ရဲ့ ဦးနှောက်တွေ နေရာလွဲနေသလိုပဲလို့ သူက ပြောပါတယ်” ဟု မိန်းကလေးက အေးအေးဆေးဆေး ပြန်ဖြေသည်။
+
+ကောက်ရိုးလူသည် ရာဇပလ္လင်ပေါ်တွင် မသက်မသာ လှုပ်ရှားသွားပြီး ဘယ်လက်ဖြင့် ခေါင်းကို စမ်းကြည့်လိုက်သည်။
+
+“ဘာသာစကားနှစ်မျိုးကို နားလည်ရတာ ဘယ်လောက်ကောင်းလိုက်သလဲ။ ဒါပေမဲ့ အခုတော့ ခေါင်းရှုပ်စရာ ဖြစ်နေပြီ” ဟု သူက သက်ပြင်းချရင်း ပြောသည်။ “သူ့ကို မြမြို့တော်အုပ်ချုပ်သူကို စော်ကားမှုအတွက် ထောင်ထဲထည့်မယ်ဆိုရင် ကန့်ကွက်စရာ ရှိမရှိ မေးလိုက်ပါ။”
+
+“ကျွန်တော် ခင်ဗျားကို မစော်ကားခဲ့ပါဘူး” ဟု ဂျက်က ဒေါသတကြီး ကန့်ကွက်လိုက်သည်။
+
+“တိတ်တိတ်နေဦး” ဟု ကောက်ရိုးလူက သတိပေးသည်။ “ဂျယ်လီယာက ငါ့စကားကို ဘာသာပြန်ပေးတဲ့အထိ စောင့်ပါ။ မင်းက ဒီလို အလျင်စလို ပြောနေမယ်ဆိုရင် စကားပြန်ကို ဘာအတွက် ခန့်ထားရမှာလဲ။”
+
+“ကောင်းပါပြီ။ စောင့်ပါမယ်” ဟု ဖရုံသီးခေါင်းလူက စိတ်မကြည်သည့်အသံဖြင့် ပြန်ဖြေသည်။ သို့သော် သူ၏ မျက်နှာမှာ ယခင်အတိုင်း ချစ်စရာကောင်းစွာ ပြုံးနေဆဲဖြစ်သည်။ “မိန်းကလေးရေ၊ ဘာသာပြန်ပေးပါတော့။”
+
+“ဘုရင်မင်းမြတ်က သင် ဗိုက်ဆာနေသလားလို့ မေးနေပါတယ်” ဟု ဂျယ်လီယာက ပြောလိုက်သည်။
+
+“လုံးဝ မဆာပါဘူး။ ကျွန်တော်က အစားမစားနိုင်တဲ့သူပါ” ဟု ဂျက်က ပိုမိုယဉ်ကျေးစွာ ပြန်ဖြေသည်။
+
+“ငါလည်း အတူတူပဲ” ဟု ကောက်ရိုးလူက မှတ်ချက်ပြုသည်။ “သူ ဘာပြောလိုက်တာလဲ ဂျယ်လီယာ။”
+
+“ဘုရင်မင်းမြတ်ရဲ့ မျက်လုံးတစ်ဖက်က အခြားတစ်ဖက်ထက် ပိုကြီးအောင် ဆေးခြယ်ထားတာကို သိသလားလို့ သူက မေးပါတယ်” ဟု မိန်းကလေးက အရွဲ့တိုက်ပြီး ပြောလိုက်သည်။
+
+“ဘုရင်မင်းမြတ်၊ သူမပြောတာကို မယုံပါနဲ့” ဟု ဂျက်က အော်ပြောလိုက်သည်။
+
+“ငါလည်း မယုံပါဘူး” ဟု ကောက်ရိုးလူက အေးဆေးစွာ ပြန်ဖြေသည်။ ထို့နောက် မိန်းကလေးကို စူးစမ်းသည့်အကြည့်ဖြင့် ကြည့်ကာ—
+
+“မင်းက ဂီလီကင်နဲ့ မန်ချ်ကင် ဘာသာစကားနှစ်မျိုးလုံးကို သေချာနားလည်တယ်ဆိုတာ မှန်ရဲ့လား” ဟု မေးသည်။
+
+“သေချာပါတယ် ဘုရင်မင်းမြတ်” ဟု ဂျယ်လီယာဂျမ်က ရယ်မောချင်စိတ်ကို ထိန်းရင်း ပြန်ဖြေသည်။
+
+“ဒါဆို ငါက ဘာလို့ သူတို့နှစ်ယောက်ရဲ့ စကားကို ကိုယ်တိုင် နားလည်နေရတာလဲ” ဟု ကောက်ရိုးလူက မေးလိုက်သည်။
+
+“အဲဒီဘာသာစကားနှစ်မျိုးက တစ်မျိုးတည်း ဖြစ်နေလို့ပါ” ဟု မိန်းကလေးက ရယ်မောရင်း ပြောလိုက်သည်။ “အော့ဇ်နိုင်ငံတစ်ဝန်းလုံးမှာ ဘာသာစကားတစ်မျိုးတည်းပဲ ပြောကြတာကို ဘုရင်မင်းမြတ် မသိဘူးလား။”
+
+“တကယ်လား” ဟု ကောက်ရိုးလူက အလွန်စိတ်သက်သာရာရသွားပြီး အော်ပြောလိုက်သည်။ “ဒါဆို ငါကိုယ်တိုင် စကားပြန် လုပ်နိုင်ခဲ့တာပေါ့။”
+
+“ဒါက ကျွန်တော့်အမှားပါ ဘုရင်မင်းမြတ်” ဟု ဂျက်က အနည်းငယ် ရှက်ရွံ့သွားသည့်ပုံစံဖြင့် ပြောသည်။ “ကျွန်တော်တို့ နိုင်ငံမတူကြလို့ ဘာသာစကားလည်း မတူဘူးလို့ ထင်ခဲ့တာပါ။”
+
+“နောက်တစ်ခါ မစဉ်းစားမိဖို့ မင်းအတွက် သင်ခန်းစာတစ်ခု ဖြစ်သင့်တယ်” ဟု ကောက်ရိုးလူက တင်းမာစွာ ပြောသည်။ “ပညာရှိရှိ မစဉ်းစားတတ်ဘူးဆိုရင် ဘာမှမသိတဲ့ ရုပ်တုတစ်ရုပ်အဖြစ်ပဲ နေတာ ပိုကောင်းတယ်။ မင်းကတော့ အဲဒီလိုပဲ ဖြစ်နေတယ်။”
+
+“ဟုတ်ပါတယ်။ ကျွန်တော်က အဲဒီလိုပဲ ဖြစ်ပါတယ်” ဟု ဖရုံသီးခေါင်းလူက သဘောတူလိုက်သည်။
+
+“မင်းကို ဖန်တီးခဲ့တဲ့သူဟာ အရည်အသွေးမပြည့်မီတဲ့ လူတစ်ယောက်ကို ဖန်တီးဖို့အတွက် ကောင်းတဲ့ မုန့်တချို့ကို အလဟဿ ဖြုန်းတီးခဲ့ပုံရတယ်” ဟု ကောက်ရိုးလူက ပိုမိုနူးညံ့စွာ ဆက်ပြောသည်။
+
+“ကျွန်တော်ကတော့ ဖန်တီးပေးဖို့ တောင်းဆိုခဲ့တာ မဟုတ်ပါဘူး” ဟု ဂျက်က ပြန်ဖြေသည်။
+
+“အော်… ငါ့အခြေအနေလည်း အတူတူပါပဲ” ဟု ဘုရင်ကြီးက ပျော်ရွှင်စွာ ပြောလိုက်သည်။ “ဒါကြောင့် ငါတို့နှစ်ယောက်က သာမန်လူတွေနဲ့ မတူကြတဲ့အတွက် မိတ်ဆွေဖြစ်ကြရအောင်။”
+
+“စိတ်နှလုံးအကြွင်းမဲ့ သဘောတူပါတယ်” ဟု ဂျက်က အော်ပြောလိုက်သည်။
+
+“ဘာ! မင်းမှာ နှလုံးသား ရှိတယ်လား” ဟု ကောက်ရိုးလူက အံ့ဩစွာ မေးသည်။
+
+“မရှိပါဘူး။ အဲဒါက စိတ်ကူးယဉ်ပြီး ပြောလိုက်တဲ့ စကားပါ။ စကားပုံသဘောမျိုးပါပဲ” ဟု ဂျက်က ပြန်ဖြေသည်။
+
+“မင်းရဲ့ အထင်ရှားဆုံး ပုံသဏ္ဌာန်က သစ်သားနဲ့ ပြုလုပ်ထားတဲ့ ကိုယ်ထည်ပဲ ဖြစ်နေတယ်။ ဒါကြောင့် ဦးနှောက်မရှိတဲ့ မင်းအနေနဲ့ အလွန်အကျွံ စိတ်ကူးယဉ်တာကို ထိန်းထားဖို့ တောင်းဆိုရမယ်” ဟု ကောက်ရိုးလူက သတိပေးလိုက်သည်။
+
+“ဟုတ်ကဲ့” ဟု ဂျက်က ဘာကိုမှ သေချာနားမလည်ဘဲ ပြန်ဖြေလိုက်သည်။
+
+ထို့နောက် ဘုရင်မင်းမြတ်သည် ဂျယ်လီယာဂျမ်နှင့် အစိမ်းရောင်မုတ်ဆိတ်ရှည် စစ်သားတို့ကို ပြန်လွှတ်လိုက်သည်။ သူတို့ ထွက်သွားပြီးနောက် ဘုရင်ကြီးသည် မိတ်ဆွေအသစ်၏ လက်မောင်းကို ကိုင်ကာ အိမ်ဝင်းအတွင်းသို့ ခေါ်ဆောင်သွားပြီး ကွင်းပစ်ကစားနည်းတစ်ခုကို အတူကစားကြသည်။`,
+  }
 
 ] as const;
