@@ -764,7 +764,7 @@ export default function Home() {
                           setPendingPage(null);
                           setPageTurnDirection(null);
                           setReaderChapterIndex(previousIndex);
-                          setReaderPage(Math.max(0, previousPages.length - 1));
+                          setReaderPage(0);
                           setReaderIntroComplete(true);
                           setReaderFinished(false);
                         }
