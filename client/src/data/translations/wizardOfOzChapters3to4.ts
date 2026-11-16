@@ -4081,6 +4081,10 @@ Dorothy stood up and found she was in her stocking-feet. For the Silver Shoes ha
 
 “အော့ဇ်နိုင်ငံက ပြန်လာတာပါ” ဟု ဒေါ်ရသီက တည်ငြိမ်စွာ ပြန်ဖြေသည်။ “တိုတိုလည်း ပါလာတယ် အဒေါ်အမ်ရေ။ အိမ်ကို ပြန်ရောက်လာလို့ ကျွန်မ ဘယ်လောက်ဝမ်းသာနေသလဲဆိုတာ ပြောမပြတတ်တော့ပါဘူး။”
 
+THARi BOOKS စီးရီးမှတ်ချက်
+
+ဤနေရာတွင် The Wonderful Wizard of Oz ၏ မူရင်းဇာတ်လမ်း ပြီးဆုံးပါသည်။ သို့သော် အော့ဇ်ကမ္ဘာအကြောင်း စွန့်စားခန်းများသည် ဤစာအုပ်တစ်အုပ်တည်းဖြင့် မပြီးဆုံးသေးပါ။ L. Frank Baum ၏ ဒုတိယစာအုပ် The Marvelous Land of Oz (1904) တွင် အော့ဇ်ကမ္ဘာ၏ ဇာတ်လမ်းများ ဆက်လက်ဖော်ပြထားပါသည်။ ၎င်းသည် သီးခြားစာအုပ်တစ်အုပ်ဖြစ်ပြီး ဤစာအုပ်၏ ဇာတ်သိမ်းအပိုင်း မဟုတ်ပါ။ THARi BOOKS ၏ နောက်တွဲစာအုပ်အဖြစ် သီးခြားထည့်သွင်းဖော်ပြနိုင်ရန် မှတ်သားထားပါသည်။
+
 THARi BOOKS မှ ကျေးဇူးတင်စကား
 
 ဤစာအုပ်ကို အချိန်ပေးဖတ်ရှုပေးခဲ့တဲ့ စာဖတ်သူတစ်ဦးချင်းစီတိုင်းကို THARi BOOKS မှ အထူးကျေးဇူးတင်ရှိပါတယ်။ စာအုပ်ထဲက စိတ်ကူးအတွေးများ၊ သင်ခန်းစာများနဲ့ စွန့်စားခန်းများက သင့်ရဲ့နေ့ရက်တွေကို အဓိပ္ပာယ်ရှိစေပြီး အသိပညာအသစ်တွေ ရရှိစေမယ်လို့ မျှော်လင့်ပါတယ်။ နောက်ထပ်စာအုပ်ကောင်းများနဲ့လည်း ပြန်လည်ဆုံတွေ့ကြပါစေ။
@@ -4092,6 +4096,10 @@ THARi BOOKS ဆောင်ပုဒ်
 
 “My darling child!” she cried, folding the little girl in her arms and covering her face with kisses. “Where in the world did you come from?”
 
-“From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I’m so glad to be at home again!”`,
+“From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I’m so glad to be at home again!”
+
+THARi BOOKS SERIES NOTE
+
+The original story of The Wonderful Wizard of Oz ends here. However, the stories set in the Land of Oz continue beyond this book. L. Frank Baum’s second Oz book, The Marvelous Land of Oz (1904), continues the wider story of Oz in a separate novel. It is not an additional ending or chapter of this book. THARi BOOKS has noted it as a possible future volume in the series.`,
   },
 ] as const;
