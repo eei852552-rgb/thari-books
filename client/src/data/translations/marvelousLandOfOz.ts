@@ -804,5 +804,315 @@ Immediately the saw-horse moved, stretched its legs, yawned with its chopped-out
 
 “အံ့ဩစရာပဲ” ဟု ဂျက်က အော်ပြောလိုက်သည်။ ကောင်လေးက အံ့အားသင့်စွာ ကြည့်နေစဉ် သူက ဆက်ပြောသည်။ “အဖေက အလွန်တော်တဲ့ မှော်ပညာရှင်ပဲ။”`,
   }
+,
+  {
+    number: 5,
+    title: "အခန်း (၅) — သစ်သားလွှမြင်း အသက်ဝင်လာခြင်း",
+    titleEn: "Chapter 5 — The Awakening of the Saw-Horse",
+    contentEn: `The Saw-Horse, finding himself alive, seemed even more astonished than Tip. He rolled his knotty eyes from side to side, taking a first wondering view of the world in which he had now so important an existence. Then he tried to look at himself; but he had, indeed, no neck to turn; so that in the endeavor to see his body he kept circling around and around, without catching even a glimpse of it. His legs were stiff and awkward, for there were no knee-joints in them; so that presently he bumped against Jack Pumpkinhead and sent that personage tumbling upon the moss that lined the roadside.
+
+Tip became alarmed at this accident, as well as at the persistence of the Saw-Horse in prancing around in a circle; so he called out:
+
+“Whoa! Whoa, there!”
+
+The Saw-Horse paid no attention whatever to this command, and the next instant brought one of his wooden legs down upon Tip’s foot so forcibly that the boy danced away in pain to a safer distance, from where he again yelled:
+
+“Whoa! Whoa, I say!”
+
+Jack had now managed to raise himself to a sitting position, and he looked at the Saw-Horse with much interest.
+
+“I don’t believe the animal can hear you,” he remarked.
+
+“I shout loud enough, don’t I?” answered Tip, angrily.
+
+“Yes; but the horse has no ears,” said the smiling Pumpkinhead.
+
+“Sure enough!” exclaimed Tip, noting the fact for the first time. “How, then, am I going to stop him?”
+
+But at that instant the Saw-Horse stopped himself, having concluded it was impossible to see his own body. He saw Tip, however, and came close to the boy to observe him more fully.
+
+It was really comical to see the creature walk; for it moved the legs on its right side together, and those on its left side together, as a pacing horse does; and that made its body rock sidewise, like a cradle.
+
+Tip patted it upon the head, and said “Good boy! Good Boy!” in a coaxing tone; and the Saw-Horse pranced away to examine with its bulging eyes the form of Jack Pumpkinhead.
+
+“I must find a halter for him,” said Tip; and having made a search in his pocket he produced a roll of strong cord. Unwinding this, he approached the Saw-Horse and tied the cord around its neck, afterward fastening the other end to a large tree. The Saw-Horse, not understanding the action, stepped backward and snapped the string easily; but it made no attempt to run away.
+
+“He’s stronger than I thought,” said the boy, “and rather obstinate, too.”
+
+“Why don’t you make him some ears?” asked Jack. “Then you can tell him what to do.”
+
+“That’s a splendid idea!” said Tip. “How did you happen to think of it?”
+
+“Why, I didn’t think of it,” answered the Pumpkinhead; “I didn’t need to, for it’s the simplest and easiest thing to do.”
+
+So Tip got out his knife and fashioned some ears out of the bark of a small tree.
+
+“I mustn’t make them too big,” he said, as he whittled, “or our horse would become a donkey.”
+
+“How is that?” inquired Jack, from the roadside.
+
+“Why, a horse has bigger ears than a man; and a donkey has bigger ears than a horse,” explained Tip.
+
+“Then, if my ears were longer, would I be a horse?” asked Jack.
+
+“My friend,” said Tip, gravely, “you’ll never be anything but a Pumpkinhead, no matter how big your ears are.”
+
+“Oh,” returned Jack, nodding; “I think I understand.”
+
+“If you do, you’re a wonder,” remarked the boy “but there’s no harm in thinking you understand. I guess these ears are ready now. Will you hold the horse while I stick them on?”
+
+“Certainly, if you’ll help me up,” said Jack.
+
+So Tip raised him to his feet, and the Pumpkinhead went to the horse and held its head while the boy bored two holes in it with his knife-blade and inserted the ears.
+
+“They make him look very handsome,” said Jack, admiringly.
+
+But those words, spoken close to the Saw-Horse, and being the first sounds he had ever heard, so startled the animal that he made a bound forward and tumbled Tip on one side and Jack on the other. Then he continued to rush forward as if frightened by the clatter of his own foot-steps.
+
+“Whoa!” shouted Tip, picking himself up; “whoa! you idiot—whoa!” The Saw-Horse would probably have paid no attention to this, but just then it stepped a leg into a gopher-hole and stumbled head-over-heels to the ground, where it lay upon its back, frantically waving its four legs in the air.
+
+Tip ran up to it.
+
+“You’re a nice sort of a horse, I must say!” he exclaimed. “Why didn’t you stop when I yelled ‘whoa?’”
+
+“Does ‘whoa’ mean to stop?” asked the Saw-Horse, in a surprised voice, as it rolled its eyes upward to look at the boy.
+
+“Of course it does,” answered Tip.
+
+“And a hole in the ground means to stop, also, doesn’t it?” continued the horse.
+
+“To be sure; unless you step over it,” said Tip.
+
+“What a strange place this is,” the creature exclaimed, as if amazed. “What am I doing here, anyway?”
+
+“Why, I’ve brought you to life,” answered the boy “but it won’t hurt you any, if you mind me and do as I tell you.”
+
+“Then I will do as you tell me,” replied the Saw-Horse, humbly. “But what happened to me, a moment ago? I don’t seem to be just right, someway.”
+
+“You’re upside down,” explained Tip. “But just keep those legs still a minute and I’ll set you right side up again.”
+
+“How many sides have I?” asked the creature, wonderingly.
+
+“Several,” said Tip, briefly. “But do keep those legs still.”
+
+The Saw-Horse now became quiet, and held its legs rigid; so that Tip, after several efforts, was able to roll him over and set him upright.
+
+“Ah, I seem all right now,” said the queer animal, with a sigh.
+
+“One of your ears is broken,” Tip announced, after a careful examination. “I’ll have to make a new one.”
+
+Then he led the Saw-Horse back to where Jack was vainly struggling to regain his feet, and after assisting the Pumpkinhead to stand upright Tip whittled out a new ear and fastened it to the horse’s head.
+
+“Now,” said he, addressing his steed, “pay attention to what I’m going to tell you. ‘Whoa!’ means to stop; ‘Get-Up!’ means to walk forward; ‘Trot!’ means to go as fast as you can. Understand?”
+
+“I believe I do,” returned the horse.
+
+“Very good. We are all going on a journey to the Emerald City, to see His Majesty, the Scarecrow; and Jack Pumpkinhead is going to ride on your back, so he won’t wear out his joints.”
+
+“I don’t mind,” said the Saw-Horse. “Anything that suits you suits me.”
+
+Then Tip assisted Jack to get upon the horse.
+
+“Hold on tight,” he cautioned, “or you may fall off and crack your pumpkin head.”
+
+“That would be horrible!” said Jack, with a shudder. “What shall I hold on to?”
+
+“Why, hold on to his ears,” replied Tip, after a moment’s hesitation.
+
+“Don’t do that!” remonstrated the Saw-Horse; “for then I can’t hear.”
+
+That seemed reasonable, so Tip tried to think of something else.
+
+“I’ll fix it!” said he, at length. He went into the wood and cut a short length of limb from a young, stout tree. One end of this he sharpened to a point, and then he dug a hole in the back of the Saw-Horse, just behind its head. Next he brought a piece of rock from the road and hammered the post firmly into the animal’s back.
+
+“Stop! Stop!” shouted the horse; “you’re jarring me terribly.”
+
+“Does it hurt?” asked the boy.
+
+“Not exactly hurt,” answered the animal; “but it makes me quite nervous to be jarred.”
+
+“Well, it’s all over now,” said Tip, encouragingly. “Now, Jack, be sure to hold fast to this post and then you can’t fall off and get smashed.”
+
+So Jack held on tight, and Tip said to the horse:
+
+“Get up.”
+
+The obedient creature at once walked forward, rocking from side to side as he raised his feet from the ground.
+
+Tip walked beside the Saw-Horse, quite content with this addition to their party. Presently he began to whistle.
+
+“What does that sound mean?” asked the horse.
+
+“Don’t pay any attention to it,” said Tip. “I’m just whistling, and that only means I’m pretty well satisfied.”
+
+“I’d whistle myself, if I could push my lips together,” remarked Jack. “I fear, dear father, that in some respects I am sadly lacking.”
+
+After journeying on for some distance the narrow path they were following turned into a broad roadway, paved with yellow brick. By the side of the road Tip noticed a sign-post that read:
+
+“NINE MILES TO THE EMERALD CITY.”
+
+But it was now growing dark, so he decided to camp for the night by the roadside and to resume the journey next morning by daybreak. He led the Saw-Horse to a grassy mound upon which grew several bushy trees, and carefully assisted the Pumpkinhead to alight.
+
+“I think I’ll lay you upon the ground, overnight,” said the boy. “You will be safer that way.”
+
+“How about me?” asked the Saw-Horse.
+
+“It won’t hurt you to stand,” replied Tip; “and, as you can’t sleep, you may as well watch out and see that no one comes near to disturb us.”
+
+Then the boy stretched himself upon the grass beside the Pumpkinhead, and being greatly wearied by the journey was soon fast asleep.`,
+    content: `သစ်သားလွှမြင်းသည် မိမိ အသက်ဝင်လာကြောင်း သိလိုက်ရသောအခါ တစ်ပ်ထက်ပင် ပိုမိုအံ့ဩနေသည့်ပုံပေါ်သည်။ သူသည် မျက်လုံးအဖြစ် အသုံးပြုထားသော သစ်သားအဖုလေးများကို ဘယ်ညာ လှည့်ကြည့်ကာ ယခုအခါ အရေးပါသော အသက်ရှင်သူတစ်ဦးအဖြစ် ရောက်ရှိလာသည့် ကမ္ဘာကြီးကို ပထမဆုံးအကြိမ် အံ့အားသင့်စွာ ကြည့်ရှုနေသည်။ ထို့နောက် မိမိကိုယ်ကို ပြန်ကြည့်ရန် ကြိုးစားသည်။ သို့သော် လည်ပင်းမရှိသောကြောင့် ကိုယ်ထည်ကို မြင်နိုင်ရန် ကြိုးစားရင်း တစ်နေရာတည်းတွင် ပတ်ချာလည် လှည့်နေခဲ့သည်။ သူ၏ ခြေထောက်များမှာ ဒူးဆစ်မပါသဖြင့် တောင့်တင်းပြီး လှုပ်ရှားရခက်ခဲသည်။ ထို့ကြောင့် မကြာမီ ဂျက် ဖရုံသီးခေါင်းနှင့် တိုက်မိသွားပြီး လမ်းဘေးရှိ ရေညှိများပေါ်သို့ လဲကျစေလိုက်သည်။
+
+ထိုမတော်တဆမှုနှင့် သစ်သားလွှမြင်းက ဆက်လက်၍ ပတ်ချာလည် လှည့်နေခြင်းတို့ကြောင့် တစ်ပ် စိုးရိမ်သွားပြီး—
+
+“ဟိုင်း… ရပ်တော့။ ရပ်တော့” ဟု အော်လိုက်သည်။
+
+သို့သော် သစ်သားလွှမြင်းသည် ထိုအမိန့်ကို လုံးဝ ဂရုမစိုက်ခဲ့ပါ။ နောက်တစ်ခဏတွင် သူ၏ သစ်သားခြေထောက်တစ်ဖက်ကို တစ်ပ်၏ ခြေဖဝါးပေါ်သို့ အားပြင်းစွာ ချလိုက်သဖြင့် ကောင်လေးသည် နာကျင်မှုကြောင့် ခုန်ရှောင်ကာ ပိုမိုလုံခြုံသော နေရာသို့ ရွှေ့သွားပြီး ထပ်မံအော်လိုက်သည်။
+
+“ရပ်တော့လို့ ပြောနေတယ်လေ။”
+
+ဂျက်သည် ယခုအခါ ထိုင်နိုင်သည့် အနေအထားသို့ ရောက်လာပြီး သစ်သားလွှမြင်းကို စိတ်ဝင်တစား ကြည့်နေသည်။
+
+“ဒီတိရစ္ဆာန်က ခင်ဗျားပြောတာကို ကြားနိုင်မယ် မထင်ဘူး” ဟု သူက မှတ်ချက်ပြုသည်။
+
+“ငါ အော်တာ လုံလောက်အောင် ကျယ်တယ် မဟုတ်လား” ဟု တစ်ပ်က ဒေါသတကြီး ပြန်မေးသည်။
+
+“ဟုတ်ပါတယ်။ ဒါပေမဲ့ မြင်းမှာ နားမရှိဘူးလေ” ဟု ပြုံးနေသော ဖရုံသီးခေါင်းလူက ပြောလိုက်သည်။
+
+“ဟုတ်သားပဲ” ဟု တစ်ပ်က အံ့ဩစွာ ပြောသည်။ “ဒါဆို သူ့ကို ဘယ်လိုရပ်ခိုင်းရမလဲ။”
+
+ထိုအချိန်တွင် သစ်သားလွှမြင်းသည် မိမိကိုယ်ကို မြင်ရန် မဖြစ်နိုင်ကြောင်း သဘောပေါက်သွားသဖြင့် သူ့ဘာသာ ရပ်တန့်လိုက်သည်။ သို့သော် တစ်ပ်ကို မြင်လိုက်ရသောအခါ ကောင်လေးကို ပိုမိုသေချာစွာ ကြည့်ရန် အနီးသို့ ချဉ်းကပ်လာသည်။
+
+ထိုသတ္တဝါ လမ်းလျှောက်ပုံမှာ အလွန်ရယ်စရာကောင်းသည်။ သူသည် မြင်းတစ်ကောင် လမ်းလျှောက်သကဲ့သို့ ညာဘက်ခြေထောက်နှစ်ချောင်းကို အတူတူ လှုပ်ရှားပြီး ဘယ်ဘက်ခြေထောက်နှစ်ချောင်းကိုလည်း အတူတူ လှုပ်ရှားသည်။ ထို့ကြောင့် သူ၏ ကိုယ်ထည်သည် ပုခက်တစ်ခုကဲ့သို့ ဘေးတိုက် ယိမ်းနွဲ့နေသည်။
+
+တစ်ပ်သည် သူ၏ ခေါင်းကို ပုတ်ပေးကာ ချော့မော့သော အသံဖြင့် “လိမ္မာလိုက်တဲ့ မြင်းလေး။ တော်လိုက်တာ” ဟု ပြောလိုက်သည်။ ထို့နောက် သစ်သားလွှမြင်းသည် မျက်လုံးအဖုကြီးများဖြင့် ဂျက် ဖရုံသီးခေါင်း၏ ပုံစံကို စူးစမ်းကြည့်ရန် လျှောက်သွားသည်။
+
+“သူ့အတွက် ဇက်ကြိုးတစ်ခု ရှာရမယ်” ဟု တစ်ပ်က ပြောပြီး အိတ်ကပ်ထဲတွင် ရှာဖွေလိုက်ရာ ခိုင်ခံ့သော ကြိုးခွေတစ်ခုကို ထုတ်ယူနိုင်ခဲ့သည်။ ကြိုးကို ဖြည်ပြီး မြင်းအနီးသို့ သွားကာ လည်ပင်းပတ်လည်တွင် ချည်လိုက်သည်။ ထို့နောက် ကြိုး၏ အခြားတစ်ဖက်ကို သစ်ပင်ကြီးတစ်ပင်တွင် ချည်ထားလိုက်သည်။ သစ်သားလွှမြင်းသည် ထိုလုပ်ရပ်၏ အဓိပ္ပာယ်ကို နားမလည်သဖြင့် နောက်သို့ ဆုတ်လိုက်ရာ ကြိုးသည် အလွယ်တကူ ပြတ်သွားသည်။ သို့သော် သူသည် ထွက်ပြေးရန်တော့ မကြိုးစားခဲ့ပါ။
+
+“သူက ငါထင်ထားတာထက် ပိုသန်မာတယ်။ နည်းနည်းလည်း ခေါင်းမာတယ်” ဟု တစ်ပ်က ပြောသည်။
+
+“သူ့ကို နားလေးတွေ လုပ်ပေးလိုက်ပါလား။ ဒါဆို သူ့ကို ဘာလုပ်ရမယ်ဆိုတာ ပြောပြလို့ရပြီ” ဟု ဂျက်က အကြံပေးသည်။
+
+“အဲဒါ အကြံကောင်းပဲ။ မင်း ဘယ်လိုစဉ်းစားမိတာလဲ” ဟု တစ်ပ်က ဝမ်းသာစွာ မေးသည်။
+
+“ကျွန်တော် စဉ်းစားခဲ့တာ မဟုတ်ပါဘူး။ စဉ်းစားစရာတောင် မလိုဘူးလေ။ အဲဒါက အလွယ်ကူဆုံးနဲ့ အရိုးရှင်းဆုံး အလုပ်ပဲ” ဟု ဖရုံသီးခေါင်းလူက ပြန်ဖြေသည်။
+
+ထို့ကြောင့် တစ်ပ်သည် ဓားကို ထုတ်ယူပြီး သစ်ပင်ငယ်တစ်ပင်၏ အခေါက်မှ နားနှစ်ဖက်ကို ပုံဖော်ပြုလုပ်လိုက်သည်။
+
+“နားတွေကို အရမ်းမကြီးအောင် လုပ်ရမယ်။ မဟုတ်ရင် ငါတို့မြင်းက မြည်းဖြစ်သွားလိမ့်မယ်” ဟု ပုံဖော်နေစဉ် သူက ပြောသည်။
+
+“ဘာကြောင့်လဲ” ဟု လမ်းဘေးမှ ဂျက်က မေးသည်။
+
+“မြင်းရဲ့ နားက လူရဲ့နားထက် ပိုကြီးတယ်။ မြည်းရဲ့ နားကတော့ မြင်းရဲ့နားထက် ပိုကြီးတယ်” ဟု တစ်ပ်က ရှင်းပြသည်။
+
+“ဒါဆို ကျွန်တော့်နားတွေ ပိုရှည်လာရင် မြင်းဖြစ်သွားမှာလား” ဟု ဂျက်က မေးပြန်သည်။
+
+“မိတ်ဆွေရေ၊ မင်းနားတွေ ဘယ်လောက်ကြီးကြီး ဖရုံသီးခေါင်းလူကလွဲပြီး ဘာမှ ဖြစ်လာမှာ မဟုတ်ဘူး” ဟု တစ်ပ်က တည်ကြည်စွာ ပြောလိုက်သည်။
+
+“အော်… နားလည်ပါပြီ” ဟု ဂျက်က ခေါင်းညိတ်ပြသည်။
+
+“တကယ်နားလည်တယ်ဆိုရင်တော့ မင်းက အံ့ဩစရာပဲ။ ဒါပေမဲ့ နားလည်တယ်လို့ ထင်နေတာလည်း မမှားပါဘူး။ နားတွေ အဆင်သင့်ဖြစ်ပြီထင်တယ်။ ငါ တပ်နေတုန်း မြင်းကို ကိုင်ထားပေးမလား” ဟု တစ်ပ်က မေးသည်။
+
+“ရပါတယ်။ ဒါပေမဲ့ အရင်ဆုံး ကျွန်တော့်ကို မတ်တတ်ရပ်နိုင်အောင် ကူညီပေးပါ” ဟု ဂျက်က ပြန်ဖြေသည်။
+
+တစ်ပ်သည် သူ့ကို မတ်တတ်ရပ်စေပြီးနောက် ဂျက်က မြင်းဆီသို့ သွားကာ ခေါင်းကို ကိုင်ထားပေးသည်။ ထိုအချိန်တွင် တစ်ပ်သည် ဓားဖျားဖြင့် အပေါက်နှစ်ပေါက် ဖောက်ပြီး နားနှစ်ဖက်ကို ထည့်တပ်လိုက်သည်။
+
+“အခုတော့ အလွန်ချောမောသွားပြီ” ဟု ဂျက်က သဘောကျစွာ ပြောလိုက်သည်။
+
+သို့သော် သစ်သားလွှမြင်းအနီးတွင် ပြောလိုက်သော ထိုစကားသည် သူကြားဖူးသမျှ ပထမဆုံးအသံဖြစ်နေသဖြင့် အလွန်ထိတ်လန့်သွားသည်။ မြင်းသည် ရှေ့သို့ ခုန်တက်လိုက်ရာ တစ်ပ်တစ်ဖက်၊ ဂျက်တစ်ဖက် လဲကျသွားကြသည်။ ထို့နောက် မိမိ၏ ခြေသံများကိုပင် ကြောက်လန့်နေသကဲ့သို့ အရှိန်ပြင်းပြင်းဖြင့် ဆက်ပြေးသွားခဲ့သည်။
+
+“ရပ်တော့” ဟု တစ်ပ်က ထပြီး အော်လိုက်သည်။ “ရပ်တော့။ မိုက်မဲတဲ့ မြင်းရေ၊ ရပ်တော့။” သစ်သားလွှမြင်းသည် ထိုအမိန့်ကိုလည်း လျစ်လျူရှုမည်ဖြစ်သော်လည်း ထိုအချိန်တွင် မြေခွေးပေါက်တစ်ခုထဲသို့ ခြေထောက်တစ်ဖက် ကျသွားပြီး ခေါင်းပေါ်မှောက်လျက် မြေပြင်ပေါ်သို့ လဲကျသွားသည်။ ထို့နောက် ကျောပေါ်လှန်လျက် ခြေထောက်လေးချောင်းလုံးကို လေထဲတွင် အလျင်အမြန် ယမ်းခါနေတော့သည်။
+
+တစ်ပ်သည် သူ့ထံသို့ ပြေးသွားသည်။
+
+“မင်းက မြင်းကောင်းတစ်ကောင်ပဲလို့ ပြောရတော့မှာပဲ။ ငါ ‘ရပ်တော့’ လို့ အော်တုန်းက ဘာလို့ မရပ်ခဲ့တာလဲ” ဟု သူက မေးလိုက်သည်။
+
+“‘ရပ်တော့’ ဆိုတာ ရပ်ဖို့ အဓိပ္ပာယ်လား” ဟု သစ်သားလွှမြင်းက အံ့ဩစွာ မေးသည်။
+
+“ဒါပေါ့” ဟု တစ်ပ်က ပြန်ဖြေသည်။
+
+“ဒါဆို မြေကြီးပေါ်က အပေါက်တစ်ခုကလည်း ရပ်ရမယ်လို့ ဆိုလိုတာ မဟုတ်ဘူးလား” ဟု မြင်းက ဆက်မေးသည်။
+
+“အဲဒီအပေါက်ကို ကျော်မသွားဘူးဆိုရင်တော့ ဟုတ်တာပေါ့” ဟု တစ်ပ်က ပြောသည်။
+
+“ဒီနေရာက ဘယ်လောက်ထူးဆန်းလိုက်သလဲ။ ငါ ဒီမှာ ဘာလုပ်နေတာလဲ” ဟု ထိုသတ္တဝါက အံ့အားသင့်စွာ မေးလိုက်သည်။
+
+“ငါက မင်းကို အသက်ဝင်လာအောင် လုပ်ပေးခဲ့တာ။ ဒါပေမဲ့ ငါပြောတာကို နားထောင်ပြီး လိုက်နာမယ်ဆိုရင် မင်းအတွက် ဘာအန္တရာယ်မှ မရှိပါဘူး” ဟု တစ်ပ်က ပြန်ဖြေသည်။
+
+“ဒါဆို ခင်ဗျားပြောတာကို လိုက်နာပါမယ်” ဟု သစ်သားလွှမြင်းက နှိမ့်ချစွာ ပြန်ဖြေသည်။ “ဒါပေမဲ့ ခုနက ကျွန်တော် ဘာဖြစ်သွားတာလဲ။ တစ်ခုခုတော့ မမှန်သလိုပဲ။”
+
+“မင်းက ဇောက်ထိုးဖြစ်နေတာ” ဟု တစ်ပ်က ရှင်းပြသည်။ “ခြေထောက်တွေကို ခဏငြိမ်ငြိမ်ထား။ ငါ မင်းကို ပြန်မတ်တတ်ရပ်ပေးမယ်။”
+
+“ကျွန်တော့်မှာ ဘယ်နှစ်ဖက် ရှိတာလဲ” ဟု သတ္တဝါက အံ့ဩစွာ မေးသည်။
+
+“အတော်များများပဲ။ ဒါပေမဲ့ ခြေထောက်တွေကို ငြိမ်ငြိမ်ထားပါဦး” ဟု တစ်ပ်က တိုတိုတုတ်တုတ် ပြောလိုက်သည်။
+
+သစ်သားလွှမြင်းသည် ငြိမ်သက်သွားပြီး ခြေထောက်များကို တောင့်တင်းစွာ ထားလိုက်သည်။ ထို့ကြောင့် တစ်ပ်သည် အကြိမ်ကြိမ် ကြိုးစားပြီးနောက် သူ့ကို ပြန်လှန်ကာ မတ်တတ်ရပ်စေနိုင်ခဲ့သည်။
+
+“အခုတော့ အဆင်ပြေသွားပြီထင်တယ်” ဟု ထူးဆန်းသော တိရစ္ဆာန်က သက်ပြင်းချရင်း ပြောသည်။
+
+“မင်းရဲ့ နားတစ်ဖက် ကျိုးသွားပြီ” ဟု တစ်ပ်က သေချာစွာ စစ်ဆေးပြီးနောက် ပြောသည်။ “နားအသစ်တစ်ဖက် လုပ်ပေးရတော့မယ်။”
+
+ထို့နောက် သူသည် သစ်သားလွှမြင်းကို ဂျက်ရှိရာသို့ ပြန်ခေါ်သွားသည်။ ဂျက်သည် မတ်တတ်ပြန်ရပ်နိုင်ရန် ကြိုးစားနေသော်လည်း မအောင်မြင်သေးပါ။ တစ်ပ်က ဖရုံသီးခေါင်းလူကို ကူညီပေးပြီးနောက် နားအသစ်တစ်ဖက်ကို ထွင်းကာ မြင်းခေါင်းတွင် တပ်ဆင်ပေးလိုက်သည်။
+
+“အခု ငါပြောမယ့်အရာကို သေချာနားထောင်ပါ။ ‘ရပ်တော့’ ဆိုတာ ရပ်ဖို့၊ ‘ရှေ့သွား’ ဆိုတာ ရှေ့ကို လျှောက်ဖို့၊ ‘ပြေး’ ဆိုတာ အမြန်ဆုံး သွားဖို့ ဖြစ်တယ်။ နားလည်လား” ဟု တစ်ပ်က မိမိ၏ မြင်းကို ပြောလိုက်သည်။
+
+“နားလည်ပြီလို့ ထင်ပါတယ်” ဟု မြင်းက ပြန်ဖြေသည်။
+
+“ကောင်းပြီ။ ငါတို့အားလုံး ဘုရင်မင်းမြတ် ကောက်ရိုးလူကို တွေ့ဖို့ မြမြို့တော်ကို ခရီးသွားကြမယ်။ ဂျက် ဖရုံသီးခေါင်းက မင်းကျောပေါ်မှာ စီးသွားမယ်။ ဒါဆို သူ့အဆစ်တွေ ဟောင်းနွမ်းသွားမှာ မဟုတ်တော့ဘူး။”
+
+“ကျွန်တော်ကတော့ ကိစ္စမရှိပါဘူး။ ခင်ဗျားတို့ အဆင်ပြေတယ်ဆိုရင် ကျွန်တော်လည်း အဆင်ပြေပါတယ်” ဟု သစ်သားလွှမြင်းက ပြောသည်။
+
+ထို့နောက် တစ်ပ်သည် ဂျက်ကို မြင်းကျောပေါ်သို့ တက်စေရန် ကူညီပေးလိုက်သည်။
+
+“မြဲမြဲကိုင်ထားပါ။ မဟုတ်ရင် ပြုတ်ကျပြီး မင်းရဲ့ ဖရုံသီးခေါင်း ကွဲသွားနိုင်တယ်” ဟု သူက သတိပေးသည်။
+
+“အဲဒါတော့ ကြောက်စရာကောင်းလိုက်တာ။ ဒါဆို ဘာကို ကိုင်ထားရမလဲ” ဟု ဂျက်က တုန်လှုပ်သည့်အသံဖြင့် မေးသည်။
+
+“သူ့နားကို ကိုင်ထားပေါ့” ဟု တစ်ပ်က ခဏမျှ စဉ်းစားပြီး ပြောလိုက်သည်။
+
+“အဲဒါတော့ မလုပ်ပါနဲ့။ အဲဒီလိုဆိုရင် ကျွန်တော် မကြားနိုင်တော့ဘူး” ဟု သစ်သားလွှမြင်းက ကန့်ကွက်သည်။
+
+ထိုစကားမှာ အကြောင်းရှိသဖြင့် တစ်ပ်သည် အခြားနည်းလမ်းတစ်ခုကို စဉ်းစားလိုက်သည်။
+
+“ငါ စီစဉ်ပေးမယ်” ဟု နောက်ဆုံးတွင် သူက ပြောသည်။ ထို့နောက် တောထဲသို့ သွားပြီး သစ်ပင်ငယ်တစ်ပင်မှ ခိုင်ခံ့သော အကိုင်းတိုတစ်ချောင်းကို ခုတ်ယူလာသည်။ တစ်ဖက်ကို ချွန်အောင် ပြုလုပ်ပြီး သစ်သားလွှမြင်း၏ ကျောဘက်၊ ခေါင်းနောက်နားတွင် အပေါက်တစ်ခု ဖောက်လိုက်သည်။ ထို့နောက် လမ်းဘေးမှ ကျောက်တုံးတစ်တုံးကို ယူလာကာ ထိုသစ်သားတိုင်ကို မြင်းကျောတွင် ခိုင်မြဲစွာ တပ်ဆင်လိုက်သည်။
+
+“ရပ်ပါဦး။ ရပ်ပါဦး။ ကျွန်တော့်ကို အရမ်းလှုပ်ခါနေတယ်” ဟု မြင်းက အော်လိုက်သည်။
+
+“နာသလား” ဟု ကောင်လေးက မေးသည်။
+
+“နာတာတော့ မဟုတ်ပါဘူး။ ဒါပေမဲ့ ဒီလို လှုပ်ခါခံရတာက ကျွန်တော့်ကို စိတ်လှုပ်ရှားစေတယ်” ဟု သတ္တဝါက ပြန်ဖြေသည်။
+
+“ကဲ… အခုတော့ ပြီးသွားပြီ” ဟု တစ်ပ်က အားပေးလိုက်သည်။ “ဂျက်ရေ၊ ဒီတိုင်ကို မြဲမြဲကိုင်ထားပါ။ ဒါဆို ပြုတ်ကျပြီး ပျက်စီးသွားမှာ မဟုတ်တော့ဘူး။”
+
+ဂျက်သည် တိုင်ကို မြဲမြဲကိုင်ထားလိုက်ပြီး တစ်ပ်က မြင်းကို—
+
+“ရှေ့သွား” ဟု အမိန့်ပေးလိုက်သည်။
+
+နာခံတတ်သော သစ်သားလွှမြင်းသည် ခြေထောက်များကို မြေပြင်မှ ကြွကာ ဘယ်ညာယိမ်းနွဲ့လျက် ချက်ချင်း ရှေ့သို့ လျှောက်သွားသည်။
+
+တစ်ပ်သည် ပါတီထဲသို့ အဖော်အသစ်တစ်ဦး ထပ်တိုးလာသဖြင့် ကျေနပ်စွာ မြင်းဘေးမှ လိုက်လျှောက်နေသည်။ ခဏအကြာတွင် သူသည် လေချွန်စတင်မှုတ်လိုက်သည်။
+
+“အဲဒီအသံက ဘာကို ဆိုလိုတာလဲ” ဟု မြင်းက မေးသည်။
+
+“အဲဒါကို ဂရုမစိုက်ပါနဲ့။ ငါ လေချွန်နေတာပဲ။ အဲဒါက ငါ အတော်ကျေနပ်နေတယ်ဆိုတဲ့ အဓိပ္ပာယ်ပဲ” ဟု တစ်ပ်က ပြောသည်။
+
+“ကျွန်တော်လည်း နှုတ်ခမ်းကို စုနိုင်မယ်ဆိုရင် လေချွန်ချင်ပါတယ်” ဟု ဂျက်က ပြောသည်။ “အဖေရေ၊ တချို့အရာတွေမှာ ကျွန်တော် အတော်လေး ချို့တဲ့နေတယ်ထင်ပါတယ်။”
+
+ခရီးအတော်ဝေးဝေး သွားပြီးနောက် သူတို့ လိုက်လာခဲ့သော လမ်းကျဉ်းလေးသည် အဝါရောင်အုတ်ခဲများ ခင်းထားသော လမ်းမကြီးကျယ်တစ်ခုအဖြစ် ပြောင်းလဲသွားသည်။ လမ်းဘေးရှိ ဆိုင်းဘုတ်တစ်ခုတွင်—
+
+“မြမြို့တော်သို့ ၉ မိုင်”
+
+ဟု ရေးသားထားသည်။
+
+သို့သော် ညနေမှောင်လာပြီဖြစ်သဖြင့် တစ်ပ်သည် ထိုညအတွက် လမ်းဘေးတွင် စခန်းချပြီး နောက်တစ်နေ့ မိုးလင်းသည်နှင့် ခရီးပြန်ဆက်ရန် ဆုံးဖြတ်လိုက်သည်။ သူသည် သစ်ပင်ချုံများ ပေါက်နေသော မြက်ခင်းတောင်ကုန်းလေးတစ်ခုဆီ သစ်သားလွှမြင်းကို ခေါ်သွားပြီး ဖရုံသီးခေါင်းလူကို ဂရုတစိုက် ဆင်းစေခဲ့သည်။
+
+“ဒီညတော့ မင်းကို မြေပြင်ပေါ်မှာ လှဲထားလိုက်မယ်။ အဲဒါက ပိုလုံခြုံတယ်” ဟု ကောင်လေးက ပြောသည်။
+
+“ဒါဆို ကျွန်တော်ကရော” ဟု သစ်သားလွှမြင်းက မေးသည်။
+
+“မင်းက မတ်တတ်ရပ်နေလို့ ဘာမှ မဖြစ်ဘူး။ မင်းက အိပ်လို့လည်း မရဘူးဆိုတော့ ငါတို့ကို ဘယ်သူမှ မနှောင့်ယှက်နိုင်အောင် စောင့်ကြည့်ပေးပေါ့” ဟု တစ်ပ်က ပြန်ဖြေသည်။
+
+ထို့နောက် ကောင်လေးသည် ဖရုံသီးခေါင်းလူဘေးရှိ မြက်ခင်းပေါ်တွင် လှဲချလိုက်သည်။ ခရီးပန်းလွန်းနေသဖြင့် မကြာမီ အိပ်ပျော်သွားခဲ့သည်။`,
+  }
 
 ] as const;
