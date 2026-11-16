@@ -1,75 +1,71 @@
 /**
- * THARi BOOKS — Burmese rendering of Chapter VII.
- * Source: Jane Austen, Pride and Prejudice (1813), public domain.
- * English text is a reader-friendly adaptation preserving the chapter's events.
+ * THARi BOOKS — bilingual Chapter VII.
+ * Source: Jane Austen, Pride and Prejudice (1813), Project Gutenberg #1342.
+ * Original Burmese adaptation; selected period-specific details are condensed.
  */
 export const prideAndPrejudiceChapter7My = [
   {
     number: 7,
     title: "အခန်း (၇)",
     titleEn: "Chapter VII",
-    readingType: "summary",
-    contentEn: `Mr. Bennet's property was not to pass to his daughters after his death. Because he had no son, the estate would go to a distant male relative named Mr. Collins. This arrangement worried Mrs. Bennet, who often thought about what would happen to her five daughters if they did not marry well.
+    readingType: "adaptation",
+    contentEn: `Mr. Bennet’s estate was worth about two thousand pounds a year. Unfortunately for his daughters, it was entailed on a distant male relation if Mr. Bennet had no son. Their mother’s own fortune could not make up for the loss. Mrs. Bennet therefore worried constantly about the future of her five girls.
 
-The Bennet daughters had different interests. Jane was admired for her beauty and gentle manner. Elizabeth was lively and thoughtful. Mary spent much of her time reading. Kitty and Lydia were younger and enjoyed talking about officers and social events.
+Longbourn was only a mile from Meryton, where the young ladies often visited their aunt and a dressmaker. The two youngest, Catherine and Lydia, went especially often. A militia regiment had recently arrived in the neighbourhood and was to remain through the winter. The girls soon learned the officers’ names and became very interested in them. Their excitement about the soldiers’ uniforms was greater than their interest in Mr. Bingley’s fortune.
 
-One morning a letter arrived from Netherfield. It was from Miss Bingley, inviting Jane to dinner. Mrs. Bennet was delighted and immediately began making plans.
+After listening to their conversation one morning, Mr. Bennet remarked that his two youngest daughters seemed to be among the least sensible girls in the country. Mrs. Bennet immediately defended them, while Lydia continued talking about the officers she hoped to see.
 
-She hoped Jane would go on horseback rather than in the carriage. The weather looked uncertain, and Mrs. Bennet thought that if it rained, Jane might have to stay overnight at Netherfield.
+A letter then arrived from Netherfield for Jane. Caroline Bingley invited her to dine with herself and her sister. Mr. Bingley and the other gentlemen would be dining with the officers, so the ladies expected Jane to join them.
 
-Jane was not sure that this was a good idea, but her mother insisted. She set off on horseback, carrying a note to say that she would be pleased to accept the invitation.
+Mrs. Bennet was delighted. She suggested that Jane ride her horse rather than take the carriage, because the weather looked as if rain might come. If Jane became unable to return that evening, she might have to stay at Netherfield. Elizabeth understood her mother’s intention and quietly pointed it out. Jane would have preferred the carriage, but her mother insisted that the horses were needed for the farm. Jane therefore set off on horseback.
 
-The weather soon changed. Rain began to fall, and Jane arrived at Netherfield damp and tired. Later that day, she sent a message to Longbourn saying that she had caught a cold and would not be able to return home.
+Her mother’s prediction of rain soon came true. A heavy shower began, and it continued throughout the evening. Jane could not return to Longbourn. Mrs. Bennet congratulated herself on the plan, while Elizabeth and the other sisters worried about Jane.
 
-Mrs. Bennet was pleased that Jane would remain at Netherfield, believing that the attention of Mr. Bingley might help her daughter. Elizabeth, however, was worried about Jane's health.
+The following morning a note arrived from Jane. She had become unwell after getting wet and her friends at Netherfield wanted her to remain until she felt better. They had arranged for a local doctor to see her. Jane said that she hoped her family would not be alarmed.
 
-The next morning a letter arrived from Jane. Her cold had become worse, and she asked Elizabeth to come and see her.
+Elizabeth was genuinely concerned and decided to visit her sister. The carriage was unavailable, and Elizabeth was not accustomed to riding a horse, so she chose to walk the three miles. Her mother objected that the muddy roads would spoil her appearance. Elizabeth replied that she wanted to be fit to see Jane, and that was all that mattered.
 
-Elizabeth wanted to go at once. Her mother suggested sending the carriage, but it was not available. Elizabeth decided to walk the three miles to Netherfield.
+Mary offered a thoughtful observation about balancing feeling with reason, while Kitty and Lydia accompanied Elizabeth as far as Meryton. The younger sisters soon went to visit an acquaintance connected with the officers, and Elizabeth continued alone.
 
-Her sisters thought the idea strange, but Elizabeth did not hesitate. She crossed fields and muddy paths, walking quickly because she was anxious about Jane.
+She crossed fields and muddy paths at a quick pace. By the time she reached Netherfield, her shoes and stockings were dirty and her face was bright from the exercise. Her arrival surprised Mrs. Hurst and Miss Bingley, who considered it unusual for a young woman to walk so far alone in such weather. Elizabeth suspected that they disapproved of her appearance.
 
-When she reached Netherfield, her shoes and the lower part of her dress were covered with mud. The servants showed her to the room where Jane was resting.
+Mr. Bingley, however, welcomed her warmly. Darcy said little. He noticed the lively colour in Elizabeth’s face and the brightness of her eyes, while also wondering whether she ought to have made the journey alone.
 
-Miss Bingley and Mrs. Hurst were surprised to see Elizabeth arrive on foot and in such a state. They thought it was improper for a young woman to walk so far alone and were especially critical of her muddy dress.
+Elizabeth asked to see Jane immediately. Jane was delighted that her sister had come, though she was too unwell for much conversation. Elizabeth stayed beside her and quietly cared for her.
 
-Elizabeth cared little about their opinions. She went directly to Jane and was relieved to find her resting in bed.
+The doctor examined Jane and advised her to remain in bed and rest. Her illness had become more troublesome, so Elizabeth did not leave her room. The Bingley sisters also visited Jane and showed concern while they were with her.
 
-Mr. Bingley welcomed Elizabeth warmly and asked after Jane's health. His sisters also spoke politely, though their private thoughts about Elizabeth were less kind.
+Later, Elizabeth thought she should return home, but Jane was distressed at the thought of being left. Miss Bingley therefore offered to let Elizabeth stay at Netherfield. Elizabeth gratefully accepted, and a servant was sent to Longbourn to explain that she would remain and to bring her some clothes.
 
-Mr. Darcy watched Elizabeth as she entered the room. He noticed the lively colour in her face after the long walk and admired the brightness of her eyes. Elizabeth did not notice his attention. She was concerned only with her sister.
+Thus Elizabeth stayed at Netherfield to care for Jane, while the household’s different opinions of the Bennet sisters continued to shape the relationships among them.`,
+    content: `မစ္စတာ ဘင်နက်၏ အိမ်ခြံမြေသည် တစ်နှစ်လျှင် ပေါင်နှစ်ထောင်ခန့် ဝင်ငွေရှိသည်။ သို့သော် သမီးများအတွက် ကံမကောင်းစွာဖြင့် မစ္စတာ ဘင်နက်တွင် သားယောက်ျားလေး မရှိပါက ထိုအိမ်ခြံမြေကို အဝေးရှိ ဆွေမျိုးအမျိုးသားတစ်ဦးထံ အမွေဆက်ခံခွင့်ဖြင့် လွှဲပေးရမည်ဖြစ်သည်။ မိခင်၏ ကိုယ်ပိုင်အမွေငွေကလည်း ထိုဆုံးရှုံးမှုကို ဖြည့်ဆည်းပေးနိုင်လောက်အောင် မများပေ။ ထို့ကြောင့် မစ္စစ် ဘင်နက်သည် သမီးငါးယောက်၏ အနာဂတ်အတွက် အမြဲစိုးရိမ်နေတတ်သည်။
 
-The household arranged for Elizabeth to stay with Jane until she felt better. Elizabeth was glad to remain, whatever the Bingley sisters might think of her appearance.`,
-    content: `မစ္စတာ ဘင်နက်၏ အိမ်ခြံမြေသည် သူကွယ်လွန်သွားသောအခါ သမီးများထံ အမွေဆက်ခံခွင့် မရှိပေ။ သားယောက်ျားလေး မရှိသောကြောင့် ထိုအိမ်ခြံမြေကို အဝေးတစ်နေရာရှိ ဆွေမျိုးအမျိုးသား မစ္စတာ ကောလင်းစ်ထံ လွှဲပြောင်းပေးရမည် ဖြစ်သည်။ ထိုအစီအစဉ်ကြောင့် မစ္စစ် ဘင်နက်သည် သမီးငါးယောက် အိမ်ထောင်ရေးကောင်းကောင်း မရခဲ့လျှင် ဘာဖြစ်မလဲဆိုသည်ကို မကြာခဏ စိုးရိမ်နေတတ်သည်။
+လောင်ဘွန်းရွာသည် မေရီတန်နှင့် တစ်မိုင်သာ ဝေးသည်။ ထိုနေရာတွင် အဒေါ်ဖြစ်သူထံ သွားလည်ခြင်းနှင့် အဝတ်အစားဆိုင်သို့ သွားခြင်းတို့ကို ညီအစ်မများ မကြာခဏ ပြုလုပ်ကြသည်။ အငယ်ဆုံးနှစ်ယောက်ဖြစ်သော ကက်သရင်းနှင့် လီဒီယာတို့က အထူးသဖြင့် မကြာခဏ သွားကြသည်။ မကြာသေးမီက စစ်တပ်တပ်ရင်းတစ်ခုလည်း ထိုဒေသသို့ ရောက်ရှိလာပြီး ဆောင်းရာသီတစ်လျှောက် နေထိုင်မည်ဖြစ်သည်။ မိန်းကလေးများသည် အရာရှိများ၏ အမည်များကို တဖြည်းဖြည်း သိလာကြပြီး သူတို့အကြောင်းကို အလွန်စိတ်ဝင်စားလာကြသည်။ စစ်ဝတ်စုံများအပေါ် သူတို့၏ စိတ်လှုပ်ရှားမှုသည် မစ္စတာ ဘင်ဂလီ၏ ချမ်းသာမှုအကြောင်း စိတ်ဝင်စားမှုထက်ပင် ပိုများနေသည်။
 
-ဘင်နက်သမီးများတွင် တစ်ယောက်စီ မတူညီသော စိတ်ဝင်စားမှုများ ရှိကြသည်။ ဂျိန်းသည် အလှအပနှင့် နူးညံ့သော အမူအရာကြောင့် လူအများ၏ ချီးကျူးမှုကို ရရှိသည်။ အဲလိဇဘက်ကတော့ တက်ကြွပြီး ဆင်ခြင်တတ်သူ ဖြစ်သည်။ မေရီသည် အချိန်အများစုကို စာဖတ်ခြင်းဖြင့် ကုန်ဆုံးစေပြီး ကစ်တီနှင့် လီဒီယာတို့ကတော့ အသက်ငယ်သေးသဖြင့် စစ်ဗိုလ်များနှင့် လူမှုရေးပွဲများအကြောင်း ပြောဆိုရတာကို နှစ်သက်ကြသည်။
+တစ်မနက်တွင် သူတို့၏ စကားဝိုင်းကို နားထောင်ပြီးနောက် မစ္စတာ ဘင်နက်က အငယ်ဆုံးသမီးနှစ်ယောက်သည် တိုင်းပြည်ထဲတွင် အသိဉာဏ်အနည်းဆုံး မိန်းကလေးများထဲ ပါဝင်မည်ထင်ကြောင်း အေးအေးဆေးဆေး မှတ်ချက်ချသည်။ မစ္စစ် ဘင်နက်က ချက်ချင်းပင် သမီးများကို ကာကွယ်ပြောဆိုခဲ့ပြီး လီဒီယာကတော့ မိမိတွေ့ချင်နေသော အရာရှိများအကြောင်း ဆက်လက်ပြောဆိုနေသည်။
 
-တစ်မနက်တွင် နက်သာဖီးလ်ဒ်မှ စာတစ်စောင် ရောက်လာသည်။ ထိုစာမှာ မစ္စ ဘင်ဂလီထံမှ ဖြစ်ပြီး ဂျိန်းကို ညစာစားရန် ဖိတ်ကြားထားသည်။ မစ္စစ် ဘင်နက်သည် အလွန်ဝမ်းသာသွားပြီး ချက်ချင်းပင် အစီအစဉ်များ စတင်ပြုလုပ်သည်။
+ထိုအချိန်တွင် နက်သာဖီးလ်ဒ်မှ ဂျိန်းအတွက် စာတစ်စောင် ရောက်လာသည်။ ကာရိုလိုင်း ဘင်ဂလီက သူမနှင့် အစ်မဖြစ်သူတို့နှင့်အတူ ညစာစားရန် ဂျိန်းကို ဖိတ်ကြားထားသည်။ မစ္စတာ ဘင်ဂလီနှင့် အခြားအမျိုးသားများက စစ်တပ်အရာရှိများနှင့်အတူ ညစာစားကြမည်ဖြစ်သဖြင့် အမျိုးသမီးများက ဂျိန်းကို အတူလာရန် ဖိတ်ကြားခြင်းဖြစ်သည်။
 
-သူမသည် ဂျိန်းကို ရထားလုံးဖြင့် သွားစေမည့်အစား မြင်းစီးသွားစေချင်သည်။ ရာသီဥတုမှာ မတည်ငြိမ်သလို ဖြစ်နေပြီး မိုးရွာလာပါက ဂျိန်းသည် နက်သာဖီးလ်ဒ်တွင် ညအိပ်နေရနိုင်မည်ဟု မစ္စစ် ဘင်နက်က တွေးထားသည်။
+မစ္စစ် ဘင်နက်သည် အလွန်ဝမ်းသာသွားသည်။ ရာသီဥတု မိုးရွာနိုင်သည့်ပုံရှိသောကြောင့် ဂျိန်းကို ရထားလုံးအစား မြင်းစီးသွားရန် အကြံပြုသည်။ ညနေတွင် ပြန်မလာနိုင်ပါက နက်သာဖီးလ်ဒ်၌ ညအိပ်ရနိုင်မည်ဖြစ်သည်။ မိခင်၏ ရည်ရွယ်ချက်ကို အဲလိဇဘက်က နားလည်သဖြင့် သွယ်ဝိုက်စွာ ထောက်ပြလိုက်သည်။ ဂျိန်းကတော့ ရထားလုံးဖြင့် သွားချင်သော်လည်း မိခင်က မြင်းများကို လယ်ယာအလုပ်အတွက် လိုအပ်သည်ဟု ပြောကာ အခိုင်အမာ တိုက်တွန်းသည်။ ထို့ကြောင့် ဂျိန်းသည် မြင်းစီး၍ ထွက်ခွာသွားရသည်။
 
-ဂျိန်းသည် ထိုအကြံကို မသေချာသော်လည်း မိခင်က အခိုင်အမာ တိုက်တွန်းသဖြင့် လိုက်နာလိုက်သည်။ သူမသည် မြင်းစီးထွက်ခွာသွားပြီး ဖိတ်ကြားမှုကို ဝမ်းမြောက်စွာ လက်ခံကြောင်း စာတိုတစ်စောင်လည်း ယူသွားသည်။
+မိခင်ခန့်မှန်းထားသည့်အတိုင်း မကြာမီ မိုးရွာလာသည်။ မိုးသည်းထန်စွာ ရွာသွန်းပြီး ညနေတစ်လျှောက်လုံး မရပ်ခဲ့ပေ။ ဂျိန်းသည် လောင်ဘွန်းသို့ ပြန်မလာနိုင်တော့ပါ။ မစ္စစ် ဘင်နက်က မိမိ၏ အကြံအစည် အောင်မြင်သွားသည့်အတွက် ဝမ်းသာနေသော်လည်း အဲလိဇဘက်နှင့် အခြားညီအစ်မများက ဂျိန်းအတွက် စိုးရိမ်နေကြသည်။
 
-မကြာမီ ရာသီဥတု ပြောင်းလဲသွားသည်။ မိုးစတင်ရွာလာပြီး ဂျိန်းသည် နက်သာဖီးလ်ဒ်သို့ ရောက်သောအခါ စိုစွတ်ပင်ပန်းနေပြီ ဖြစ်သည်။ ထိုနေ့နှောင်းပိုင်းတွင် သူမသည် အအေးမိနေသဖြင့် အိမ်ပြန်မလာနိုင်ကြောင်း လောင်ဘွန်းသို့ စာပို့လိုက်သည်။
+နောက်တစ်နေ့မနက်တွင် ဂျိန်းထံမှ စာတစ်စောင် ရောက်လာသည်။ မနေ့က မိုးရေစိုခဲ့ခြင်းကြောင့် သူမ နေမကောင်းဖြစ်လာပြီး နက်သာဖီးလ်ဒ်မှ မိတ်ဆွေများက နေကောင်းလာသည်အထိ နေစေလိုကြောင်း ရေးထားသည်။ ဒေသခံဆရာဝန်တစ်ဦးကိုလည်း ကြည့်ရှုစစ်ဆေးစေရန် စီစဉ်ပေးထားကြသည်။ မိသားစုဝင်များ စိုးရိမ်မနေစေလိုကြောင်းလည်း ဂျိန်းက ရေးသားထားသည်။
 
-မစ္စစ် ဘင်နက်သည် ဂျိန်း နက်သာဖီးလ်ဒ်တွင် ဆက်နေနိုင်မည်ဖြစ်သဖြင့် ဝမ်းသာနေသည်။ မစ္စတာ ဘင်ဂလီ၏ အာရုံစိုက်မှုကြောင့် သမီးဖြစ်သူအတွက် အကျိုးရှိလာမည်ဟု သူမ ထင်နေသည်။ အဲလိဇဘက်ကတော့ ဂျိန်း၏ ကျန်းမာရေးကိုသာ စိုးရိမ်နေသည်။
+အဲလိဇဘက်သည် အမှန်တကယ် စိုးရိမ်နေသဖြင့် ညီမကို သွားတွေ့ရန် ဆုံးဖြတ်လိုက်သည်။ ရထားလုံးကို အသုံးပြု၍ မရသလို အဲလိဇဘက်သည် မြင်းစီးလေ့လည်း မရှိသဖြင့် သုံးမိုင်ခန့် လမ်းလျှောက်သွားရန် ရွေးချယ်လိုက်သည်။ ရွှံ့များထူထပ်သော လမ်းကြောင့် ပုံပန်းသဏ္ဌာန် ပျက်စီးသွားမည်ဟု မိခင်က ကန့်ကွက်သည်။ အဲလိဇဘက်ကတော့ ဂျိန်းကို တွေ့နိုင်ဖို့သာ အရေးကြီးပြီး အခြားအရာများကို ဂရုမစိုက်ကြောင်း ပြန်ပြောသည်။
 
-နောက်တစ်နေ့မနက်တွင် ဂျိန်းထံမှ စာတစ်စောင် ထပ်ရောက်လာသည်။ သူမ၏ အအေးမိမှု ပိုမိုဆိုးရွားလာသဖြင့် အဲလိဇဘက်ကို လာတွေ့စေချင်ကြောင်း ရေးထားသည်။
+မေရီက ခံစားချက်များကို အသိဉာဏ်ဖြင့် ထိန်းညှိသင့်ကြောင်း စဉ်းစားဆင်ခြင်စရာ မှတ်ချက်တစ်ခု ပြောခဲ့သည်။ ကက်သရင်းနှင့် လီဒီယာတို့ကလည်း အဲလိဇဘက်နှင့်အတူ မေရီတန်အထိ လိုက်လာကြသည်။ ထိုနေရာသို့ ရောက်သောအခါ ညီမငယ်နှစ်ယောက်သည် အရာရှိများနှင့် ဆက်နွယ်သော အသိမိတ်ဆွေတစ်ဦးထံ သွားလည်ကြပြီး အဲလိဇဘက်ကတော့ တစ်ယောက်တည်း ဆက်လျှောက်သွားသည်။
 
-အဲလိဇဘက်သည် ချက်ချင်း သွားချင်နေသည်။ မိခင်က ရထားလုံးဖြင့် သွားရန် အကြံပြုသော်လည်း ထိုအချိန်တွင် ရထားလုံးကို အသုံးပြု၍ မရပေ။ ထို့ကြောင့် အဲလိဇဘက်သည် နက်သာဖီးလ်ဒ်အထိ သုံးမိုင်ခန့် လမ်းလျှောက်သွားရန် ဆုံးဖြတ်လိုက်သည်။
+သူမသည် လယ်ကွင်းများနှင့် ရွှံ့လမ်းများကို အမြန်ဖြတ်ကျော်သွားခဲ့သည်။ နက်သာဖီးလ်ဒ်သို့ ရောက်သောအခါ ဖိနပ်နှင့် ခြေအိတ်များတွင် ရွှံ့များ ပေကျံနေပြီး လမ်းလျှောက်လာသည့် လေ့ကျင့်ခန်းကြောင့် မျက်နှာမှာလည်း နီမြန်းလန်းဆန်းနေသည်။ သူမ ရောက်လာခြင်းကို မစ္စစ် ဟာ့စ်နှင့် မစ္စ ဘင်ဂလီတို့ အံ့အားသင့်ကြသည်။ ထိုကဲ့သို့ ရာသီဥတုဆိုးရွားနေချိန်တွင် အမျိုးသမီးငယ်တစ်ဦးက တစ်ယောက်တည်း အဝေးကြီး လမ်းလျှောက်လာခြင်းကို သူတို့က ထူးဆန်းသည်ဟု ထင်ကြသည်။ သူမ၏ ပုံပန်းသဏ္ဌာန်ကိုလည်း မနှစ်သက်ကြောင်း အဲလိဇဘက် ခံစားမိသည်။
 
-ညီမများက ထိုအကြံကို ထူးဆန်းသည်ဟု ထင်ကြသော်လည်း အဲလိဇဘက်သည် မတွန့်ဆုတ်ခဲ့ပေ။ ဂျိန်းအတွက် စိုးရိမ်နေသဖြင့် လယ်ကွင်းများနှင့် ရွှံ့လမ်းများကို ဖြတ်သန်းကာ အမြန်လျှောက်သွားသည်။
+သို့သော် မစ္စတာ ဘင်ဂလီကတော့ နွေးထွေးစွာ ကြိုဆိုသည်။ ဒါစီက စကားအနည်းငယ်သာ ပြောခဲ့သည်။ သူသည် လမ်းလျှောက်လာခြင်းကြောင့် အဲလိဇဘက်၏ မျက်နှာတွင် ပေါ်လာသော လန်းဆန်းမှုနှင့် မျက်လုံးတောက်ပမှုကို သတိထားမိသော်လည်း သူမတစ်ယောက်တည်း အဝေးကြီး လာခဲ့သင့်မသင့်ကိုလည်း စဉ်းစားနေသည်။
 
-နက်သာဖီးလ်ဒ်သို့ ရောက်သောအခါ သူမ၏ ဖိနပ်များနှင့် ဝတ်စုံအောက်ပိုင်းတွင် ရွှံ့များ ပေကျံနေသည်။ အိမ်အလုပ်သမားများက သူမကို ဂျိန်း အနားယူနေသော အခန်းသို့ လိုက်ပို့ပေးကြသည်။
+အဲလိဇဘက်သည် ဂျိန်းကို ချက်ချင်းတွေ့လိုကြောင်း မေးမြန်းသည်။ ဂျိန်းသည် ညီမလာတွေ့သည့်အတွက် အလွန်ဝမ်းသာသွားသည်။ သို့သော် နေမကောင်းသဖြင့် စကားများများ မပြောနိုင်ပေ။ အဲလိဇဘက်သည် သူမအနားတွင် တိတ်တဆိတ်နေပြီး ပြုစုစောင့်ရှောက်ပေးခဲ့သည်။
 
-မစ္စ ဘင်ဂလီနှင့် မစ္စစ် ဟာ့စ်တို့သည် အဲလိဇဘက်ကို ခြေလျင်လာပြီး ထိုကဲ့သို့ ရွှံ့ပေကျံနေသည်ကို မြင်သောအခါ အံ့အားသင့်သွားကြသည်။ အမျိုးသမီးငယ်တစ်ယောက်သည် တစ်ယောက်တည်း အဝေးကြီး လမ်းလျှောက်လာခြင်းမှာ မသင့်တော်ဟု ထင်ကြပြီး သူမ၏ ရွှံ့ပေကျံနေသော ဝတ်စုံကိုလည်း အထူးဝေဖန်ကြသည်။
+ဆရာဝန်က ဂျိန်းကို စစ်ဆေးပြီး အိပ်ရာထဲတွင် အနားယူရန် အကြံပြုသည်။ သူမ၏ နေမကောင်းမှုက ပိုမိုအနှောင့်အယှက်ဖြစ်လာသဖြင့် အဲလိဇဘက်သည် အခန်းမှ မထွက်ဘဲ အနားတွင် နေခဲ့သည်။ ဘင်ဂလီညီအစ်မများလည်း ဂျိန်းထံ မကြာခဏလာရောက်ကြပြီး အတူရှိနေချိန်တွင် ဂရုစိုက်မှုကို ပြသကြသည်။
 
-အဲလိဇဘက်ကတော့ သူတို့၏ အမြင်ကို သိပ်ဂရုမစိုက်ပေ။ သူမသည် ဂျိန်းထံသို့ တိုက်ရိုက်သွားပြီး အိပ်ရာပေါ်တွင် အနားယူနေသော ညီမကို တွေ့ရသဖြင့် စိတ်သက်သာရာရသွားသည်။
+နောက်ပိုင်းတွင် အဲလိဇဘက်သည် အိမ်ပြန်သင့်ပြီဟု ထင်လာသော်လည်း ဂျိန်းက သူမနှင့် ခွဲရမည်ကို စိတ်မကောင်းဖြစ်နေသည်။ ထို့ကြောင့် မစ္စ ဘင်ဂလီက အဲလိဇဘက်ကို နက်သာဖီးလ်ဒ်တွင် ဆက်နေခွင့်ပြုရန် ကမ်းလှမ်းလိုက်သည်။ အဲလိဇဘက်က ဝမ်းမြောက်စွာ လက်ခံပြီး သူမ ဆက်နေနေမည်ဖြစ်ကြောင်း လောင်ဘွန်းသို့ အသိပေးရန်နှင့် အဝတ်အစားများ ယူလာပေးရန် အိမ်အလုပ်သမားတစ်ဦးကို စေလွှတ်လိုက်သည်။
 
-မစ္စတာ ဘင်ဂလီသည် အဲလိဇဘက်ကို နွေးထွေးစွာ ကြိုဆိုပြီး ဂျိန်း၏ ကျန်းမာရေးအကြောင်း မေးမြန်းသည်။ သူ၏ ညီမများကလည်း ယဉ်ကျေးစွာ ပြောဆိုကြသော်လည်း အဲလိဇဘက်အပေါ် သူတို့၏ စိတ်ထဲက အမြင်မှာတော့ မကောင်းလှပေ။
-
-မစ္စတာ ဒါစီသည် အဲလိဇဘက် အခန်းထဲ ဝင်လာသည်ကို ကြည့်နေသည်။ လမ်းရှည်လျှောက်လာသဖြင့် သူမ၏ မျက်နှာပေါ်တွင် ပေါ်နေသော လန်းဆန်းသည့် အရောင်နှင့် တောက်ပသော မျက်လုံးများကို သူ သတိပြုမိပြီး သဘောကျလာသည်။ အဲလိဇဘက်ကတော့ သူ့အာရုံစိုက်မှုကို သတိမထားမိပေ။ သူမသည် ညီမ၏ ကျန်းမာရေးကိုသာ စိတ်ပူနေသည်။
-
-အိမ်သားများသည် ဂျိန်း နေကောင်းလာသည်အထိ အဲလိဇဘက်ကို နက်သာဖီးလ်ဒ်တွင် နေခွင့်ပြုကြသည်။ ဘင်ဂလီညီအစ်မများက သူမ၏ ပုံပန်းသဏ္ဌာန်ကို ဘယ်လိုထင်သည်ဖြစ်စေ အဲလိဇဘက်သည် ညီမဘေးတွင် နေနိုင်သဖြင့် ဝမ်းသာနေသည်။`,
+ထို့ကြောင့် အဲလိဇဘက်သည် ဂျိန်းကို ပြုစုစောင့်ရှောက်ရန် နက်သာဖီးလ်ဒ်တွင် ဆက်လက်နေထိုင်ခဲ့သည်။ တစ်ဖက်တွင်လည်း ဘင်နက်ညီအစ်မများအပေါ် အိမ်သားတစ်ဦးစီ၏ မတူညီသော အမြင်များက သူတို့အကြား ဆက်ဆံရေးကို ဆက်လက်ပုံဖော်နေခဲ့သည်။`,
   },
 ] as const;
