@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+  <title id="title">The Marvelous Land of Oz</title>
+  <desc id="desc">An original THARi Books cover with an emerald city silhouette beneath a starry sky.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101b35"/>
+      <stop offset="1" stop-color="#172b3a"/>
+    </linearGradient>
+    <linearGradient id="city" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#80cbb2"/>
+      <stop offset="1" stop-color="#287d72"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <rect x="36" y="36" width="528" height="828" rx="18" fill="none" stroke="#c7ad76" stroke-width="3"/>
+  <g fill="#e8d9ad" opacity=".9">
+    <circle cx="110" cy="150" r="4"/><circle cx="472" cy="126" r="3"/><circle cx="405" cy="210" r="4"/>
+    <circle cx="168" cy="245" r="3"/><circle cx="520" cy="310" r="3"/><circle cx="88" cy="340" r="2.5"/>
+    <path d="M300 125l7 18 18 7-18 7-7 18-7-18-18-7 18-7z"/>
+  </g>
+  <text x="300" y="285" text-anchor="middle" fill="#e9dfc8" font-family="Georgia,serif" font-size="27" letter-spacing="7">THARi BOOKS</text>
+  <text x="300" y="365" text-anchor="middle" fill="#f4e8c8" font-family="Georgia,serif" font-size="51" font-weight="bold">THE MARVELOUS</text>
+  <text x="300" y="425" text-anchor="middle" fill="#f4e8c8" font-family="Georgia,serif" font-size="58" font-weight="bold">LAND OF OZ</text>
+  <path d="M92 650 L92 565 L135 565 L135 515 L177 515 L177 580 L220 580 L220 475 L260 475 L260 548 L300 548 L300 455 L344 455 L344 545 L382 545 L382 495 L423 495 L423 575 L468 575 L468 535 L510 535 L510 650Z" fill="url(#city)"/>
+  <g fill="#e9dfc8" opacity=".9">
+    <path d="M280 455l42-55 42 55z"/><path d="M160 515l38-48 38 48z"/><path d="M410 495l34-45 34 45z"/>
+  </g>
+  <path d="M62 650 Q300 600 538 650 L538 760 L62 760Z" fill="#193e43"/>
+  <text x="300" y="805" text-anchor="middle" fill="#e9dfc8" font-family="Georgia,serif" font-size="27">L. FRANK BAUM</text>
+  <text x="300" y="838" text-anchor="middle" fill="#c7ad76" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">1904 · BOOK TWO</text>
+</svg>
