@@ -80,5 +80,323 @@ To find clothing seemed no easy task; but Tip boldly ransacked the great chest i
 အဝတ်အစား ရှာဖွေရန်မှာ လွယ်ကူမည့်အလုပ် မဟုတ်သလို ထင်ရသည်။ သို့သော် တစ်ပ်သည် မမ်ဘီ၏ အမှတ်တရပစ္စည်းများနှင့် ရတနာများ ထည့်သိမ်းထားသော သေတ္တာကြီးကို ရဲရဲဝံ့ဝံ့ မွှေနှောက်ရှာဖွေလိုက်သည်။ သေတ္တာ၏ အောက်ဆုံးနားတွင် ခရမ်းရောင် ဘောင်းဘီတစ်ထည်၊ အနီရောင် အင်္ကျီတစ်ထည်နှင့် အဖြူရောင် အစက်ကလေးများ ပါသော ပန်းရောင် အင်္ကျီလက်ပြတ်တစ်ထည်ကို တွေ့ရှိခဲ့သည်။ ထိုအဝတ်များကို လူရုပ်ထံ ယူလာပြီး အရွယ်အစား အတော်မကိုက်ညီသော်လည်း ခပ်ကြွကြွလေး ဝတ်ဆင်ပေးနိုင်ခဲ့သည်။ မမ်ဘီပိုင်သော ချည်ထိုးခြေအိတ်တစ်စုံနှင့် သူ့ကိုယ်ပိုင် ဟောင်းနွမ်းနေသော ဖိနပ်တစ်ရံကို ထပ်မံဝတ်ဆင်ပေးလိုက်ရာ လူရုပ်၏ အဝတ်အစား ပြည့်စုံသွားသည်။ တစ်ပ်သည် အလွန်ပျော်ရွှင်သွားသဖြင့် ကလေးတစ်ဦးပီပီ ခုန်ပေါက်ကာ အသံထွက်ရယ်မောနေခဲ့သည်။
 
 “သူ့ကို နာမည်တစ်ခုပေးရမယ်” ဟု သူအော်ပြောလိုက်သည်။ “ဒီလောက်ကောင်းတဲ့ လူတစ်ယောက်မှာ နာမည်တစ်ခုတော့ ရှိသင့်တာပေါ့။ ငါထင်တာတော့…” ခဏမျှ စဉ်းစားပြီးနောက် သူက ဆက်ပြောသည်။ “ဒီလူကို ‘ဂျက် ဖရုံသီးခေါင်း’ လို့ နာမည်ပေးမယ်။”`,
-  },
+  },,
+  {
+    number: 2,
+    title: "အခန်း (၂) — အသက်ပေးသော အံ့ဖွယ်မှုန့်",
+    titleEn: "Chapter 2 — The Marvelous Powder of Life",
+    contentEn: `After considering the matter carefully, Tip decided that the best place to locate Jack would be at the bend in the road, a little way from the house. So he started to carry his man there, but found him heavy and rather awkward to handle. After dragging the creature a short distance Tip stood him on his feet, and by first bending the joints of one leg, and then those of the other, at the same time pushing from behind, the boy managed to induce Jack to walk to the bend in the road. It was not accomplished without a few tumbles, and Tip really worked harder than he ever had in the fields or forest; but a love of mischief urged him on, and it pleased him to test the cleverness of his workmanship.
+
+“Jack’s all right, and works fine!” he said to himself, panting with the unusual exertion. But just then he discovered the man’s left arm had fallen off in the journey so he went back to find it, and afterward, by whittling a new and stouter pin for the shoulder-joint, he repaired the injury so successfully that the arm was stronger than before. Tip also noticed that Jack’s pumpkin head had twisted around until it faced his back; but this was easily remedied. When, at last, the man was set up facing the turn in the path where old Mombi was to appear, he looked natural enough to be a fair imitation of a Gillikin farmer,—and unnatural enough to startle anyone that came on him unawares.
+
+As it was yet too early in the day to expect the old woman to return home, Tip went down into the valley below the farm-house and began to gather nuts from the trees that grew there.
+
+However, old Mombi returned earlier than usual. She had met a crooked wizard who resided in a lonely cave in the mountains, and had traded several important secrets of magic with him. Having in this way secured three new recipes, four magical powders and a selection of herbs of wonderful power and potency, she hobbled home as fast as she could, in order to test her new sorceries.
+
+So intent was Mombi on the treasures she had gained that when she turned the bend in the road and caught a glimpse of the man, she merely nodded and said:
+
+“Good evening, sir.”
+
+But, a moment after, noting that the person did not move or reply, she cast a shrewd glance into his face and discovered his pumpkin head elaborately carved by Tip’s jack-knife.
+
+“Heh!” ejaculated Mombi, giving a sort of grunt; “that rascally boy has been playing tricks again! Very good! ve—ry good! I’ll beat him black-and-blue for trying to scare me in this fashion!”
+
+Angrily she raised her stick to smash in the grinning pumpkin head of the dummy; but a sudden thought made her pause, the uplifted stick left motionless in the air.
+
+“Why, here is a good chance to try my new powder!” said she, eagerly. “And then I can tell whether that crooked wizard has fairly traded secrets, or whether he has fooled me as wickedly as I fooled him.”
+
+So she set down her basket and began fumbling in it for one of the precious powders she had obtained.
+
+While Mombi was thus occupied Tip strolled back, with his pockets full of nuts, and discovered the old woman standing beside his man and apparently not the least bit frightened by it.
+
+At first he was generally disappointed; but the next moment he became curious to know what Mombi was going to do. So he hid behind a hedge, where he could see without being seen, and prepared to watch.
+
+After some search the woman drew from her basket an old pepper-box, upon the faded label of which the wizard had written with a lead-pencil:
+
+“Powder of Life.”
+
+“Ah—here it is!” she cried, joyfully. “And now let us see if it is potent. The stingy wizard didn’t give me much of it, but I guess there’s enough for two or three doses.”
+
+Tip was much surprised when he overheard this speech. Then he saw old Mombi raise her arm and sprinkle the powder from the box over the pumpkin head of his man Jack. She did this in the same way one would pepper a baked potato, and the powder sifted down from Jack’s head and scattered over the red shirt and pink waistcoat and purple trousers Tip had dressed him in, and a portion even fell upon the patched and worn shoes.
+
+Then, putting the pepper-box back into the basket, Mombi lifted her left hand, with its little finger pointed upward, and said:
+
+“Weaugh!”
+
+Then she lifted her right hand, with the thumb pointed upward, and said:
+
+“Teaugh!”
+
+Then she lifted both hands, with all the fingers and thumbs spread out, and cried:
+
+“Peaugh!”
+
+Jack Pumpkinhead stepped back a pace, at this, and said in a reproachful voice:
+
+“Don’t yell like that! Do you think I’m deaf?”
+
+Old Mombi danced around him, frantic with delight.
+
+“He lives!” she screamed: “He lives! he lives!”
+
+Then she threw her stick into the air and caught it as it came down; and she hugged herself with both arms, and tried to do a step of a jig; and all the time she repeated, rapturously:
+
+“He lives!—he lives!—he lives!”
+
+Now you may well suppose that Tip observed all this with amazement.
+
+At first he was so frightened and horrified that he wanted to run away, but his legs trembled and shook so badly that he couldn’t. Then it struck him as a very funny thing for Jack to come to life, especially as the expression on his pumpkin face was so droll and comical it excited laughter on the instant. So, recovering from his first fear, Tip began to laugh; and the merry peals reached old Mombi’s ears and made her hobble quickly to the hedge, where she seized Tip’s collar and dragged him back to where she had left her basket and the pumpkinheaded man.
+
+“You naughty, sneaking, wicked boy!” she exclaimed, furiously: “I’ll teach you to spy out my secrets and to make fun of me!”
+
+“I wasn’t making fun of you,” protested Tip. “I was laughing at old Pumpkinhead! Look at him! Isn’t he a picture, though?”
+
+“I hope you are not reflecting on my personal appearance,” said Jack; and it was so funny to hear his grave voice, while his face continued to wear its jolly smile, that Tip again burst into a peal of laughter.
+
+Even Mombi was not without a curious interest in the man her magic had brought to life; for, after staring at him intently, she presently asked:
+
+“What do you know?”
+
+“Well, that is hard to tell,” replied Jack. “For although I feel that I know a tremendous lot, I am not yet aware how much there is in the world to find out about. It will take me a little time to discover whether I am very wise or very foolish.”
+
+“To be sure,” said Mombi, thoughtfully.
+
+“But what are you going to do with him, now he is alive?” asked Tip, wondering.
+
+“I must think it over,” answered Mombi. “But we must get home at once, for it is growing dark. Help the Pumpkinhead to walk.”
+
+“Never mind me,” said Jack; “I can walk as well as you can. Haven’t I got legs and feet, and aren’t they jointed?”
+
+“Are they?” asked the woman, turning to Tip.
+
+“Of course they are; I made ’em myself,” returned the boy, with pride.
+
+So they started for the house, but when they reached the farm yard old Mombi led the pumpkin man to the cow stable and shut him up in an empty stall, fastening the door securely on the outside.
+
+“I’ve got to attend to you, first,” she said, nodding her head at Tip.
+
+Hearing this, the boy became uneasy; for he knew Mombi had a bad and revengeful heart, and would not hesitate to do any evil thing.
+
+They entered the house. It was a round, domeshaped structure, as are nearly all the farm houses in the Land of Oz.
+
+Mombi bade the boy light a candle, while she put her basket in a cupboard and hung her cloak on a peg. Tip obeyed quickly, for he was afraid of her.
+
+After the candle had been lighted Mombi ordered him to build a fire in the hearth, and while Tip was thus engaged the old woman ate her supper. When the flames began to crackle the boy came to her and asked a share of the bread and cheese; but Mombi refused him.
+
+“I’m hungry!” said Tip, in a sulky tone.
+
+“You won’t be hungry long,” replied Mombi, with a grim look.
+
+The boy didn’t like this speech, for it sounded like a threat; but he happened to remember he had nuts in his pocket, so he cracked some of those and ate them while the woman rose, shook the crumbs from her apron, and hung above the fire a small black kettle.
+
+Then she measured out equal parts of milk and vinegar and poured them into the kettle. Next she produced several packets of herbs and powders and began adding a portion of each to the contents of the kettle. Occasionally she would draw near the candle and read from a yellow paper the recipe of the mess she was concocting.
+
+As Tip watched her his uneasiness increased.
+
+“What is that for?” he asked.
+
+“For you,” returned Mombi, briefly.
+
+Tip wriggled around upon his stool and stared awhile at the kettle, which was beginning to bubble. Then he would glance at the stern and wrinkled features of the witch and wish he were any place but in that dim and smoky kitchen, where even the shadows cast by the candle upon the wall were enough to give one the horrors. So an hour passed away, during which the silence was only broken by the bubbling of the pot and the hissing of the flames.
+
+Finally, Tip spoke again.
+
+“Have I got to drink that stuff?” he asked, nodding toward the pot.
+
+“Yes,” said Mombi.
+
+“What’ll it do to me?” asked Tip.
+
+“If it’s properly made,” replied Mombi, “it will change or transform you into a marble statue.”
+
+Tip groaned, and wiped the perspiration from his forehead with his sleeve.
+
+“I don’t want to be a marble statue!” he protested.
+
+“That doesn’t matter I want you to be one,” said the old woman, looking at him severely.
+
+“What use’ll I be then?” asked Tip. “There won’t be any one to work for you.”
+
+“I’ll make the Pumpkinhead work for me,” said Mombi.
+
+Again Tip groaned.
+
+“Why don’t you change me into a goat, or a chicken?” he asked, anxiously. “You can’t do anything with a marble statue.”
+
+“Oh, yes, I can,” returned Mombi. “I’m going to plant a flower garden, next Spring, and I’ll put you in the middle of it, for an ornament. I wonder I haven’t thought of that before; you’ve been a bother to me for years.”
+
+At this terrible speech Tip felt the beads of perspiration starting all over his body, but he sat still and shivered and looked anxiously at the kettle.
+
+“Perhaps it won’t work,” he muttered, in a voice that sounded weak and discouraged.
+
+“Oh, I think it will,” answered Mombi, cheerfully. “I seldom make a mistake.”
+
+Again there was a period of silence a silence so long and gloomy that when Mombi finally lifted the kettle from the fire it was close to midnight.
+
+“You cannot drink it until it has become quite cold,” announced the old witch for in spite of the law she had acknowledged practising witchcraft. “We must both go to bed now, and at daybreak I will call you and at once complete your transformation into a marble statue.”
+
+With this she hobbled into her room, bearing the steaming kettle with her, and Tip heard her close and lock the door.
+
+The boy did not go to bed, as he had been commanded to do, but still sat glaring at the embers of the dying fire.`,
+    content: `လမ်းမကြီးကွေ့သည့် နေရာလေးသည် အိမ်နှင့်လည်း မဝေးလှသဖြင့် ဂျက်ကို ထားရန် အကောင်းဆုံးနေရာဖြစ်မည်ဟု တစ်ပ်က သေချာစဉ်းစားပြီး ဆုံးဖြတ်လိုက်သည်။ ထို့ကြောင့် သစ်သားလူရုပ်ကို ထိုနေရာသို့ သယ်သွားရန် စတင်လိုက်သော်လည်း လူရုပ်မှာ အလွန်လေးပြီး ကိုင်တွယ်ရခက်ခဲနေသည်။ အနည်းငယ် ဆွဲရွှေ့ပြီးနောက် တစ်ပ်သည် လူရုပ်ကို မတ်တတ်ရပ်စေလိုက်သည်။ ထို့နောက် ခြေထောက်တစ်ဖက်စီ၏ အဆစ်များကို အလှည့်ကျ ကွေးပေးရင်း နောက်ဘက်မှ တွန်းပေးလိုက်ရာ ဂျက်ကို လမ်းကွေ့အထိ လမ်းလျှောက်သွားစေနိုင်ခဲ့သည်။ လဲကျမှု အနည်းငယ်တော့ ရှိခဲ့ပြီး တစ်ပ်သည် လယ်ကွင်းနှင့် တောထဲတွင် အလုပ်လုပ်ခဲ့သမျှထက် ပိုမိုပင်ပန်းခဲ့ရသည်။ သို့သော် အပျော်အပါးလုပ်ချင်သော စိတ်က သူ့ကို ရှေ့ဆက်စေခဲ့သလို မိမိ၏ လက်ရာ ဘယ်လောက်ကောင်းသည်ကို စမ်းသပ်ကြည့်ရခြင်းကလည်း သူ့အတွက် ပျော်စရာဖြစ်နေသည်။
+
+“ဂျက်က အဆင်ပြေတယ်။ ကောင်းကောင်းလည်း လှုပ်ရှားနိုင်တယ်” ဟု ထူးထူးခြားခြား ပင်ပန်းမှုကြောင့် အသက်ရှူမဝသလို ဖြစ်နေသော တစ်ပ်က မိမိဘာသာ ပြောလိုက်သည်။ သို့သော် ထိုအချိန်တွင် ခရီးလမ်း၌ လူရုပ်၏ ဘယ်ဘက်လက် ပြုတ်ကျသွားကြောင်း သတိထားမိသည်။ ထို့ကြောင့် ပြန်သွားရှာပြီး ပခုံးအဆစ်အတွက် ပိုမိုခိုင်ခံ့သော သစ်သားတံစို့အသစ်တစ်ခုကို ဓားဖြင့် ပုံဖော်ကာ ပြန်တပ်ဆင်လိုက်သည်။ ထိုပြုပြင်မှုကြောင့် လက်သည် ယခင်ထက်ပင် ပိုမိုခိုင်မာသွားသည်။ ဂျက်၏ ဖရုံသီးခေါင်းသည်လည်း နောက်ဘက်သို့ လှည့်နေကြောင်း တစ်ပ် သတိထားမိသော်လည်း ထိုအရာကို ပြန်တည့်ပေးရန် မခက်ခဲပါ။ နောက်ဆုံးတွင် မမ်ဘီ ပေါ်လာမည့် လမ်းကွေ့ဘက်သို့ မျက်နှာမူလျက် လူရုပ်ကို ထားလိုက်သောအခါ ဂီလီကင်လယ်သမားတစ်ဦးနှင့် အတော်တူနေသလို ဖြစ်လာသည်။ သို့သော် မမျှော်လင့်ဘဲ ရုတ်တရက် တွေ့လိုက်ရသူကို လန့်သွားစေနိုင်လောက်အောင်လည်း ထူးဆန်းနေသေးသည်။
+
+အဘွားအို အိမ်ပြန်လာရန် အချိန်စောနေသေးသဖြင့် တစ်ပ်သည် လယ်အိမ်အောက်ဘက်ရှိ ချိုင့်ဝှမ်းထဲသို့ ဆင်းသွားပြီး ထိုနေရာတွင် ပေါက်နေသော သစ်ပင်များမှ အခွံမာသီးများကို စတင်ကောက်ယူခဲ့သည်။
+
+သို့သော် မမ်ဘီသည် ပုံမှန်ထက် စောစွာ ပြန်ရောက်လာခဲ့သည်။ သူမသည် တောင်များအတွင်းရှိ လူသူကင်းမဲ့သော ဂူတစ်ခုတွင် နေထိုင်သည့် ကောက်ကျစ်သော မှော်ဆရာတစ်ဦးနှင့် တွေ့ဆုံခဲ့ပြီး မှော်ပညာဆိုင်ရာ အရေးကြီးသော လျှို့ဝှက်ချက်အချို့ကို အပြန်အလှန် ဖလှယ်ခဲ့သည်။ ထိုနည်းဖြင့် ချက်နည်းအသစ် သုံးမျိုး၊ မှော်မှုန့် လေးမျိုးနှင့် အစွမ်းထက်သော ဆေးဖက်ဝင်အပင်များစွာကို ရရှိလာခဲ့သဖြင့် မိမိရရှိထားသော မှော်ပညာအသစ်များကို စမ်းသပ်ရန် အလျင်အမြန် အိမ်ပြန်လာခဲ့သည်။
+
+မမ်ဘီသည် ရရှိလာသော ရတနာများအကြောင်းကိုသာ စိတ်ဝင်စားနေသဖြင့် လမ်းကွေ့ကို ချိုးကာ လူရုပ်ကို မြင်လိုက်ရသည့်အခါ ခေါင်းညိတ်ပြပြီး “မင်္ဂလာညနေခင်းပါ၊ ဆရာ” ဟုသာ နှုတ်ဆက်လိုက်သည်။
+
+သို့သော် ခဏအကြာတွင် ထိုလူက မလှုပ်မယှက်နှင့် ပြန်မဖြေကြောင်း သတိထားမိသဖြင့် မျက်နှာကို သေချာစွာ ကြည့်လိုက်သည်။ ထိုအခါ တစ်ပ်၏ ဓားဖြင့် သေသပ်စွာ ထွင်းထားသော ဖရုံသီးခေါင်းဖြစ်ကြောင်း သိလိုက်ရသည်။
+
+“ဟင်… ဒီဆိုးသွမ်းတဲ့ ကောင်လေးက နောက်တစ်ခါ လှည့်စားပြန်ပြီပဲ။ ကောင်းပြီ၊ ကောင်းပြီ။ ငါ့ကို ဒီလိုလန့်အောင် လုပ်ဖို့ ကြိုးစားတဲ့အတွက် သူ့ကို ကောင်းကောင်းဆုံးမရမယ်” ဟု မမ်ဘီက ဒေါသတကြီး ရေရွတ်လိုက်သည်။
+
+သူမသည် ပြုံးနေသော ဖရုံသီးခေါင်းကို တုတ်ဖြင့် ရိုက်ခွဲရန် ဒေါသတကြီး မြှောက်လိုက်သည်။ သို့သော် ရုတ်တရက် အကြံတစ်ခု ပေါ်လာသဖြင့် လက်ထဲက တုတ်ကို လေထဲတွင်ပင် ရပ်တန့်ထားလိုက်သည်။
+
+“အော်… ငါ့ရဲ့ မှော်မှုန့်အသစ်ကို စမ်းသပ်ဖို့ အခွင့်အရေးကောင်းပဲ။ ဒီကောက်ကျစ်တဲ့ မှော်ဆရာက ငါနဲ့ လျှို့ဝှက်ချက်တွေကို တကယ်တမ်း မျှဝေခဲ့တာလား၊ ဒါမှမဟုတ် ငါက သူ့ကို လှည့်စားသလိုပဲ သူကလည်း ငါ့ကို လှည့်စားခဲ့တာလားဆိုတာ သိရတော့မယ်” ဟု သူမက စိတ်လှုပ်ရှားစွာ ပြောလိုက်သည်။
+
+ထို့နောက် ခြင်းတောင်းကို ချထားပြီး ရရှိလာသော အဖိုးတန်မှုန့်များထဲမှ တစ်မျိုးကို ရှာဖွေရန် စတင်မွှေနှောက်လိုက်သည်။
+
+မမ်ဘီ ထိုသို့ အလုပ်ရှုပ်နေစဉ် အခွံမာသီးများ အပြည့်ထည့်ထားသော အိတ်ကပ်များနှင့် တစ်ပ် ပြန်ရောက်လာခဲ့သည်။ မိမိဖန်တီးထားသော လူရုပ်ဘေးတွင် ရပ်နေသည့် အဘွားအိုကို မြင်လိုက်ရပြီး သူမသည် လုံးဝ မလန့်သည့်ပုံပေါ်နေသည်။
+
+အစပိုင်းတွင် တစ်ပ် အတော်စိတ်ပျက်သွားသည်။ သို့သော် ခဏအကြာတွင် မမ်ဘီ ဘာလုပ်မည်ကို သိချင်စိတ် ပေါ်လာသဖြင့် သူမ မမြင်နိုင်သော်လည်း မိမိက မြင်နိုင်မည့် ခြံစည်းရိုးပင်နောက်တွင် ပုန်းကွယ်ပြီး စောင့်ကြည့်ရန် ပြင်ဆင်လိုက်သည်။
+
+အတန်ကြာ ရှာဖွေပြီးနောက် မမ်ဘီသည် ခြင်းတောင်းထဲမှ ဟောင်းနွမ်းနေသော ငရုတ်ကောင်းမှုန့်ဘူးတစ်ဘူးကို ထုတ်ယူလိုက်သည်။ ဘူးပေါ်ရှိ မှိန်ဖျော့နေသော စာတမ်းလေးတွင် မှော်ဆရာက ခဲတံဖြင့်—
+
+“အသက်ပေးသောမှုန့်”
+
+ဟု ရေးထားသည်။
+
+“အော်… ဒီမှာပဲ။ ဒီမှုန့်က တကယ်အစွမ်းရှိမရှိ ကြည့်ကြရအောင်။ ဒီကပ်စေးနှဲတဲ့ မှော်ဆရာက ငါ့ကို အများကြီး မပေးလိုက်ဘူး။ ဒါပေမဲ့ နှစ်ကြိမ်၊ သုံးကြိမ်လောက်တော့ သုံးလို့ရမယ်ထင်တယ်” ဟု သူမက ဝမ်းသာအားရ ပြောလိုက်သည်။
+
+ထိုစကားကို ကြားလိုက်ရသော တစ်ပ်သည် အလွန်အံ့ဩသွားသည်။ ထို့နောက် မမ်ဘီက ဘူးထဲမှ မှော်မှုန့်ကို ယူကာ မိမိ၏ လူရုပ်ဂျက်၏ ဖရုံသီးခေါင်းပေါ်သို့ ဖြူးချလိုက်သည်ကို မြင်လိုက်ရသည်။ မီးဖုတ်ထားသော အာလူးပေါ် ငရုတ်ကောင်းမှုန့် ဖြူးသကဲ့သို့ပင် ဖြူးချလိုက်ရာ မှုန့်များသည် ဂျက်၏ ခေါင်းမှတစ်ဆင့် အနီရောင်အင်္ကျီ၊ ပန်းရောင်အင်္ကျီနှင့် ခရမ်းရောင်ဘောင်းဘီပေါ်သို့ ကျဆင်းသွားပြီး ဟောင်းနွမ်းနေသော ဖိနပ်များပေါ်သို့ပင် အချို့ ကျရောက်သွားသည်။
+
+ထို့နောက် ငရုတ်ကောင်းဘူးကို ခြင်းတောင်းထဲ ပြန်ထည့်ပြီး မမ်ဘီသည် လက်သန်းကို အပေါ်သို့ ထောင်ထားသော ဘယ်လက်ကို မြှောက်ကာ—
+
+“ဝီးအော့ဂ်!”
+
+ဟု ပြောလိုက်သည်။
+
+ထို့နောက် လက်မကို အပေါ်သို့ ထောင်ထားသော ညာလက်ကို မြှောက်ကာ—
+
+“တီးအော့ဂ်!”
+
+ဟု ပြောပြန်သည်။
+
+နောက်ဆုံးတွင် လက်ချောင်းများအားလုံးကို ဖြန့်ထားသော လက်နှစ်ဖက်လုံးကို မြှောက်ကာ—
+
+“ပီးအော့ဂ်!”
+
+ဟု ကျယ်လောင်စွာ အော်လိုက်သည်။
+
+ထိုအခါ ဂျက် ဖရုံသီးခေါင်းလူသည် ခြေတစ်လှမ်း နောက်ဆုတ်လိုက်ပြီး မကျေမနပ်အသံဖြင့်—
+
+“ဒီလောက် မအော်ပါနဲ့။ ကျွန်တော် နားမကြားဘူးလို့ ထင်နေတာလား” ဟု ပြောလိုက်သည်။
+
+မမ်ဘီသည် ဝမ်းသာလွန်းသဖြင့် သူ့ပတ်ပတ်လည်တွင် ကခုန်နေတော့သည်။
+
+“အသက်ဝင်လာပြီ။ အသက်ဝင်လာပြီ။ အသက်ဝင်လာပြီ” ဟု သူမက အော်ဟစ်လိုက်သည်။
+
+ထို့နောက် တုတ်ကို လေထဲသို့ ပစ်တင်ပြီး ပြန်ဖမ်းလိုက်သည်။ မိမိကိုယ်ကို လက်နှစ်ဖက်ဖြင့် ဖက်ကာ ကခုန်ရန် ကြိုးစားရင်း—
+
+“သူ အသက်ဝင်လာပြီ။ အသက်ဝင်လာပြီ” ဟု အလွန်ပျော်ရွှင်စွာ ထပ်ခါတလဲလဲ ပြောနေခဲ့သည်။
+
+ဤအရာအားလုံးကို မြင်နေရသော တစ်ပ်သည် အလွန်အံ့ဩနေမည်မှာ သေချာပါသည်။
+
+အစပိုင်းတွင် သူသည် အလွန်ကြောက်လန့်ပြီး ထိတ်လန့်သွားသဖြင့် ထွက်ပြေးချင်ခဲ့သည်။ သို့သော် ခြေထောက်များ တုန်ခါနေသဖြင့် မပြေးနိုင်ခဲ့ပါ။ ခဏအကြာတွင် ဂျက် အသက်ဝင်လာခြင်းက အလွန်ရယ်စရာကောင်းကြောင်း သူ သတိထားမိလာသည်။ အထူးသဖြင့် ဖရုံသီးမျက်နှာပေါ်ရှိ ထူးဆန်းပြီး ရယ်စရာကောင်းသော အပြုံးကြီးကြောင့် ချက်ချင်း ရယ်ချင်စိတ် ပေါ်လာသည်။ ပထမဆုံးကြောက်လန့်မှုကို ကျော်လွှားပြီးနောက် တစ်ပ်သည် ရယ်မောလိုက်သည်။ သူ၏ ရယ်သံများကို ကြားလိုက်ရသော မမ်ဘီသည် ခြံစည်းရိုးပင်ဘက်သို့ အမြန်လျှောက်လာကာ တစ်ပ်၏ အင်္ကျီကော်လာကို ဆွဲကိုင်ပြီး ခြင်းတောင်းနှင့် ဖရုံသီးခေါင်းလူရှိရာသို့ ပြန်ဆွဲခေါ်သွားသည်။
+
+“မင်းက ဆိုးသွမ်းပြီး ခိုးကြောင်ခိုးဝှက် လုပ်တတ်တဲ့ ကောင်လေးပဲ။ ငါ့ရဲ့ လျှို့ဝှက်ချက်တွေကို ချောင်းကြည့်ပြီး ငါ့ကို လှောင်ပြောင်တဲ့အတွက် မင်းကို သင်ခန်းစာပေးရမယ်” ဟု သူမက ဒေါသတကြီး ပြောလိုက်သည်။
+
+“ကျွန်တော် အဒေါ်ကို လှောင်တာ မဟုတ်ပါဘူး။ ဖရုံသီးခေါင်းလူကြီးကို ကြည့်ပြီး ရယ်တာပါ။ သူ့ကို ကြည့်ပါဦး။ တကယ့်ကို ရယ်စရာကောင်းတဲ့ ပုံစံကြီး မဟုတ်လား” ဟု တစ်ပ်က ပြန်ပြောလိုက်သည်။
+
+“ကျွန်ုပ်ရဲ့ ရုပ်ရည်ကို ပြောနေတာ မဟုတ်ဘူးလို့ မျှော်လင့်ပါတယ်” ဟု ဂျက်က ပြောလိုက်သည်။ သူ၏ မျက်နှာပေါ်တွင် အပြုံးကြီး ဆက်လက်ရှိနေသော်လည်း တည်ကြည်သော အသံဖြင့် ပြောလိုက်ခြင်းမှာ အလွန်ရယ်စရာကောင်းသဖြင့် တစ်ပ်သည် ထပ်မံ၍ အသံထွက်ရယ်မောမိပြန်သည်။
+
+မမ်ဘီကိုယ်တိုင်လည်း သူမ၏ မှော်ပညာကြောင့် အသက်ဝင်လာသော လူရုပ်ကို စိတ်ဝင်စားနေခဲ့သည်။ သူ့ကို အတန်ကြာ စိုက်ကြည့်ပြီးနောက်—
+
+“မင်း ဘာတွေ သိထားသလဲ” ဟု မေးလိုက်သည်။
+
+“အဲဒါက ပြောရခက်ပါတယ်” ဟု ဂျက်က ပြန်ဖြေသည်။ “ကျွန်တော် အများကြီး သိနေတယ်လို့ ခံစားရပေမဲ့ ဒီကမ္ဘာမှာ ဘယ်လောက်များတဲ့ အရာတွေကို ထပ်မံသိရှိဖို့ လိုနေသေးတယ်ဆိုတာ မသိသေးပါဘူး။ ကျွန်တော် အလွန်ပညာရှိသူလား၊ ဒါမှမဟုတ် အလွန်မိုက်မဲသူလားဆိုတာ သိဖို့ အချိန်နည်းနည်း လိုပါလိမ့်မယ်။”
+
+“အဲဒါလည်း ဖြစ်နိုင်တာပဲ” ဟု မမ်ဘီက စဉ်းစားဟန်ဖြင့် ပြောသည်။
+
+“ဒါပေမဲ့ သူ အသက်ဝင်လာပြီဆိုတော့ အခု ဘာလုပ်မှာလဲ” ဟု တစ်ပ်က သိချင်စိတ်ဖြင့် မေးလိုက်သည်။
+
+“အဲဒါကို စဉ်းစားရဦးမယ်။ ဒါပေမဲ့ အခုတော့ အိမ်ပြန်ကြရအောင်။ မှောင်လာပြီ။ ဖရုံသီးခေါင်းလူကို လမ်းလျှောက်နိုင်အောင် ကူညီပေး” ဟု မမ်ဘီက ပြန်ဖြေသည်။
+
+“ကျွန်တော့်ကို စိတ်မပူပါနဲ့။ ကျွန်တော်လည်း ခင်ဗျားလိုပဲ လမ်းလျှောက်နိုင်ပါတယ်။ ကျွန်တော့်မှာ ခြေထောက်နဲ့ ခြေဖဝါးတွေ ရှိတယ်မဟုတ်လား။ အဆစ်တွေလည်း ပါတယ်လေ” ဟု ဂျက်က ပြောလိုက်သည်။
+
+“အဲဒီလိုလား” ဟု မမ်ဘီက တစ်ပ်ဘက်သို့ လှည့်မေးသည်။
+
+“ဟုတ်ပါတယ်။ အဲဒါတွေကို ကျွန်တော်ကိုယ်တိုင် လုပ်ထားတာပါ” ဟု တစ်ပ်က ဂုဏ်ယူစွာ ပြန်ဖြေသည်။
+
+ထို့နောက် သူတို့သည် အိမ်ဘက်သို့ စတင်ထွက်ခွာခဲ့ကြသည်။ သို့သော် လယ်ယာခြံဝင်းသို့ ရောက်သောအခါ မမ်ဘီသည် ဖရုံသီးခေါင်းလူကို နွားတင်းကုပ်ထဲသို့ ခေါ်သွားပြီး အလွတ်တစ်ခန်းထဲတွင် ပိတ်ထားကာ အပြင်ဘက်မှ တံခါးကို သေချာစွာ ချိတ်ပိတ်လိုက်သည်။
+
+“အရင်ဆုံး မင်းနဲ့ ငါ့မှာ ဖြေရှင်းစရာရှိတယ်” ဟု သူမက တစ်ပ်ဘက်သို့ ခေါင်းညိတ်ပြောလိုက်သည်။
+
+ထိုစကားကို ကြားလိုက်ရသော တစ်ပ်သည် စိုးရိမ်လာသည်။ အကြောင်းမှာ မမ်ဘီတွင် မကောင်းသော စိတ်ထားနှင့် လက်စားချေလိုသော သဘောရှိကြောင်း သူသိထားပြီး သူမသည် မည်သည့်မကောင်းမှုမျိုးကိုမဆို လုပ်ရန် ဝန်လေးမည်မဟုတ်ကြောင်းလည်း သိနေသောကြောင့် ဖြစ်သည်။
+
+သူတို့သည် အိမ်ထဲသို့ ဝင်လာကြသည်။ အော့ဇ်နိုင်ငံရှိ လယ်အိမ်အများစုကဲ့သို့ ထိုအိမ်သည်လည်း အဝိုင်းပုံစံ အမိုးခုံးပါသော အိမ်တစ်လုံးဖြစ်သည်။
+
+မမ်ဘီသည် ခြင်းတောင်းကို ဗီရိုထဲ ထည့်ပြီး အပေါ်ဝတ်အင်္ကျီကို ချိတ်ပေါ်တွင် ချိတ်ထားစဉ် တစ်ပ်ကို ဖယောင်းတိုင်မီး ထွန်းခိုင်းလိုက်သည်။ တစ်ပ်သည် သူမကို ကြောက်နေသဖြင့် အလျင်အမြန် လိုက်နာလိုက်သည်။
+
+ဖယောင်းတိုင် မီးထွန်းပြီးနောက် မမ်ဘီက မီးဖိုထဲတွင် မီးမွှေးရန် အမိန့်ပေးသည်။ တစ်ပ် မီးမွှေးနေစဉ် အဘွားအိုသည် ညစာစားနေခဲ့သည်။ မီးတောက်များ စတင်လောင်ကျွမ်းလာသောအခါ တစ်ပ်သည် သူမထံသို့ သွားပြီး ပေါင်မုန့်နှင့် ဒိန်ခဲအနည်းငယ် တောင်းခဲ့သော်လည်း မမ်ဘီက မပေးခဲ့ပါ။
+
+“ကျွန်တော် ဗိုက်ဆာနေပြီ” ဟု တစ်ပ်က မကျေမနပ်ဖြင့် ပြောလိုက်သည်။
+
+“မကြာခင် မင်း ဗိုက်ဆာတော့မှာ မဟုတ်ဘူး” ဟု မမ်ဘီက မျက်နှာတင်းတင်းဖြင့် ပြန်ပြောသည်။
+
+ထိုစကားသည် ခြိမ်းခြောက်သည့်အသံနှင့် တူနေသဖြင့် တစ်ပ် မကြိုက်ပါ။ သို့သော် အိတ်ကပ်ထဲတွင် အခွံမာသီးများ ရှိနေကြောင်း သတိရသွားသဖြင့် အချို့ကို ခွဲဖွင့်စားလိုက်သည်။ ထိုအချိန်တွင် မမ်ဘီသည် မိမိ၏ ခါးစည်းအင်္ကျီပေါ်မှ မုန့်ကြွင်းများကို ခါချပြီး မီးဖိုပေါ်တွင် အနက်ရောင် ရေနွေးအိုးငယ်တစ်လုံးကို ချိတ်ဆွဲလိုက်သည်။
+
+ထို့နောက် နို့နှင့် ရှာလကာရည်ကို ပမာဏတူညီစွာ တိုင်းတာပြီး အိုးထဲသို့ လောင်းထည့်လိုက်သည်။ ထို့နောက် ဆေးဖက်ဝင်အပင်များနှင့် မှော်မှုန့်များ ထည့်ထားသော အထုပ်အချို့ကို ထုတ်ယူကာ အိုးထဲသို့ တစ်မျိုးစီ အနည်းငယ် ထည့်လိုက်သည်။ တစ်ခါတစ်ရံ ဖယောင်းတိုင်အနီးသို့ သွားပြီး အဝါရောင်စာရွက်တစ်ရွက်ပေါ်ရှိ ချက်နည်းကို ဖတ်ရှုကာ ပြန်လာတတ်သည်။
+
+ထိုအရာကို ကြည့်နေသော တစ်ပ်သည် ပိုမိုစိုးရိမ်လာသည်။
+
+“အဲဒါကို ဘာလုပ်ဖို့လဲ” ဟု သူမေးလိုက်သည်။
+
+“မင်းအတွက်” ဟု မမ်ဘီက တိုတိုတုတ်တုတ် ပြန်ဖြေသည်။
+
+တစ်ပ်သည် ထိုင်ခုံပေါ်တွင် မငြိမ်မသက် လှုပ်ရှားရင်း ပွက်ပွက်ဆူလာသော အိုးကို အတန်ကြာ ကြည့်နေခဲ့သည်။ ထို့နောက် စူးရှတင်းမာနေသော စုန်းမ၏ မျက်နှာကို ကြည့်လိုက်ပြန်သည်။ ထိုအမှောင်ကျပြီး မီးခိုးများ ပြည့်နေသော မီးဖိုချောင်ထဲတွင် မနေချင်တော့ဘဲ ဘယ်နေရာကိုမဆို ရောက်နေချင်လာသည်။ နံရံပေါ်ရှိ ဖယောင်းတိုင်အရိပ်များပင် ကြောက်စရာကောင်းနေသည်။ ထိုသို့ တိတ်ဆိတ်စွာ အချိန်တစ်နာရီခန့် ကုန်လွန်သွားခဲ့ပြီး အိုးထဲမှ ပွက်ပွက်ဆူသံနှင့် မီးတောက်များ၏ ရှူးရှူးမြည်သံတို့သာ ကြားနေရသည်။
+
+နောက်ဆုံးတွင် တစ်ပ်က ထပ်မံမေးလိုက်သည်။
+
+“အဲဒီအရည်ကို ကျွန်တော် သောက်ရမှာလား” ဟု အိုးကို ညွှန်ပြကာ မေးသည်။
+
+“ဟုတ်တယ်” ဟု မမ်ဘီက ပြန်ဖြေသည်။
+
+“သောက်လိုက်ရင် ကျွန်တော့်ကို ဘာဖြစ်စေမှာလဲ” ဟု တစ်ပ်က မေးပြန်သည်။
+
+“ချက်နည်းမှန်မှန် ပြုလုပ်ထားနိုင်ရင် မင်းကို စကျင်ကျောက်ရုပ်တုတစ်ခုအဖြစ် ပြောင်းလဲပစ်လိမ့်မယ်” ဟု မမ်ဘီက ပြန်ဖြေသည်။
+
+တစ်ပ်သည် သက်ပြင်းချကာ လက်မောင်းဖြင့် နဖူးပေါ်မှ ချွေးများကို သုတ်လိုက်သည်။
+
+“ကျွန်တော် စကျင်ကျောက်ရုပ်တု မဖြစ်ချင်ဘူး” ဟု သူက ကန့်ကွက်လိုက်သည်။
+
+“အဲဒါက အရေးမကြီးဘူး။ ငါက မင်းကို အဲဒီလို ဖြစ်စေချင်တာ” ဟု အဘွားအိုက မျက်နှာတင်းတင်းဖြင့် ပြောလိုက်သည်။
+
+“အဲဒီလို ဖြစ်သွားရင် ကျွန်တော်က ဘာအသုံးဝင်တော့မှာလဲ။ အဒေါ်အတွက် အလုပ်လုပ်ပေးမယ့်သူလည်း မရှိတော့ဘူး” ဟု တစ်ပ်က မေးသည်။
+
+“ဖရုံသီးခေါင်းလူကို ငါ့အတွက် အလုပ်လုပ်ခိုင်းမယ်” ဟု မမ်ဘီက ပြောလိုက်သည်။
+
+တစ်ပ်သည် ထပ်မံ၍ သက်ပြင်းချလိုက်သည်။
+
+“ကျွန်တော့်ကို ဆိတ်တစ်ကောင် ဒါမှမဟုတ် ကြက်တစ်ကောင်အဖြစ်ပဲ ပြောင်းလိုက်ပါလား။ စကျင်ကျောက်ရုပ်တုဆိုရင် ဘာမှ လုပ်လို့မရဘူးလေ” ဟု သူက စိုးရိမ်စွာ မေးလိုက်သည်။
+
+“အဲဒီလိုလည်း လုပ်လို့ရပါတယ်။ လာမယ့် နွေဦးရာသီမှာ ငါ ပန်းဥယျာဉ်တစ်ခု စိုက်မယ်။ အဲဒီဥယျာဉ်အလယ်မှာ မင်းကို အလှဆင်ပစ္စည်းအဖြစ် ထားလိုက်မယ်။ အဲဒီအကြံကို အရင်ကတည်းက မစဉ်းစားမိတာ အံ့ဩစရာပဲ။ မင်းက နှစ်ပေါင်းများစွာ ငါ့အတွက် ဒုက္ခပေးနေခဲ့တာ” ဟု မမ်ဘီက ပြန်ပြောလိုက်သည်။
+
+ထိုကြောက်မက်ဖွယ်စကားကို ကြားလိုက်ရသော တစ်ပ်၏ တစ်ကိုယ်လုံးတွင် ချွေးစက်များ စတင်ထွက်လာသည်။ သို့သော် သူသည် မလှုပ်မယှက် ထိုင်နေပြီး တုန်လှုပ်စွာဖြင့် အိုးကိုသာ စိုးရိမ်တကြီး ကြည့်နေခဲ့သည်။
+
+“ဖြစ်ချင်မှ ဖြစ်မှာပါ” ဟု သူက အားနည်းပြီး စိတ်ဓာတ်ကျသည့်အသံဖြင့် ရေရွတ်လိုက်သည်။
+
+“ဖြစ်မှာပါ။ ငါက မှားခဲတယ်” ဟု မမ်ဘီက ပျော်ရွှင်စွာ ပြန်ဖြေသည်။
+
+ထို့နောက် အချိန်အတန်ကြာ တိတ်ဆိတ်နေခဲ့သည်။ ထိုတိတ်ဆိတ်မှုသည် အလွန်ရှည်လျားပြီး စိတ်မချမ်းမြေ့စရာကောင်းလှသည်။ နောက်ဆုံးတွင် မမ်ဘီက အိုးကို မီးပေါ်မှ ချလိုက်သောအခါ ညသန်းခေါင်နီးပါး ရောက်နေပြီဖြစ်သည်။
+
+“ဒီအရည် လုံးဝအေးသွားမှ သောက်လို့ရမယ်” ဟု စုန်းမအိုက ပြောလိုက်သည်။ သူမသည် စုန်းမများကို မိမိနယ်မြေတွင် မရှိစေရဟု တားမြစ်ထားသည့် ဥပဒေကို သိရှိထားသော်လည်း စုန်းပညာကို လုပ်ကိုင်နေကြောင်း ယခုတော့ ဝန်ခံလိုက်ပြီဖြစ်သည်။ “အခု ငါတို့နှစ်ယောက် အိပ်ရာဝင်ကြရအောင်။ မနက်မိုးလင်းတာနဲ့ မင်းကို နှိုးပြီး စကျင်ကျောက်ရုပ်တုအဖြစ် ပြောင်းလဲမယ့် အလုပ်ကို အပြီးသတ်မယ်။”
+
+ထိုသို့ပြောပြီးနောက် မမ်ဘီသည် အငွေ့တလူလူ ထွက်နေသော အိုးကို ကိုင်ကာ သူမ၏ အခန်းထဲသို့ ဝင်သွားသည်။ ထို့နောက် တံခါးပိတ်ပြီး သော့ခတ်လိုက်သံကို တစ်ပ် ကြားလိုက်ရသည်။
+
+တစ်ပ်သည် အမိန့်ပေးထားသည့်အတိုင်း အိပ်ရာမဝင်ခဲ့ပါ။ မီးဖိုထဲတွင် တဖြည်းဖြည်း ငြိမ်းသွားနေသော မီးခဲများကိုသာ စိုက်ကြည့်ရင်း ထိုင်နေခဲ့သည်။`,
+  }
+
 ] as const;
