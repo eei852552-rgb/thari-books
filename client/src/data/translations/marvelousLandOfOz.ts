@@ -24,7 +24,7 @@ Mombi’s curious magic often frightened her neighbors, and they treated her shy
 
 There were pumpkins in Mombi’s corn-fields, lying golden red among the rows of green stalks; and these had been planted and carefully tended that the four-horned cow might eat of them in the winter time. But one day, after the corn had all been cut and stacked, and Tip was carrying the pumpkins to the stable, he took a notion to make a “Jack Lantern” and try to give the old woman a fright with it.
 
-So he selected a fine, big pumpkin—one with a lustrous, orange-red color—and began carving it. With the point of his knife he made two round eyes, a three-cornered nose, and a mouth shaped like a new moon. The face, when completed, could not have been considered strictly beautiful; but it wore a smile so big and broad, and was so Jolly in expression, that even Tip laughed as he looked admiringly at his work.
+So he selected a fine, big pumpkin—one with a lustrous, orange-red color—and began carving it. He carved two round eyes, a three-cornered nose, and a mouth shaped like a new moon. The face, when completed, could not have been considered strictly beautiful; but it wore a smile so big and broad, and was so Jolly in expression, that even Tip laughed as he looked admiringly at his work.
 
 The child had no playmates, so he did not know that boys often dig out the inside of a “pumpkin-jack,” and in the space thus made put a lighted candle to render the face more startling; but he conceived an idea of his own that promised to be quite as effective. He decided to manufacture the form of a man, who would wear this pumpkin head, and to stand it in a place where old Mombi would meet it face to face.
 
@@ -32,7 +32,7 @@ The child had no playmates, so he did not know that boys often dig out the insid
 
 He had plenty of time to accomplish this task, for Mombi had gone to a village—to buy groceries, she said—and it was a journey of at least two days.
 
-So he took his axe to the forest, and selected some stout, straight saplings, which he cut down and trimmed of all their twigs and leaves. From these he would make the arms, and legs, and feet of his man. For the body he stripped a sheet of thick bark from around a big tree, and with much labor fashioned it into a cylinder of about the right size, pinning the edges together with wooden pegs. Then, whistling happily as he worked, he carefully jointed the limbs and fastened them to the body with pegs whittled into shape with his knife.
+So he took his axe to the forest, and selected some stout, straight saplings, which he cut down and trimmed of all their twigs and leaves. From these he would make the arms, and legs, and feet of his man. For the body he stripped a sheet of thick bark from around a big tree, and with much labor fashioned it into a cylinder of about the right size, pinning the edges together with wooden pegs. Then, whistling happily as he worked, he carefully jointed the limbs and fastened them to the body with carefully shaped wooden pegs.
 
 By the time this feat had been accomplished it began to grow dark, and Tip remembered he must milk the cow and feed the pigs. So he picked up his wooden man and carried it back to the house with him.
 
@@ -67,7 +67,7 @@ To find clothing seemed no easy task; but Tip boldly ransacked the great chest i
 
 ဤအလုပ်ကို ပြီးစီးအောင် လုပ်ရန် အချိန်များစွာ ရှိသည်။ အကြောင်းမှာ မမ်ဘီသည် ကုန်စုံပစ္စည်းများ ဝယ်ရန်ဟု ပြောကာ ရွာတစ်ရွာသို့ ထွက်သွားခဲ့ပြီး ထိုခရီးသည် အနည်းဆုံး နှစ်ရက်ကြာမည့် ခရီးဖြစ်သောကြောင့် ဖြစ်သည်။
 
-ထို့ကြောင့် တစ်ပ်သည် ပုဆိန်ကို ယူကာ တောထဲသို့ သွားခဲ့သည်။ ဖြောင့်တန်းပြီး ခိုင်ခံ့သော သစ်ပင်ပေါက်လေးများကို ရွေးချယ်ကာ ခုတ်လှဲပြီး အကိုင်းအခက်နှင့် အရွက်များကို ဖယ်ရှားလိုက်သည်။ ထိုသစ်သားများကို သူဖန်တီးမည့် လူ၏ လက်မောင်း၊ ခြေထောက်နှင့် ခြေဖဝါးများအဖြစ် အသုံးပြုမည်ဖြစ်သည်။ ကိုယ်ထည်အတွက်မူ သစ်ပင်ကြီးတစ်ပင်၏ ပင်စည်မှ အခေါက်ထူထူတစ်လွှာကို ခွာယူပြီး အားစိုက်၍ သင့်တော်သော အရွယ်အစားရှိ ဆလင်ဒါပုံစံ ဖြစ်အောင် ပြုလုပ်လိုက်သည်။ ထို့နောက် သစ်သားတံစို့လေးများဖြင့် အနားနှစ်ဖက်ကို ဆက်စပ်ချုပ်ထားသည်။ အလုပ်လုပ်ရင်း ပျော်ရွှင်စွာ တေးညည်းနေသော တစ်ပ်သည် ခြေလက်အဆစ်များကို သေသပ်စွာ တပ်ဆင်ပြီး ဓားဖြင့် ပုံဖော်ထားသော သစ်သားတံစို့များကို အသုံးပြုကာ ကိုယ်ထည်နှင့် ခိုင်မြဲစွာ ဆက်သွယ်လိုက်သည်။
+ထို့ကြောင့် တစ်ပ်သည် ပုဆိန်ကို ယူကာ တောထဲသို့ သွားခဲ့သည်။ ဖြောင့်တန်းပြီး ခိုင်ခံ့သော သစ်ပင်ပေါက်လေးများကို ရွေးချယ်ကာ ခုတ်လှဲပြီး အကိုင်းအခက်နှင့် အရွက်များကို ဖယ်ရှားလိုက်သည်။ ထိုသစ်သားများကို သူဖန်တီးမည့် လူ၏ လက်မောင်း၊ ခြေထောက်နှင့် ခြေဖဝါးများအဖြစ် အသုံးပြုမည်ဖြစ်သည်။ ကိုယ်ထည်အတွက်မူ သစ်ပင်ကြီးတစ်ပင်၏ ပင်စည်မှ အခေါက်ထူထူတစ်လွှာကို ခွာယူပြီး အားစိုက်၍ သင့်တော်သော အရွယ်အစားရှိ ဆလင်ဒါပုံစံ ဖြစ်အောင် ပြုလုပ်လိုက်သည်။ ထို့နောက် သစ်သားတံစို့လေးများဖြင့် အနားနှစ်ဖက်ကို ဆက်စပ်ချုပ်ထားသည်။ အလုပ်လုပ်ရင်း ပျော်ရွှင်စွာ တေးညည်းနေသော တစ်ပ်သည် ခြေလက်အဆစ်များကို သေသပ်စွာ တပ်ဆင်ပြီး သေသပ်စွာ ပုံဖော်ထားသော သစ်သားတံစို့များကို အသုံးပြုကာ ကိုယ်ထည်နှင့် ခိုင်မြဲစွာ ဆက်သွယ်လိုက်သည်။
 
 ဤအလုပ်ပြီးဆုံးခါနီးတွင် မှောင်ရီပျိုးလာခဲ့သည်။ ထိုအခါ နွားမကြီးကို နို့ညှစ်ရန်နှင့် ဝက်များကို အစာကျွေးရန် လိုအပ်နေကြောင်း တစ်ပ် သတိရသွားသည်။ ထို့ကြောင့် သစ်သားလူရုပ်ကို ကောက်ယူပြီး အိမ်သို့ ပြန်သယ်လာခဲ့သည်။
 
@@ -97,7 +97,7 @@ So intent was Mombi on the treasures she had gained that when she turned the ben
 
 “Good evening, sir.”
 
-But, a moment after, noting that the person did not move or reply, she cast a shrewd glance into his face and discovered his pumpkin head elaborately carved by Tip’s jack-knife.
+But, a moment after, noting that the person did not move or reply, she cast a shrewd glance into his face and discovered his pumpkin head elaborately carved by Tip.
 
 “Heh!” ejaculated Mombi, giving a sort of grunt; “that rascally boy has been playing tricks again! Very good! ve—ry good! I’ll beat him black-and-blue for trying to scare me in this fashion!”
 
@@ -248,7 +248,7 @@ The boy did not go to bed, as he had been commanded to do, but still sat glaring
 
 မမ်ဘီသည် ရရှိလာသော ရတနာများအကြောင်းကိုသာ စိတ်ဝင်စားနေသဖြင့် လမ်းကွေ့ကို ချိုးကာ လူရုပ်ကို မြင်လိုက်ရသည့်အခါ ခေါင်းညိတ်ပြပြီး “မင်္ဂလာညနေခင်းပါ၊ ဆရာ” ဟုသာ နှုတ်ဆက်လိုက်သည်။
 
-သို့သော် ခဏအကြာတွင် ထိုလူက မလှုပ်မယှက်နှင့် ပြန်မဖြေကြောင်း သတိထားမိသဖြင့် မျက်နှာကို သေချာစွာ ကြည့်လိုက်သည်။ ထိုအခါ တစ်ပ်၏ ဓားဖြင့် သေသပ်စွာ ထွင်းထားသော ဖရုံသီးခေါင်းဖြစ်ကြောင်း သိလိုက်ရသည်။
+သို့သော် ခဏအကြာတွင် ထိုလူက မလှုပ်မယှက်နှင့် ပြန်မဖြေကြောင်း သတိထားမိသဖြင့် မျက်နှာကို သေချာစွာ ကြည့်လိုက်သည်။ ထိုအခါ တစ်ပ်က သေသပ်စွာ ထွင်းဖော်ထားသော ဖရုံသီးခေါင်းဖြစ်ကြောင်း သိလိုက်ရသည်။
 
 “ဟင်… ဒီဆိုးသွမ်းတဲ့ ကောင်လေးက နောက်တစ်ခါ လှည့်စားပြန်ပြီပဲ။ ကောင်းပြီ၊ ကောင်းပြီ။ ငါ့ကို ဒီလိုလန့်အောင် လုပ်ဖို့ ကြိုးစားတဲ့အတွက် သူ့ကို ကောင်းကောင်းဆုံးမရမယ်” ဟု မမ်ဘီက ဒေါသတကြီး ရေရွတ်လိုက်သည်။
 
@@ -845,7 +845,7 @@ Tip patted it upon the head, and said “Good boy! Good Boy!” in a coaxing ton
 
 “Why, I didn’t think of it,” answered the Pumpkinhead; “I didn’t need to, for it’s the simplest and easiest thing to do.”
 
-So Tip got out his knife and fashioned some ears out of the bark of a small tree.
+So Tip fashioned a pair of ears from the bark of a small tree.
 
 “I mustn’t make them too big,” he said, as he whittled, “or our horse would become a donkey.”
 
@@ -863,7 +863,7 @@ So Tip got out his knife and fashioned some ears out of the bark of a small tree
 
 “Certainly, if you’ll help me up,” said Jack.
 
-So Tip raised him to his feet, and the Pumpkinhead went to the horse and held its head while the boy bored two holes in it with his knife-blade and inserted the ears.
+So Tip raised him to his feet, and the Pumpkinhead went to the horse and held its head while the boy fitted the ears into place.
 
 “They make him look very handsome,” said Jack, admiringly.
 
@@ -996,7 +996,7 @@ Then the boy stretched himself upon the grass beside the Pumpkinhead, and being 
 
 “ကျွန်တော် စဉ်းစားခဲ့တာ မဟုတ်ပါဘူး။ စဉ်းစားစရာတောင် မလိုဘူးလေ။ အဲဒါက အလွယ်ကူဆုံးနဲ့ အရိုးရှင်းဆုံး အလုပ်ပဲ” ဟု ဖရုံသီးခေါင်းလူက ပြန်ဖြေသည်။
 
-ထို့ကြောင့် တစ်ပ်သည် ဓားကို ထုတ်ယူပြီး သစ်ပင်ငယ်တစ်ပင်၏ အခေါက်မှ နားနှစ်ဖက်ကို ပုံဖော်ပြုလုပ်လိုက်သည်။
+ထို့ကြောင့် တစ်ပ်သည် သစ်ပင်ငယ်တစ်ပင်၏ အခေါက်မှ နားနှစ်ဖက်ကို သေသပ်စွာ ပုံဖော်ပြုလုပ်လိုက်သည်။
 
 “နားတွေကို အရမ်းမကြီးအောင် လုပ်ရမယ်။ မဟုတ်ရင် ငါတို့မြင်းက မြည်းဖြစ်သွားလိမ့်မယ်” ဟု ပုံဖော်နေစဉ် သူက ပြောသည်။
 
@@ -1014,7 +1014,7 @@ Then the boy stretched himself upon the grass beside the Pumpkinhead, and being 
 
 “ရပါတယ်။ ဒါပေမဲ့ အရင်ဆုံး ကျွန်တော့်ကို မတ်တတ်ရပ်နိုင်အောင် ကူညီပေးပါ” ဟု ဂျက်က ပြန်ဖြေသည်။
 
-တစ်ပ်သည် သူ့ကို မတ်တတ်ရပ်စေပြီးနောက် ဂျက်က မြင်းဆီသို့ သွားကာ ခေါင်းကို ကိုင်ထားပေးသည်။ ထိုအချိန်တွင် တစ်ပ်သည် ဓားဖျားဖြင့် အပေါက်နှစ်ပေါက် ဖောက်ပြီး နားနှစ်ဖက်ကို ထည့်တပ်လိုက်သည်။
+တစ်ပ်သည် သူ့ကို မတ်တတ်ရပ်စေပြီးနောက် ဂျက်က မြင်းဆီသို့ သွားကာ ခေါင်းကို ကိုင်ထားပေးသည်။ ထိုအချိန်တွင် တစ်ပ်သည် နားနှစ်ဖက်ကို သင့်တော်သည့်နေရာတွင် တပ်ဆင်လိုက်သည်။
 
 “အခုတော့ အလွန်ချောမောသွားပြီ” ဟု ဂျက်က သဘောကျစွာ ပြောလိုက်သည်။
 
@@ -1223,11 +1223,11 @@ The horse rolled one knotty eye upward and winked at Jack. Then it gave a prance
 
 “This is a strange affair—very strange!” declared the Guardian. “But you seem harmless. Folks do not smile so delightfully when they mean mischief.”
 
-“As for that,” said Jack, “I cannot help my smile, for it is carved on my face with a jack-knife.”
+“As for that,” said Jack, “I cannot help my smile, for it is carved permanently into my face.”
 
 “Well, come with me into my room,” resumed the Guardian, “and I will see what can be done for you.”
 
-So Jack rode the Saw-Horse through the gateway into a little room built into the wall. The Guardian pulled a bell-cord, and presently a very tall soldier—clothed in a green uniform—entered from the opposite door. This soldier carried a long green gun over his shoulder and had lovely green whiskers that fell quite to his knees. The Guardian at once addressed him, saying:
+So Jack rode the Saw-Horse through the gateway into a little room built into the wall. The Guardian pulled a bell-cord, and presently a very tall soldier—clothed in a green uniform—entered from the opposite door. This soldier wore a green uniform and had lovely green whiskers that fell quite to his knees. The Guardian at once addressed him, saying:
 
 “Here is a strange gentleman who doesn’t know why he has come to the Emerald City, or what he wants. Tell me, what shall we do with him?”
 
@@ -1372,7 +1372,7 @@ Jack felt no fear or embarrassment at meeting the ruler of this magnificent city
 
 “ဒါက ထူးဆန်းတဲ့ ကိစ္စပဲ။ အလွန်ထူးဆန်းတယ်” ဟု တံခါးစောင့်က ပြောသည်။ “ဒါပေမဲ့ သင်က အန္တရာယ်မရှိတဲ့သူပုံပေါ်ပါတယ်။ မကောင်းမှုလုပ်ချင်သူတွေက ဒီလောက် ချစ်စရာကောင်းအောင် ပြုံးနေကြတာ မဟုတ်ဘူး။”
 
-“အဲဒါကတော့ ကျွန်တော် ဘာမှ မတတ်နိုင်ပါဘူး။ ကျွန်တော့်မျက်နှာပေါ်က အပြုံးကို ဓားနဲ့ ထွင်းထားတာမို့ ပြုံးနေတာကို ရပ်လို့မရဘူး” ဟု ဂျက်က ပြောသည်။
+“အဲဒါကတော့ ကျွန်တော် ဘာမှ မတတ်နိုင်ပါဘူး။ ကျွန်တော့်မျက်နှာပေါ်မှာ အပြုံးကို အမြဲတမ်း ထွင်းဖော်ထားတာမို့ ပြုံးနေတာကို ရပ်လို့မရဘူး” ဟု ဂျက်က ပြောသည်။
 
 “ဒါဆို ကျွန်ုပ်နဲ့အတူ အခန်းထဲ လိုက်ခဲ့ပါ။ သင့်အတွက် ဘာလုပ်ပေးနိုင်မလဲဆိုတာ ကြည့်ကြတာပေါ့” ဟု တံခါးစောင့်က ပြောလိုက်သည်။
 
