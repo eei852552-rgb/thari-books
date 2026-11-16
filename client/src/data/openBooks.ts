@@ -101,7 +101,7 @@ export const openBooks: readonly OpenBook[] = [
     author: "L. Frank Baum",
     categoryId: "stories-fiction",
     categoryMy: "ဝတ္ထုနှင့် စိတ်ကူးယဉ်",
-    coverImage: "images/covers/wonderful-wizard-of-oz.jpg",
+    coverImage: "images/covers/marvelous-land-of-oz.svg",
     descriptionMy: "The Wonderful Wizard of Oz ၏ ပထမဆုံးနောက်ဆက်တွဲဝတ္ထု။ တစ်ပ်၊ ဂျက်ဖရုံသီးခေါင်းနှင့် ကောက်ရိုးလူတို့၏ အော့ဇ်ကမ္ဘာအတွင်း စွန့်စားခန်းများကို ဆက်လက်ဖော်ပြထားသည်။",
     descriptionEn: "The first sequel to The Wonderful Wizard of Oz, following Tip, Jack Pumpkinhead, the Scarecrow and their companions.",
     synopsisMy: "အော့ဇ်နိုင်ငံ၏ မြောက်ပိုင်း ဂီလီကင်ဒေသတွင် မမ်ဘီအဘွားအိုနှင့် နေထိုင်သော တစ်ပ်၏ စွန့်စားခန်းမှ စတင်ကာ အော့ဇ်နိုင်ငံ၏ အုပ်ချုပ်မှု၊ မိတ်ဆွေမှုနှင့် မင်းသမီးအော့ဇ်မာ၏ လျှို့ဝှက်ချက်များကို ဖော်ထုတ်သွားသော ဒုတိယအော့ဇ်ဝတ္ထုဖြစ်သည်။",
