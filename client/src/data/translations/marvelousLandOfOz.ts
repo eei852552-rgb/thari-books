@@ -1668,5 +1668,148 @@ His Majesty then dismissed Jellia Jamb and the Soldier with the Green Whiskers, 
 
 ထို့နောက် ဘုရင်မင်းမြတ်သည် ဂျယ်လီယာဂျမ်နှင့် အစိမ်းရောင်မုတ်ဆိတ်ရှည် စစ်သားတို့ကို ပြန်လွှတ်လိုက်သည်။ သူတို့ ထွက်သွားပြီးနောက် ဘုရင်ကြီးသည် မိတ်ဆွေအသစ်၏ လက်မောင်းကို ကိုင်ကာ အိမ်ဝင်းအတွင်းသို့ ခေါ်ဆောင်သွားပြီး ကွင်းပစ်ကစားနည်းတစ်ခုကို အတူကစားကြသည်။`,
   }
+,
+  {
+    number: 8,
+    title: "အခန်း (၈) — ဗိုလ်ချုပ်ဂျင်ဂျာ၏ တော်လှန်ရေးတပ်",
+    titleEn: "Chapter 8 — General Jinjur’s Army of Revolt",
+    readingType: "adaptation",
+    contentEn: `Tip was so anxious to rejoin Jack and the Saw-Horse that he walked half the distance to the Emerald City without stopping. Then he discovered that he was hungry and that all the crackers and cheese he had packed for the journey were gone.
+
+While wondering what to do, he came upon a girl sitting beside the road. Her costume was remarkably bright: her silk waist was emerald green, while her skirt showed four colors—blue in front, yellow at the left, red at the back, and purple at the right. Four buttons down the front matched those colors.
+
+The dress was splendid, but Tip soon noticed the pretty face above it. The girl looked dissatisfied and somewhat defiant. A lunch basket stood beside her, and she was eating a sandwich and a hard-boiled egg with a hearty appetite.
+
+Just as Tip was about to ask for some food, the girl stood up and brushed the crumbs from her lap.
+
+“There! It is time for me to go. Carry that basket for me and help yourself to its contents if you are hungry.”
+
+Tip eagerly took the basket and began eating as he followed the strange girl. She walked quickly, with an air of decision and importance.
+
+When he had eaten enough, Tip hurried beside her.
+
+“Thank you very much for the sandwiches. May I ask your name?”
+
+“I am General Jinjur,” she replied.
+
+“What sort of a general?”
+
+“I command the Army of Revolt in this war,” she answered sharply.
+
+“I didn’t know there was a war.”
+
+“You were not supposed to know. We have kept it secret. Our army is made entirely of girls, and it is remarkable that our revolt has not yet been discovered.”
+
+“Where is your army?” asked Tip.
+
+“About a mile from here. Girls from all parts of Oz have gathered at my command. Today we shall conquer His Majesty the Scarecrow and take his throne. The Army of Revolt is waiting for me before marching on the Emerald City.”
+
+“Why do you wish to conquer the Scarecrow?” asked Tip.
+
+“Because men have ruled the Emerald City long enough,” said the General. “Besides, the City is full of beautiful gems that could be made into rings, bracelets, and necklaces. The royal treasury also holds enough money to buy every girl in our Army a dozen new dresses. We intend to take the City and govern it ourselves.”
+
+“But war is a terrible thing,” said Tip.
+
+“This war will be pleasant,” replied Jinjur cheerfully.
+
+Tip worried that people might be hurt. Jinjur insisted that the defenders would not seriously oppose a company of girls. She also believed the royal guard was old and weak, and that the people no longer feared the Scarecrow as they had once feared the Wonderful Wizard.
+
+They soon reached a clearing where about four hundred young women had gathered. They chatted and laughed as if attending a picnic rather than preparing to take a city. They were arranged in four companies, representing the different regions of Oz. Their colorful uniforms were similar to Jinjur’s, with green waists representing the Emerald City.
+
+Tip thought the unusual army seemed unprepared for a serious confrontation. General Jinjur climbed onto a tree stump and addressed them.
+
+“Friends, fellow-citizens, and girls! We are about to begin our great revolt against the men of Oz. We march to take the Emerald City, remove the Scarecrow from the throne, claim its treasures, and gain power over those who have ruled us!”
+
+The girls cheered, although many were too busy talking to listen closely. At the order to march, they formed into four companies and set off toward the Emerald City.
+
+Tip followed, carrying baskets, wraps, and packages entrusted to him by members of the army. Before long they reached the green stone walls and stopped before the gateway.
+
+The Guardian of the Gate came out, looking at them with curiosity. He seemed unaware that the City was in danger.
+
+“Good morning, my dears! What can I do for you?” he asked pleasantly.
+
+“Surrender instantly!” General Jinjur demanded.
+
+“Surrender? That is impossible and against the law. I have never heard of such a thing!”
+
+“Still, you must surrender. We are revolting, and we mean to conquer the Emerald City!”
+
+The Guardian looked from one girl to another, unable to believe that they were serious. He advised them to go home, but Jinjur stood firm.
+
+He called for the Soldier with the Green Whiskers. In the confusion that followed, Jinjur’s followers surrounded the Guardian and forced him to give up the keys. The General then led her company toward the gateway, where the royal guard tried to stop them. The guard was not prepared for the sudden challenge and soon retreated toward the palace.
+
+General Jinjur and her followers entered the City. The Emerald City had been captured without anyone being killed, and the Army of Revolt had become an Army of Conquerors.
+
+[The confrontation is presented in a non-operational adaptation; details of weapon use in the source are omitted.]`,
+    content: `ဂျက်နှင့် သစ်သားလွှမြင်းတို့ကို ပြန်လည်တွေ့ဆုံရန် တစ်ပ်သည် အလွန်စိတ်အားထက်သန်နေသဖြင့် မြမြို့တော်သို့ သွားရာလမ်း၏ တစ်ဝက်ခန့်ကို အနားမယူဘဲ လျှောက်လာခဲ့သည်။ ထို့နောက် သူ ဗိုက်ဆာနေကြောင်း သတိထားမိလာပြီး ခရီးအတွက် ယူလာခဲ့သော မုန့်ခြောက်နှင့် ဒိန်ခဲများလည်း ကုန်သွားပြီဖြစ်သည်။
+
+ဘာလုပ်ရမည်ကို စဉ်းစားနေစဉ် လမ်းဘေးတွင် ထိုင်နေသော မိန်းကလေးတစ်ဦးကို တွေ့လိုက်ရသည်။ သူမ၏ အဝတ်အစားမှာ အလွန်တောက်ပသော အရောင်များဖြင့် ပြုလုပ်ထားသည်။ ပိုးထည်အင်္ကျီ၏ ခါးပိုင်းမှာ မြစိမ်းရောင်ဖြစ်ပြီး စကတ်တွင် အရောင်လေးမျိုး ပါဝင်သည်။ ရှေ့ဘက်တွင် အပြာရောင်၊ ဘယ်ဘက်တွင် အဝါရောင်၊ နောက်ဘက်တွင် အနီရောင်နှင့် ညာဘက်တွင် ခရမ်းရောင်ဖြစ်သည်။ ရှေ့ဘက်တွင် တပ်ထားသော ကြယ်သီးလေးလုံးသည်လည်း ထိုအရောင်များနှင့် ကိုက်ညီနေသည်။
+
+အဝတ်အစား၏ ခမ်းနားမှုက အံ့ဩစရာဖြစ်သော်လည်း တစ်ပ်သည် မကြာမီ အပေါ်ဘက်ရှိ လှပသော မျက်နှာကို သတိထားမိလာသည်။ မိန်းကလေး၏ မျက်နှာတွင် မကျေနပ်သည့်အမူအရာနှင့် အနည်းငယ် စိန်ခေါ်လိုသော အသွင်ကို တွေ့ရသည်။ သူမဘေးတွင် နေ့လယ်စာထည့်ထားသော ခြင်းတောင်းတစ်လုံး ရှိနေပြီး အသားညှပ်ပေါင်မုန့်တစ်ခုနှင့် ကြက်ဥပြုတ်တစ်လုံးကို အားရပါးရ စားနေခဲ့သည်။
+
+တစ်ပ်သည် အစားအစာအနည်းငယ် တောင်းရန် ပြင်နေစဉ် မိန်းကလေးက မတ်တတ်ရပ်လိုက်ပြီး မိမိ၏ ပေါင်ပေါ်မှ မုန့်ကြွင်းများကို ခါချလိုက်သည်။
+
+“ကဲ… ငါ သွားရမယ့်အချိန် ရောက်ပြီ။ ဒီခြင်းတောင်းကို ငါ့အတွက် သယ်ပေးပါ။ မင်းဗိုက်ဆာနေရင် အထဲက စားစရာတွေကိုလည်း စားနိုင်တယ်။”
+
+တစ်ပ်သည် ဝမ်းသာအားရ ခြင်းတောင်းကို ယူလိုက်ပြီး ထိုထူးဆန်းသော မိန်းကလေးနောက်မှ လိုက်ရင်း စားစရာများကို စားလိုက်သည်။ သူမသည် ဆုံးဖြတ်ချက်ခိုင်မာပြီး အရေးပါသူတစ်ဦးကဲ့သို့ လျင်မြန်စွာ လျှောက်နေသည်။
+
+ဗိုက်ပြည့်သွားသောအခါ တစ်ပ်သည် သူမဘေးသို့ အမြန်လိုက်သွားသည်။
+
+“အသားညှပ်ပေါင်မုန့်တွေအတွက် ကျေးဇူးအများကြီးတင်ပါတယ်။ နာမည်လေး မေးလို့ရမလား။”
+
+“ငါက ဗိုလ်ချုပ်ဂျင်ဂျာပဲ” ဟု သူမက တိုတိုတုတ်တုတ် ပြန်ဖြေသည်။
+
+“ဘယ်လို ဗိုလ်ချုပ်မျိုးလဲ။”
+
+“ဒီစစ်ပွဲမှာ တော်လှန်ရေးတပ်ကို ငါ အုပ်ချုပ်တာ” ဟု သူမက ခပ်ပြတ်ပြတ် ပြန်ဖြေသည်။
+
+“ဒီမှာ စစ်ပွဲရှိနေတယ်ဆိုတာ ကျွန်တော် မသိခဲ့ဘူး။”
+
+“မင်း သိဖို့ မလိုသေးဘူး။ ငါတို့က လျှို့ဝှက်ထားခဲ့တာ။ ငါတို့တပ်မှာ မိန်းကလေးတွေပဲ ပါဝင်တယ်။ ဒီတော်လှန်ရေးကို အခုထိ ဘယ်သူမှ မသိသေးတာက ထူးခြားတဲ့အချက်ပဲ။”
+
+“ဒါဆို မင်းရဲ့တပ်က ဘယ်မှာလဲ” ဟု တစ်ပ်က မေးသည်။
+
+“ဒီနေရာကနေ တစ်မိုင်လောက် ဝေးတယ်။ အော့ဇ်နိုင်ငံရဲ့ နေရာအနှံ့က မိန်းကလေးတွေကို ငါ့အမိန့်နဲ့ စုစည်းထားတာ။ ဒီနေ့မှာ ဘုရင်မင်းမြတ် ကောက်ရိုးလူကို အနိုင်ယူပြီး သူ့ရာဇပလ္လင်ကို သိမ်းယူမယ်။ တော်လှန်ရေးတပ်က မြမြို့တော်ကို ချီတက်ဖို့ ငါ့ကို စောင့်နေကြတယ်။”
+
+“ကောက်ရိုးလူကို ဘာကြောင့် အနိုင်ယူချင်တာလဲ” ဟု တစ်ပ်က မေးသည်။
+
+“မြမြို့တော်ကို ယောက်ျားတွေ အုပ်ချုပ်လာတာ ကြာလွန်းပြီလို့ ငါထင်တယ်” ဟု ဗိုလ်ချုပ်က ပြောသည်။ “ဒါ့အပြင် မြို့ထဲမှာ လှပတဲ့ ရတနာတွေ အများကြီး ရှိနေတယ်။ အဲဒါတွေကို လက်စွပ်၊ လက်ကောက်နဲ့ လည်ဆွဲတွေ ပြုလုပ်ဖို့ အသုံးချနိုင်တယ်။ နန်းတော်ဘဏ္ဍာတိုက်ထဲမှာလည်း ငါတို့တပ်က မိန်းကလေးတိုင်းအတွက် ဝတ်စုံအသစ် တစ်ဒါဇင်စီ ဝယ်ပေးနိုင်လောက်တဲ့ ငွေကြေးရှိတယ်။ ဒါကြောင့် မြို့ကို သိမ်းယူပြီး ငါတို့ကိုယ်တိုင် အုပ်ချုပ်ကြမယ်။”
+
+“ဒါပေမဲ့ စစ်ပွဲဆိုတာ ကြောက်စရာကောင်းတဲ့ အရာပဲ” ဟု တစ်ပ်က စဉ်းစားရင်း ပြောသည်။
+
+“ဒီစစ်ပွဲကတော့ ပျော်စရာကောင်းမှာပါ” ဟု ဂျင်ဂျာက ပျော်ရွှင်စွာ ပြန်ဖြေသည်။
+
+လူတွေ ထိခိုက်နစ်နာနိုင်မည်ကို တစ်ပ်က စိုးရိမ်နေခဲ့သည်။ သို့သော် ဂျင်ဂျာက မိန်းကလေးအဖွဲ့တစ်ဖွဲ့ကို ကာကွယ်ရေးတပ်က အပြင်းအထန် မတားဆီးရဲဟု ယုံကြည်နေသည်။ ထို့ပြင် တော်ဝင်အစောင့်တပ်မှာ အသက်ကြီးပြီး အားနည်းနေပြီဟု သူမက ထင်မြင်သည်။ အရင်က လူတွေသည် အံ့ဖွယ်မှော်ဆရာကြီးကို ကြောက်ရွံ့ခဲ့ကြသော်လည်း ယခု ကောက်ရိုးလူကိုတော့ မကြောက်ကြတော့ဟုလည်း သူမက ယူဆနေသည်။
+
+သူတို့သည် အတန်ကြာ တိတ်ဆိတ်စွာ ဆက်လျှောက်လာကြပြီး မကြာမီ တောအုပ်အတွင်းရှိ ရှင်းလင်းသော နေရာကျယ်တစ်ခုသို့ ရောက်လာကြသည်။ ထိုနေရာတွင် မိန်းကလေးငယ် လေးရာခန့် စုဝေးနေကြသည်။ သူတို့သည် မြို့တစ်မြို့ကို သိမ်းယူရန် စုဝေးလာကြခြင်းထက် ပျော်ပွဲစားထွက်လာကြသကဲ့သို့ ရယ်မောစကားပြောနေကြသည်။
+
+သူတို့ကို အဖွဲ့လေးဖွဲ့ ခွဲထားပြီး အားလုံးသည် ဗိုလ်ချုပ်ဂျင်ဂျာ၏ ဝတ်စုံနှင့် ဆင်တူသော အဝတ်အစားများ ဝတ်ဆင်ထားကြသည်။ အော့ဇ်နိုင်ငံ၏ ဒေသအသီးသီးကို ကိုယ်စားပြုသော အရောင်များကို စကတ်များတွင် ဖော်ပြထားပြီး ခါးပိုင်းမှာတော့ သူတို့ သိမ်းယူလိုသော မြမြို့တော်ကို ကိုယ်စားပြုသည့် အစိမ်းရောင်ဖြစ်သည်။
+
+တစ်ပ်သည် ထိုထူးဆန်းသော တပ်ဖွဲ့မှာ အရေးကြီးသော ရင်ဆိုင်မှုတစ်ခုအတွက် အဆင်သင့် မဖြစ်သေးဟု ထင်မြင်မိသည်။ ဗိုလ်ချုပ်ဂျင်ဂျာသည် သစ်ငုတ်တစ်ခုပေါ်သို့ တက်ကာ သူမ၏ တပ်ဖွဲ့ကို မိန့်ခွန်းပြောလိုက်သည်။
+
+“မိတ်ဆွေတို့၊ ပြည်သူတို့၊ မိန်းကလေးတို့ရေ။ အော့ဇ်နိုင်ငံက ယောက်ျားတွေကို ဆန့်ကျင်တဲ့ တော်လှန်ရေးကြီးကို စတင်ကြတော့မယ်။ မြမြို့တော်ကို သိမ်းယူမယ်၊ ကောက်ရိုးဘုရင်ကို ရာဇပလ္လင်ပေါ်က ဖယ်ရှားမယ်၊ မြို့ရဲ့ ရတနာတွေကို ရယူမယ်။ ငါတို့ကို အရင်က အုပ်ချုပ်ခဲ့သူတွေအပေါ် အာဏာရယူကြမယ်။”
+
+မိန်းကလေးများသည် ဝမ်းသာစွာ အော်ဟစ်ကြသော်လည်း အများစုမှာ စကားပြောနေကြသဖြင့် ဗိုလ်ချုပ်၏ မိန့်ခွန်းကို သေချာနားမထောင်ခဲ့ကြပါ။ ချီတက်ရန် အမိန့်ပေးလိုက်သောအခါ သူတို့သည် အဖွဲ့လေးဖွဲ့အဖြစ် စုစည်းကာ မြမြို့တော်ဘက်သို့ စတင်ထွက်ခွာခဲ့ကြသည်။
+
+တစ်ပ်သည် တော်လှန်ရေးတပ်ဖွဲ့ဝင်များက မိမိတို့၏ အပ်နှံထားသော ခြင်းတောင်းများ၊ အဝတ်ထုပ်များနှင့် ပစ္စည်းထုပ်များကို သယ်ဆောင်ပေးရန် တာဝန်ပေးထားသဖြင့် သူတို့နောက်မှ လိုက်လာခဲ့သည်။ မကြာမီ မြို့၏ အစိမ်းရောင်ကျောက်နံရံများသို့ ရောက်လာပြီး တံခါးပေါက်ရှေ့တွင် ရပ်တန့်လိုက်ကြသည်။
+
+တံခါးစောင့်သည် မြို့ထဲသို့ ဆပ်ကပ်အဖွဲ့တစ်ဖွဲ့ ရောက်လာသကဲ့သို့ အံ့ဩစွာ ကြည့်ပြီး အပြင်သို့ ထွက်လာသည်။ သူ၏ လည်ပင်းတွင် ရွှေကြိုးဖြင့် ချိတ်ထားသော သော့တွဲတစ်ခု ရှိပြီး လက်များကို အိတ်ကပ်ထဲတွင် ပေါ့ပေါ့ပါးပါး ထည့်ထားသည်။ မြို့ကို တော်လှန်သူများက ခြိမ်းခြောက်နေကြောင်းကိုလည်း သူ သိရှိပုံမရပါ။ မိန်းကလေးများကို ကြင်နာစွာ ပြောလိုက်သည်။
+
+“မင်္ဂလာနံနက်ခင်းပါ ကလေးတို့။ ဘာကူညီပေးရမလဲ။”
+
+“ချက်ချင်း လက်နက်ချပါ” ဟု ဗိုလ်ချုပ်ဂျင်ဂျာက သူ့ရှေ့တွင် ရပ်ကာ မျက်နှာကို တင်းမာစွာထားပြီး ပြောလိုက်သည်။
+
+“လက်နက်ချရမယ်ဟုတ်လား။ မဖြစ်နိုင်ဘူး။ ဥပဒေနဲ့ ဆန့်ကျင်နေတယ်။ ကျွန်တော် တစ်သက်မှာ ဒီလိုအရာမျိုး မကြားဖူးဘူး။”
+
+“ဒါပေမဲ့ လက်နက်ချရမယ်။ ငါတို့က တော်လှန်ရေးလုပ်နေကြတာ။ မြမြို့တော်ကို သိမ်းယူမယ်” ဟု ဗိုလ်ချုပ်က အခိုင်အမာ ပြောလိုက်သည်။
+
+တံခါးစောင့်သည် မိန်းကလေးတစ်ဦးပြီးတစ်ဦးကို ကြည့်နေပြီး သူတို့ တကယ်အလေးအနက် ပြောနေကြောင်း မယုံနိုင်သေးပါ။ သူသည် အိမ်ပြန်ကြရန် အကြံပေးခဲ့သော်လည်း ဂျင်ဂျာက မိမိဆုံးဖြတ်ချက်ကို မပြောင်းခဲ့ပါ။
+
+ထို့နောက် တံခါးစောင့်သည် အစိမ်းရောင်မုတ်ဆိတ်ရှည် စစ်သားကို ခေါ်လိုက်သည်။ ထိုအချိန်တွင် ဖြစ်ပေါ်လာသော ရှုပ်ထွေးမှုအတွင်း ဂျင်ဂျာ၏ အဖွဲ့ဝင်များသည် တံခါးစောင့်ကို ဝိုင်းထားကာ သော့တွဲကို လက်လွှတ်စေခဲ့သည်။ ထို့နောက် ဗိုလ်ချုပ်သည် သူမ၏ အဖွဲ့ကို တံခါးပေါက်ဘက်သို့ ဦးဆောင်သွားရာ တော်ဝင်အစောင့်တပ်က သူတို့ကို တားဆီးရန် ကြိုးစားခဲ့သည်။ သို့သော် ရုတ်တရက် ဖြစ်ပေါ်လာသော အခြေအနေကို မပြင်ဆင်ထားသဖြင့် မကြာမီ နန်းတော်ဘက်သို့ ဆုတ်ခွာသွားခဲ့ရသည်။
+
+ဗိုလ်ချုပ်ဂျင်ဂျာနှင့် သူမ၏ အဖွဲ့ဝင်များသည် မြို့အတွင်းသို့ ဝင်ရောက်နိုင်ခဲ့ကြသည်။ မည်သူမျှ အသက်ဆုံးရှုံးခြင်းမရှိဘဲ မြမြို့တော်ကို သိမ်းယူနိုင်ခဲ့ပြီး တော်လှန်ရေးတပ်သည် အောင်နိုင်သူများ၏ တပ်ဖြစ်လာခဲ့သည်။
+
+ဤအခန်းတွင် မူရင်းစာအုပ်၏ ထိပ်တိုက်ရင်ဆိုင်မှုကို ဇာတ်လမ်းအဆက်မပြတ်စေရန် ထိန်းသိမ်းထားပြီး လက်နက်အသုံးပြုမှုဆိုင်ရာ အသေးစိတ်များကို မဖော်ပြထားပါ။`,
+  }
 
 ] as const;
