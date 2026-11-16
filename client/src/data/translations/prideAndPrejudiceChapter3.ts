@@ -8,7 +8,6 @@ export const prideAndPrejudiceChapter3My = [
     number: 3,
     title: "အခန်း (၃)",
     titleEn: "Chapter III",
-    readingType: "summary",
     contentEn: `CHAPTER III.
 
 Not all that Mrs. Bennet, however, with the assistance of her five daughters, could ask on the subject, was sufficient to draw from her husband any satisfactory description of Mr. Bingley. They attacked him in various ways, with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all; and they were at last obliged to accept the second-hand intelligence of their neighbour, Lady Lucas. Her report was highly favourable.
