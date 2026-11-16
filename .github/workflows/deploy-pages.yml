@@ -61,9 +61,46 @@ jobs:
           cp dist/public/index.html dist/public/404.html
           test -s dist/public/404.html
 
+      - name: Generate static book detail routes
+        run: |
+          node --input-type=module <<'NODE'
+          import { readFileSync, mkdirSync, writeFileSync } from "node:fs";
+
+          const source = readFileSync("client/src/data/openBooks.ts", "utf8");
+          const start = source.indexOf("export const openBooks");
+          const end = source.indexOf("\n];", start);
+          if (start < 0 || end < 0) {
+            throw new Error("Could not locate the openBooks collection.");
+          }
+
+          const collection = source.slice(start, end);
+          const ids = [...collection.matchAll(/^\s*id:\s*"([^"]+)",/gm)].map((match) => match[1]);
+          if (ids.length === 0 || new Set(ids).size !== ids.length) {
+            throw new Error("Book route IDs are missing or duplicated.");
+          }
+
+          const html = readFileSync("dist/public/index.html", "utf8");
+          for (const id of ids) {
+            if (!/^[a-z0-9-]+$/.test(id)) {
+              throw new Error(`Unsafe book route ID: ${id}`);
+            }
+            const directory = `dist/public/book/${id}`;
+            mkdirSync(directory, { recursive: true });
+            writeFileSync(`${directory}/index.html`, html);
+          }
+
+          if (!ids.includes("aka-thazin-spring-winter")) {
+            throw new Error("Book 12 route was not found in openBooks.");
+          }
+          console.log(`Generated ${ids.length} static book detail routes.`);
+          NODE
+          test -s dist/public/book/aka-thazin-spring-winter/index.html
+
       - name: Verify built homepage and assets
         run: |
           test -s dist/public/index.html
+          test -s dist/public/404.html
+          test -s dist/public/book/aka-thazin-spring-winter/index.html
           test -s dist/public/images/library-hero.svg
           test -s dist/public/api/platform/config.js
           grep -q "/thari-books/" dist/public/index.html
