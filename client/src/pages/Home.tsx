@@ -469,6 +469,8 @@ export default function Home() {
       ? Math.min(savedForBook.page, Math.max(0, initialPageCount - 1))
       : 0;
     setSelectedBook(book);
+    setPendingPage(null);
+    setPageTurnDirection(null);
     setReaderChapterIndex(initialChapterIndex);
     setReaderPage(initialPage);
     setReaderLanguage(initialLanguage);
@@ -560,7 +562,7 @@ export default function Home() {
           <section className="detail-chapters">
             <span className="eyebrow eyebrow-dark"><span className="eyebrow-line" /> READING GUIDE</span>
             <h2>{siteLanguage === "my" ? "အခန်းစာရင်း" : "Chapters"}</h2>
-            {detailChapters.length > 0 ? <div className="detail-chapter-list">{detailChapters.map((chapter, index) => <button type="button" className="detail-chapter-item" key={`${chapter.number}-${chapter.title}`} onClick={() => { openReader(detailBook); setReaderChapterIndex(index); setReaderPage(0); setReaderIntroComplete(true); setReaderFinished(false); }}><span className="detail-chapter-number">{String(index + 1).padStart(2, "0")}</span><span><strong>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? chapter.title : chapter.titleEn ?? `Chapter ${chapter.number}`}</strong><small>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? `အခန်း ${index + 1}` : `Chapter ${index + 1}`}</small></span><ArrowUpRight size={17} /></button>)}</div> : <div className="detail-external-note"><BookOpen size={19} /><p>{siteLanguage === "my" ? "ဤစာအုပ်၏ အခန်းများကို THARi Reader ထဲတွင် မထည့်သွင်းရသေးပါ။ မူရင်းစာအုပ်ကို အခမဲ့ဖတ်ရှုရန် အပေါ်ရှိ မူရင်းရင်းမြစ်လင့်ခ်ကို အသုံးပြုနိုင်ပါတယ်။" : "Chapters for this title are not yet available in the THARi reader. Use the original-source link above to read the book."}</p></div>}
+            {detailChapters.length > 0 ? <div className="detail-chapter-list">{detailChapters.map((chapter, index) => <button type="button" className="detail-chapter-item" key={`${chapter.number}-${chapter.title}`} onClick={() => { openReader(detailBook); setPendingPage(null); setPageTurnDirection(null); setReaderChapterIndex(index); setReaderPage(0); setReaderIntroComplete(true); setReaderFinished(false); }}><span className="detail-chapter-number">{String(index + 1).padStart(2, "0")}</span><span><strong>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? chapter.title : chapter.titleEn ?? `Chapter ${chapter.number}`}</strong><small>{detailBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? `အခန်း ${index + 1}` : `Chapter ${index + 1}`}</small></span><ArrowUpRight size={17} /></button>)}</div> : <div className="detail-external-note"><BookOpen size={19} /><p>{siteLanguage === "my" ? "ဤစာအုပ်၏ အခန်းများကို THARi Reader ထဲတွင် မထည့်သွင်းရသေးပါ။ မူရင်းစာအုပ်ကို အခမဲ့ဖတ်ရှုရန် အပေါ်ရှိ မူရင်းရင်းမြစ်လင့်ခ်ကို အသုံးပြုနိုင်ပါတယ်။" : "Chapters for this title are not yet available in the THARi reader. Use the original-source link above to read the book."}</p></div>}
           </section>
         </section>
         </>
@@ -759,6 +761,8 @@ export default function Home() {
                         if (previousChapter) {
                           const previousContent = readerLanguage === "my" ? previousChapter.content : previousChapter.contentEn;
                           const previousPages = splitReaderPages(previousContent, readerLanguage === "my" ? 650 : 1300);
+                          setPendingPage(null);
+                          setPageTurnDirection(null);
                           setReaderChapterIndex(previousIndex);
                           setReaderPage(Math.max(0, previousPages.length - 1));
                           setReaderIntroComplete(true);
@@ -773,6 +777,8 @@ export default function Home() {
                     <button type="button" onClick={() => {
                       if (readerPage < readerPages.length - 1) turnReaderPage("forward");
                       else if (readerChapterIndex < readerChapters.length - 1) {
+                        setPendingPage(null);
+                        setPageTurnDirection(null);
                         setReaderChapterIndex((index) => index + 1);
                         setReaderPage(0);
                         setReaderIntroComplete(true);
