@@ -1114,5 +1114,303 @@ Then the boy stretched himself upon the grass beside the Pumpkinhead, and being 
 
 ထို့နောက် ကောင်လေးသည် ဖရုံသီးခေါင်းလူဘေးရှိ မြက်ခင်းပေါ်တွင် လှဲချလိုက်သည်။ ခရီးပန်းလွန်းနေသဖြင့် မကြာမီ အိပ်ပျော်သွားခဲ့သည်။`,
   }
+,
+  {
+    number: 6,
+    title: "အခန်း (၆) — ဂျက် ဖရုံသီးခေါင်း၏ မြမြို့တော်သို့ ခရီး",
+    titleEn: "Chapter 6 — Jack Pumpkinhead’s Ride to the Emerald City",
+    contentEn: `At daybreak Tip was awakened by the Pumpkinhead. He rubbed the sleep from his eyes, bathed in a little brook, and then ate a portion of his bread and cheese. Having thus prepared for a new day the boy said:
+
+“Let us start at once. Nine miles is quite a distance, but we ought to reach the Emerald City by noon if no accidents happen.” So the Pumpkinhead was again perched upon the back of the Saw-Horse and the journey was resumed.
+
+Tip noticed that the purple tint of the grass and trees had now faded to a dull lavender, and before long this lavender appeared to take on a greenish tinge that gradually brightened as they drew nearer to the great City where the Scarecrow ruled.
+
+The little party had traveled but a short two miles upon their way when the road of yellow brick was parted by a broad and swift river. Tip was puzzled how to cross over; but after a time he discovered a man in a ferry-boat approaching from the other side of the stream.
+
+When the man reached the bank Tip asked:
+
+“Will you row us to the other side?”
+
+“Yes, if you have money,” returned the ferryman, whose face looked cross and disagreeable.
+
+“But I have no money,” said Tip.
+
+“None at all?” inquired the man.
+
+“None at all,” answered the boy.
+
+“Then I’ll not break my back rowing you over,” said the ferryman, decidedly.
+
+“What a nice man!” remarked the Pumpkinhead, smilingly.
+
+The ferryman stared at him, but made no reply. Tip was trying to think, for it was a great disappointment to him to find his journey so suddenly brought to an end.
+
+“I must certainly get to the Emerald City,” he said to the boatman; “but how can I cross the river if you do not take me?”
+
+The man laughed, and it was not a nice laugh.
+
+“That wooden horse will float,” said he; “and you can ride him across. As for the pumpkinheaded loon who accompanies you, let him sink or swim—it won’t matter greatly which.”
+
+“Don’t worry about me,” said Jack, smiling pleasantly upon the crabbed ferryman; “I’m sure I ought to float beautifully.”
+
+Tip thought the experiment was worth making, and the Saw-Horse, who did not know what danger meant, offered no objections whatever. So the boy led it down into the water and climbed upon its back. Jack also waded in up to his knees and grasped the tail of the horse so that he might keep his pumpkin head above the water.
+
+“Now,” said Tip, instructing the Saw-Horse, “if you wiggle your legs you will probably swim; and if you swim we shall probably reach the other side.”
+
+The Saw-Horse at once began to wiggle its legs, which acted as oars and moved the adventurers slowly across the river to the opposite side. So successful was the trip that presently they were climbing, wet and dripping, up the grassy bank.
+
+Tip’s trouser-legs and shoes were thoroughly soaked; but the Saw-Horse had floated so perfectly that from his knees up the boy was entirely dry. As for the Pumpkinhead, every stitch of his gorgeous clothing dripped water.
+
+“The sun will soon dry us,” said Tip “and, anyhow, we are now safely across, in spite of the ferryman, and can continue our journey.”
+
+“I didn’t mind swimming, at all,” remarked the horse.
+
+“Nor did I,” added Jack.
+
+They soon regained the road of yellow brick, which proved to be a continuation of the road they had left on the other side, and then Tip once more mounted the Pumpkinhead upon the back of the Saw-Horse.
+
+“If you ride fast,” said he, “the wind will help to dry your clothing. I will hold on to the horse’s tail and run after you. In this way we all will become dry in a very short time.”
+
+“Then the horse must step lively,” said Jack.
+
+“I’ll do my best,” returned the Saw-Horse, cheerfully.
+
+Tip grasped the end of the branch that served as tail to the Saw-Horse, and called loudly: “Get-up!”
+
+The horse started at a good pace, and Tip followed behind. Then he decided they could go faster, so he shouted: “Trot!”
+
+Now, the Saw-Horse remembered that this word was the command to go as fast as he could; so he began rocking along the road at a tremendous pace, and Tip had hard work—running faster than he ever had before in his life—to keep his feet.
+
+Soon he was out of breath, and although he wanted to call “Whoa!” to the horse, he found he could not get the word out of his throat. Then the end of the tail he was clutching, being nothing more than a dead branch, suddenly broke away, and the next minute the boy was rolling in the dust of the road, while the horse and its pumpkin-headed rider dashed on and quickly disappeared in the distance.
+
+By the time Tip had picked himself up and cleared the dust from his throat so he could say “Whoa!” there was no further need of saying it, for the horse was long since out of sight.
+
+So he did the only sensible thing he could do. He sat down and took a good rest, and afterward began walking along the road.
+
+“Some time I will surely overtake them,” he reflected; “for the road will end at the gates of the Emerald City, and they can go no further than that.”
+
+Meantime Jack was holding fast to the post and the Saw-Horse was tearing along the road like a racer. Neither of them knew Tip was left behind, for the Pumpkinhead did not look around and the Saw-Horse couldn’t.
+
+As he rode, Jack noticed that the grass and trees had become a bright emerald-green in color, so he guessed they were nearing the Emerald City even before the tall spires and domes came into sight.
+
+At length a high wall of green stone, studded thick with emeralds, loomed up before them; and fearing the Saw-Horse would not know enough to stop and so might smash them both against this wall, Jack ventured to cry “Whoa!” as loud as he could.
+
+So suddenly did the horse obey that had it not been for his post Jack would have been pitched off head foremost, and his beautiful face ruined.
+
+“That was a fast ride, dear father!” he exclaimed; and then, hearing no reply, he turned around and discovered for the first time that Tip was not there.
+
+This apparent desertion puzzled the Pumpkinhead, and made him uneasy. And while he was wondering what had become of the boy, and what he ought to do next under such trying circumstances, the gateway in the green wall opened and a man came out.
+
+This man was short and round, with a fat face that seemed remarkably good-natured. He was clothed all in green and wore a high, peaked green hat upon his head and green spectacles over his eyes. Bowing before the Pumpkinhead he said:
+
+“I am the Guardian of the Gates of the Emerald City. May I inquire who you are, and what is your business?”
+
+“My name is Jack Pumpkinhead,” returned the other, smilingly; “but as to my business, I haven’t the least idea in the world what it is.”
+
+The Guardian of the Gates looked surprised, and shook his head as if dissatisfied with the reply.
+
+“What are you, a man or a pumpkin?” he asked, politely.
+
+“Both, if you please,” answered Jack.
+
+“And this wooden horse—is it alive?” questioned the Guardian.
+
+The horse rolled one knotty eye upward and winked at Jack. Then it gave a prance and brought one leg down on the Guardian’s toes.
+
+“Ouch!” cried the man; “I’m sorry I asked that question. But the answer is most convincing. Have you any errand, sir, in the Emerald City?”
+
+“It seems to me that I have,” replied the Pumpkinhead, seriously; “but I cannot think what it is. My father knows all about it, but he is not here.”
+
+“This is a strange affair—very strange!” declared the Guardian. “But you seem harmless. Folks do not smile so delightfully when they mean mischief.”
+
+“As for that,” said Jack, “I cannot help my smile, for it is carved on my face with a jack-knife.”
+
+“Well, come with me into my room,” resumed the Guardian, “and I will see what can be done for you.”
+
+So Jack rode the Saw-Horse through the gateway into a little room built into the wall. The Guardian pulled a bell-cord, and presently a very tall soldier—clothed in a green uniform—entered from the opposite door. This soldier carried a long green gun over his shoulder and had lovely green whiskers that fell quite to his knees. The Guardian at once addressed him, saying:
+
+“Here is a strange gentleman who doesn’t know why he has come to the Emerald City, or what he wants. Tell me, what shall we do with him?”
+
+The Soldier with the Green Whiskers looked at Jack with much care and curiosity. Finally he shook his head so positively that little waves rippled down his whiskers, and then he said:
+
+“I must take him to His Majesty, the Scarecrow.”
+
+“But what will His Majesty, the Scarecrow, do with him?” asked the Guardian of the Gates.
+
+“That is His Majesty’s business,” returned the soldier. “I have troubles enough of my own. All outside troubles must be turned over to His Majesty. So put the spectacles on this fellow, and I’ll take him to the royal palace.”
+
+So the Guardian opened a big box of spectacles and tried to fit a pair to Jack’s great round eyes.
+
+“I haven’t a pair in stock that will really cover those eyes up,” said the little man, with a sigh; “and your head is so big that I shall be obliged to tie the spectacles on.”
+
+“But why need I wear spectacles?” asked Jack.
+
+“It’s the fashion here,” said the Soldier, “and they will keep you from being blinded by the glitter and glare of the gorgeous Emerald City.”
+
+“Oh!” exclaimed Jack. “Tie them on, by all means. I don’t wish to be blinded.”
+
+“Nor I!” broke in the Saw-Horse; so a pair of green spectacles was quickly fastened over the bulging knots that served it for eyes.
+
+Then the Soldier with the Green Whiskers led them through the inner gate and they at once found themselves in the main street of the magnificent Emerald City.
+
+Sparkling green gems ornamented the fronts of the beautiful houses and the towers and turrets were all faced with emeralds. Even the green marble pavement glittered with precious stones, and it was indeed a grand and marvelous sight to one who beheld it for the first time.
+
+However, the Pumpkinhead and the Saw-Horse, knowing nothing of wealth and beauty, paid little attention to the wonderful sights they saw through their green spectacles. They calmly followed after the green soldier and scarcely noticed the crowds of green people who stared at them in surprise. When a green dog ran out and barked at them the Saw-Horse promptly kicked at it with its wooden leg and sent the little animal howling into one of the houses; but nothing more serious than this happened to interrupt their progress to the royal palace.
+
+The Pumpkinhead wanted to ride up the green marble steps and straight into the Scarecrow’s presence; but the soldier would not permit that. So Jack dismounted, with much difficulty, and a servant led the Saw-Horse around to the rear while the Soldier with the Green Whiskers escorted the Pumpkinhead into the palace, by the front entrance.
+
+The stranger was left in a handsomely furnished waiting room while the soldier went to announce him. It so happened that at this hour His Majesty was at leisure and greatly bored for want of something to do, so he ordered his visitor to be shown at once into his throne room.
+
+Jack felt no fear or embarrassment at meeting the ruler of this magnificent city, for he was entirely ignorant of all worldly customs. But when he entered the room and saw for the first time His Majesty the Scarecrow seated upon his glittering throne, he stopped short in amazement.`,
+    content: `မိုးလင်းခါစတွင် ဂျက် ဖရုံသီးခေါင်းက တစ်ပ်ကို နှိုးလိုက်သည်။ ကောင်လေးသည် မျက်လုံးထဲမှ အိပ်ချင်စိတ်ကို ပွတ်သပ်ဖယ်ရှားပြီး ချောင်းငယ်တစ်ခုတွင် ရေဆေးကြောလိုက်သည်။ ထို့နောက် ပေါင်မုန့်နှင့် ဒိန်ခဲအနည်းငယ်ကို စားလိုက်သည်။ နေ့သစ်တစ်နေ့အတွက် အဆင်သင့်ဖြစ်သွားသောအခါ သူက—
+
+“ချက်ချင်း ထွက်ကြရအောင်။ ကိုးမိုင်ဆိုတာ အတော်ဝေးတယ်။ ဒါပေမဲ့ မတော်တဆမှု မဖြစ်ဘူးဆိုရင် မွန်းတည့်ချိန်မတိုင်ခင် မြမြို့တော်ကို ရောက်နိုင်တယ်” ဟု ပြောလိုက်သည်။ ထို့နောက် ဖရုံသီးခေါင်းလူသည် သစ်သားလွှမြင်း၏ ကျောပေါ်သို့ ပြန်တက်လိုက်ပြီး ခရီးကို ဆက်လက်ထွက်ခွာခဲ့ကြသည်။
+
+တစ်ပ်သည် မြက်ပင်များနှင့် သစ်ပင်များ၏ ခရမ်းရောင်အရိပ်သည် ယခုအခါ မှိန်ဖျော့သော လာဗင်ဒါရောင်သို့ ပြောင်းလဲသွားကြောင်း သတိထားမိသည်။ မကြာမီ ထိုအရောင်သည် အစိမ်းရောင်သန်းလာပြီး ကောက်ရိုးလူ အုပ်ချုပ်နေသော မြို့ကြီးအနီးသို့ ရောက်လေလေ ပိုမိုတောက်ပလာလေလေ ဖြစ်သည်။
+
+သူတို့အဖွဲ့သည် ခရီးနှစ်မိုင်ခန့်သာ သွားရသေးချိန်တွင် အဝါရောင်အုတ်ခင်းလမ်းကို ကျယ်ပြန့်ပြီး ရေစီးသန်သော မြစ်ကြီးတစ်စင်းက ဖြတ်တောက်ထားသည်ကို တွေ့လိုက်ရသည်။ ဘယ်လိုကူးရမည်ကို တစ်ပ် မစဉ်းစားတတ်သေးပါ။ သို့သော် ခဏအကြာတွင် မြစ်တစ်ဖက်ကမ်းမှ ကူးတို့လှေတစ်စင်းဖြင့် လူတစ်ဦး လှော်ခတ်လာသည်ကို တွေ့လိုက်ရသည်။
+
+ထိုလူ ကမ်းသို့ ရောက်လာသောအခါ တစ်ပ်က—
+
+“ကျွန်တော်တို့ကို ဟိုဘက်ကမ်းသို့ လှော်ပို့ပေးနိုင်မလား” ဟု မေးလိုက်သည်။
+
+“မင်းတို့မှာ ပိုက်ဆံရှိရင်တော့ ရတယ်” ဟု မျက်နှာထားဆိုးပြီး စိတ်မကြည်သည့်ပုံပေါက်သော ကူးတို့သမားက ပြန်ဖြေသည်။
+
+“ကျွန်တော့်မှာ ပိုက်ဆံမရှိဘူး” ဟု တစ်ပ်က ပြောသည်။
+
+“လုံးဝ မရှိဘူးလား” ဟု ထိုလူက မေးပြန်သည်။
+
+“လုံးဝ မရှိဘူး” ဟု ကောင်လေးက ပြန်ဖြေသည်။
+
+“ဒါဆို မင်းတို့ကို လှော်ပို့ပေးဖို့ ငါ့ကျောကို မပင်ပန်းစေချင်ဘူး” ဟု ကူးတို့သမားက ပြတ်ပြတ်သားသား ပြောလိုက်သည်။
+
+“လူကောင်းလေးပဲနော်” ဟု ဂျက်က ပြုံးပြီး မှတ်ချက်ပြုသည်။
+
+ကူးတို့သမားသည် သူ့ကို စိုက်ကြည့်လိုက်သော်လည်း ဘာမှ ပြန်မပြောခဲ့ပါ။ ခရီးစဉ် ရုတ်တရက် ရပ်တန့်သွားရခြင်းကြောင့် တစ်ပ်သည် အလွန်စိတ်ပျက်နေပြီး ဘယ်လိုလုပ်ရမည်ကို စဉ်းစားနေခဲ့သည်။
+
+“ကျွန်တော်က မြမြို့တော်ကို မဖြစ်မနေ ရောက်အောင် သွားရမယ်။ ဒါပေမဲ့ ခင်ဗျားက မပို့ပေးဘူးဆိုရင် မြစ်ကို ဘယ်လိုကူးရမလဲ” ဟု သူက လှေသမားကို မေးသည်။
+
+ထိုလူသည် ရယ်လိုက်သော်လည်း ထိုရယ်သံမှာ ချစ်စရာကောင်းသည့် ရယ်သံမျိုး မဟုတ်ပါ။
+
+“အဲဒီသစ်သားမြင်းက ရေပေါ်မှာ ပေါလိမ့်မယ်။ မင်းက သူ့ကျောပေါ်တက်ပြီး ကူးသွားလို့ရတယ်။ မင်းနဲ့အတူ ပါလာတဲ့ ဖရုံသီးခေါင်းအရူးကတော့ ရေမြုပ်သွားသွား၊ မမြုပ်ဘဲ ကူးသွားသွား ငါ့အတွက်တော့ သိပ်အရေးမကြီးဘူး” ဟု သူက ပြောလိုက်သည်။
+
+“ကျွန်တော့်အတွက် စိတ်မပူပါနဲ့” ဟု ဂျက်က မျက်နှာမသာမယာဖြစ်နေသော ကူးတို့သမားကို ကြင်နာစွာ ပြုံးပြရင်း ပြောသည်။ “ကျွန်တော် ရေပေါ်မှာ ကောင်းကောင်းပေါနိုင်မယ်လို့ ထင်ပါတယ်။”
+
+တစ်ပ်က ထိုစမ်းသပ်မှုကို လုပ်ကြည့်သင့်သည်ဟု ထင်ခဲ့ပြီး အန္တရာယ်ဆိုသည်ကို မသိသော သစ်သားလွှမြင်းကလည်း ကန့်ကွက်ခြင်း မရှိခဲ့ပါ။ ထို့ကြောင့် ကောင်လေးသည် မြင်းကို ရေထဲသို့ ခေါ်ဆောင်သွားပြီး ကျောပေါ်သို့ တက်လိုက်သည်။ ဂျက်သည်လည်း ဒူးအထိ ရေထဲဆင်းကာ ဖရုံသီးခေါင်းကို ရေပေါ်တွင် ထိန်းထားနိုင်ရန် မြင်း၏ အမြီးကို ကိုင်ထားလိုက်သည်။
+
+“ကဲ… မင်းခြေထောက်တွေကို လှုပ်လိုက်ရင် ရေကူးနိုင်လောက်တယ်။ ရေကူးနိုင်ရင် ဟိုဘက်ကမ်းကိုလည်း ရောက်နိုင်မယ်” ဟု တစ်ပ်က သစ်သားလွှမြင်းကို ရှင်းပြသည်။
+
+သစ်သားလွှမြင်းသည် ချက်ချင်းပင် ခြေထောက်များကို လှုပ်ရှားလိုက်သည်။ ထိုခြေထောက်များသည် လှော်တက်များကဲ့သို့ အလုပ်လုပ်ပြီး သူတို့ကို မြစ်တစ်ဖက်ကမ်းသို့ ဖြည်းဖြည်းချင်း ရွှေ့ပေးလိုက်သည်။ ခရီးစဉ်သည် အောင်မြင်သွားသဖြင့် မကြာမီ သူတို့သည် ရေစိုရွှဲလျက် မြက်ခင်းကမ်းပါးပေါ်သို့ တက်လာနိုင်ခဲ့ကြသည်။
+
+တစ်ပ်၏ ဘောင်းဘီအောက်ပိုင်းနှင့် ဖိနပ်များမှာ ရေစိုရွှဲနေသည်။ သို့သော် သစ်သားလွှမြင်းက အလွန်ကောင်းစွာ ရေပေါ်ပေါနေခဲ့သဖြင့် ကောင်လေး၏ ဒူးအထက်ပိုင်းမှာ လုံးဝ မစိုခဲ့ပါ။ ဖရုံသီးခေါင်းလူ၏ လှပသော အဝတ်အစားများမှာမူ အားလုံး ရေစက်များ တစက်စက် ကျနေခဲ့သည်။
+
+“နေမင်းက မကြာခင် ငါတို့ကို ခြောက်သွေ့စေမှာပါ။ ဘယ်လိုပဲဖြစ်ဖြစ် ကူးတို့သမားကို အံတုနိုင်ပြီး မြစ်ကို လုံခြုံစွာ ကူးလာနိုင်ပြီ။ အခု ခရီးဆက်လို့ရပြီ” ဟု တစ်ပ်က ပြောသည်။
+
+“ရေကူးရတာ ကျွန်တော့်အတွက် ဘာမှမဖြစ်ပါဘူး” ဟု မြင်းက ပြောသည်။
+
+“ကျွန်တော်လည်း အတူတူပါပဲ” ဟု ဂျက်က ထပ်ဖြည့်ပြောသည်။
+
+မကြာမီ သူတို့သည် မြစ်တစ်ဖက်ကမ်းတွင် ယခင်လမ်းနှင့် ဆက်နေသော အဝါရောင်အုတ်ခင်းလမ်းပေါ်သို့ ပြန်ရောက်လာကြသည်။ ထို့နောက် တစ်ပ်သည် ဖရုံသီးခေါင်းလူကို သစ်သားလွှမြင်း၏ ကျောပေါ်သို့ ပြန်တင်ပေးလိုက်သည်။
+
+“မင်းတို့ အမြန်သွားနိုင်ရင် လေတိုက်နှုန်းကြောင့် အဝတ်တွေ ပိုမြန်မြန် ခြောက်သွားလိမ့်မယ်။ ငါက မြင်းရဲ့အမြီးကို ကိုင်ပြီး နောက်ကနေ ပြေးလိုက်မယ်။ ဒီလိုဆိုရင် ငါတို့အားလုံး မကြာခင် ခြောက်သွေ့သွားကြလိမ့်မယ်” ဟု တစ်ပ်က ပြောသည်။
+
+“ဒါဆို မြင်းက မြန်မြန်လျှောက်ရမယ်ပေါ့” ဟု ဂျက်က ပြောသည်။
+
+“ကျွန်တော် အကောင်းဆုံး ကြိုးစားပါမယ်” ဟု သစ်သားလွှမြင်းက ပျော်ရွှင်စွာ ပြန်ဖြေသည်။
+
+တစ်ပ်သည် သစ်သားလွှမြင်း၏ အမြီးအဖြစ် အသုံးပြုထားသော အကိုင်း၏ အဆုံးကို ကိုင်လိုက်ပြီး—
+
+“ရှေ့သွား!” ဟု ကျယ်လောင်စွာ အမိန့်ပေးလိုက်သည်။
+
+မြင်းသည် သင့်တင့်သော အရှိန်ဖြင့် စတင်သွားပြီး တစ်ပ်က နောက်မှ လိုက်ပြေးသည်။ ထို့နောက် ပိုမိုမြန်နိုင်သည်ဟု ထင်သဖြင့်—
+
+“ပြေးတော့!” ဟု အော်လိုက်သည်။
+
+သစ်သားလွှမြင်းသည် ထိုစကားသည် အမြန်ဆုံးသွားရန် အမိန့်ဖြစ်ကြောင်း မှတ်မိနေခဲ့သည်။ ထို့ကြောင့် လမ်းတစ်လျှောက် အလွန်လျင်မြန်စွာ ယိမ်းနွဲ့ပြေးသွားတော့သည်။ တစ်ပ်သည် မိမိဘဝတွင် ယခင်က မပြေးဖူးသမျှထက် ပိုမိုမြန်ဆန်စွာ ပြေးလိုက်ရသဖြင့် ခြေထောက်များကို ထိန်းထားရန် အလွန်ခက်ခဲလာသည်။
+
+မကြာမီ သူသည် အသက်ရှူမဝတော့ပါ။ မြင်းကို “ရပ်တော့” ဟု အော်ချင်သော်လည်း လည်ချောင်းထဲမှ အသံပင် မထွက်နိုင်တော့ပါ။ ထို့နောက် သူကိုင်ထားသော အမြီးအဖြစ် အသုံးပြုထားသည့် အကိုင်းသည် ရုတ်တရက် ကျိုးပြတ်သွားသည်။ နောက်တစ်ခဏတွင် ကောင်လေးသည် လမ်းပေါ်ရှိ ဖုန်မှုန့်များကြားသို့ လိမ့်ကျသွားပြီး မြင်းနှင့် ဖရုံသီးခေါင်းလူတို့မှာ အဝေးသို့ အရှိန်ပြင်းစွာ ပြေးထွက်ကာ မကြာမီ မျက်စိအောက်မှ ပျောက်ကွယ်သွားကြသည်။
+
+တစ်ပ်သည် ပြန်ထပြီး လည်ချောင်းထဲရှိ ဖုန်မှုန့်များကို ရှင်းကာ “ရပ်တော့” ဟု ပြောနိုင်သည့်အချိန်တွင် ထိုစကားကို ပြောရန် မလိုတော့ပါ။ မြင်းသည် အဝေးကြီးသို့ ရောက်သွားပြီဖြစ်သည်။
+
+ထို့ကြောင့် သူလုပ်နိုင်သည့် အသင့်တော်ဆုံးအရာကို လုပ်လိုက်သည်။ ထိုင်ပြီး ကောင်းကောင်း အနားယူလိုက်ကာ နောက်မှ လမ်းလျှောက်သွားရန် စတင်ခဲ့သည်။
+
+“တစ်ချိန်ချိန်မှာတော့ သူတို့ကို ငါ မီမှာပါ။ ဒီလမ်းက မြမြို့တော်တံခါးဝမှာ အဆုံးသတ်မှာပဲ။ သူတို့လည်း အဲဒီထက် ပိုပြီး ရှေ့ဆက်မသွားနိုင်တော့ဘူး” ဟု သူက စဉ်းစားလိုက်သည်။
+
+ထိုအချိန်တွင် ဂျက်သည် တိုင်ကို မြဲမြဲကိုင်ထားပြီး သစ်သားလွှမြင်းက ပြိုင်မြင်းတစ်ကောင်ကဲ့သို့ လမ်းတစ်လျှောက် အရှိန်ပြင်းစွာ ပြေးနေသည်။ ဖရုံသီးခေါင်းလူက နောက်ပြန်မကြည့်သလို သစ်သားလွှမြင်းကလည်း နောက်ကို မကြည့်နိုင်သဖြင့် တစ်ပ် နောက်ကျန်ခဲ့ကြောင်း သူတို့နှစ်ဦးလုံး မသိခဲ့ကြပါ။
+
+စီးလာရင်း ဂျက်သည် မြက်ပင်များနှင့် သစ်ပင်များသည် တောက်ပသော မြမြို့တော်အရောင် အစိမ်းရောင်သို့ ပြောင်းလဲသွားကြောင်း သတိထားမိသည်။ ထို့ကြောင့် မြင့်မားသော မျှော်စင်များနှင့် အမိုးခုံးများကို မမြင်ရသေးမီကပင် မြမြို့တော်အနီးသို့ ရောက်နေပြီဟု ခန့်မှန်းနိုင်ခဲ့သည်။
+
+နောက်ဆုံးတွင် မြများစွာ စီခြယ်ထားသော အစိမ်းရောင်ကျောက်တုံးနံရံကြီးတစ်ခုသည် သူတို့ရှေ့တွင် ပေါ်လာသည်။ သစ်သားလွှမြင်းသည် ရပ်ရမည်ကို မသိဘဲ နံရံကြီးနှင့် တိုက်မိသွားနိုင်သည်ဟု စိုးရိမ်သဖြင့် ဂျက်သည် အသံကုန်အော်ကာ—
+
+“ရပ်တော့!” ဟု ပြောလိုက်သည်။
+
+မြင်းသည် ရုတ်တရက် ရပ်တန့်သွားသည်။ ကျောပေါ်ရှိ တိုင်သာ မရှိခဲ့လျှင် ဂျက်သည် ခေါင်းစိုက်ကျကာ သူ၏ လှပသော မျက်နှာကြီး ပျက်စီးသွားနိုင်သည်။
+
+“အဖေရေ၊ ခရီးက အရမ်းမြန်တာပဲ” ဟု သူက အော်ပြောလိုက်သည်။ သို့သော် ပြန်ဖြေသံ မကြားရသဖြင့် လှည့်ကြည့်လိုက်သောအခါ တစ်ပ် မရှိတော့ကြောင်း ပထမဆုံးအကြိမ် သတိထားမိသွားသည်။
+
+တစ်ပ်က သူ့ကို စွန့်ပစ်ထားခဲ့သကဲ့သို့ ဖြစ်နေခြင်းကြောင့် ဖရုံသီးခေါင်းလူသည် စိတ်ရှုပ်ထွေးပြီး စိုးရိမ်လာသည်။ သူ့ကို ဘာဖြစ်သွားသလဲ၊ ယခု ဘာဆက်လုပ်ရမလဲဟု စဉ်းစားနေစဉ် အစိမ်းရောင်နံရံရှိ တံခါးပေါက်ကြီး ပွင့်လာပြီး လူတစ်ဦး ထွက်လာသည်။
+
+ထိုလူသည် အရပ်ပု၍ ကိုယ်လုံးဝိုင်းဝန်းပြီး မျက်နှာပြည့်ပြည့်နှင့် သဘောကောင်းသည့်ပုံပေါက်နေသည်။ သူသည် အစိမ်းရောင်အဝတ်အစားများ ဝတ်ဆင်ထားပြီး ခေါင်းပေါ်တွင် ချွန်ထက်မြင့်မားသော အစိမ်းရောင်ဦးထုပ်နှင့် မျက်လုံးပေါ်တွင် အစိမ်းရောင်မျက်မှန်တပ်ထားသည်။ သူသည် ဖရုံသီးခေါင်းလူရှေ့တွင် ဦးညွှတ်ကာ—
+
+“ကျွန်ုပ်သည် မြမြို့တော်၏ တံခါးစောင့်ဖြစ်ပါသည်။ သင်ဘယ်သူဖြစ်ကြောင်းနှင့် ဘာကိစ္စဖြင့် ရောက်လာကြောင်း မေးမြန်းခွင့်ရှိပါသလား” ဟု မေးလိုက်သည်။
+
+“ကျွန်တော့်နာမည်က ဂျက် ဖရုံသီးခေါင်းပါ” ဟု အခြားသူက ပြုံးလျက် ပြန်ဖြေသည်။ “ဒါပေမဲ့ ဘာကိစ္စနဲ့ ရောက်လာတာလဲဆိုတာတော့ ကျွန်တော် လုံးဝ မသိပါဘူး။”
+
+တံခါးစောင့်သည် အံ့ဩသွားပြီး ထိုအဖြေကို မကျေနပ်သည့်ပုံစံဖြင့် ခေါင်းခါလိုက်သည်။
+
+“သင်က လူလား၊ ဖရုံသီးလား” ဟု ယဉ်ကျေးစွာ မေးသည်။
+
+“နှစ်မျိုးလုံးပါပဲ” ဟု ဂျက်က ပြန်ဖြေသည်။
+
+“ဒါဆို ဒီသစ်သားမြင်းက အသက်ရှိသလား” ဟု တံခါးစောင့်က မေးပြန်သည်။
+
+မြင်းသည် သစ်သားအဖုမျက်လုံးတစ်ဖက်ကို အပေါ်သို့ လှိမ့်ကြည့်ပြီး ဂျက်ကို မျက်စိမှိတ်ပြလိုက်သည်။ ထို့နောက် ခြေတစ်ဖက်ကို မြှောက်ကာ တံခါးစောင့်၏ ခြေချောင်းပေါ်သို့ ချလိုက်သည်။
+
+“အိုက်!” ဟု ထိုလူက အော်လိုက်သည်။ “အဲဒီမေးခွန်းကို မေးမိတာ နောင်တရပါပြီ။ ဒါပေမဲ့ အဖြေကတော့ အလွန်ရှင်းလင်းသွားပြီ။ သင် မြမြို့တော်မှာ လုပ်စရာကိစ္စတစ်ခုခု ရှိပါသလား။”
+
+“ရှိတယ်လို့တော့ ထင်ပါတယ်” ဟု ဖရုံသီးခေါင်းလူက အလေးအနက် ပြန်ဖြေသည်။ “ဒါပေမဲ့ ဘာကိစ္စလဲဆိုတာ မစဉ်းစားတတ်ဘူး။ ကျွန်တော့်အဖေက အားလုံး သိပါတယ်။ ဒါပေမဲ့ သူ ဒီမှာ မရှိဘူး။”
+
+“ဒါက ထူးဆန်းတဲ့ ကိစ္စပဲ။ အလွန်ထူးဆန်းတယ်” ဟု တံခါးစောင့်က ပြောသည်။ “ဒါပေမဲ့ သင်က အန္တရာယ်မရှိတဲ့သူပုံပေါ်ပါတယ်။ မကောင်းမှုလုပ်ချင်သူတွေက ဒီလောက် ချစ်စရာကောင်းအောင် ပြုံးနေကြတာ မဟုတ်ဘူး။”
+
+“အဲဒါကတော့ ကျွန်တော် ဘာမှ မတတ်နိုင်ပါဘူး။ ကျွန်တော့်မျက်နှာပေါ်က အပြုံးကို ဓားနဲ့ ထွင်းထားတာမို့ ပြုံးနေတာကို ရပ်လို့မရဘူး” ဟု ဂျက်က ပြောသည်။
+
+“ဒါဆို ကျွန်ုပ်နဲ့အတူ အခန်းထဲ လိုက်ခဲ့ပါ။ သင့်အတွက် ဘာလုပ်ပေးနိုင်မလဲဆိုတာ ကြည့်ကြတာပေါ့” ဟု တံခါးစောင့်က ပြောလိုက်သည်။
+
+ထို့နောက် ဂျက်သည် သစ်သားလွှမြင်းကို စီးလျက် တံခါးပေါက်အတွင်းရှိ နံရံထဲတွင် ဆောက်လုပ်ထားသော အခန်းငယ်တစ်ခုသို့ ဝင်သွားသည်။ တံခါးစောင့်သည် ခေါင်းလောင်းကြိုးကို ဆွဲလိုက်ရာ မကြာမီ အစိမ်းရောင်ဝတ်စုံ ဝတ်ထားသော အလွန်အရပ်ရှည်သည့် စစ်သားတစ်ဦးသည် အခြားတံခါးမှ ဝင်လာသည်။ ထိုစစ်သား၏ မုတ်ဆိတ်စိမ်းများမှာ ဒူးအထိ ရှည်လျားနေသည်။ တံခါးစောင့်က ချက်ချင်းပင် သူ့ကို—
+
+“ဒီမှာ ထူးဆန်းတဲ့ လူကြီးတစ်ဦး ရှိနေပါတယ်။ သူက ဘာကြောင့် မြမြို့တော်ကို လာတယ်ဆိုတာလည်း မသိဘူး၊ ဘာလိုချင်တယ်ဆိုတာလည်း မသိဘူး။ ကျွန်ုပ်တို့ သူ့ကို ဘာလုပ်ပေးရမလဲ” ဟု မေးလိုက်သည်။
+
+အစိမ်းရောင်မုတ်ဆိတ်ရှည် စစ်သားသည် ဂျက်ကို စိတ်ဝင်တစားနှင့် သေချာစွာ ကြည့်လိုက်သည်။ နောက်ဆုံးတွင် မုတ်ဆိတ်မွေးများ လှိုင်းထသွားလောက်အောင် ခေါင်းကို ပြတ်ပြတ်သားသား ခါလိုက်ပြီး—
+
+“သူ့ကို ဘုရင်မင်းမြတ် ကောက်ရိုးလူထံ ခေါ်သွားရမယ်” ဟု ပြောလိုက်သည်။
+
+“ဒါဆို ဘုရင်မင်းမြတ် ကောက်ရိုးလူက သူ့ကို ဘာလုပ်မှာလဲ” ဟု တံခါးစောင့်က မေးသည်။
+
+“အဲဒါက ဘုရင်မင်းမြတ်ရဲ့ ကိစ္စပဲ” ဟု စစ်သားက ပြန်ဖြေသည်။ “ကျွန်တော့်မှာလည်း ကိုယ့်ပြဿနာတွေနဲ့ ကိုယ် အလုပ်များနေပြီ။ အပြင်ဘက်က ပြဿနာအားလုံးကို ဘုရင်မင်းမြတ်ထံပဲ တင်ပြရမယ်။ ဒါကြောင့် ဒီလူကို မျက်မှန်တပ်ပေးပြီး နန်းတော်ကို ခေါ်သွားမယ်။”
+
+ထို့နောက် တံခါးစောင့်သည် မျက်မှန်များစွာ ထည့်ထားသော သေတ္တာကြီးတစ်လုံးကို ဖွင့်ပြီး ဂျက်၏ မျက်လုံးဝိုင်းကြီးများနှင့် ကိုက်ညီမည့် မျက်မှန်တစ်လက်ကို ရှာဖွေလိုက်သည်။
+
+“ဒီမျက်လုံးကြီးတွေကို အပြည့်အဝ ဖုံးနိုင်မယ့် မျက်မှန်တစ်လက်မှ မရှိဘူး” ဟု လူပုလေးက သက်ပြင်းချရင်း ပြောသည်။ “သင့်ခေါင်းကလည်း အလွန်ကြီးနေတဲ့အတွက် မျက်မှန်ကို ကြိုးနဲ့ ချည်ပေးရတော့မယ်။”
+
+“ဒါပေမဲ့ ကျွန်တော် ဘာလို့ မျက်မှန်တပ်ရမှာလဲ” ဟု ဂျက်က မေးသည်။
+
+“ဒီမြို့မှာ အဲဒီလို တပ်တာက ဖက်ရှင်ပဲ” ဟု စစ်သားက ပြောသည်။ “ပြီးတော့ မြမြို့တော်ရဲ့ တောက်ပလွန်းတဲ့ အလင်းရောင်တွေကြောင့် သင့်မျက်လုံးတွေ မျက်စိကျိန်းမသွားအောင် ကာကွယ်ပေးလိမ့်မယ်။”
+
+“အော်… ဒါဆို မျက်မှန်ကို သေချာချည်ပေးပါ။ ကျွန်တော် မျက်စိမကျိန်းချင်ဘူး” ဟု ဂျက်က အော်ပြောလိုက်သည်။
+
+“ကျွန်တော်လည်း မကျိန်းချင်ဘူး” ဟု သစ်သားလွှမြင်းက ကြားဖြတ်ပြောသည်။ ထို့ကြောင့် မျက်လုံးအဖြစ် အသုံးပြုထားသော သစ်သားအဖုများပေါ်တွင် အစိမ်းရောင်မျက်မှန်တစ်လက်ကို အမြန်တပ်ပေးလိုက်ကြသည်။
+
+ထို့နောက် အစိမ်းရောင်မုတ်ဆိတ်ရှည် စစ်သားသည် သူတို့ကို အတွင်းတံခါးမှတစ်ဆင့် ခေါ်ဆောင်သွားရာ အံ့ဖွယ်ကောင်းသော မြမြို့တော်၏ အဓိကလမ်းမကြီးပေါ်သို့ ရောက်ရှိလာကြသည်။
+
+လှပသော အိမ်များ၏ အပြင်ဘက်တွင် တောက်ပသော အစိမ်းရောင်ရတနာများကို အလှဆင်ထားပြီး မျှော်စင်များနှင့် အမိုးခုံးများအားလုံးကို မြများဖြင့် ဖုံးအုပ်ထားသည်။ အစိမ်းရောင် စကျင်ကျောက်ခင်းလမ်းပေါ်တွင်ပင် အဖိုးတန်ကျောက်မျက်များ တောက်ပနေသည်။ ထိုမြို့ကို ပထမဆုံးအကြိမ် မြင်တွေ့ရသူအတွက် အလွန်ခမ်းနားပြီး အံ့ဖွယ်ကောင်းသော မြင်ကွင်းတစ်ခုဖြစ်သည်။
+
+သို့သော် ဖရုံသီးခေါင်းလူနှင့် သစ်သားလွှမြင်းတို့သည် ချမ်းသာကြွယ်ဝမှုနှင့် အလှအပ၏ တန်ဖိုးကို မသိကြသဖြင့် အစိမ်းရောင်မျက်မှန်များမှတစ်ဆင့် မြင်နေရသော အံ့ဖွယ်မြင်ကွင်းများကို သိပ်ဂရုမစိုက်ခဲ့ကြပါ။ သူတို့သည် အစိမ်းရောင်စစ်သားနောက်မှ အေးအေးဆေးဆေး လိုက်သွားကြပြီး အံ့ဩစွာ စိုက်ကြည့်နေသော အစိမ်းရောင်လူအုပ်ကြီးကိုပင် သတိမထားမိကြပါ။ အစိမ်းရောင်ခွေးတစ်ကောင်က ပြေးထွက်လာပြီး သူတို့ကို ဟောင်သောအခါ သစ်သားလွှမြင်းသည် သစ်သားခြေထောက်ဖြင့် ချက်ချင်း ကန်လိုက်ရာ ခွေးကလေးသည် အူဟစ်ရင်း အိမ်တစ်အိမ်ထဲသို့ ပြေးဝင်သွားသည်။ သို့သော် ထိုအဖြစ်အပျက်ထက် ပိုမိုကြီးမားသော အနှောင့်အယှက်တစ်ခုမျှ မရှိခဲ့ဘဲ သူတို့သည် နန်းတော်သို့ ဆက်လက်သွားနိုင်ခဲ့ကြသည်။
+
+ဖရုံသီးခေါင်းလူသည် သစ်သားလွှမြင်းကို စီးလျက် အစိမ်းရောင်စကျင်ကျောက်လှေကားများပေါ်မှ တက်ကာ ကောက်ရိုးလူရှေ့သို့ တိုက်ရိုက်သွားချင်ခဲ့သည်။ သို့သော် စစ်သားက ခွင့်မပြုခဲ့ပါ။ ထို့ကြောင့် ဂျက်သည် အခက်အခဲအနည်းငယ်ဖြင့် မြင်းပေါ်မှ ဆင်းလိုက်ရသည်။ အစေခံတစ်ဦးက သစ်သားလွှမြင်းကို နန်းတော်နောက်ဘက်သို့ ခေါ်သွားပြီး အစိမ်းရောင်မုတ်ဆိတ်ရှည် စစ်သားက ဖရုံသီးခေါင်းလူကို ရှေ့တံခါးမှတစ်ဆင့် နန်းတော်အတွင်းသို့ ခေါ်ဆောင်သွားခဲ့သည်။
+
+ဧည့်သည်ကို လှပစွာ အလှဆင်ထားသော စောင့်ဆိုင်းခန်းတစ်ခုတွင် ထားခဲ့ပြီး စစ်သားသည် သူရောက်ရှိလာကြောင်း သတင်းပို့ရန် ထွက်သွားသည်။ ထိုအချိန်တွင် ဘုရင်မင်းမြတ်သည် အားလပ်နေပြီး လုပ်စရာမရှိသဖြင့် အလွန်ပျင်းရိနေခဲ့သည်။ ထို့ကြောင့် ဧည့်သည်ကို ချက်ချင်းပင် နန်းတော်ခန်းမသို့ ခေါ်သွင်းရန် အမိန့်ပေးလိုက်သည်။
+
+ဂျက်သည် ထိုခမ်းနားလှသော မြို့ကို အုပ်ချုပ်နေသူနှင့် တွေ့ဆုံရမည်ဖြစ်သော်လည်း ကြောက်ရွံ့ခြင်း၊ ရှက်ရွံ့ခြင်း မရှိခဲ့ပါ။ အကြောင်းမှာ လူ့လောက၏ ထုံးတမ်းစဉ်လာများကို သူ လုံးဝ မသိသောကြောင့် ဖြစ်သည်။ သို့သော် အခန်းထဲသို့ ဝင်လာပြီး တောက်ပနေသော ရာဇပလ္လင်ပေါ်တွင် ထိုင်နေသော ဘုရင်မင်းမြတ် ကောက်ရိုးလူကို ပထမဆုံးအကြိမ် မြင်လိုက်ရသောအခါ အံ့ဩလွန်းသဖြင့် ခြေလှမ်းရပ်တန့်သွားခဲ့သည်။`,
+  }
 
 ] as const;
