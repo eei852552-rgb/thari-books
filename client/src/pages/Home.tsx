@@ -679,7 +679,7 @@ export default function Home() {
                 <button className="reader-topbar-button" type="button" onClick={() => setSelectedBook(null)} aria-label={ui.close}><X size={21} /></button>
                 <div className="reader-topbar-title"><strong>THARi BOOKS</strong><span>{selectedBook.id === "aka-thazin-spring-winter" || siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</span></div>
                 {readerStarted && !readerFinished && selectedBook.id !== "aka-thazin-spring-winter" && (
-                  <button className="reader-topbar-button reader-language-quick" type="button" onClick={() => { setReaderLanguage((language) => language === "my" ? "en" : "my"); setReaderPage(0); setReaderIntroPage(0); }} aria-label="Change reading language"><Languages size={19} /></button>
+                  {selectedBook?.id !== "aka-thazin-spring-winter" && <button className="reader-topbar-button reader-language-quick" type="button" onClick={() => { setReaderLanguage((language) => language === "my" ? "en" : "my"); setReaderPage(0); setReaderIntroPage(0); }} aria-label="Change reading language"><Languages size={19} /></button>}
                 )}
               </header>
 
