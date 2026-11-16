@@ -523,7 +523,9 @@ export default function Home() {
         <>
         <section className="book-cover-entry" aria-labelledby="book-detail-title">
           <a className="cover-entry-back" href={import.meta.env.BASE_URL}><ArrowRight size={17} /> {siteLanguage === "my" ? "စာအုပ်စာရင်းသို့ ပြန်သွားရန်" : "Back to the library"}</a>
-          <button className="cover-entry-language" type="button" onClick={() => setSiteLanguage((language) => language === "my" ? "en" : "my")} aria-label="မြန်မာနှင့် English ဘာသာစကား ပြောင်းရန်"><Languages size={16} /><span>{siteLanguage === "my" ? "EN" : "မြန်မာ"}</span></button>
+          {detailBook.id !== "aka-thazin-spring-winter" && (
+            <button className="cover-entry-language" type="button" onClick={() => setSiteLanguage((language) => language === "my" ? "en" : "my")} aria-label="မြန်မာနှင့် English ဘာသာစကား ပြောင်းရန်"><Languages size={16} /><span>{siteLanguage === "my" ? "EN" : "မြန်မာ"}</span></button>
+          )}
           <div className="cover-entry-content">
             <div className="cover-entry-art">
               <img src={getAssetPath(detailBook.coverImage)} alt={`${detailBook.title} — ${detailBook.author}`} decoding="async" />
