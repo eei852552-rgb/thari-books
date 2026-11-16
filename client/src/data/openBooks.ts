@@ -17,10 +17,10 @@ export type OpenBook = {
   synopsisMy: string;
   keyIdeasMy: string[];
   readingNoteMy: string;
-  source: "Project Gutenberg" | "AUREN";
+  source: "Project Gutenberg" | "AUREN" | "THARi BOOKS";
   language: "English" | "Burmese and English";
   sourceUrl: string | null;
-  access: "free_external_read" | "public_domain_text";
+  access: "free_external_read" | "public_domain_text" | "original_thari";
   rightsNote: string;
   /** THARi editorial introduction; not attributed to the original author. */
   editorialForewordMy?: string;
@@ -282,6 +282,28 @@ export const openBooks: readonly OpenBook[] = [
     sourceUrl: "https://www.gutenberg.org/ebooks/2707",
     access: "free_external_read",
     rightsNote: "မူရင်းဝက်ဘ်ဆိုက်တွင် အခမဲ့ဖတ်ရှုရန် လင့်ခ်သာဖြစ်သည်။ ပြန်လည်ကူးယူတင်ရန် နိုင်ငံအလိုက် မူပိုင်ခွင့်ကို သီးခြားစစ်ဆေးပါ။",
+  },
+
+  {
+    id: "aka-thazin-spring-winter",
+    title: "Spring for You, Winter for Me",
+    titleMy: "မင်းအတွက် နွေဦးဖြစ်ခဲ့ပြီး ကိုယ့်အတွက် ဆောင်းရာသီဖြစ်ခဲ့တယ်",
+    author: "Min Khant",
+    categoryId: "stories-fiction",
+    categoryMy: "ဝတ္ထုနှင့် စိတ်ကူးယဉ်",
+    coverImage: "images/covers/spring-for-you-winter-for-me.svg",
+    descriptionMy: "ဂိမ်းကိုသာ စိတ်ဝင်စားခဲ့သော ကောင်လေးတစ်ယောက်၏ ဘဝထဲသို့ အချစ်ရောက်လာပြီးနောက် ပြောင်းလဲသွားသည့် ခံစားချက်များကို ကိုယ်တွေ့အခြေခံ၍ ရေးသားထားသော ဝတ္ထု။",
+    descriptionEn: "A complete thirteen-chapter autobiographical coming-of-age story, presented in Burmese and English, about first love, misunderstandings, loss, and slowly rebuilding a life.",
+    synopsisMy: "ဂိမ်းကစားခြင်းကိုသာ စိတ်ဝင်စားပြီး အကောင်းဆုံးဂိမ်းကစားသမားတစ်ယောက် ဖြစ်ချင်ခဲ့သော အာကာသည် နယ်မှ ကျောင်းပြောင်းလာသည့် သဇင်နှင့် ရင်းနှီးလာသည်။ မပြောဖြစ်ခဲ့သော ခံစားချက်များမှ စတင်ကာ ချစ်ခြင်း၊ နားလည်မှုလွဲခြင်း၊ မိသားစုနှင့် သူငယ်ချင်းများ၏ ဖိအားများ၊ ဆုံးရှုံးမှုနှင့် ကိုယ့်ဘဝကို ပြန်လည်တည်ဆောက်ခြင်းတို့ကို ဖြတ်သန်းရသည့် ကိုယ်တွေ့အခြေခံ ဝတ္ထုဖြစ်သည်။",
+    authorForewordMy: "တစ်ချိန်တုန်းက အာကာ့ဘဝမှာ ဂိမ်းကစားခြင်းနဲ့ ကိုယ့်ရဲ့အိပ်မက်တွေကသာ အဓိကဖြစ်ခဲ့တယ်။ အချစ်ဆိုတာကို စိတ်ဝင်စားဖို့ မလိုသေးဘူးလို့ ထင်ခဲ့သလို ချစ်သူတစ်ယောက်ရှိလာရင် ဘယ်လိုနေထိုင်ရမယ်ဆိုတာကိုလည်း ကြိုတင်စဉ်းစားထားခဲ့သူ မဟုတ်ဘူး။\n\nဒါပေမဲ့ သူ့ဘဝထဲကို မိန်းကလေးတစ်ယောက် ရောက်လာပြီးနောက်မှာတော့ သူမသိခဲ့တဲ့ ခံစားချက်တွေကို တစ်ခုချင်းစီ ရင်ဆိုင်လာခဲ့ရတယ်။ ပျော်ရွှင်မှု၊ စိုးရိမ်မှု၊ မနာလိုမှု၊ နားလည်မှုလွဲခြင်းနဲ့ ဆုံးရှုံးရမှာကို ကြောက်ရွံ့ခြင်းတို့ဟာ သူ့အတွက် စာအုပ်ထဲက စကားလုံးတွေ မဟုတ်တော့ဘူး။\n\nဤဝတ္ထုသည် စာရေးသူမျှဝေထားသော ကိုယ်တွေ့အဖြစ်အပျက်များကို အခြေခံထားသည်။ ဇာတ်ကောင်အမည်များကို စာပေအတွက် ပြောင်းလဲထားပြီး မမျှဝေထားသော အဖြစ်အပျက်များကို အမှန်တကယ်ဖြစ်ခဲ့သကဲ့သို့ မဖန်တီးထားပါ။",
+    authorForewordEn: "This original autobiographical coming-of-age story follows Aaka, a boy whose strongest interest was gaming and whose childhood dream was to become an excellent game player. His life begins to change after Thazin transfers to his school from a rural area. Across thirteen chapters, the story explores affection, misunderstandings, family and peer pressure, loss, and the gradual work of rebuilding one's life. The book is available in Burmese and English.",
+    keyIdeasMy: ["လူတစ်ယောက်၏ စိတ်ဝင်စားမှုနှင့် အိပ်မက်များသည် ဘဝအတွေ့အကြုံများနှင့်အတူ ပြောင်းလဲနိုင်သည်။","ချစ်ခြင်းတစ်ခုတွင် အပြန်အလှန်နားလည်မှုနှင့် ပွင့်လင်းစွာပြောဆိုမှု လိုအပ်သည်။","အဆုံးသတ်တစ်ခုနောက်တွင် ကိုယ့်ဘဝကို ပြန်လည်တည်ဆောက်ရန် အချိန်ယူနိုင်သည်။"],
+    readingNoteMy: "အခန်း (၁) မှ (၁၃) အထိ မြန်မာနှင့် အင်္ဂလိပ် နှစ်ဘာသာဖြင့် ဖတ်ရှုနိုင်သည်။",
+    source: "THARi BOOKS",
+    language: "Burmese and English",
+    sourceUrl: null,
+    access: "original_thari",
+    rightsNote: "Min Khant ၏ မူရင်းကိုယ်တွေ့အခြေခံစာမူဖြစ်သည်။ စာရေးသူ၏ ခွင့်ပြုချက်မရှိဘဲ ပြန်လည်ကူးယူဖြန့်ဝေခြင်း မပြုရ။",
   },
 ];
 

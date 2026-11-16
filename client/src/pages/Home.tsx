@@ -26,6 +26,7 @@ import { wizardOfOzChapter2My } from "../data/translations/wizardOfOzChapter2";
 import { wizardOfOzChapters3to4 } from "../data/translations/wizardOfOzChapters3to4";
 import { marvelousLandOfOzChapters } from "../data/translations/marvelousLandOfOz";
 import { artOfLearningChapters } from "../data/artOfLearning";
+import { akaThazinStoryChapters } from "../data/akaThazinStory";
 
 const categoryIcons = [BookOpen, BriefcaseBusiness, FlaskConical, History, Lightbulb, Globe2];
 const categoryTones = ["rose", "gold", "green", "rose", "gold", "blue"];
@@ -37,6 +38,7 @@ const readerChaptersByBookId = {
   "wonderful-wizard-of-oz": [...wizardOfOzChaptersMy, ...wizardOfOzChapter2My, ...wizardOfOzChapters3to4],
   "marvelous-land-of-oz": marvelousLandOfOzChapters,
   "art-of-learning": artOfLearningChapters,
+  "aka-thazin-spring-winter": akaThazinStoryChapters,
 } as const;
 
 type ReaderChapter = {
