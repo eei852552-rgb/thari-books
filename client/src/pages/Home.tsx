@@ -455,7 +455,8 @@ export default function Home() {
     const initialChapterIndex = savedForBook
       ? Math.min(savedForBook.chapterIndex, Math.max(0, chapters.length - 1))
       : 0;
-    const initialLanguage = savedForBook?.language ?? "my";
+    // The author's Aaka–Thazin story is published in Burmese only.
+    const initialLanguage = book.id === "aka-thazin-spring-winter" ? "my" : (savedForBook?.language ?? "my");
     const initialChapter = chapters[initialChapterIndex];
     const initialContent = initialChapter
       ? (initialLanguage === "my" ? initialChapter.content : initialChapter.contentEn)
@@ -675,7 +676,7 @@ export default function Home() {
               <header className="reader-topbar">
                 <button className="reader-topbar-button" type="button" onClick={() => setSelectedBook(null)} aria-label={ui.close}><X size={21} /></button>
                 <div className="reader-topbar-title"><strong>THARi BOOKS</strong><span>{siteLanguage === "my" ? selectedBook.titleMy : selectedBook.title}</span></div>
-                {readerStarted && !readerFinished && (
+                {readerStarted && !readerFinished && selectedBook.id !== "aka-thazin-spring-winter" && (
                   <button className="reader-topbar-button reader-language-quick" type="button" onClick={() => { setReaderLanguage((language) => language === "my" ? "en" : "my"); setReaderPage(0); setReaderIntroPage(0); }} aria-label="Change reading language"><Languages size={19} /></button>
                 )}
               </header>
