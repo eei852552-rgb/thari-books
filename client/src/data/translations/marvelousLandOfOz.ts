@@ -398,5 +398,229 @@ The boy did not go to bed, as he had been commanded to do, but still sat glaring
 
 တစ်ပ်သည် အမိန့်ပေးထားသည့်အတိုင်း အိပ်ရာမဝင်ခဲ့ပါ။ မီးဖိုထဲတွင် တဖြည်းဖြည်း ငြိမ်းသွားနေသော မီးခဲများကိုသာ စိုက်ကြည့်ရင်း ထိုင်နေခဲ့သည်။`,
   }
+,
+  {
+    number: 3,
+    title: "အခန်း (၃) — ထွက်ပြေးလာသူများ၏ ခရီး",
+    titleEn: "Chapter 3 — The Flight of the Fugitives",
+    contentEn: `Tip reflected.
+
+“It’s a hard thing, to be a marble statue,” he thought, rebelliously, “and I’m not going to stand it. For years I’ve been a bother to her, she says; so she’s going to get rid of me. Well, there’s an easier way than to become a statue. No boy could have any fun forever standing in the middle of a flower garden! I’ll run away, that’s what I’ll do—and I may as well go before she makes me drink that nasty stuff in the kettle.” He waited until the snores of the old witch announced she was fast asleep, and then he arose softly and went to the cupboard to find something to eat.
+
+“No use starting on a journey without food,” he decided, searching upon the narrow shelves.
+
+He found some crusts of bread; but he had to look into Mombi’s basket to find the cheese she had brought from the village. While turning over the contents of the basket he came upon the pepper-box which contained the “Powder of Life.”
+
+“I may as well take this with me,” he thought, “or Mombi’ll be using it to make more mischief with.” So he put the box in his pocket, together with the bread and cheese.
+
+Then he cautiously left the house and latched the door behind him. Outside both moon and stars shone brightly, and the night seemed peaceful and inviting after the close and ill-smelling kitchen.
+
+“I’ll be glad to get away,” said Tip, softly; “for I never did like that old woman. I wonder how I ever came to live with her.”
+
+He was walking slowly toward the road when a thought made him pause.
+
+“I don’t like to leave Jack Pumpkinhead to the tender mercies of old Mombi,” he muttered. “And Jack belongs to me, for I made him even if the old witch did bring him to life.”
+
+He retraced his steps to the cow-stable and opened the door of the stall where the pumpkin-headed man had been left.
+
+Jack was standing in the middle of the stall, and by the moonlight Tip could see he was smiling just as jovially as ever.
+
+“Come on!” said the boy, beckoning.
+
+“Where to?” asked Jack.
+
+“You’ll know as soon as I do,” answered Tip, smiling sympathetically into the pumpkin face. “All we’ve got to do now is to tramp.”
+
+“Very well,” returned Jack, and walked awkwardly out of the stable and into the moonlight.
+
+Tip turned toward the road and the man followed him. Jack walked with a sort of limp, and occasionally one of the joints of his legs would turn backward, instead of frontwise, almost causing him to tumble. But the Pumpkinhead was quick to notice this, and began to take more pains to step carefully; so that he met with few accidents.
+
+Tip led him along the path without stopping an instant. They could not go very fast, but they walked steadily; and by the time the moon sank away and the sun peeped over the hills they had travelled so great a distance that the boy had no reason to fear pursuit from the old witch. Moreover, he had turned first into one path, and then into another, so that should anyone follow them it would prove very difficult to guess which way they had gone, or where to seek them.
+
+Fairly satisfied that he had escaped—for a time, at least—being turned into a marble statue, the boy stopped his companion and seated himself upon a rock by the roadside.
+
+“Let’s have some breakfast,” he said.
+
+Jack Pumpkinhead watched Tip curiously, but refused to join in the repast. “I don’t seem to be made the same way you are,” he said.
+
+“I know you are not,” returned Tip; “for I made you.”
+
+“Oh! Did you?” asked Jack.
+
+“Certainly. And put you together. And carved your eyes and nose and ears and mouth,” said Tip proudly. “And dressed you.”
+
+Jack looked at his body and limbs critically.
+
+“It strikes me you made a very good job of it,” he remarked.
+
+“Just so-so,” replied Tip, modestly; for he began to see certain defects in the construction of his man. “If I’d known we were going to travel together I might have been a little more particular.”
+
+“Why, then,” said the Pumpkinhead, in a tone that expressed surprise, “you must be my creator—my parent—my father!”
+
+“Or your inventor,” replied the boy with a laugh. “Yes, my son; I really believe I am!”
+
+“Then I owe you obedience,” continued the man, “and you owe me—support.”
+
+“That’s it, exactly,” declared Tip, jumping up. “So let us be off.”
+
+“Where are we going?” asked Jack, when they had resumed their journey.
+
+“I’m not exactly sure,” said the boy; “but I believe we are headed South, and that will bring us, sooner or later, to the Emerald City.”
+
+“What city is that?” enquired the Pumpkinhead.
+
+“Why, it’s the center of the Land of Oz, and the biggest town in all the country. I’ve never been there, myself, but I’ve heard all about its history. It was built by a mighty and wonderful Wizard named Oz, and everything there is of a green color—just as everything in this Country of the Gillikins is of a purple color.”
+
+“Is everything here purple?” asked Jack.
+
+“Of course it is. Can’t you see?” returned the boy.
+
+“I believe I must be color-blind,” said the Pumpkinhead, after staring about him.
+
+“Well, the grass is purple, and the trees are purple, and the houses and fences are purple,” explained Tip. “Even the mud in the roads is purple. But in the Emerald City everything is green that is purple here. And in the Country of the Munchkins, over at the East, everything is blue; and in the South country of the Quadlings everything is red; and in the West country of the Winkies, where the Tin Woodman rules, everything is yellow.”
+
+“Oh!” said Jack. Then, after a pause, he asked: “Did you say a Tin Woodman rules the Winkies?”
+
+“Yes; he was one of those who helped Dorothy to destroy the Wicked Witch of the West, and the Winkies were so grateful that they invited him to become their ruler,—just as the people of the Emerald City invited the Scarecrow to rule them.”
+
+“Dear me!” said Jack. “I’m getting confused with all this history. Who is the Scarecrow?”
+
+“Another friend of Dorothy’s,” replied Tip.
+
+“And who is Dorothy?”
+
+“She was a girl that came here from Kansas, a place in the big, outside World. She got blown to the Land of Oz by a cyclone, and while she was here the Scarecrow and the Tin Woodman accompanied her on her travels.”
+
+“And where is she now?” inquired the Pumpkinhead.
+
+“Glinda the Good, who rules the Quadlings, sent her home again,” said the boy.
+
+“Oh. And what became of the Scarecrow?”
+
+“I told you. He rules the Emerald City,” answered Tip.
+
+“I thought you said it was ruled by a wonderful Wizard,” objected Jack, seeming more and more confused.
+
+“Well, so I did. Now, pay attention, and I’ll explain it,” said Tip, speaking slowly and looking the smiling Pumpkinhead squarely in the eye. “Dorothy went to the Emerald City to ask the Wizard to send her back to Kansas; and the Scarecrow and the Tin Woodman went with her. But the Wizard couldn’t send her back, because he wasn’t so much of a Wizard as he might have been. And then they got angry at the Wizard, and threatened to expose him; so the Wizard made a big balloon and escaped in it, and no one has ever seen him since.”
+
+“Now, that is very interesting history,” said Jack, well pleased; “and I understand it perfectly all but the explanation.”
+
+“I’m glad you do,” responded Tip. “After the Wizard was gone, the people of the Emerald City made His Majesty, the Scarecrow, their King; and I have heard that he became a very popular ruler.”
+
+“Are we going to see this queer King?” asked Jack, with interest.
+
+“I think we may as well,” replied the boy; “unless you have something better to do.”
+
+“Oh, no, dear father,” said the Pumpkinhead. “I am quite willing to go wherever you please.”`,
+    content: `တစ်ပ်သည် အတွေးနက်နေခဲ့သည်။
+
+“စကျင်ကျောက်ရုပ်တုတစ်ခု ဖြစ်ရတာ မလွယ်ဘူး။ ငါတော့ အဲဒီလို အဖြစ်မခံနိုင်ဘူး” ဟု သူက မကျေမနပ် စဉ်းစားလိုက်သည်။ “နှစ်ပေါင်းများစွာ သူ့အတွက် ဒုက္ခပေးနေခဲ့တယ်လို့ အဘွားက ပြောတယ်။ ဒါကြောင့် ငါ့ကို ဖယ်ရှားပစ်တော့မယ်တဲ့။ ဒါပေမဲ့ ရုပ်တုဖြစ်သွားတာထက် ပိုလွယ်တဲ့ နည်းလမ်းတစ်ခု ရှိပါတယ်။ ပန်းဥယျာဉ်အလယ်မှာ တစ်သက်လုံး မတ်တတ်ရပ်နေရတာ ဘယ်ကလေးအတွက်မှ ပျော်စရာ မဟုတ်ဘူး။ ငါ ထွက်ပြေးတော့မယ်။ အိုးထဲက အဲဒီဆိုးရွားတဲ့ အရည်ကို မသောက်ခိုင်းခင် ထွက်သွားတာ ပိုကောင်းမယ်။” စုန်းမအို အိပ်ပျော်သွားကြောင်း ဟောက်သံများက ပြသလာသည်အထိ သူ စောင့်နေခဲ့သည်။ ထို့နောက် တိတ်တဆိတ် ထပြီး စားစရာတစ်ခုခု ရှာရန် ဗီရိုဆီသို့ သွားလိုက်သည်။
+
+“ခရီးထွက်မယ်ဆိုရင် စားစရာမပါဘဲ မဖြစ်ဘူး” ဟု သူက စင်ကျဉ်းလေးများကို ရှာဖွေရင်း ဆုံးဖြတ်လိုက်သည်။
+
+ပေါင်မုန့်ခြောက် အစအနအချို့ကို တွေ့ခဲ့သော်လည်း ရွာမှ ဝယ်လာသော ဒိန်ခဲကို ရှာရန် မမ်ဘီ၏ ခြင်းတောင်းထဲသို့ လက်နှိုက်ကြည့်ရသည်။ ခြင်းတောင်းထဲရှိ ပစ္စည်းများကို မွှေနှောက်နေစဉ် “အသက်ပေးသောမှုန့်” ပါဝင်သည့် ငရုတ်ကောင်းဘူးကို တွေ့လိုက်ရသည်။
+
+“ဒါကိုလည်း ငါနဲ့အတူ ယူသွားတာပဲ ကောင်းမယ်။ မဟုတ်ရင် မမ်ဘီက ဒီမှုန့်ကို သုံးပြီး နောက်ထပ် မကောင်းမှုတွေ လုပ်နေလိမ့်မယ်” ဟု စဉ်းစားကာ ပေါင်မုန့်နှင့် ဒိန်ခဲတို့နှင့်အတူ ဘူးကို အိတ်ကပ်ထဲ ထည့်လိုက်သည်။
+
+ထို့နောက် အိမ်တံခါးကို သတိထား၍ ဖွင့်ထွက်လာပြီး နောက်မှ ပြန်ပိတ်ကာ ချိတ်ထားခဲ့သည်။ အပြင်ဘက်တွင် လနှင့် ကြယ်များသည် တောက်ပစွာ လင်းလက်နေကြသည်။ အနံ့အသက်မကောင်းဘဲ မွန်းကျပ်နေသော မီးဖိုချောင်နှင့် နှိုင်းယှဉ်လျှင် ညအချိန်သည် အေးချမ်းပြီး သာယာဖွယ်ကောင်းလှသည်။
+
+“ဒီနေရာကနေ ထွက်သွားရတာ ဝမ်းသာစရာပဲ” ဟု တစ်ပ်က တိုးတိုးပြောသည်။ “အဲဒီအဘွားအိုကို ငါ ဘယ်တုန်းကမှ မကြိုက်ခဲ့ဘူး။ သူနဲ့အတူ ဘယ်လိုလုပ်ပြီး နေဖြစ်ခဲ့တာပါလိမ့်။”
+
+သူသည် လမ်းမကြီးဘက်သို့ ဖြည်းဖြည်းလျှောက်သွားနေစဉ် အတွေးတစ်ခုကြောင့် ရပ်တန့်သွားသည်။
+
+“ဂျက် ဖရုံသီးခေါင်းကို မမ်ဘီရဲ့ လက်ထဲမှာ ထားခဲ့လို့ မဖြစ်ဘူး။ ဂျက်က ငါ့ပိုင်တဲ့သူပဲ။ ငါကိုယ်တိုင် ဖန်တီးထားတာလေ။ စုန်းမအိုက သူ့ကို အသက်ပြန်သွင်းပေးခဲ့တယ်ဆိုပေမဲ့ ဂျက်က ငါ့လက်ရာပဲ” ဟု သူက ရေရွတ်လိုက်သည်။
+
+ထို့နောက် နောက်ကြောင်းပြန်လှည့်ကာ နွားတင်းကုပ်ဆီသို့ သွားပြီး ဖရုံသီးခေါင်းလူကို ထားခဲ့သော အခန်းတံခါးကို ဖွင့်လိုက်သည်။
+
+ဂျက်သည် အခန်းအလယ်တွင် ရပ်နေပြီး လရောင်အောက်တွင်လည်း ယခင်အတိုင်း ပျော်ရွှင်စွာ ပြုံးနေကြောင်း တစ်ပ် မြင်လိုက်ရသည်။
+
+“လာတော့” ဟု ကောင်လေးက လက်ယပ်ခေါ်လိုက်သည်။
+
+“ဘယ်ကို သွားကြမှာလဲ” ဟု ဂျက်က မေးသည်။
+
+“ငါ သိလာတဲ့အခါ မင်းလည်း သိလာမှာပါ” ဟု တစ်ပ်က ဖရုံသီးမျက်နှာကို ကြင်နာစွာ ကြည့်ရင်း ပြန်ဖြေသည်။ “အခုတော့ လမ်းလျှောက်သွားရုံပဲ ရှိတယ်။”
+
+“ကောင်းပါပြီ” ဟု ဂျက်က ပြန်ဖြေပြီး တင်းကုပ်ထဲမှ အနည်းငယ် အဆင်မပြေသည့်ပုံစံဖြင့် လျှောက်ထွက်လာကာ လရောင်ထဲသို့ ရောက်လာခဲ့သည်။
+
+တစ်ပ်သည် လမ်းမကြီးဘက်သို့ လှည့်လိုက်ပြီး လူရုပ်က သူ့နောက်မှ လိုက်လာသည်။ ဂျက်သည် ခြေထောက်တစ်ဖက်ကို အနည်းငယ် ဆွဲလျက် လျှောက်နေပြီး တစ်ခါတစ်ရံ ခြေထောက်အဆစ်များက ရှေ့ဘက်အစား နောက်ဘက်သို့ လှည့်သွားသဖြင့် လဲကျလုနီးပါး ဖြစ်တတ်သည်။ သို့သော် ဖရုံသီးခေါင်းလူသည် ထိုအမှားကို လျင်မြန်စွာ သတိထားမိပြီး ခြေလှမ်းတိုင်းကို ပိုမိုဂရုစိုက်လာသဖြင့် မကြာခဏ လဲကျခြင်းမှ ကင်းဝေးလာခဲ့သည်။
+
+တစ်ပ်သည် တစ်ခဏမျှ မရပ်ဘဲ လမ်းတစ်လျှောက် သူ့ကို ခေါ်ဆောင်သွားခဲ့သည်။ သူတို့သည် အလွန်မြန်မြန် မလျှောက်နိုင်သော်လည်း တည်ငြိမ်စွာ ဆက်လက်သွားခဲ့ကြသည်။ လသည် ကောင်းကင်မှ ပျောက်ကွယ်သွားပြီး နေမင်းက တောင်ကုန်းများအပေါ်မှ ခေါင်းပြူလာသည့်အချိန်တွင် သူတို့သည် အတော်ဝေးဝေး ရောက်နေကြပြီဖြစ်သည်။ ထို့ကြောင့် စုန်းမအိုက လိုက်လာမည်ကို တစ်ပ် သိပ်စိုးရိမ်စရာ မလိုတော့ပါ။ ထို့ပြင် သူသည် လမ်းတစ်လမ်းမှ တစ်လမ်းသို့ အကြိမ်ကြိမ် ပြောင်းလဲသွားခဲ့သဖြင့် တစ်စုံတစ်ယောက်က လိုက်လာခဲ့လျှင်ပင် သူတို့ ဘယ်လမ်းကို သွားခဲ့ကြောင်း၊ ဘယ်နေရာတွင် ရှာရမည်ဖြစ်ကြောင်း ခန့်မှန်းရန် အလွန်ခက်ခဲမည်ဖြစ်သည်။
+
+အနည်းဆုံးတော့ စကျင်ကျောက်ရုပ်တုအဖြစ် ပြောင်းလဲခံရမည့် အန္တရာယ်မှ လွတ်မြောက်လာပြီဟု ကျေနပ်သွားသော တစ်ပ်သည် လမ်းဘေးရှိ ကျောက်တုံးပေါ်တွင် ထိုင်ရန် မိတ်ဆွေကို ရပ်ခိုင်းလိုက်သည်။
+
+“မနက်စာ စားကြရအောင်” ဟု သူက ပြောသည်။
+
+ဂျက် ဖရုံသီးခေါင်းသည် တစ်ပ် စားနေသည်ကို စူးစမ်းသလို ကြည့်နေသော်လည်း အစားအစာကို မစားလိုပါ။ “ကျွန်တော်က ခင်ဗျားနဲ့ ပုံစံတူအောင် ဖန်တီးထားတာ မဟုတ်ဘူးထင်တယ်” ဟု သူက ပြောလိုက်သည်။
+
+“မင်းက ငါနဲ့ မတူတာ ငါသိပါတယ်။ မင်းကို ငါကိုယ်တိုင် ဖန်တီးထားတာလေ” ဟု တစ်ပ်က ပြန်ပြောသည်။
+
+“အော်… ဟုတ်လား” ဟု ဂျက်က မေးလိုက်သည်။
+
+“ဟုတ်တာပေါ့။ မင်းကို ငါ တည်ဆောက်ခဲ့တယ်။ မျက်လုံး၊ နှာခေါင်း၊ နားနဲ့ ပါးစပ်တွေကိုလည်း ငါ ထွင်းခဲ့တယ်။ အဝတ်အစားတွေလည်း ငါ ဝတ်ပေးခဲ့တာ” ဟု တစ်ပ်က ဂုဏ်ယူစွာ ပြောသည်။
+
+ဂျက်သည် မိမိ၏ ကိုယ်ထည်နှင့် ခြေလက်များကို သေချာစွာ စစ်ဆေးကြည့်လိုက်သည်။
+
+“ကျွန်တော့်ကို အတော်ကောင်းကောင်း ဖန်တီးထားတယ်လို့ ထင်ပါတယ်” ဟု သူက မှတ်ချက်ပြုသည်။
+
+“အတော်အသင့်ပါပဲ” ဟု တစ်ပ်က နှိမ့်ချစွာ ပြန်ဖြေသည်။ အကြောင်းမှာ မိမိဖန်တီးထားသော လူရုပ်တွင် ချို့ယွင်းချက်အချို့ ရှိနေကြောင်း သူ စတင်သတိထားမိလာသောကြောင့် ဖြစ်သည်။ “ငါတို့ အတူတူ ခရီးသွားရမယ်ဆိုတာ သိခဲ့ရင် ပိုပြီး သေချာအောင် လုပ်ထားခဲ့မိမှာပဲ။”
+
+“ဒါဆိုရင် ခင်ဗျားဟာ ကျွန်တော့်ကို ဖန်တီးပေးသူ၊ မိဘ၊ အဖေ ဖြစ်နေပြီပေါ့” ဟု ဖရုံသီးခေါင်းလူက အံ့ဩသည့်အသံဖြင့် ပြောလိုက်သည်။
+
+“ဒါမှမဟုတ် မင်းကို တီထွင်ခဲ့သူလို့လည်း ပြောနိုင်တယ်” ဟု တစ်ပ်က ရယ်မောရင်း ပြန်ဖြေသည်။ “ဟုတ်ပါတယ် သားရေ။ ငါက မင်းရဲ့ အဖေပဲ ဖြစ်မယ်ထင်တယ်။”
+
+“ဒါဆို ကျွန်တော်က ခင်ဗျားရဲ့ စကားကို နားထောင်ရမယ်။ ခင်ဗျားကလည်း ကျွန်တော့်ကို စားစရာ ထောက်ပံ့ပေးရမယ်” ဟု ဂျက်က ဆက်ပြောသည်။
+
+“အဲဒါပဲ” ဟု တစ်ပ်က ထပြီး ပြောလိုက်သည်။ “ဒါဆို ဆက်သွားကြစို့။”
+
+သူတို့ ခရီးပြန်စသောအခါ ဂျက်က “ဘယ်ကို သွားကြမှာလဲ” ဟု မေးသည်။
+
+“တိတိကျကျတော့ မသိသေးဘူး။ ဒါပေမဲ့ တောင်ဘက်ကို ဦးတည်နေတယ်လို့ ထင်တယ်။ အဲဒီလိုသွားရင် မကြာခင်ဖြစ်စေ၊ နောက်ကျမှဖြစ်စေ မြမြို့တော်ကို ရောက်လိမ့်မယ်” ဟု တစ်ပ်က ပြောသည်။
+
+“အဲဒီမြို့က ဘာမြို့လဲ” ဟု ဖရုံသီးခေါင်းလူက မေးသည်။
+
+“အော့ဇ်နိုင်ငံရဲ့ အလယ်ဗဟိုဖြစ်ပြီး နိုင်ငံတစ်ဝန်းမှာ အကြီးဆုံးမြို့ပဲ။ ငါတော့ အဲဒီကို မရောက်ဖူးသေးဘူး။ ဒါပေမဲ့ အဲဒီမြို့ရဲ့ သမိုင်းကိုတော့ ကြားဖူးတယ်။ အော့ဇ်လို့ခေါ်တဲ့ တန်ခိုးကြီးပြီး ထူးခြားတဲ့ မှော်ဆရာတစ်ဦးက တည်ဆောက်ခဲ့တာ။ အဲဒီမြို့မှာ အရာအားလုံးက အစိမ်းရောင်ဖြစ်တယ်။ ငါတို့ ဂီလီကင်ဒေသမှာ အရာအားလုံး ခရမ်းရောင်ဖြစ်သလိုပေါ့။”
+
+“ဒီနေရာမှာ အရာအားလုံး ခရမ်းရောင်လား” ဟု ဂျက်က မေးသည်။
+
+“ဒါပေါ့။ မင်း မမြင်ဘူးလား” ဟု တစ်ပ်က ပြန်ဖြေသည်။
+
+“ကျွန်တော်က အရောင်ခွဲမမြင်နိုင်တဲ့သူ ဖြစ်မယ်ထင်တယ်” ဟု ဖရုံသီးခေါင်းလူက ပတ်ဝန်းကျင်ကို စိုက်ကြည့်ပြီး ပြောလိုက်သည်။
+
+“ဒီမှာ မြက်တွေက ခရမ်းရောင်၊ သစ်ပင်တွေက ခရမ်းရောင်၊ အိမ်တွေနဲ့ ခြံစည်းရိုးတွေကလည်း ခရမ်းရောင်ပဲ။ လမ်းပေါ်က ရွှံ့တွေတောင် ခရမ်းရောင်ဖြစ်နေတယ်။ ဒါပေမဲ့ မြမြို့တော်မှာတော့ ဒီမှာ ခရမ်းရောင်ဖြစ်နေတဲ့ အရာအားလုံးက အစိမ်းရောင် ဖြစ်နေတယ်။ အရှေ့ဘက်က မန်ချ်ကင်ဒေသမှာတော့ အရာအားလုံး အပြာရောင်ဖြစ်ပြီး တောင်ဘက် ကွာဒလင်ဒေသမှာ အနီရောင်ဖြစ်တယ်။ အနောက်ဘက် ဝင်ကီဒေသမှာတော့ သံခုတ်သမား အုပ်ချုပ်နေတဲ့အတွက် အရာအားလုံး အဝါရောင်ဖြစ်တယ်” ဟု တစ်ပ်က ရှင်းပြသည်။
+
+“အော်” ဟု ဂျက်က ပြောလိုက်သည်။ ခဏမျှ တိတ်ဆိတ်နေပြီးနောက် “ဝင်ကီတွေကို သံခုတ်သမားက အုပ်ချုပ်တယ်လို့ ပြောခဲ့တာလား” ဟု မေးသည်။
+
+“ဟုတ်တယ်။ သူက ဒေါ်ရသီကို အနောက်ဘက်က မကောင်းဆိုးဝါး စုန်းမကို အနိုင်ယူဖို့ ကူညီပေးခဲ့သူတွေထဲက တစ်ယောက်ပဲ။ ဝင်ကီတွေက သူ့ကို အလွန်ကျေးဇူးတင်ကြလို့ သူတို့ကို အုပ်ချုပ်ပေးဖို့ ဖိတ်ခေါ်ခဲ့ကြတာ။ မြမြို့တော်က လူတွေက ကောက်ရိုးလူကို အုပ်ချုပ်သူအဖြစ် ဖိတ်ခေါ်ခဲ့သလိုပေါ့” ဟု တစ်ပ်က ပြန်ဖြေသည်။
+
+“အို… ဒီသမိုင်းတွေကြောင့် ကျွန်တော် ခေါင်းရှုပ်လာပြီ။ ကောက်ရိုးလူဆိုတာ ဘယ်သူလဲ” ဟု ဂျက်က မေးသည်။
+
+“ဒေါ်ရသီရဲ့ နောက်ထပ် မိတ်ဆွေတစ်ယောက်ပဲ” ဟု တစ်ပ်က ပြောသည်။
+
+“ဒါဆို ဒေါ်ရသီက ဘယ်သူလဲ” ဟု ဂျက်က ထပ်မေးသည်။
+
+“သူက အပြင်ကမ္ဘာကြီးထဲမှာ ရှိတဲ့ ကန်ဆတ်ကနေ ဒီကို ရောက်လာတဲ့ မိန်းကလေးတစ်ယောက်ပဲ။ လေဝဲမုန်တိုင်းကြောင့် အော့ဇ်နိုင်ငံကို လွင့်ပါလာခဲ့တာ။ ဒီမှာ ရှိနေတုန်း ကောက်ရိုးလူနဲ့ သံခုတ်သမားတို့က သူမရဲ့ ခရီးစဉ်တွေမှာ အတူလိုက်ပါခဲ့ကြတယ်” ဟု တစ်ပ်က ရှင်းပြသည်။
+
+“အခု သူမ ဘယ်မှာလဲ” ဟု ဖရုံသီးခေါင်းလူက မေးသည်။
+
+“ကွာဒလင်တွေကို အုပ်ချုပ်တဲ့ မိန်းမကောင်းစုန်းမ ဂလင်ဒါက သူမကို အိမ်ပြန်ပို့ပေးခဲ့တယ်” ဟု တစ်ပ်က ပြောသည်။
+
+“အော်… ဒါဆို ကောက်ရိုးလူက ဘာဖြစ်သွားလဲ” ဟု ဂျက်က မေးပြန်သည်။
+
+“ငါပြောပြီးပြီလေ။ သူက မြမြို့တော်ကို အုပ်ချုပ်နေတယ်” ဟု တစ်ပ်က ပြန်ဖြေသည်။
+
+“မင်းက အဲဒီမြို့ကို မှော်ဆရာကြီးတစ်ဦးက အုပ်ချုပ်တယ်လို့ ပြောခဲ့တယ်မဟုတ်လား” ဟု ဂျက်က ပိုမိုရှုပ်ထွေးလာသည့်ပုံစံဖြင့် ကန့်ကွက်သည်။
+
+“အဲဒါလည်း ဟုတ်တယ်။ အခု သေချာနားထောင်။ ငါ ရှင်းပြမယ်” ဟု တစ်ပ်က ဖြည်းဖြည်းပြောရင်း ပြုံးနေသော ဖရုံသီးမျက်နှာကို တည့်တည့်ကြည့်လိုက်သည်။ “ဒေါ်ရသီက ကန်ဆတ်ကို ပြန်ပို့ပေးဖို့ မှော်ဆရာကြီးဆီ တောင်းဆိုရန် မြမြို့တော်ကို သွားခဲ့တာ။ ကောက်ရိုးလူနဲ့ သံခုတ်သမားတို့လည်း သူမနဲ့အတူ လိုက်သွားကြတယ်။ ဒါပေမဲ့ မှော်ဆရာကြီးက သူမကို အိမ်ပြန်မပို့ပေးနိုင်ခဲ့ဘူး။ အကြောင်းက သူ့ကိုယ်သူ ပြောထားသလောက် မှော်ဆရာကြီး မဟုတ်ခဲ့လို့ပဲ။ အဲဒီနောက် သူတို့က မှော်ဆရာကြီးကို စိတ်ဆိုးပြီး သူ့အကြောင်းကို လူတွေသိအောင် ဖော်ထုတ်မယ်လို့ ခြိမ်းခြောက်ခဲ့ကြတယ်။ ဒါကြောင့် မှော်ဆရာကြီးက မီးပုံးပျံကြီးတစ်လုံး တည်ဆောက်ပြီး အဲဒီထဲမှာ ထွက်ပြေးသွားခဲ့တယ်။ အဲဒီနောက် ဘယ်သူမှ သူ့ကို ထပ်မတွေ့ကြတော့ဘူး။”
+
+“အဲဒါက စိတ်ဝင်စားစရာကောင်းတဲ့ သမိုင်းပဲ။ အကြောင်းအရာအားလုံးကို နားလည်ပါတယ်။ ရှင်းပြချက်ကလွဲရင်ပေါ့” ဟု ဂျက်က ကျေနပ်စွာ ပြောလိုက်သည်။
+
+“မင်း နားလည်တယ်ဆိုလို့ ဝမ်းသာပါတယ်” ဟု တစ်ပ်က ပြန်ဖြေသည်။ “မှော်ဆရာကြီး ထွက်သွားပြီးနောက် မြမြို့တော်က လူတွေဟာ ဘုရင်မင်းမြတ် ကောက်ရိုးလူကို သူတို့ရဲ့ ဘုရင်အဖြစ် ရွေးချယ်ခဲ့ကြတယ်။ သူဟာ လူကြိုက်များတဲ့ အုပ်ချုပ်သူတစ်ဦး ဖြစ်လာတယ်လို့ ငါ ကြားဖူးတယ်။”
+
+“ဒါဆို ငါတို့ အဲဒီထူးဆန်းတဲ့ ဘုရင်ကို သွားတွေ့ကြမှာလား” ဟု ဂျက်က စိတ်ဝင်စားစွာ မေးသည်။
+
+“မင်းမှာ ဒီထက်ကောင်းတဲ့ လုပ်စရာမရှိဘူးဆိုရင်တော့ သွားတွေ့တာပေါ့” ဟု တစ်ပ်က ပြန်ဖြေသည်။
+
+“အို… မရှိပါဘူး အဖေ။ ခင်ဗျား သွားချင်တဲ့နေရာကို ကျွန်တော် လိုက်သွားဖို့ အဆင်သင့်ပါပဲ” ဟု ဖရုံသီးခေါင်းလူက ပြောလိုက်သည်။`,
+  }
 
 ] as const;
