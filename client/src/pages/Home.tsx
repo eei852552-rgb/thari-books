@@ -722,10 +722,10 @@ export default function Home() {
                   </div>
                 </section>
               ) : readerChapters.length > 0 && activeChapter ? (
-                <section className="reader-page-screen">
+                <section className="reader-page-screen" key={`${selectedBook.id}-${activeChapter.number}`}>
                   <div className="reader-reading-meta">
                     <span>{readerLanguage === "my" ? activeChapter.title : activeChapter.titleEn ?? `Chapter ${activeChapter.number}`}</span>
-                    <span>{ui.chapter} {readerChapterIndex + 1} / {readerChapters.length}</span>
+                    <span>{ui.chapter} {activeChapter.number} / {readerChapters.length}</span>
                   </div>
                   {activeChapter.illustration && readerPage === 0 && (
                     <figure className="reader-illustration">
